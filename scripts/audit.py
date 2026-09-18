@@ -146,6 +146,29 @@ def check_media(entries: list[dict]) -> None:
     if bundled > 900_000_000:
         warn(f"bundled media is {bundled / 1e6:.0f} MB; consider raising the hot-link threshold")
 
+    # Attribution. A card must not present another repository's asset as its
+    # own: that misattributes someone's work, and it happens whenever an
+    # aggregator README links to the projects it lists. Regression guard for a
+    # bug that shipped: `thevibeworks/awesome-typesafe-jev` was published
+    # showing `sightmap/jev-turbo`'s recording.
+    misattributed = 0
+    for e in entries:
+        m = media.get(e["id"])
+        if not m or e.get("kind") != "repo" or "/" not in e.get("name", ""):
+            continue
+        owner = e["name"].split("/")[0].lower()
+        for src in (m.get("image_source"), (m.get("video") or {}).get("source_url")):
+            if not src or not isinstance(src, str):
+                continue
+            mm = re.match(r"https?://(?:raw\.)?githubusercontent\.com/([^/]+)/", src, re.I) \
+                or re.match(r"https?://github\.com/([^/]+)/", src, re.I)
+            if mm and mm.group(1).lower() != owner:
+                misattributed += 1
+                fail(f"{e['id']}: media comes from {mm.group(1)}'s repository, "
+                     f"not its own -> {src[:90]}")
+    if misattributed:
+        print(f"   attribution: {misattributed} asset(s) belong to another owner")
+
 
 # --------------------------------------------------------------------------
 def keys_of(obj, prefix: str = "") -> set[str]:

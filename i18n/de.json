@@ -50,7 +50,7 @@
     "last_push": "Letzter Push",
     "first_seen": "Erstmals gelistet",
     "summary": "Zusammenfassung",
-    "no_summary": "_Im Upstream wurde keine Beschreibung veröffentlicht._",
+    "no_summary": "Im Upstream wurde keine Beschreibung veröffentlicht.",
     "found_in_code": "Im Code verwendet",
     "image": "Bild",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Nur Einträge, die eine Sprache angeben, werden gezählt. Infrastruktur-, Dokumentations- und Diskussionseinträge sind von dieser Tabelle ausgenommen.",
   "pipeline_intro": "Niemand bearbeitet den Text dieses README von Hand. Das Repository führt nach Zeitplan eine Pipeline mit fünf Stufen aus und committet nur, wenn sich tatsächlich etwas geändert hat.",
   "pipeline_bullets": [
-    "**collect** — GitHub-Suche über eine Query-Matrix, die offizielle Organisation, die GitHub-Code-Suche, Hacker News und den HuggingFace-Hub.",
+    "**collect** — GitHub-Suche über eine Query-Matrix, die offizielle Organisation, die GitHub-Code-Suche, Hacker News und den Hugging Face-Hub.",
     "**curate** — deterministisch und ohne LLM, sodass zwei aufeinanderfolgende Läufe mit derselben Eingabe byte-identische Ausgaben erzeugen. Eine Zwei-Signal-Regel entscheidet über die Relevanz; Namenskollisionen (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD und ähnliche) werden über eine ausdrückliche, prüfbare Liste ausgeschlossen.",
     "**media** — sammelt die eigenen Screenshots und Bildschirmaufzeichnungen jedes Projekts. Assets werden nur dann in dieses Repository kopiert, wenn das Projekt eine weiterverbreitungsfreundliche Lizenz angibt; andernfalls wird die Upstream-URL direkt verlinkt und die Karte sagt das auch.",
     "**render** — erzeugt alle Sprachausgaben aus einer einzigen Vorlage, sodass die zwanzig READMEs in ihrer Struktur niemals auseinanderlaufen können.",

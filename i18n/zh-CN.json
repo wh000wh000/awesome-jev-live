@@ -50,7 +50,7 @@
     "last_push": "最近推送",
     "first_seen": "首次收录",
     "summary": "简介",
-    "no_summary": "_上游未发布描述。_",
+    "no_summary": "上游未发布描述。",
     "found_in_code": "在代码中的使用",
     "image": "图片",
     "video": "视频",
@@ -116,7 +116,7 @@
   "language_note": "仅统计声明了语言的条目。基础设施、文档与讨论类条目不计入本表。",
   "pipeline_intro": "没有任何人手工编辑本 README 的正文。仓库按计划运行一条五阶段流水线，且仅在有实际变化时才提交。",
   "pipeline_bullets": [
-    "**collect** — 跨查询矩阵的 GitHub 搜索、官方组织、GitHub 代码搜索、Hacker News 与 HuggingFace hub。",
+    "**collect** — 跨查询矩阵的 GitHub 搜索、官方组织、GitHub 代码搜索、Hacker News 与 Hugging Face hub。",
     "**curate** — 确定性且不使用 LLM，因此对同一输入连续运行两次会产出逐字节相同的输出。相关性由双信号规则判定；名称冲突项（JeVois、JEvents、Jevil、jEveAssets、ESP32-RLCD 及类似项目）由一份明确、可审计的清单排除。",
     "**media** — 采集各项目自己的截图与录屏。仅当项目声明了允许再分发的许可时，资源才会被复制进本仓库；否则直接引用上游 URL，并在卡片上注明。",
     "**render** — 由同一份模板生成所有语言版本，因此这二十份 README 在结构上不可能出现偏差。",

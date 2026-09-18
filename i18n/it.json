@@ -50,7 +50,7 @@
     "last_push": "Ultimo push",
     "first_seen": "Prima apparizione",
     "summary": "Descrizione",
-    "no_summary": "_Nessuna descrizione upstream è stata pubblicata._",
+    "no_summary": "Nessuna descrizione upstream è stata pubblicata.",
     "found_in_code": "Trovato in uso nel codice",
     "image": "Immagine",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Vengono conteggiate solo le voci che dichiarano un linguaggio. Le voci di infrastruttura, documentazione e discussione sono escluse da questa tabella.",
   "pipeline_intro": "Nessun essere umano modifica il corpo di questo README. Il repository esegue una pipeline in cinque fasi secondo una pianificazione e fa commit solo quando qualcosa è davvero cambiato.",
   "pipeline_bullets": [
-    "**collect** — ricerca su GitHub attraverso una matrice di query, l'organizzazione ufficiale, la ricerca di codice di GitHub, Hacker News e l'hub HuggingFace.",
+    "**collect** — ricerca su GitHub attraverso una matrice di query, l'organizzazione ufficiale, la ricerca di codice di GitHub, Hacker News e l'hub Hugging Face.",
     "**curate** — deterministico e senza LLM, quindi due esecuzioni consecutive sullo stesso input producono un output identico byte per byte. Una regola a due segnali decide la rilevanza; le collisioni di nome (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD e simili) sono escluse da un elenco esplicito e verificabile.",
     "**media** — raccoglie gli screenshot e le registrazioni schermo di ciascun progetto. Gli asset vengono copiati in questo repository solo quando il progetto dichiara una licenza che consente la ridistribuzione; altrimenti l'URL upstream viene collegato direttamente e la scheda lo dichiara.",
     "**render** — produce ogni edizione linguistica da un unico template, così i venti README non possono divergere nella struttura.",

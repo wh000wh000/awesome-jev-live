@@ -50,7 +50,7 @@
     "last_push": "Dernier push",
     "first_seen": "Première apparition",
     "summary": "Résumé",
-    "no_summary": "_Aucune description n'a été publiée en amont._",
+    "no_summary": "Aucune description n'a été publiée en amont.",
     "found_in_code": "Utilisé dans du code",
     "image": "Image",
     "video": "Vidéo",
@@ -116,7 +116,7 @@
   "language_note": "Seules les entrées qui déclarent un langage sont comptées. Les entrées d'infrastructure, de documentation et de discussion sont exclues de ce tableau.",
   "pipeline_intro": "Aucun humain ne modifie le corps de ce README. Le dépôt exécute un pipeline en cinq étapes selon un calendrier et ne commit que lorsque quelque chose a réellement changé.",
   "pipeline_bullets": [
-    "**collect** — recherche GitHub sur une matrice de requêtes, l'organisation officielle, la recherche de code GitHub, Hacker News et le hub HuggingFace.",
+    "**collect** — recherche GitHub sur une matrice de requêtes, l'organisation officielle, la recherche de code GitHub, Hacker News et le hub Hugging Face.",
     "**curate** — déterministe et sans LLM, de sorte que deux exécutions consécutives sur la même entrée produisent une sortie identique octet pour octet. Une règle à deux signaux décide de la pertinence ; les collisions de noms (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD et similaires) sont exclues par une liste explicite et auditable.",
     "**media** — collecte les captures d'écran et les enregistrements d'écran propres à chaque projet. Les ressources ne sont copiées dans ce dépôt que lorsque le projet déclare une licence favorable à la redistribution ; sinon, l'URL en amont est liée directement et la fiche le précise.",
     "**render** — produit toutes les éditions linguistiques à partir d'un seul gabarit, de sorte que les vingt README ne puissent jamais diverger en structure.",

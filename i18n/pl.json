@@ -50,7 +50,7 @@
     "last_push": "Ostatni push",
     "first_seen": "Pierwsze dodanie",
     "summary": "Podsumowanie",
-    "no_summary": "_Nie opublikowano opisu ze strony źródłowej._",
+    "no_summary": "Nie opublikowano opisu ze strony źródłowej.",
     "found_in_code": "Znaleziono użycie w kodzie",
     "image": "Obraz",
     "video": "Wideo",
@@ -116,7 +116,7 @@
   "language_note": "Liczone są tylko wpisy, które deklarują język. Wpisy dotyczące infrastruktury, dokumentacji i dyskusji są wyłączone z tej tabeli.",
   "pipeline_intro": "Żaden człowiek nie edytuje treści tego README. Repozytorium uruchamia według harmonogramu potok złożony z pięciu etapów i zatwierdza zmiany tylko wtedy, gdy coś faktycznie się zmieniło.",
   "pipeline_bullets": [
-    "**collect** — wyszukiwanie w GitHubie po macierzy zapytań, oficjalna organizacja, wyszukiwanie kodu w GitHubie, Hacker News i hub HuggingFace.",
+    "**collect** — wyszukiwanie w GitHubie po macierzy zapytań, oficjalna organizacja, wyszukiwanie kodu w GitHubie, Hacker News i hub Hugging Face.",
     "**curate** — deterministyczny i bez LLM, więc dwa kolejne uruchomienia na tych samych danych dają wynik identyczny bajt w bajt. O trafności decyduje reguła dwóch sygnałów; kolizje nazw (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD i podobne) są wykluczane przez jawną, audytowalną listę.",
     "**media** — zbiera własne zrzuty ekranu i nagrania ekranu każdego projektu. Zasoby są kopiowane do tego repozytorium tylko wtedy, gdy projekt deklaruje licencję przyjazną redystrybucji; w przeciwnym razie źródłowy URL jest podlinkowany bezpośrednio, a karta to odnotowuje.",
     "**render** — tworzy każde wydanie językowe z jednego szablonu, dzięki czemu dwadzieścia plików README nigdy nie rozjadą się strukturalnie.",

@@ -50,7 +50,7 @@
     "last_push": "Son push",
     "first_seen": "İlk listelenme",
     "summary": "Özet",
-    "no_summary": "_Üst kaynakta açıklama yayımlanmamış._",
+    "no_summary": "Üst kaynakta açıklama yayımlanmamış.",
     "found_in_code": "Kodda kullanıldığı tespit edildi",
     "image": "Görsel",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Yalnızca dil belirten kayıtlar sayılır. Altyapı, dokümantasyon ve tartışma kayıtları bu tablonun dışında tutulur.",
   "pipeline_intro": "Bu README'nin gövdesini hiçbir insan düzenlemez. Depo, zamanlanmış biçimde beş aşamalı bir iş akışı çalıştırır ve yalnızca gerçekten bir şey değiştiğinde commit eder.",
   "pipeline_bullets": [
-    "**collect** — bir sorgu matrisi, resmî organizasyon, GitHub kod araması, Hacker News ve HuggingFace hub üzerinden GitHub araması.",
+    "**collect** — bir sorgu matrisi, resmî organizasyon, GitHub kod araması, Hacker News ve Hugging Face hub üzerinden GitHub araması.",
     "**curate** — deterministik ve LLM'siz, bu yüzden aynı girdiyle art arda iki çalıştırma bayt düzeyinde aynı çıktıyı üretir. Alaka düzeyine iki sinyalli bir kural karar verir; ad çakışmaları (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD ve benzerleri) açık ve denetlenebilir bir listeyle dışlanır.",
     "**media** — her projenin kendi ekran görüntülerini ve ekran kayıtlarını toplar. Varlıklar bu depoya yalnızca proje yeniden dağıtıma uygun bir lisans beyan ettiğinde kopyalanır; aksi halde üst kaynağın URL'si doğrudan bağlanır ve kart bunu belirtir.",
     "**render** — her dil sürümünü tek bir şablondan üretir, böylece yirmi README yapı açısından asla birbirinden ayrışamaz.",

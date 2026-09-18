@@ -68,6 +68,12 @@ MIN_HN_POINTS = 2
 # TypeSafe's Jev. Every pattern below was verified by hand against the live
 # repository. Keeping this list explicit (rather than a clever heuristic) is
 # what makes the exclusion auditable.
+# Our own repository. It matches every relevance rule by construction -- its
+# name contains "jev" and its scripts contain the API endpoints -- and listing
+# yourself in your own index is both useless and the source of a real media bug:
+# the entry harvested another project's recording out of our own README.
+SELF_REPOS = {"wh000wh000/awesome-jev-live"}
+
 COLLISION_REPOS = {
     "jevois/jevois", "jevois/jevoisbase", "jevois/jevois-sdk",
     "jevois/jevois-tutorials", "jevois/jevois-inventor",
@@ -392,8 +398,8 @@ def build_repo_entries(repos: list[dict], code_repos: set[str]) -> list[dict]:
         haystack = f"{repo_name} {desc} {topics}"
         full_haystack = f"{full} {desc} {topics}"
 
-        if is_collision(full, full_haystack):
-            rejected.append((full, "name collision"))
+        if is_collision(full, full_haystack) or full in SELF_REPOS:
+            rejected.append((full, "self" if full in SELF_REPOS else "name collision"))
             continue
 
         strong = any_match(STRONG_PATTERNS, haystack)

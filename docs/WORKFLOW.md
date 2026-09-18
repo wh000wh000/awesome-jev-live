@@ -95,6 +95,53 @@ python3 scripts/checks.py
 python3 scripts/summary.py
 ```
 
+## Where the automation lives (and why it is not here)
+
+The schedule does **not** run in this repository. This repository is the
+product; the machinery that maintains it is kept out of it deliberately.
+
+The tick therefore runs on the maintainer's workstation, driven by a launchd
+agent with `StartInterval = 7200`, which invokes a single script that runs the
+five stages and pushes only if the audit passes. That script is excluded from
+git through `.git/info/exclude` rather than `.gitignore`, so the published tree
+does not even hint at its shape.
+
+Two consequences worth knowing:
+
+- Updates stop if the workstation is off for a long stretch. The published data
+  is simply stale, never broken, because a failed stage aborts before the commit.
+- A scheduled task that has never been run by hand is treated as a liability, so
+  the installer refuses to run until one manual tick has completed successfully.
+
+## Media attribution rules
+
+Cards carry each project's own screenshot and recording. Three rules decide what
+may appear, and all three exist because the alternative shipped a wrong asset:
+
+1. **Ownership.** An asset served from `raw.githubusercontent.com/<owner>/<repo>/…`
+   must belong to the entry's own owner. Without this, any aggregator README
+   donates the projects it lists.
+2. **Link lists contribute nothing.** A repository that is itself a collection
+   of links has usually *copied* those assets into its own tree, where the
+   ownership check cannot see the problem. `thevibeworks/awesome-typesafe-jev`
+   published a file named `sightmap__turbo.gif`, which is
+   `sightmap/jev-turbo`'s recording. A logo is cheap to lose; misattributing
+   someone's work is not.
+3. **Provenance is recorded.** Every accepted asset keeps the upstream URL it
+   came from in `data/media.json`, and the audit fails if an asset's owner does
+   not match its entry.
+
+## Community-standard linting
+
+`npx awesome-lint README.md` is clean apart from six spell-check warnings, all
+of which are inside descriptions quoted verbatim from upstream projects.
+Categories, the table of contents, heading punctuation, table alignment,
+duplicate links and emphasis-as-heading are all conformant.
+
+Where this list intentionally departs from the Awesome manifest: entries are
+collapsible cards carrying images and video rather than one-line bullets, because
+a card is what makes a project's own recording visible without leaving the page.
+
 ## Known limitations
 
 These are real and are stated rather than hidden.

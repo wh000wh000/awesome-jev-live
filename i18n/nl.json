@@ -50,7 +50,7 @@
     "last_push": "Laatste push",
     "first_seen": "Eerst vermeld",
     "summary": "Samenvatting",
-    "no_summary": "_Er is geen beschrijving van de bron gepubliceerd._",
+    "no_summary": "Er is geen beschrijving van de bron gepubliceerd.",
     "found_in_code": "Aangetroffen in code",
     "image": "Afbeelding",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Alleen vermeldingen die een taal opgeven, worden meegeteld. Vermeldingen over infrastructuur, documentatie en discussies vallen buiten deze tabel.",
   "pipeline_intro": "Geen mens bewerkt de inhoud van deze README. De repository draait volgens een schema een pijplijn met vijf fasen en commit alleen wanneer er werkelijk iets is veranderd.",
   "pipeline_bullets": [
-    "**collect** — GitHub-zoekopdrachten over een matrix van queries, de officiële organisatie, GitHub-codezoekopdracht, Hacker News en de HuggingFace-hub.",
+    "**collect** — GitHub-zoekopdrachten over een matrix van queries, de officiële organisatie, GitHub-codezoekopdracht, Hacker News en de Hugging Face-hub.",
     "**curate** — deterministisch en zonder LLM, zodat twee opeenvolgende runs op dezelfde invoer byte-identieke uitvoer opleveren. Een regel met twee signalen bepaalt de relevantie; naamconflicten (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD en dergelijke) worden uitgesloten via een expliciete, controleerbare lijst.",
     "**media** — verzamelt de eigen schermafbeeldingen en schermopnames van elk project. Assets worden alleen naar deze repository gekopieerd wanneer het project een licentie aangeeft die herdistributie toestaat; anders wordt de upstream-URL gehotlinkt en vermeldt de kaart dat.",
     "**render** — produceert elke taaleditie uit één sjabloon, zodat de twintig README's nooit structureel uit elkaar kunnen lopen.",

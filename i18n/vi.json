@@ -50,7 +50,7 @@
     "last_push": "Lần push cuối",
     "first_seen": "Lần đầu được liệt kê",
     "summary": "Tóm tắt",
-    "no_summary": "_Nguồn gốc không công bố mô tả nào._",
+    "no_summary": "Nguồn gốc không công bố mô tả nào.",
     "found_in_code": "Được tìm thấy trong mã nguồn",
     "image": "Hình ảnh",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Chỉ những mục khai báo ngôn ngữ mới được tính. Các mục về hạ tầng, tài liệu và thảo luận bị loại khỏi bảng này.",
   "pipeline_intro": "Không ai chỉnh sửa phần thân của README này bằng tay. Kho lưu trữ chạy một pipeline năm giai đoạn theo lịch và chỉ commit khi thực sự có thay đổi.",
   "pipeline_bullets": [
-    "**collect** — tìm kiếm trên GitHub theo một ma trận truy vấn, tổ chức chính thức, tìm kiếm mã trên GitHub, Hacker News và hub HuggingFace.",
+    "**collect** — tìm kiếm trên GitHub theo một ma trận truy vấn, tổ chức chính thức, tìm kiếm mã trên GitHub, Hacker News và hub Hugging Face.",
     "**curate** — tất định và không dùng LLM, nên hai lần chạy liên tiếp trên cùng đầu vào cho ra kết quả giống hệt nhau từng byte. Một quy tắc hai tín hiệu quyết định mức liên quan; các trường hợp trùng tên (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD và tương tự) bị loại bằng một danh sách rõ ràng, có thể kiểm toán.",
     "**media** — thu thập ảnh chụp màn hình và bản ghi màn hình của từng dự án. Tài nguyên chỉ được sao chép vào kho lưu trữ này khi dự án khai báo giấy phép cho phép tái phân phối; nếu không, URL gốc được dẫn trực tiếp và thẻ ghi rõ điều đó.",
     "**render** — tạo mọi phiên bản ngôn ngữ từ một template duy nhất, nên hai mươi README không thể lệch nhau về cấu trúc.",

@@ -50,7 +50,7 @@
     "last_push": "최근 푸시",
     "first_seen": "최초 등재",
     "summary": "요약",
-    "no_summary": "_업스트림 설명이 게시되지 않았습니다._",
+    "no_summary": "업스트림 설명이 게시되지 않았습니다.",
     "found_in_code": "코드에서 사용 확인",
     "image": "이미지",
     "video": "동영상",
@@ -116,7 +116,7 @@
   "language_note": "언어를 명시한 항목만 집계합니다. 인프라, 문서, 토론 항목은 이 표에서 제외됩니다.",
   "pipeline_intro": "이 README의 본문을 사람이 편집하지 않습니다. 저장소는 일정에 따라 5단계 파이프라인을 실행하고, 실제로 바뀐 것이 있을 때만 커밋합니다.",
   "pipeline_bullets": [
-    "**collect** — 쿼리 행렬 전반의 GitHub 검색, 공식 조직, GitHub 코드 검색, Hacker News, HuggingFace hub.",
+    "**collect** — 쿼리 행렬 전반의 GitHub 검색, 공식 조직, GitHub 코드 검색, Hacker News, Hugging Face hub.",
     "**curate** — 결정론적이며 LLM을 쓰지 않으므로, 같은 입력에 대한 연속 두 번의 실행은 바이트 단위로 동일한 출력을 냅니다. 관련성은 2신호 규칙으로 판정하고, 이름 충돌(JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD 등)은 명시적이고 감사 가능한 목록으로 제외합니다.",
     "**media** — 각 프로젝트 자체의 스크린샷과 화면 녹화를 수집합니다. 재배포에 적합한 라이선스가 선언된 경우에만 자산을 이 저장소로 복사하고, 그렇지 않으면 업스트림 URL을 직접 링크하며 카드에 그렇게 표기합니다.",
     "**render** — 하나의 템플릿에서 모든 언어판을 생성하므로, 스무 개의 README가 구조적으로 어긋날 수 없습니다.",

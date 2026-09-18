@@ -50,7 +50,7 @@
     "last_push": "Push terakhir",
     "first_seen": "Pertama terdaftar",
     "summary": "Ringkasan",
-    "no_summary": "_Tidak ada deskripsi hulu yang dipublikasikan._",
+    "no_summary": "Tidak ada deskripsi hulu yang dipublikasikan.",
     "found_in_code": "Ditemukan dipakai dalam kode",
     "image": "Gambar",
     "video": "Video",
@@ -116,7 +116,7 @@
   "language_note": "Hanya entri yang menyatakan bahasa yang dihitung. Entri infrastruktur, dokumentasi, dan diskusi dikecualikan dari tabel ini.",
   "pipeline_intro": "Tidak ada manusia yang menyunting isi README ini. Repositori menjalankan pipeline lima tahap sesuai jadwal dan hanya melakukan commit ketika benar-benar ada yang berubah.",
   "pipeline_bullets": [
-    "**collect** — pencarian GitHub melalui matriks kueri, organisasi resmi, pencarian kode GitHub, Hacker News, dan hub HuggingFace.",
+    "**collect** — pencarian GitHub melalui matriks kueri, organisasi resmi, pencarian kode GitHub, Hacker News, dan hub Hugging Face.",
     "**curate** — deterministik dan tanpa LLM, sehingga dua eksekusi berturut-turut pada masukan yang sama menghasilkan keluaran yang identik per byte. Aturan dua sinyal menentukan relevansi; tabrakan nama (JeVois, JEvents, Jevil, jEveAssets, ESP32-RLCD dan sejenisnya) dikecualikan lewat daftar eksplisit yang dapat diaudit.",
     "**media** — mengumpulkan tangkapan layar dan rekaman layar milik tiap proyek. Aset hanya disalin ke repositori ini bila proyek menyatakan lisensi yang ramah redistribusi; jika tidak, URL hulu ditautkan langsung dan kartunya menyatakan hal itu.",
     "**render** — menghasilkan setiap edisi bahasa dari satu templat, sehingga kedua puluh README tidak mungkin berbeda struktur.",

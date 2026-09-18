@@ -99,6 +99,66 @@ def human_age(iso: str, lang: str) -> str:
     return f"{d}d" if lang == "en" else f"{d} 天"
 
 
+def bullets_as_table(bullets: list[str]) -> list[str]:
+    """
+    Render informational bullets as a table.
+
+    The Awesome manifest only accepts list items shaped like
+    `- [name](url) - description`, so a bullet that explains something rather
+    than linking to it is a defect under awesome-lint. The same content as a
+    two-column table is allowed, and scans better than a bulleted paragraph.
+    """
+    rows: list[list[str]] = []
+    for b in bullets:
+        m = re.match(r"\*\*(.+?):?\*\*\s*(?:—|-|:)?\s*(.*)$", b.strip())
+        if m:
+            rows.append([f"**{m.group(1)}**", m.group(2)])
+        else:
+            rows.append(["", b])
+    return md_table(["", ""], rows)
+
+
+def gh_slug(text: str) -> str:
+    """
+    Reproduce GitHub's heading-anchor algorithm closely enough to link to it.
+
+    Hand-rolled `<a id="...">` anchors were language-independent and stable,
+    which is why they were used at first, but a ToC entry pointing at one is not
+    a link awesome-lint accepts. Deriving the slug from the same string that
+    produces the heading keeps the two in sync in all twenty languages,
+    including the CJK ones.
+    """
+    s = re.sub(r"<[^>]+>", "", text).strip().lower()
+    s = re.sub(r"[^\w\s-]", "", s, flags=re.UNICODE)
+    return re.sub(r"\s+", "-", s)
+
+
+def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
+    """
+    Render a markdown table with padded cells.
+
+    awesome-lint's table-pipe-alignment rule requires the pipes to line up, and
+    the alignment has to be computed from the widest cell rather than guessed,
+    because a single long project list makes one column dominate.
+    """
+    def width(cell: str) -> int:
+        return len(cell)
+
+    cols = len(headers)
+    w = [width(h) for h in headers]
+    for row in rows:
+        for i in range(min(cols, len(row))):
+            w[i] = max(w[i], width(row[i]))
+
+    def line(cells: list[str]) -> str:
+        padded = [(cells[i] if i < len(cells) else "").ljust(w[i]) for i in range(cols)]
+        return "| " + " | ".join(padded) + " |"
+
+    out = [line(headers), "| " + " | ".join("-" * w[i] for i in range(cols)) + " |"]
+    out.extend(line(r) for r in rows)
+    return out
+
+
 # --------------------------------------------------------------------------
 # language switcher
 # --------------------------------------------------------------------------
@@ -170,8 +230,11 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         facts.append(esc(e["language"]))
     if e.get("license"):
         facts.append(esc(e["license"]))
+    # Plain text, not a link. The card's own title already links the
+    # repository, and repeating the owner as a second link to the same place
+    # trips awesome-lint's double-link rule on every card in the list.
     if kind == "repo":
-        facts.append(f"[{esc(e.get('owner', ''))}](https://github.com/{esc(e.get('owner', ''))})")
+        facts.append(esc(e.get("owner", "")))
     elif kind == "post":
         # Attribution matters more than usual here: a post is a person's work,
         # not an organisation's, so the author is a link and the handle is
@@ -182,7 +245,9 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         if e.get("author_handle") and e.get("author"):
             facts.append("@" + esc(e["author_handle"]))
         facts.append(esc(e.get("platform") or (e.get("url") or "").split("/")[2] if "//" in (e.get("url") or "") else ""))
-    out.append(f"**{labels['facts']}** · " + " · ".join(f for f in facts if f))
+    out.append(f"##### {labels['facts']}")
+    out.append("")
+    out.append(" · ".join(f for f in facts if f))
     out.append("")
 
     # 2. 数据
@@ -215,17 +280,23 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if kind != "post" and e.get("pushed_at"):
         metrics.append(f"{labels['last_push']} {str(e['pushed_at'])[:10]}")
     metrics.append(f"{labels['first_seen']} {str(e.get('first_seen', ''))[:10]}")
-    out.append(f"**{labels['data']}** · " + " · ".join(metrics))
+    out.append(f"##### {labels['data']}")
+    out.append("")
+    out.append(" · ".join(metrics))
     out.append("")
 
     # 3. 简介摘要
-    out.append(f"**{labels['summary']}**")
+    out.append(f"##### {labels['summary']}")
     out.append("")
     summary = ""
     if t["lang"] != "en":
         summary = (e.get("summary_i18n") or {}).get(t["lang"], "")
     summary = summary or e.get("summary") or t["labels"]["no_summary"]
-    out.append(summary.strip())
+    # Upstream descriptions are untrusted markdown, not authored content. A
+    # project described as "[net]-only Lex effect" injects a reference link into
+    # the published page, so bracketed link syntax is neutralised.
+    summary = re.sub(r"([\[\]])", r"\\\1", summary.strip())
+    out.append(summary)
     out.append("")
 
     # The upstream project this post is about. Kept immediately after the
@@ -359,36 +430,52 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append(f"<sub>{labels['live_note']}</sub>")
     L.append("")
 
+    # contents -- first section, per the Awesome manifesto (awesome-lint
+    # remark-lint:awesome-toc). A generated list is long; the table of contents
+    # is the only thing that makes it navigable, so it comes before the
+    # explanation rather than after it.
+    L.append(f'## {esc(labels["contents"])}')
+    L.append("")
+    # Every h2 in document order. awesome-lint matches ToC entries against
+    # headings positionally, so a section that is absent from the ToC
+    # desynchronises every entry after it -- which is exactly what happens when
+    # the ToC lists only the categories.
+    toc: list[str] = [
+        f"- [{labels['what_is_jev']}](#{gh_slug(labels['what_is_jev'])})",
+        f"- [{labels['evidence_legend']}](#{gh_slug(labels['evidence_legend'])})",
+    ]
+    for cat in CATEGORY_ORDER:
+        n = stats["by_category"].get(cat, 0)
+        if not n:
+            continue
+        title = t["categories"].get(cat, cat)
+        # The count lives here, not in the heading: a heading that reads
+        # "Category <sub>· 6</sub>" never matches its own ToC entry.
+        toc.append(f"- [{title}](#{gh_slug(title)}) — **{n}**")
+    toc.append(f"- [{labels['by_language']}](#{gh_slug(labels['by_language'])})")
+    toc.append(f"- [{labels['how_it_works']}](#{gh_slug(labels['how_it_works'])})")
+    # "Contributing" is deliberately absent: the manifest wants it out of the
+    # table of contents, and awesome-lint enforces that.
+    L.extend(toc)
+    L.append("")
+
     # what is jev
     L.append(f'## {esc(labels["what_is_jev"])}')
     L.append("")
     L.append(t["intro"])
     L.append("")
-    for line in t.get("intro_bullets", []):
-        L.append(f"- {line}")
-    L.append("")
+    if t.get("intro_bullets"):
+        L.extend(bullets_as_table(t["intro_bullets"]))
+        L.append("")
 
     # evidence legend -- the methodological differentiator
     L.append(f'## {esc(labels["evidence_legend"])}')
     L.append("")
     L.append(t["evidence_intro"])
     L.append("")
-    L.append(f"| {labels['grade']} | {labels['meaning']} |")
-    L.append("| --- | --- |")
-    for key in EVIDENCE_ORDER:
-        L.append(f"| `{esc(t['evidence_levels'].get(key, key))}` | {t['evidence_desc'].get(key, '')} |")
-    L.append("")
-
-    # contents
-    L.append(f'## {esc(labels["contents"])}')
-    L.append("")
-    for cat in CATEGORY_ORDER:
-        n = stats["by_category"].get(cat, 0)
-        if not n:
-            continue
-        anchor = cat
-        L.append(f"- [{t['categories'].get(cat, cat)}](#{anchor}) — **{n}**")
-    L.append(f"- [{labels['by_language']}](#{labels['by_language_anchor']})")
+    L.extend(md_table([labels['grade'], labels['meaning']],
+                      [[f"`{esc(t['evidence_levels'].get(key, key))}`",
+                        t['evidence_desc'].get(key, '')] for key in EVIDENCE_ORDER]))
     L.append("")
 
     # categories
@@ -402,7 +489,7 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
             continue
         L.append(f'<a id="{cat}"></a>')
         L.append("")
-        L.append(f'## {esc(t["categories"].get(cat, cat))} <sub>· {len(rows)}</sub>')
+        L.append(f'## {esc(t["categories"].get(cat, cat))}')
         L.append("")
         if t.get("category_blurbs", {}).get(cat):
             L.append(t["category_blurbs"][cat])
@@ -421,11 +508,12 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     for e in entries:
         if e.get("language"):
             by_lang.setdefault(e["language"], []).append(e["name"])
-    L.append(f"| {labels['language']} | {labels['total']} | {labels['example_projects']} |")
-    L.append("| --- | --- | --- |")
-    for lang_name, items in sorted(by_lang.items(), key=lambda kv: (-len(kv[1]), kv[0])):
-        ex = ", ".join(f"`{md_escape(x)}`" for x in items[:3])
-        L.append(f"| {esc(lang_name)} | {len(items)} | {ex} |")
+    L.extend(md_table(
+        [labels['language'], labels['total'], labels['example_projects']],
+        [[esc(lang_name), str(len(items)),
+          ", ".join(f"`{md_escape(x)}`" for x in items[:3])]
+         for lang_name, items in sorted(by_lang.items(),
+                                        key=lambda kv: (-len(kv[1]), kv[0]))]))
     L.append("")
     L.append(f"<sub>{labels['language_note']}</sub>")
     L.append("")
@@ -439,9 +527,9 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     if (ROOT / pipe).exists():
         L.append(f'<img src="{pipe}" width="100%" alt="{esc(labels["how_it_works"])}">')
         L.append("")
-    for line in t.get("pipeline_bullets", []):
-        L.append(f"- {line}")
-    L.append("")
+    if t.get("pipeline_bullets"):
+        L.extend(bullets_as_table(t["pipeline_bullets"]))
+        L.append("")
 
     # contributing / footer
     L.append(f'## {esc(labels["contributing"])}')

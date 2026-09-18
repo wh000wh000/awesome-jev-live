@@ -300,8 +300,61 @@ def is_bad(src: str) -> bool:
     return any(re.search(p, src, re.I) for p in BADGE_PATTERNS)
 
 
-def harvest(readme: str, base: str) -> dict:
-    """Extract ranked image and video candidates from a README."""
+# A repository that is itself a collection of links does not own the media in
+# its README; it republished other projects' screenshots and recordings into its
+# own tree. The ownership check cannot see that, because the copy really is
+# served from the aggregator's namespace -- `thevibeworks/awesome-typesafe-jev`
+# publishes `docs/media/sightmap__turbo.gif`, which is `sightmap/jev-turbo`'s
+# recording. So a link list donates no media at all. A logo is a cheap thing to
+# lose; attributing someone's work to the wrong author is not.
+LINK_LIST_NAME = re.compile(r"^awesome[-_]", re.I)
+LINK_LIST_TEXT = re.compile(
+    r"\b(?:curated|awesome)\b[^.]{0,40}\b(?:list|collection|directory|resources)\b"
+    r"|\b(?:link|resource|community)\s+(?:list|directory)\b"
+    r"|\bkeep updating\b|\bshowcases\b", re.I)
+
+
+def is_link_list(entry: dict) -> bool:
+    repo = (entry.get("name") or "").split("/")[-1]
+    text = entry.get("summary") or ""
+    return bool(LINK_LIST_NAME.match(repo) or LINK_LIST_TEXT.search(text))
+
+
+def owned_by(url: str, full: str) -> bool:
+    """
+    True when an asset URL may belong to this repository.
+
+    A file served from raw.githubusercontent.com or github.com carries the
+    owning `<owner>/<repo>` in its path. The owner must match the entry's owner:
+    a project may keep assets in its own Pages repository, but it may not
+    present another account's repository contents as its own.
+
+    URLs on other hosts pass: a project's own uploads land on
+    user-images.githubusercontent.com, and embedded CDN media has no owner to
+    compare against.
+    """
+    owner = full.split("/")[0].lower()
+    m = re.match(r"https?://(?:raw\.githubusercontent\.com|githubusercontent\.com)"
+                 r"/([^/]+)/([^/]+)/", url, re.I)
+    if not m:
+        m = re.match(r"https?://github\.com/([^/]+)/([^/]+)/"
+                     r"(?:raw|blob|releases|tree)/", url, re.I)
+    if m:
+        return m.group(1).lower() == owner
+    return True
+
+
+def harvest(readme: str, base: str, full: str) -> dict:
+    """
+    Extract ranked image and video candidates from a README.
+
+    Every candidate is checked against the owning repository before it is
+    accepted. Without that check an aggregator list -- a README that links to
+    other projects' screenshots -- donates those projects' media to itself, so
+    `thevibeworks/awesome-typesafe-jev` was published showing
+    `sightmap/jev-turbo`'s recording. A wrong asset is worse than no asset:
+    it attributes someone's work to the wrong author.
+    """
     images: list[str] = []
     videos: list[str] = []
     external: list[str] = []
@@ -332,6 +385,8 @@ def harvest(readme: str, base: str) -> dict:
         for u in seq:
             if not u or u in seen or is_bad(u):
                 continue
+            if not owned_by(u, full):
+                continue          # belongs to a different repository
             seen.add(u)
             out.append(u)
         return out
@@ -369,13 +424,18 @@ def handle_entry(entry: dict, budget: dict) -> dict:
     lic = (entry.get("license") or "").strip()
     license_ok = lic in PERMISSIVE
 
+    if is_link_list(entry):
+        return {"bundled": False, "license_ok": license_ok, "image": "",
+                "image_source": "", "video": {"state": "none", "src": "", "poster": ""},
+                "source": "link-list (no own media)"}
+
     readme, branch = fetch_readme(full)
     if not readme:
         return {"bundled": False, "license_ok": license_ok, "image": "",
                 "video": {"state": "none", "src": "", "poster": ""}, "source": "no-readme"}
 
     base = f"https://raw.githubusercontent.com/{full}/{branch}/"
-    found = harvest(readme, base)
+    found = harvest(readme, base, full)
     slot = full.replace("/", "--").lower()
 
     rec: dict = {
@@ -384,6 +444,7 @@ def handle_entry(entry: dict, budget: dict) -> dict:
         "license": lic or "unknown",
         "image": "",
         "image_alt": "",
+        "image_source": "",
         "video": {"state": "none", "src": "", "poster": ""},
         "source": "readme",
         "candidates": {"images": len(found["images"]), "videos": len(found["videos"]),
@@ -404,6 +465,7 @@ def handle_entry(entry: dict, budget: dict) -> dict:
             continue                        # SVG screenshots are rare and unsafe to rehost
         if not license_ok:
             rec["image"] = url              # never re-host a restricted asset
+            rec["image_source"] = url
             rec["source"] = "readme+hotlink(license)"
             break
         # A GIF in the image slot is an animated asset, and it is fetched even
@@ -417,6 +479,7 @@ def handle_entry(entry: dict, budget: dict) -> dict:
         budget["bytes"] += len(data) if is_new else 0
         budget["files"] += 1 if is_new else 0
         rec["image"] = rel
+        rec["image_source"] = url
         rec["bundled"] = True
         rec["image_alt"] = f"{full} screenshot"
         break
@@ -459,6 +522,7 @@ def handle_entry(entry: dict, budget: dict) -> dict:
                         "src": rel,
                         "poster": rec["image"] if rec["image"].startswith("media/") else "",
                         "full_quality": full_quality,
+                        "source_url": url,
                         "note": note,
                     }
                     rec["bundled"] = True
@@ -470,6 +534,7 @@ def handle_entry(entry: dict, budget: dict) -> dict:
                         "src": url,
                         "poster": "",
                         "full_quality": url,
+                        "source_url": url,
                         "hotlink": True,
                         "note": note,
                     }
@@ -489,11 +554,12 @@ def handle_entry(entry: dict, budget: dict) -> dict:
                 rel, is_new = store(data, "gif", slot)
                 budget["bytes"] += len(data) if is_new else 0
                 budget["files"] += 1 if is_new else 0
-                rec["video"] = {"state": "animated", "src": rel, "poster": ""}
+                rec["video"] = {"state": "animated", "src": rel, "poster": "",
+                                "source_url": url}
                 rec["bundled"] = True
             else:
                 rec["video"] = {"state": "animated", "src": url, "poster": "",
-                                "hotlink": True}
+                                "source_url": url, "hotlink": True}
             break
 
     # external embed (YouTube / Bilibili / Vimeo ...): never playable on GitHub
@@ -634,6 +700,7 @@ def handle_post_entry(entry: dict, budget: dict) -> dict:
                         "src": rel,
                         "poster": rec["image"] if rec["image"].startswith("media/") else "",
                         "full_quality": video_url,
+                        "source_url": video_url,
                         "note": note,
                     }
                     rec["bundled"] = True
@@ -643,6 +710,7 @@ def handle_post_entry(entry: dict, budget: dict) -> dict:
                         "src": video_url,
                         "poster": "",
                         "full_quality": video_url,
+                        "source_url": video_url,
                         "note": note,
                     }
     return rec

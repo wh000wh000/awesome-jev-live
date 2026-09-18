@@ -50,7 +50,7 @@
     "last_push": "最近推送",
     "first_seen": "首次收錄",
     "summary": "摘要",
-    "no_summary": "_上游未發布說明。_",
+    "no_summary": "上游未發布說明。",
     "found_in_code": "於程式碼中發現使用",
     "image": "圖片",
     "video": "影片",
@@ -116,7 +116,7 @@
   "language_note": "僅統計有宣告語言的條目。基礎設施、文件與討論類條目不計入本表。",
   "pipeline_intro": "沒有人手工編輯本 README 的內文。儲存庫依排程執行一條五階段管線，且僅在確有變動時才提交。",
   "pipeline_bullets": [
-    "**collect** — 跨查詢矩陣的 GitHub 搜尋、官方組織、GitHub 程式碼搜尋、Hacker News 與 HuggingFace hub。",
+    "**collect** — 跨查詢矩陣的 GitHub 搜尋、官方組織、GitHub 程式碼搜尋、Hacker News 與 Hugging Face hub。",
     "**curate** — 具確定性且不使用 LLM，因此對同一輸入連續執行兩次會產生逐位元組相同的輸出。相關性由雙訊號規則判定；名稱衝突項（JeVois、JEvents、Jevil、jEveAssets、ESP32-RLCD 及類似者）由一份明確且可稽核的清單排除。",
     "**media** — 收集各專案自己的截圖與螢幕錄影。只有在專案宣告可再散布的授權時，資源才會被複製進本儲存庫；否則直接連結上游 URL，並在卡片上註明。",
     "**render** — 由同一份範本產生所有語言版本，因此這二十份 README 在結構上不可能出現偏差。",

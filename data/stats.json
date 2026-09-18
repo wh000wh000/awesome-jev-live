@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-18T22:15:31+08:00",
- "total": 409,
- "new_this_tick": 27,
+ "generated_at": "2026-09-18T22:42:44+08:00",
+ "total": 408,
+ "new_this_tick": 0,
  "by_category": {
   "official-sdk": 5,
   "community-sdk": 70,
@@ -10,20 +10,20 @@
   "evaluation": 30,
   "research-models": 13,
   "apps-demos": 37,
-  "media-discussions": 103
+  "media-discussions": 102
  },
  "by_evidence": {
   "official": 5,
   "observed": 86,
-  "inferred": 293,
+  "inferred": 292,
   "unverified": 25
  },
  "by_tier": {
   "official": 5,
-  "community": 404
+  "community": 403
  },
  "by_language": {
-  "Python": 133,
+  "Python": 132,
   "TypeScript": 118,
   "JavaScript": 54,
   "Go": 13,
@@ -45,7 +45,7 @@
   "Lex": 1,
   "OpenSCAD": 1
  },
- "repos": 389,
+ "repos": 388,
  "models": 2,
  "discussions": 17,
  "total_stars": 13668
