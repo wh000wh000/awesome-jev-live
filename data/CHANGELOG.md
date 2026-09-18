@@ -32,3 +32,36 @@
 - `+` [pithings/advocaat](https://github.com/pithings/advocaat) — unverified / community-sdk — ⭐63
 - `+` [jkudish/jev-browser](https://github.com/jkudish/jev-browser) — inferred / apps-demos — ⭐58
 - …另有 379 条新增
+
+## 2026-09-18T22:10:14+08:00
+- 收录总数 **405**；本 tick 新增 **1**
+- `+` [X intent labeller](https://x.com/tspy/status/2100864234523685146) — observed / apps-demos — ⭐0
+
+## 2026-09-18T22:15:31+08:00
+- 收录总数 **409**；本 tick 新增 **27**
+- `+` [Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong](https://news.ycombinator.com/item?id=49754516) — observed / media-discussions — ⭐4
+- `+` [Most People on the Internet Miss What Jev Is About](https://news.ycombinator.com/item?id=49754461) — observed / media-discussions — ⭐4
+- `+` [Brainwires/jevwire](https://github.com/Brainwires/jevwire) — unverified / community-sdk — ⭐3
+- `+` [andrueandersoncs/jev-semantic-linter](https://github.com/andrueandersoncs/jev-semantic-linter) — inferred / media-discussions — ⭐2
+- `+` [rhighs/jev-code](https://github.com/rhighs/jev-code) — inferred / community-sdk — ⭐1
+- `+` [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) — observed / media-discussions — ⭐1
+- `+` [wh000wh000/awesome-jev-live](https://github.com/wh000wh000/awesome-jev-live) — inferred / media-discussions — ⭐0
+- `+` [rolottr/x-jev-classifier](https://github.com/rolottr/x-jev-classifier) — inferred / media-discussions — ⭐0
+- `+` [flaviusapop/jev-router](https://github.com/flaviusapop/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [maito1201/jev-harness](https://github.com/maito1201/jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [ravi3594444/jev-agent1](https://github.com/ravi3594444/jev-agent1) — inferred / agent-tooling — ⭐0
+- `+` [integrate-your-mind/jev-nethack](https://github.com/integrate-your-mind/jev-nethack) — inferred / research-models — ⭐0
+- `+` [Z761293629/pi-jev-helm](https://github.com/Z761293629/pi-jev-helm) — inferred / media-discussions — ⭐0
+- `+` [Dujaydis/JevSysUno](https://github.com/Dujaydis/JevSysUno) — inferred / media-discussions — ⭐0
+- `+` [nitro527/jev_project](https://github.com/nitro527/jev_project) — inferred / media-discussions — ⭐0
+- `+` [micic-mihajlo/jev-tool-runner](https://github.com/micic-mihajlo/jev-tool-runner) — inferred / agent-tooling — ⭐0
+- `+` [kentaro/jev-fizzbuzz](https://github.com/kentaro/jev-fizzbuzz) — inferred / media-discussions — ⭐0
+- `+` [aoprisan/jev-ts-repl](https://github.com/aoprisan/jev-ts-repl) — inferred / media-discussions — ⭐0
+- `+` [zhuyansen/jev-support-pulse](https://github.com/zhuyansen/jev-support-pulse) — inferred / evaluation — ⭐0
+- `+` [muse0509/jev-preflight](https://github.com/muse0509/jev-preflight) — inferred / media-discussions — ⭐0
+- `+` [adhamelhayek-lab/jev-connector](https://github.com/adhamelhayek-lab/jev-connector) — inferred / media-discussions — ⭐0
+- `+` [jcressler/fast-jev-compaction-codex](https://github.com/jcressler/fast-jev-compaction-codex) — inferred / agent-tooling — ⭐0
+- `+` [enriquejuncorichi-create/pi-jev-assist](https://github.com/enriquejuncorichi-create/pi-jev-assist) — inferred / agent-tooling — ⭐0
+- `+` [019ec6e2/pi-jev-compact](https://github.com/019ec6e2/pi-jev-compact) — inferred / media-discussions — ⭐0
+- `+` [KamilPostrozny/pi-fast-jev-compaction](https://github.com/KamilPostrozny/pi-fast-jev-compaction) — inferred / media-discussions — ⭐0
+- …另有 2 条新增

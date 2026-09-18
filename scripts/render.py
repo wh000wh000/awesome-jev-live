@@ -122,6 +122,9 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     labels = t["labels"]
     kind = e.get("kind", "repo")
     name = e.get("name", "")
+    # A submission's display title is localized; a repository's name is not.
+    if kind == "post":
+        name = (e.get("title_i18n") or {}).get(t["lang"]) or name
     url = e.get("url", "")
 
     # ---- at-a-glance facts for the summary line -------------------
@@ -132,6 +135,8 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         bits.append(esc(e["language"]))
     elif kind == "model":
         bits.append("model")
+    elif kind == "post" and e.get("author_handle"):
+        bits.append("@" + esc(e["author_handle"]))
     bits.append(labels["evidence_short"].get(e.get("evidence", "unverified"),
                                              e.get("evidence", "")))
     age = days_ago(e.get("pushed_at"))
@@ -167,7 +172,17 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         facts.append(esc(e["license"]))
     if kind == "repo":
         facts.append(f"[{esc(e.get('owner', ''))}](https://github.com/{esc(e.get('owner', ''))})")
-    out.append(f"**{labels['facts']}** · " + " · ".join(facts))
+    elif kind == "post":
+        # Attribution matters more than usual here: a post is a person's work,
+        # not an organisation's, so the author is a link and the handle is
+        # repeated rather than implied.
+        who = esc(e.get("author") or e.get("author_handle") or "")
+        link = e.get("author_url") or ""
+        facts.append(f"[{who}]({esc(link)})" if link else who)
+        if e.get("author_handle") and e.get("author"):
+            facts.append("@" + esc(e["author_handle"]))
+        facts.append(esc(e.get("platform") or (e.get("url") or "").split("/")[2] if "//" in (e.get("url") or "") else ""))
+    out.append(f"**{labels['facts']}** · " + " · ".join(f for f in facts if f))
     out.append("")
 
     # 2. 数据
@@ -187,7 +202,17 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     elif kind in ("story", "comment"):
         metrics.append(f"{labels['points']} {e.get('stars', 0)}")
         metrics.append(f"{labels['comments']} {e.get('forks', 0)}")
-    if e.get("pushed_at"):
+    elif kind == "post":
+        pm = e.get("metrics") or {}
+        if pm.get("views"):
+            metrics.append(f"{labels['views']} {pm['views']}")
+        if pm.get("likes"):
+            metrics.append(f"{labels['likes']} {pm['likes']}")
+        if pm.get("replies"):
+            metrics.append(f"{labels['comments']} {pm['replies']}")
+        if e.get("posted_at"):
+            metrics.append(f"{labels['posted']} {str(e['posted_at'])[:10]}")
+    if kind != "post" and e.get("pushed_at"):
         metrics.append(f"{labels['last_push']} {str(e['pushed_at'])[:10]}")
     metrics.append(f"{labels['first_seen']} {str(e.get('first_seen', ''))[:10]}")
     out.append(f"**{labels['data']}** · " + " · ".join(metrics))
@@ -202,8 +227,26 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     summary = summary or e.get("summary") or t["labels"]["no_summary"]
     out.append(summary.strip())
     out.append("")
-    if e.get("notes"):
-        out.append(f"> {e['notes']}")
+
+    # The upstream project this post is about. Kept immediately after the
+    # summary and given its own labelled line, because for a post this is the
+    # only route from "someone built something" to "here is the thing".
+    if kind == "post" and e.get("project_url"):
+        plabel = (e.get("project_label") or {}).get(t["lang"]) \
+            or (e.get("project_label") or {}).get("en") or labels["original_project"]
+        out.append(f"➡️ **{esc(plabel)}** — [{md_escape(e['project_url'])}]({e['project_url']})")
+        out.append("")
+    elif kind == "post":
+        # Honest placeholder rather than silence: the reader learns that the
+        # link is still being tracked down, not that it does not exist.
+        out.append(f"<sub>{labels['project_link_pending']}</sub>")
+        out.append("")
+
+    notes = e.get("notes") or ""
+    if e.get("notes_i18n"):
+        notes = (e["notes_i18n"] or {}).get(t["lang"]) or notes
+    if notes:
+        out.append(f"> {notes}")
         out.append("")
     if e.get("code_paths"):
         shown = ", ".join(f"`{p}`" for p in e["code_paths"][:4])

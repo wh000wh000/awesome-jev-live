@@ -551,6 +551,103 @@ def garbage_collect(records: dict) -> tuple[int, int]:
     return removed, freed
 
 
+# --------------------------------------------------------------------------
+# submissions: media declared by the curator rather than scraped from a README
+# --------------------------------------------------------------------------
+def pick_variant(urls: list[str], max_width: int) -> str:
+    """
+    Choose the largest declared video variant that stays within max_width.
+
+    Platform video URLs embed the resolution in the path
+    (/vid/avc1/620x360/...), so the choice is made from the URL rather than by
+    downloading every variant. Falls back to the first URL when nothing parses.
+    """
+    best, best_w = "", -1
+    for u in urls:
+        m = re.search(r"/(\d{2,4})x(\d{2,4})/", u)
+        if not m:
+            continue
+        w = int(m.group(1))
+        if w <= max_width and w > best_w:
+            best, best_w = u, w
+    return best or (urls[0] if urls else "")
+
+
+def handle_post_entry(entry: dict, budget: dict) -> dict:
+    """
+    Media for a submission (a post, not a repository).
+
+    The curator declares the poster and the candidate video variants in
+    data/submissions.json; this function resolves them the same way a README
+    would be resolved: download, transcode the recording to GIF, store
+    content-addressed, keep the original as the full-quality link.
+
+    Redistribution: a post has no licence to read, so the include/exclude
+    decision is the curator's, which is why these arrive through a reviewed file
+    rather than through pattern matching. The provenance is recorded on the card.
+    """
+    declared = entry.get("declared_media") or {}
+    slot = entry["id"].replace(":", "--").replace("/", "--").lower()
+
+    rec: dict = {
+        "bundled": False,
+        "license_ok": True,
+        "license": "post media, supplied by the submitter",
+        "image": "",
+        "image_alt": "",
+        "video": {"state": "none", "src": "", "poster": ""},
+        "source": "submission",
+    }
+
+    poster_url = declared.get("poster") or ""
+    if poster_url:
+        data, _ct, _final = http_get(poster_url, limit=MAX_IMAGE_BYTES)
+        if data:
+            ext, kind = sniff(data)
+            if kind == "image" and ext != "svg":
+                rel, is_new = store(data, ext, slot)
+                budget["bytes"] += len(data) if is_new else 0
+                budget["files"] += 1 if is_new else 0
+                rec["image"] = rel
+                rec["image_alt"] = f"{entry.get('name', '')} still"
+                rec["bundled"] = True
+
+    video_url = pick_variant(declared.get("video") or [],
+                             int(declared.get("max_width") or 1242))
+    if video_url:
+        data, _ct, _final = http_get(video_url, limit=MAX_VIDEO_BYTES)
+        if data:
+            sext, kind = sniff(data)
+            if sext == "gif" or kind == "video":
+                asset, aext, state = data, sext, ("animated" if sext == "gif" else "file")
+                note = ""
+                if kind == "video":
+                    gif, note = transcode_to_gif(data, sext)
+                    if gif:
+                        asset, aext, state = gif, "gif", "animated"
+                if state == "animated" and budget["bytes"] <= MEDIA_BUDGET_BYTES:
+                    rel, is_new = store(asset, aext, slot)
+                    budget["bytes"] += len(asset) if is_new else 0
+                    budget["files"] += 1 if is_new else 0
+                    rec["video"] = {
+                        "state": "animated",
+                        "src": rel,
+                        "poster": rec["image"] if rec["image"].startswith("media/") else "",
+                        "full_quality": video_url,
+                        "note": note,
+                    }
+                    rec["bundled"] = True
+                else:
+                    rec["video"] = {
+                        "state": "file",
+                        "src": video_url,
+                        "poster": "",
+                        "full_quality": video_url,
+                        "note": note,
+                    }
+    return rec
+
+
 def main() -> int:
     print(f"== awesome-jev-live :: media @ {STAMP} ==")
     entries_path = DATA / "entries.json"
@@ -583,7 +680,7 @@ def main() -> int:
     processed = 0
     errors = 0
     for e in entries:
-        if e["kind"] != "repo":
+        if e["kind"] not in ("repo", "post"):
             continue
         if only and e["id"] not in only and e["name"] not in only:
             continue
@@ -599,7 +696,9 @@ def main() -> int:
             results[e["id"]] = cached
             continue
         try:
-            rec = handle_entry(e, budget)
+            # Submissions declare their media; repositories have theirs scraped.
+            rec = (handle_post_entry(e, budget) if e["kind"] == "post"
+                   else handle_entry(e, budget))
         except Exception as exc:  # noqa: BLE001 - one bad repo must not stop the run
             print(f"   !! {e['name']}: {type(exc).__name__}: {exc}", file=sys.stderr)
             errors += 1

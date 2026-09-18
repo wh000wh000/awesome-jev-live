@@ -476,6 +476,71 @@ def build_repo_entries(repos: list[dict], code_repos: set[str]) -> list[dict]:
     return out
 
 
+def build_submission_entries(subs: list[dict]) -> list[dict]:
+    """
+    Turn hand-curated submissions into entries.
+
+    These exist because repository search is structurally blind to work that
+    shows up first, or only ever, as a post with a screen recording. They are
+    graded like anything else: a human choosing to include something is not the
+    same as verifying it, so a submission still lands at `inferred` unless the
+    person who added it actually watched the artifact, which is recorded by the
+    evidence field they set.
+    """
+    out: list[dict] = []
+    for s in subs:
+        sid = s.get("id")
+        if not sid or not s.get("url"):
+            continue
+        # Sibling lists and submissions share the category vocabulary, so an
+        # unknown category is a mistake worth surfacing rather than silently
+        # dumping into the fallback bucket.
+        category = s.get("category") or DEFAULT_CATEGORY[0]
+        if category not in CATEGORY_ORDER:
+            print(f"  !! submission {sid}: unknown category {category!r}")
+            category = DEFAULT_CATEGORY[0]
+
+        summary_map = s.get("summary") or {}
+        title_map = s.get("title") or {}
+        notes_map = s.get("notes") or {}
+        posted = s.get("posted_at") or ""
+
+        out.append({
+            "id": sid,
+            "kind": "post",
+            "name": title_map.get("en") or summary_map.get("en", "")[:60] or sid,
+            "title_i18n": title_map,
+            "url": s["url"],
+            "owner": s.get("author_handle") or s.get("author") or "",
+            "author": s.get("author") or "",
+            "author_handle": s.get("author_handle") or "",
+            "author_url": s.get("author_url") or "",
+            "posted_at": posted,
+            "summary": summary_map.get("en", ""),
+            "summary_i18n": summary_map,
+            "notes_i18n": notes_map,
+            "notes": notes_map.get("en", ""),
+            "category": category,
+            "tier": s.get("tier", "community"),
+            "evidence": s.get("evidence", "inferred"),
+            "language": s.get("language") or "",
+            "license": "",
+            "stars": 0,
+            "forks": 0,
+            "created_at": posted,
+            "pushed_at": posted,
+            "topics": ["submission", s.get("platform") or ""],
+            "metrics": s.get("metrics") or {},
+            "project_url": s.get("project_url") or "",
+            "project_label": s.get("project_label") or {},
+            "replies_url": s.get("replies_url") or "",
+            "declared_media": s.get("media") or {},
+            "is_submission": True,
+            "source_note": s.get("source_note") or "",
+        })
+    return out
+
+
 def build_model_entries(models: list[dict]) -> list[dict]:
     out = []
     for m in models:
@@ -631,10 +696,20 @@ def main() -> int:
     code_repos = {c.get("full_name") for c in code if c.get("full_name")}
     code_paths = {c.get("full_name"): c.get("paths") or [] for c in code}
 
+    submissions = []
+    sub_path = DATA / "submissions.json"
+    if sub_path.exists():
+        try:
+            submissions = json.loads(sub_path.read_text()).get("submissions", [])
+        except Exception as exc:  # noqa: BLE001
+            print(f"  !! could not read submissions.json: {exc}", file=sys.stderr)
+    print(f"   submissions: {len(submissions)}")
+
     fresh = (
         build_repo_entries(repos, code_repos)
         + build_model_entries(models)
         + build_discussion_entries(hits)
+        + build_submission_entries(submissions)
     )
     print(f"   relevant candidates: {len(fresh)}")
 

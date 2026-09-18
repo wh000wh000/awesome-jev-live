@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-09-18T21:36:51+08:00",
- "total": 404,
- "new_this_tick": 404,
+ "generated_at": "2026-09-18T22:15:31+08:00",
+ "total": 409,
+ "new_this_tick": 27,
  "by_category": {
-  "official-sdk": 6,
+  "official-sdk": 5,
   "community-sdk": 70,
   "agent-tooling": 112,
-  "routing-guardrails": 40,
-  "evaluation": 29,
-  "research-models": 12,
-  "apps-demos": 38,
-  "media-discussions": 97
+  "routing-guardrails": 39,
+  "evaluation": 30,
+  "research-models": 13,
+  "apps-demos": 37,
+  "media-discussions": 103
  },
  "by_evidence": {
   "official": 5,
-  "inferred": 291,
-  "observed": 83,
+  "observed": 86,
+  "inferred": 293,
   "unverified": 25
  },
  "by_tier": {
   "official": 5,
-  "community": 399
+  "community": 404
  },
  "by_language": {
   "Python": 133,
-  "TypeScript": 113,
-  "JavaScript": 51,
-  "Go": 16,
+  "TypeScript": 118,
+  "JavaScript": 54,
+  "Go": 13,
   "Rust": 12,
-  "HTML": 10,
+  "HTML": 9,
   "PHP": 4,
   "Elixir": 3,
   "Jupyter": 2,
@@ -41,13 +41,12 @@
   "PowerShell": 1,
   "TeX": 1,
   "Dart": 1,
-  "Makefile": 1,
   "CSS": 1,
   "Lex": 1,
   "OpenSCAD": 1
  },
- "repos": 386,
+ "repos": 389,
  "models": 2,
- "discussions": 16,
- "total_stars": 13313
+ "discussions": 17,
+ "total_stars": 13668
 }
