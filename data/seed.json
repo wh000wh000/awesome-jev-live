@@ -1,0 +1,20 @@
+{
+  "_comment": [
+    "Curated seed list -- the documented way to add a project the automated",
+    "relevance rules miss. Add owner/repo here instead of editing a README: the",
+    "README is regenerated on every tick and any manual edit to it is lost.",
+    "",
+    "A seeded repository bypasses the relevance filter and the star floor, but it",
+    "does NOT bypass evidence grading. A human saying 'include this' is not the",
+    "same as verifying what the project does, so a seed still lands at",
+    "'inferred' unless the collector finds independent code-level evidence."
+  ],
+  "repositories": [
+    "supercorp-ai/supercov",
+    "r-ms/mini-jev",
+    "AboveColin/jevclient",
+    "dannote/jev",
+    "zhirschtritt/typesafe-go",
+    "Butochnikov/laravel-typesafe-jev"
+  ]
+}

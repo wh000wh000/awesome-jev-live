@@ -1,0 +1,53 @@
+{
+ "generated_at": "2026-09-18T21:36:51+08:00",
+ "total": 404,
+ "new_this_tick": 404,
+ "by_category": {
+  "official-sdk": 6,
+  "community-sdk": 70,
+  "agent-tooling": 112,
+  "routing-guardrails": 40,
+  "evaluation": 29,
+  "research-models": 12,
+  "apps-demos": 38,
+  "media-discussions": 97
+ },
+ "by_evidence": {
+  "official": 5,
+  "inferred": 291,
+  "observed": 83,
+  "unverified": 25
+ },
+ "by_tier": {
+  "official": 5,
+  "community": 399
+ },
+ "by_language": {
+  "Python": 133,
+  "TypeScript": 113,
+  "JavaScript": 51,
+  "Go": 16,
+  "Rust": 12,
+  "HTML": 10,
+  "PHP": 4,
+  "Elixir": 3,
+  "Jupyter": 2,
+  "Java": 2,
+  "Ruby": 1,
+  "OCaml": 1,
+  "C#": 1,
+  "C": 1,
+  "Haskell": 1,
+  "PowerShell": 1,
+  "TeX": 1,
+  "Dart": 1,
+  "Makefile": 1,
+  "CSS": 1,
+  "Lex": 1,
+  "OpenSCAD": 1
+ },
+ "repos": 386,
+ "models": 2,
+ "discussions": 16,
+ "total_stars": 13313
+}

@@ -1,0 +1,8 @@
+An abstract, cinematic technical illustration for a software repository banner.
+STRICT: absolutely no text, no letters, no numbers, no words, no captions, no logos, no watermarks, no UI chrome, no people, no faces.
+
+Subject: a decision gate. From the left edge, a wide field of many faint teal light rays converges inward toward a narrow vertical aperture slightly right of centre. On the far right the rays re-emerge as a small set of distinct, evenly spaced horizontal bars of varying length, teal and warm amber, reading like a probability distribution.
+
+Style: deep near-black background (#0B0F14) with an extremely subtle fine grid. Thin precise lines, volumetric glow, soft bloom, high contrast, restrained and editorial, scientific instrument aesthetic. Flat vector-like rendering, crisp edges, not photorealistic, no heavy shadows, no neon clutter.
+
+Composition: leave the left third visually calm and dark so typography can be overlaid there. Wide cinematic aspect ratio.
