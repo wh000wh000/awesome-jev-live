@@ -94,3 +94,23 @@
 - `+` [cephalization/jev-triage](https://github.com/cephalization/jev-triage) — inferred / routing-guardrails — ⭐0
 - `+` [xucian/fbyte-jev-vs-claude](https://github.com/xucian/fbyte-jev-vs-claude) — inferred / agent-tooling — ⭐0
 - …另有 19 条新增
+
+## 2026-09-18T23:37:11+08:00
+- 收录总数 **415**；本 tick 新增 **17**
+- `+` [DanRWilloughby/snifftest](https://github.com/DanRWilloughby/snifftest) — inferred / agent-tooling — ⭐4
+- `+` [BorisLeMeec/jev](https://github.com/BorisLeMeec/jev) — inferred / agent-tooling — ⭐3
+- `+` [zhuyansen/jev-search-rerank-eval](https://github.com/zhuyansen/jev-search-rerank-eval) — inferred / agent-tooling — ⭐3
+- `+` [rajdhakad9826/routeKit](https://github.com/rajdhakad9826/routeKit) — observed / agent-tooling — ⭐1
+- `+` [robzolkos/omarchy-issue-classifier](https://github.com/robzolkos/omarchy-issue-classifier) — observed / media-discussions — ⭐0
+- `+` [aoi-yoneda/haikyuBattleJev](https://github.com/aoi-yoneda/haikyuBattleJev) — inferred / media-discussions — ⭐0
+- `+` [cassiomc1/fast-jev-compaction-alt](https://github.com/cassiomc1/fast-jev-compaction-alt) — inferred / agent-tooling — ⭐0
+- `+` [marcelomar21/demo-tetris-jev](https://github.com/marcelomar21/demo-tetris-jev) — inferred / apps-demos — ⭐0
+- `+` [Panebianco00/jev-claude](https://github.com/Panebianco00/jev-claude) — inferred / agent-tooling — ⭐0
+- `+` [akeldgord/JevDeck](https://github.com/akeldgord/JevDeck) — inferred / media-discussions — ⭐0
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / apps-demos — ⭐0
+- `+` [taituo/jev](https://github.com/taituo/jev) — inferred / research-models — ⭐0
+- `+` [kabeza/JEV_ebaysearch](https://github.com/kabeza/JEV_ebaysearch) — inferred / media-discussions — ⭐0
+- `+` [AustinAWay/Working-Memory-Jev](https://github.com/AustinAWay/Working-Memory-Jev) — inferred / media-discussions — ⭐0
+- `+` [yuki-dev26/jev-test](https://github.com/yuki-dev26/jev-test) — inferred / media-discussions — ⭐0
+- `+` [pelazas/jev-cmdtab](https://github.com/pelazas/jev-cmdtab) — inferred / apps-demos — ⭐0
+- `+` [edgardcham/huncho](https://github.com/edgardcham/huncho) — observed / evaluation — ⭐0
