@@ -114,3 +114,32 @@
 - `+` [yuki-dev26/jev-test](https://github.com/yuki-dev26/jev-test) — inferred / media-discussions — ⭐0
 - `+` [pelazas/jev-cmdtab](https://github.com/pelazas/jev-cmdtab) — inferred / apps-demos — ⭐0
 - `+` [edgardcham/huncho](https://github.com/edgardcham/huncho) — observed / evaluation — ⭐0
+
+## 2026-09-19T01:43:01+08:00
+- 收录总数 **430**；本 tick 新增 **57**
+- `+` [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) — unverified / evaluation — ⭐8
+- `+` [aabolfazl/typesafe-local](https://github.com/aabolfazl/typesafe-local) — unverified / evaluation — ⭐4
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐3
+- `+` [abhixhek/jevcal](https://github.com/abhixhek/jevcal) — inferred / evaluation — ⭐3
+- `+` [Bespoke Nimble: open data, open model, open recipe for an open Jev](https://news.ycombinator.com/item?id=49757009) — observed / media-discussions — ⭐3
+- `+` [kevinpita/pi-jev-context](https://github.com/kevinpita/pi-jev-context) — inferred / media-discussions — ⭐2
+- `+` [Show HN: Jev helps you to not run malicous code](https://news.ycombinator.com/item?id=49756921) — observed / media-discussions — ⭐2
+- `+` [abhishekashokvkumar/jev-mcp-dispatcher](https://github.com/abhishekashokvkumar/jev-mcp-dispatcher) — inferred / agent-tooling — ⭐1
+- `+` [solhosty/last-train-jev](https://github.com/solhosty/last-train-jev) — inferred / media-discussions — ⭐1
+- `+` [Red5d/jev-cvss](https://github.com/Red5d/jev-cvss) — inferred / media-discussions — ⭐1
+- `+` [Z761293629/pi-jev-helm](https://github.com/Z761293629/pi-jev-helm) — inferred / media-discussions — ⭐1
+- `+` [joevidev/ui-generator-instinct-jev](https://github.com/joevidev/ui-generator-instinct-jev) — inferred / apps-demos — ⭐1
+- `+` [nardinmarcus/pi-jev-typesafe](https://github.com/nardinmarcus/pi-jev-typesafe) — inferred / media-discussions — ⭐0
+- `+` [JoacoMarc/jev-harness-router](https://github.com/JoacoMarc/jev-harness-router) — inferred / agent-tooling — ⭐0
+- `+` [ojusave/beat-jev](https://github.com/ojusave/beat-jev) — inferred / community-sdk — ⭐0
+- `+` [PierrunoYT/JevFlow](https://github.com/PierrunoYT/JevFlow) — inferred / apps-demos — ⭐0
+- `+` [valentynkit/awesome-jev-typesafe](https://github.com/valentynkit/awesome-jev-typesafe) — inferred / media-discussions — ⭐0
+- `+` [abeatrix/cline-plugin-jev-browser](https://github.com/abeatrix/cline-plugin-jev-browser) — inferred / agent-tooling — ⭐0
+- `+` [n3ndor/n8n-nodes-typesafe-jev](https://github.com/n3ndor/n8n-nodes-typesafe-jev) — inferred / apps-demos — ⭐0
+- `+` [wotai-dev/typesafe-jev-tools](https://github.com/wotai-dev/typesafe-jev-tools) — inferred / agent-tooling — ⭐0
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐0
+- `+` [model-clis/jev](https://github.com/model-clis/jev) — inferred / community-sdk — ⭐0
+- `+` [ximhear/jev-kr-name-age](https://github.com/ximhear/jev-kr-name-age) — inferred / media-discussions — ⭐0
+- `+` [Clawbuilders/web-qa-jev-agent](https://github.com/Clawbuilders/web-qa-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) — observed / agent-tooling — ⭐0
+- …另有 32 条新增
