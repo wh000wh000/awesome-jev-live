@@ -15,6 +15,7 @@
     "AboveColin/jevclient",
     "dannote/jev",
     "zhirschtritt/typesafe-go",
-    "Butochnikov/laravel-typesafe-jev"
+    "Butochnikov/laravel-typesafe-jev",
+    "kylemclaren/jevql"
   ]
 }
