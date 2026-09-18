@@ -143,3 +143,32 @@
 - `+` [Clawbuilders/web-qa-jev-agent](https://github.com/Clawbuilders/web-qa-jev-agent) — inferred / agent-tooling — ⭐0
 - `+` [kraayenjon/awesome-jev](https://github.com/kraayenjon/awesome-jev) — observed / agent-tooling — ⭐0
 - …另有 32 条新增
+
+## 2026-09-19T03:51:37+08:00
+- 收录总数 **445**；本 tick 新增 **64**
+- `+` [obie/ruby_decision_model](https://github.com/obie/ruby_decision_model) — unverified / community-sdk — ⭐16
+- `+` [jon-devlapaz/jev-me](https://github.com/jon-devlapaz/jev-me) — inferred / media-discussions — ⭐9
+- `+` [Lmjtfy – Ask Jev a yes or no question](https://news.ycombinator.com/item?id=49758022) — observed / media-discussions — ⭐5
+- `+` [wfzyx/von](https://github.com/wfzyx/von) — inferred / research-models — ⭐3
+- `+` [gamesonrblx/JevML](https://github.com/gamesonrblx/JevML) — inferred / media-discussions — ⭐3
+- `+` [Show HN: Jeff – A read-only CLI for semantic code review using Jev](https://news.ycombinator.com/item?id=49757757) — observed / media-discussions — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐2
+- `+` [MumuTW/awesome-jev](https://github.com/MumuTW/awesome-jev) — inferred / media-discussions — ⭐1
+- `+` [kw2828/OpenJev](https://github.com/kw2828/OpenJev) — inferred / research-models — ⭐1
+- `+` [vtrivedy/jev-plays-games](https://github.com/vtrivedy/jev-plays-games) — inferred / routing-guardrails — ⭐1
+- `+` [TheBous/jev-flash-review](https://github.com/TheBous/jev-flash-review) — inferred / media-discussions — ⭐1
+- `+` [rogeriochaves/jev-experiments](https://github.com/rogeriochaves/jev-experiments) — inferred / media-discussions — ⭐1
+- `+` [socai-io/jev-social](https://github.com/socai-io/jev-social) — inferred / community-sdk — ⭐1
+- `+` [tanayvasishtha/Slither-Me-Jev](https://github.com/tanayvasishtha/Slither-Me-Jev) — inferred / apps-demos — ⭐0
+- `+` [khordoo/jev-reflex-autonomy-lab](https://github.com/khordoo/jev-reflex-autonomy-lab) — inferred / agent-tooling — ⭐0
+- `+` [Wany-i/jev-decision-layer](https://github.com/Wany-i/jev-decision-layer) — observed / agent-tooling — ⭐0
+- `+` [gtwatts/pi-jev-typesafe](https://github.com/gtwatts/pi-jev-typesafe) — inferred / media-discussions — ⭐0
+- `+` [4esv/jev-joust](https://github.com/4esv/jev-joust) — inferred / media-discussions — ⭐0
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐0
+- `+` [lookfwd/jev-fact-checker](https://github.com/lookfwd/jev-fact-checker) — inferred / media-discussions — ⭐0
+- `+` [phin-tech/pi-jev-approver](https://github.com/phin-tech/pi-jev-approver) — inferred / agent-tooling — ⭐0
+- `+` [metrox-eth/moss-jev](https://github.com/metrox-eth/moss-jev) — inferred / apps-demos — ⭐0
+- `+` [chris-wozniczek/jev-voice-control](https://github.com/chris-wozniczek/jev-voice-control) — observed / apps-demos — ⭐0
+- `+` [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) — inferred / agent-tooling — ⭐0
+- `+` [mcgalleg/grokbot-jev-jobs](https://github.com/mcgalleg/grokbot-jev-jobs) — inferred / routing-guardrails — ⭐0
+- …另有 39 条新增
