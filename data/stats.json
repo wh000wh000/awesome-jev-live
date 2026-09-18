@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-09-19T03:51:37+08:00",
- "total": 445,
+ "generated_at": "2026-09-19T06:00:13+08:00",
+ "total": 464,
  "new_this_tick": 64,
  "by_category": {
   "official-sdk": 5,
-  "community-sdk": 77,
-  "agent-tooling": 122,
-  "routing-guardrails": 41,
+  "community-sdk": 75,
+  "agent-tooling": 131,
+  "routing-guardrails": 45,
   "evaluation": 34,
-  "research-models": 17,
-  "apps-demos": 37,
-  "media-discussions": 112
+  "research-models": 20,
+  "apps-demos": 41,
+  "media-discussions": 113
  },
  "by_evidence": {
   "official": 5,
-  "observed": 98,
-  "inferred": 314,
-  "unverified": 28
+  "observed": 99,
+  "inferred": 333,
+  "unverified": 27
  },
  "by_tier": {
   "official": 5,
-  "community": 440
+  "community": 459
  },
  "by_language": {
-  "Python": 142,
-  "TypeScript": 124,
-  "JavaScript": 58,
-  "Go": 14,
+  "Python": 147,
+  "TypeScript": 134,
+  "JavaScript": 64,
   "Rust": 13,
-  "HTML": 10,
-  "Shell": 4,
+  "Go": 12,
+  "HTML": 11,
+  "PHP": 5,
   "Elixir": 3,
   "Ruby": 3,
-  "PHP": 3,
+  "Shell": 3,
   "Jupyter": 2,
   "Java": 2,
   "C": 2,
+  "Kotlin": 2,
   "OCaml": 1,
-  "R": 1,
   "C#": 1,
   "Haskell": 1,
   "PowerShell": 1,
-  "Kotlin": 1,
+  "Nushell": 1,
   "TeX": 1,
   "Dart": 1,
   "Swift": 1,
@@ -49,8 +49,8 @@
   "Lex": 1,
   "OpenSCAD": 1
  },
- "repos": 423,
+ "repos": 442,
  "models": 2,
  "discussions": 19,
- "total_stars": 16289
+ "total_stars": 16976
 }

@@ -172,3 +172,32 @@
 - `+` [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) — inferred / agent-tooling — ⭐0
 - `+` [mcgalleg/grokbot-jev-jobs](https://github.com/mcgalleg/grokbot-jev-jobs) — inferred / routing-guardrails — ⭐0
 - …另有 39 条新增
+
+## 2026-09-19T06:00:13+08:00
+- 收录总数 **464**；本 tick 新增 **64**
+- `+` [pinecone-io/cultivar](https://github.com/pinecone-io/cultivar) — inferred / community-sdk — ⭐37
+- `+` [tacticocc/Jevbridge](https://github.com/tacticocc/Jevbridge) — inferred / community-sdk — ⭐17
+- `+` [siliconkernel/vllm-jev-decison](https://github.com/siliconkernel/vllm-jev-decison) — inferred / research-models — ⭐8
+- `+` [oso95/x-scanner](https://github.com/oso95/x-scanner) — inferred / media-discussions — ⭐5
+- `+` [Using jev to improve product experiences is pretty crazy](https://news.ycombinator.com/item?id=49760264) — observed / media-discussions — ⭐5
+- `+` [w3cj/jev-chat](https://github.com/w3cj/jev-chat) — inferred / apps-demos — ⭐4
+- `+` [romaluev/jev-ego](https://github.com/romaluev/jev-ego) — inferred / community-sdk — ⭐3
+- `+` [KamilPostrozny/pi-fast-jev-compaction](https://github.com/KamilPostrozny/pi-fast-jev-compaction) — inferred / media-discussions — ⭐2
+- `+` [Jev's Architecture Unmasked](https://news.ycombinator.com/item?id=49759999) — observed / media-discussions — ⭐2
+- `+` [I used Jev to control a swarm of 15 simulated drones in real time](https://news.ycombinator.com/item?id=49759706) — observed / media-discussions — ⭐2
+- `+` [finetuningsingh/jev-chatbot](https://github.com/finetuningsingh/jev-chatbot) — inferred / apps-demos — ⭐1
+- `+` [matthewp/flue-jev-demo](https://github.com/matthewp/flue-jev-demo) — inferred / agent-tooling — ⭐1
+- `+` [RahulBalakavi/claude-code-jev](https://github.com/RahulBalakavi/claude-code-jev) — inferred / agent-tooling — ⭐1
+- `+` [Zumka1991/jev-telegram-admin](https://github.com/Zumka1991/jev-telegram-admin) — inferred / routing-guardrails — ⭐0
+- `+` [yaredtekile/jev-2048](https://github.com/yaredtekile/jev-2048) — inferred / media-discussions — ⭐0
+- `+` [Zaious/jev-capability-atlas](https://github.com/Zaious/jev-capability-atlas) — inferred / agent-tooling — ⭐0
+- `+` [imserhatdemir/jevspace](https://github.com/imserhatdemir/jevspace) — observed / research-models — ⭐0
+- `+` [Mandrilsquad1441/jev-model-router](https://github.com/Mandrilsquad1441/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) — inferred / apps-demos — ⭐0
+- `+` [chy4pro/JevBrowserExt](https://github.com/chy4pro/JevBrowserExt) — observed / routing-guardrails — ⭐0
+- `+` [thumay9700/jev-plays](https://github.com/thumay9700/jev-plays) — inferred / agent-tooling — ⭐0
+- `+` [cablehead/jev.nu](https://github.com/cablehead/jev.nu) — inferred / evaluation — ⭐0
+- `+` [pb-crackers/Jev-Cognigy-QA-Suite](https://github.com/pb-crackers/Jev-Cognigy-QA-Suite) — inferred / community-sdk — ⭐0
+- `+` [knowlet/jev-agentworld-web-simulator](https://github.com/knowlet/jev-agentworld-web-simulator) — observed / agent-tooling — ⭐0
+- `+` [rorshopping/jev-browser-local](https://github.com/rorshopping/jev-browser-local) — inferred / evaluation — ⭐0
+- …另有 39 条新增
