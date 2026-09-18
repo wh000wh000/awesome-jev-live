@@ -65,3 +65,32 @@
 - `+` [019ec6e2/pi-jev-compact](https://github.com/019ec6e2/pi-jev-compact) — inferred / media-discussions — ⭐0
 - `+` [KamilPostrozny/pi-fast-jev-compaction](https://github.com/KamilPostrozny/pi-fast-jev-compaction) — inferred / media-discussions — ⭐0
 - …另有 2 条新增
+
+## 2026-09-18T23:17:35+08:00
+- 收录总数 **412**；本 tick 新增 **44**
+- `+` [kavehmz/typesafe-playground](https://github.com/kavehmz/typesafe-playground) — unverified / routing-guardrails — ⭐4
+- `+` [danvega/hello-jev-java](https://github.com/danvega/hello-jev-java) — inferred / media-discussions — ⭐3
+- `+` [Show HN: Using Jev to generate game levels in real time](https://news.ycombinator.com/item?id=49754951) — observed / media-discussions — ⭐3
+- `+` [Nainish-Rai/jev-frontend-qa](https://github.com/Nainish-Rai/jev-frontend-qa) — inferred / apps-demos — ⭐2
+- `+` [You could have built Jev](https://news.ycombinator.com/item?id=49755430) — observed / media-discussions — ⭐2
+- `+` [Show HN: Explore 2D semantic space with the Jev model](https://news.ycombinator.com/item?id=49753667) — observed / media-discussions — ⭐2
+- `+` [Show HN: Open-Source Alternative to TypeSafe.ai](https://news.ycombinator.com/item?id=49750649) — observed / media-discussions — ⭐2
+- `+` [Two techniques for working with System One models](https://news.ycombinator.com/item?id=49755005) — observed / media-discussions — ⭐2
+- `+` [zaferayan/jev-example](https://github.com/zaferayan/jev-example) — inferred / media-discussions — ⭐1
+- `+` [rajivkuriakose/typesafe-jev-examples](https://github.com/rajivkuriakose/typesafe-jev-examples) — inferred / routing-guardrails — ⭐0
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐0
+- `+` [4esv/jev-mario](https://github.com/4esv/jev-mario) — inferred / apps-demos — ⭐0
+- `+` [afanjul/jev-llm](https://github.com/afanjul/jev-llm) — inferred / media-discussions — ⭐0
+- `+` [yatharth1706/jev-automation](https://github.com/yatharth1706/jev-automation) — inferred / apps-demos — ⭐0
+- `+` [ddfeyes/jev-mode](https://github.com/ddfeyes/jev-mode) — inferred / community-sdk — ⭐0
+- `+` [makefinks/jev-feed-filter](https://github.com/makefinks/jev-feed-filter) — inferred / routing-guardrails — ⭐0
+- `+` [kaijia323/dsh-plugin-jev](https://github.com/kaijia323/dsh-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [objectgraph/jev-samegame-bench](https://github.com/objectgraph/jev-samegame-bench) — inferred / research-models — ⭐0
+- `+` [ibrahemid/git-jev-stage](https://github.com/ibrahemid/git-jev-stage) — inferred / community-sdk — ⭐0
+- `+` [LingXuanYin/jev-chat](https://github.com/LingXuanYin/jev-chat) — inferred / media-discussions — ⭐0
+- `+` [SAGAR-TAMANG/sarvam-jev](https://github.com/SAGAR-TAMANG/sarvam-jev) — inferred / community-sdk — ⭐0
+- `+` [misaalya/jev-traversal](https://github.com/misaalya/jev-traversal) — inferred / community-sdk — ⭐0
+- `+` [ilkerulusoy/pi-jev-compact](https://github.com/ilkerulusoy/pi-jev-compact) — inferred / media-discussions — ⭐0
+- `+` [cephalization/jev-triage](https://github.com/cephalization/jev-triage) — inferred / routing-guardrails — ⭐0
+- `+` [xucian/fbyte-jev-vs-claude](https://github.com/xucian/fbyte-jev-vs-claude) — inferred / agent-tooling — ⭐0
+- …另有 19 条新增

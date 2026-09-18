@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-09-18T22:42:44+08:00",
- "total": 408,
- "new_this_tick": 0,
+ "generated_at": "2026-09-18T23:17:35+08:00",
+ "total": 412,
+ "new_this_tick": 44,
  "by_category": {
   "official-sdk": 5,
-  "community-sdk": 70,
-  "agent-tooling": 112,
-  "routing-guardrails": 39,
-  "evaluation": 30,
-  "research-models": 13,
+  "community-sdk": 73,
+  "agent-tooling": 111,
+  "routing-guardrails": 43,
+  "evaluation": 28,
+  "research-models": 12,
   "apps-demos": 37,
-  "media-discussions": 102
+  "media-discussions": 103
  },
  "by_evidence": {
   "official": 5,
-  "observed": 86,
-  "inferred": 292,
+  "observed": 88,
+  "inferred": 294,
   "unverified": 25
  },
  "by_tier": {
   "official": 5,
-  "community": 403
+  "community": 407
  },
  "by_language": {
-  "Python": 132,
-  "TypeScript": 118,
-  "JavaScript": 54,
-  "Go": 13,
+  "Python": 133,
+  "TypeScript": 120,
+  "JavaScript": 56,
   "Rust": 12,
-  "HTML": 9,
+  "HTML": 11,
+  "Go": 11,
   "PHP": 4,
   "Elixir": 3,
+  "Java": 3,
   "Jupyter": 2,
-  "Java": 2,
   "Ruby": 1,
   "OCaml": 1,
   "C#": 1,
@@ -45,8 +45,8 @@
   "Lex": 1,
   "OpenSCAD": 1
  },
- "repos": 388,
+ "repos": 390,
  "models": 2,
- "discussions": 17,
- "total_stars": 13668
+ "discussions": 19,
+ "total_stars": 14236
 }
