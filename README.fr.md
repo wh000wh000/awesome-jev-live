@@ -17,7 +17,7 @@
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <b>Français</b> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Index en direct** · Dernière synchronisation: `2026-09-18T21:49:39+08:00` (UTC+8)
+> **Index en direct** · Dernière synchronisation: `2026-09-18T21:59:55+08:00` (UTC+8)
 > · Entrées: **404** · Nouvelles ce cycle: **404** · Langages d'implémentation: **22**
 
 <sub>Chaque entrée ci-dessous a été collectée, filtrée et revérifiée par le pipeline de ce dépôt. Les chiffres et les horodatages proviennent des sources, non d'un instantané rédigé à la main.</sub>
@@ -1745,7 +1745,7 @@ MCP server exposing TypeSafe Jev as typed, calibrated judgment tools: classify, 
 </details>
 
 <details>
-<summary><b><a href="https://github.com/samtay32/jev-system-architect">samtay32/jev-system-architect</a></b> — ⭐2 · inferred · 0 天 · **NEW**</summary>
+<summary><b><a href="https://github.com/samtay32/jev-system-architect">samtay32/jev-system-architect</a></b> — ⭐2 · inferred · 1 天 · **NEW**</summary>
 
 **Faits de base** · `Outillage d&#x27;agents : MCP, hooks, portes de contrôle et agents de codage` · Communauté · `inferred` · MIT · [samtay32](https://github.com/samtay32)
 
@@ -2086,7 +2086,7 @@ Moving-highlight context compaction for agent harnesses — Jev-scored span rete
 Jev picks which of your rules apply to each prompt, so Claude only sees the ones that matter.
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/eliaalberti--jev-rules/ae4048f230729427.gif" width="100%" alt="EliaAlberti/jev-rules screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/eliaalberti--jev-rules/f714e20b0600e246.gif" width="100%" alt="EliaAlberti/jev-rules screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/eliaalberti--jev-rules/ae4048f230729427.gif" width="100%" alt="EliaAlberti/jev-rules animation"><br><sub>enregistrement animé</sub></td>
 </tr></table>
 
@@ -2468,7 +2468,7 @@ Six calibrated gates for Claude Code, judged by TypeSafe Jev: rules, scope, inte
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/3996d0153a09b158.gif" width="100%" alt="rashedInt32/jev-gates screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/d9ddd128a148385e.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/3996d0153a09b158.gif"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/d9ddd128a148385e.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/d9ddd128a148385e.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rashedint32--jev-gates/464e518e8a602a0d.gif" width="100%" alt="rashedInt32/jev-gates animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/rashedInt32/jev-gates/main/demo/out/jev-gates.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -2992,7 +2992,7 @@ Jev chess experiments: independent decisions vs tactical and Stockfish assistanc
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/93f39c2d8831bde6.gif" width="100%" alt="denikuchero/jev-chess-lab screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/6733e8dbce00ead3.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/93f39c2d8831bde6.gif"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/6733e8dbce00ead3.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/6733e8dbce00ead3.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/denikuchero--jev-chess-lab/5b385b4d2de02637.gif" width="100%" alt="denikuchero/jev-chess-lab animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/denikuchero/jev-chess-lab/main/docs/games/01-raw/replay.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -3266,7 +3266,7 @@ This is a LLM Gateway that mimics typesafe ai structured output. Like an imposte
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><sub>aucun média publié</sub></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/iammrduncan--typesafe-ai-benchmark/c90c38d76d87a2fe.mp4" controls muted loop playsinline width="100%"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/iammrduncan--typesafe-ai-benchmark/c90c38d76d87a2fe.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/iammrduncan--typesafe-ai-benchmark/c90c38d76d87a2fe.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/iammrduncan--typesafe-ai-benchmark/3d66c620e48ff597.gif" width="100%" alt="iammrduncan/typesafe-ai-benchmark animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/iammrduncan/typesafe-ai-benchmark/main/docs/media/theater-demo.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -3769,7 +3769,7 @@ A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/f6e35d78f4661f20.png" width="100%" alt="TianyuCodings/NanoJev screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/9ee4bfd928a28800.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/f6e35d78f4661f20.png"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/9ee4bfd928a28800.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/9ee4bfd928a28800.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/5055af419619e7e4.gif" width="100%" alt="TianyuCodings/NanoJev animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/TianyuCodings/NanoJev/main/assets/side_by_side_maze.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -3883,7 +3883,7 @@ Watch TypeSafe Jev play Tetris. Live API vs offline heuristic, with recorded dem
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev-preview.gif" width="100%" alt="chahero/tetris-jev screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4" controls muted loop playsinline width="100%"><source src="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><a href="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4"><img src="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev-preview.gif" width="100%" alt="chahero/tetris-jev video"></a><br><sub><a href="https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 <sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
@@ -4058,7 +4058,7 @@ A System One model driving the game through structured state, no pixels.
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/19e3fa783e7f72e5.jpg" width="100%" alt="tirukovelamanoj/jev-plays-doom screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/ea0cac5593b1ef6d.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/19e3fa783e7f72e5.jpg"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/ea0cac5593b1ef6d.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/ea0cac5593b1ef6d.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tirukovelamanoj--jev-plays-doom/8c1b0d55baf76296.gif" width="100%" alt="tirukovelamanoj/jev-plays-doom animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/tirukovelamanoj/jev-plays-doom/main/docs/jev-doom.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -4107,7 +4107,7 @@ Browser use using Typesafe's Jev model
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/9712e94d8402c3ec.gif" width="100%" alt="jkudish/jev-browser screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/23cf8f7acfef335f.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/9712e94d8402c3ec.gif"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/23cf8f7acfef335f.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/23cf8f7acfef335f.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jkudish--jev-browser/b4ae7fc04353e74c.gif" width="100%" alt="jkudish/jev-browser animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/jkudish/jev-browser/main/assets/github-demo.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -4277,7 +4277,7 @@ Privacy-first Chrome extension that semantically blocks native ads, sponsored fe
 </details>
 
 <details>
-<summary><b><a href="https://github.com/Little-Planet-Labs/jev-playground">Little-Planet-Labs/jev-playground</a></b> — ⭐1 · TypeScript · inferred · 0 天 · **NEW**</summary>
+<summary><b><a href="https://github.com/Little-Planet-Labs/jev-playground">Little-Planet-Labs/jev-playground</a></b> — ⭐1 · TypeScript · inferred · 1 天 · **NEW**</summary>
 
 **Faits de base** · `Applications, jeux, robotique et démos interactives` · Communauté · `inferred` · TypeScript · [Little-Planet-Labs](https://github.com/Little-Planet-Labs)
 
@@ -4449,7 +4449,7 @@ Jev-powered semantic browser use
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/80ba196d00024a03.gif" width="100%" alt="sightmap/jev-turbo screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/43d98ba1580eee69.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/80ba196d00024a03.gif"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/43d98ba1580eee69.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/43d98ba1580eee69.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sightmap--jev-turbo/ad7a1ccc23e034dc.gif" width="100%" alt="sightmap/jev-turbo animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/sightmap/jev-turbo/main/docs/demo.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -4534,7 +4534,7 @@ i. am. speed.
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/3ba041d1c574f62a.gif" width="100%" alt="browser-use/jev-ultrafast screenshot"></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/dcc8b24fd0db56bd.mp4" controls muted loop playsinline width="100%" poster="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/3ba041d1c574f62a.gif"><source src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/dcc8b24fd0db56bd.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/dcc8b24fd0db56bd.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/browser-use--jev-ultrafast/d3c9791c1ce6e146.gif" width="100%" alt="browser-use/jev-ultrafast animation"><br><sub>enregistrement animé · <a href="https://raw.githubusercontent.com/browser-use/jev-ultrafast/main/docs/demo.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -5083,7 +5083,7 @@ _Aucune description n'a été publiée en amont._
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><sub>aucun média publié</sub></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov" controls muted loop playsinline width="100%"><source src="https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov" type="video/mp4"><a href="https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><a href="https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov"><img src="" width="100%" alt="daseinlabs/open-jev video"></a><br><sub><a href="https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -5266,7 +5266,7 @@ _Aucune description n'a été publiée en amont._
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><sub>aucun média publié</sub></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4" controls muted loop playsinline width="100%"><source src="https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><a href="https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4"><img src="" width="100%" alt="hqman/JevScout video"></a><br><sub><a href="https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -5585,7 +5585,7 @@ _Aucune description n'a été publiée en amont._
 
 <table><tr><th align="center" width="50%">Image</th><th align="center" width="50%">Vidéo</th></tr><tr>
 <td align="center" valign="top"><sub>aucun média publié</sub></td>
-<td align="center" valign="top"><video src="https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4" controls muted loop playsinline width="100%"><source src="https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4" type="video/mp4"><a href="https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4">Ouvrir la vidéo</a></video></td>
+<td align="center" valign="top"><a href="https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4"><img src="" width="100%" alt="kentaro/jev-shogi video"></a><br><sub><a href="https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4">Ouvrir la vidéo</a></sub></td>
 </tr></table>
 
 </details>
@@ -5951,4 +5951,4 @@ Les corrections sont bienvenues et constituent le moyen le plus rapide d'amélio
 
 <sub>Projet communautaire indépendant. Non affilié à TypeSafe AI, ni approuvé, ni relu par elle. Le comportement du produit, les tarifs, les limites et les alias de modèles changent sans préavis ; vérifiez tout élément déterminant dans la documentation officielle. Les ressources restent la propriété de leurs projets d'origine et ne sont reproduites que lorsqu'une licence le permet.</sub>
 
-<sub>Généré par · `render.py` · 2026-09-18T21:49:39+08:00</sub>
+<sub>Généré par · `render.py` · 2026-09-18T21:59:55+08:00</sub>

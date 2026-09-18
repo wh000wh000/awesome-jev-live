@@ -228,18 +228,31 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         else:
             out.append(f"<td align=\"center\" valign=\"top\"><sub>{labels['no_media']}</sub></td>")
         # right cell
-        if vstate == "file" and vsrc:
-            mime = "video/webm" if vsrc.endswith(".webm") else "video/mp4"
-            poster = asset_url(video.get("poster", ""))
-            pattr = f' poster="{esc(poster)}"' if poster else ""
+        # GitHub's sanitiser removes <video> and <source> from user content, so
+        # a video cell built from those tags renders as an empty box. Verified
+        # against the published page: the <td> came back with nothing in it.
+        # raw.githubusercontent.com also serves MP4 as application/octet-stream
+        # with nosniff, so a direct link downloads rather than plays.
+        #
+        # The only thing that actually moves on GitHub is an animated image, so
+        # media.py transcodes a project's recording into a GIF and that GIF is
+        # what plays here. The original file is linked for full quality.
+        if vstate == "animated" and vsrc:
+            full = asset_url(video.get("full_quality") or "")
+            extra = (f' · <a href="{esc(full)}">{labels["open_video"]}</a>'
+                     if full else "")
             out.append(f"<td align=\"center\" valign=\"top\">"
-                       f"<video src=\"{esc(vsrc)}\" controls muted loop playsinline "
-                       f"width=\"100%\"{pattr}><source src=\"{esc(vsrc)}\" type=\"{mime}\">"
-                       f'<a href="{esc(vsrc)}">{labels["open_video"]}</a></video></td>')
-        elif vstate == "animated" and vsrc:
+                       f"<img src=\"{esc(vsrc)}\" width=\"100%\" "
+                       f"alt=\"{esc(name)} animation\">"
+                       f"<br><sub>{labels['animated_note']}{extra}</sub></td>")
+        elif vstate == "file" and vsrc:
+            # No GIF could be produced within the size cap, so show the poster
+            # and link the file rather than emitting a tag GitHub will delete.
             out.append(f"<td align=\"center\" valign=\"top\">"
-                       f"<img src=\"{esc(vsrc)}\" width=\"100%\" alt=\"{esc(name)} animation\">"
-                       f"<br><sub>{labels['animated_note']}</sub></td>")
+                       f"<a href=\"{esc(vsrc)}\">"
+                       f"<img src=\"{esc(image) if image else ''}\" width=\"100%\" "
+                       f"alt=\"{esc(name)} video\"></a><br>"
+                       f"<sub><a href=\"{esc(vsrc)}\">{labels['open_video']}</a></sub></td>")
         elif vstate == "external" and vsrc:
             host = re.sub(r"^www\.", "", re.sub(r"^https?://", "", vsrc).split("/")[0])
             out.append(f"<td align=\"center\" valign=\"top\">"

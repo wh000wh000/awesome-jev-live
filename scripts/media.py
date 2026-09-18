@@ -34,7 +34,10 @@ import json
 import mimetypes
 import os
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.parse
@@ -175,6 +178,60 @@ def sniff(data: bytes) -> tuple[str, str]:
     if b"<svg" in data[:400].lower():
         return "svg", "image"
     return "", "unknown"
+
+
+# --------------------------------------------------------------------------
+# video -> GIF, because GitHub will not play a video file
+# --------------------------------------------------------------------------
+# GitHub's HTML sanitiser removes <video> and <source> from user content, and
+# raw.githubusercontent.com serves MP4 as application/octet-stream with
+# nosniff. Both were verified against the published page. The only moving image
+# GitHub will render is an animated GIF (or WebP) delivered as <img>.
+#
+# So a project's recording is transcoded here. Three passes, each cheaper than
+# the last, because a 2 MB MP4 can easily become a 30 MB GIF without a palette,
+# a frame-rate cap and a duration cap.
+GIF_PASSES = [
+    {"t": 8, "fps": 12, "w": 520},
+    {"t": 6, "fps": 10, "w": 420},
+    {"t": 5, "fps": 8, "w": 320},
+]
+MAX_GIF_BYTES = 4_000_000
+# An animated image a browser must fetch even while the card is collapsed, so a
+# project's own oversized GIF is re-encoded rather than trusted.
+GIF_SOFT_CAP = 2_500_000
+
+
+def transcode_to_gif(data: bytes, ext: str) -> tuple[bytes | None, str]:
+    """
+    Return (gif_bytes, note). gif_bytes is None when ffmpeg is unavailable or
+    every pass exceeded the cap, in which case the caller falls back to a poster
+    plus a link rather than emitting a tag GitHub would delete.
+    """
+    ffmpeg = shutil.which("ffmpeg")
+    if not ffmpeg:
+        return None, "ffmpeg unavailable"
+
+    with tempfile.TemporaryDirectory() as tmp:
+        src = Path(tmp) / f"in.{ext}"
+        src.write_bytes(data)
+        for i, p in enumerate(GIF_PASSES):
+            out = Path(tmp) / f"out{i}.gif"
+            # palettegen/paletteuse is what keeps a GIF from looking like 1997
+            vf = (f"fps={p['fps']},scale={p['w']}:-1:flags=lanczos,split[a][b];"
+                  f"[a]palettegen=max_colors=128[p];[b][p]paletteuse=dither=bayer")
+            cmd = [ffmpeg, "-y", "-v", "error", "-i", str(src),
+                   "-t", str(p["t"]), "-vf", vf, "-loop", "0", str(out)]
+            try:
+                res = subprocess.run(cmd, capture_output=True, timeout=180)
+            except subprocess.TimeoutExpired:
+                continue
+            if res.returncode != 0 or not out.exists():
+                continue
+            blob = out.read_bytes()
+            if 0 < len(blob) <= MAX_GIF_BYTES:
+                return blob, f"gif pass {i + 1} ({len(blob) / 1e6:.1f} MB)"
+        return None, "all gif passes exceeded the cap"
 
 
 def store(data: bytes, ext: str, slot: str) -> tuple[str, bool]:
@@ -349,6 +406,13 @@ def handle_entry(entry: dict, budget: dict) -> dict:
             rec["image"] = url              # never re-host a restricted asset
             rec["source"] = "readme+hotlink(license)"
             break
+        # A GIF in the image slot is an animated asset, and it is fetched even
+        # while the card is collapsed. Re-encode anything oversized.
+        if ext == "gif" and len(data) > GIF_SOFT_CAP:
+            gif, gnote = transcode_to_gif(data, "gif")
+            if gif and len(gif) < len(data):
+                data, ext = gif, "gif"
+                rec["image_reencoded"] = gnote
         rel, is_new = store(data, ext, slot)
         budget["bytes"] += len(data) if is_new else 0
         budget["files"] += 1 if is_new else 0
@@ -358,7 +422,12 @@ def handle_entry(entry: dict, budget: dict) -> dict:
         break
 
     # ---- video -------------------------------------------------------
-    # a README <video>/<source> or a linked media file
+    # A README <video>/<source>, or a file linked from the README.
+    #
+    # The goal here is not to store a video; it is to end up with something that
+    # MOVES on the published page. A stored MP4 would be invisible, because
+    # GitHub deletes <video>. So a real video file is transcoded to GIF, and the
+    # original URL is kept as the full-quality link.
     if found["videos"]:
         url = found["videos"][0]
         ext = Path(urllib.parse.urlparse(url.lower()).path).suffix
@@ -366,25 +435,43 @@ def handle_entry(entry: dict, budget: dict) -> dict:
         data, _ct, _final = http_get(url, limit=cap)
         if data:
             sext, kind = sniff(data)
-            if kind in ("video", "image") and sext in ("mp4", "webm", "gif"):
-                if not rec["image"]:
-                    pass
-                if license_ok and budget["bytes"] <= MEDIA_BUDGET_BYTES:
-                    rel, is_new = store(data, sext, slot)
-                    budget["bytes"] += len(data) if is_new else 0
+            if sext == "gif" or kind == "video":
+                asset, aext, state = data, sext, ("animated" if sext == "gif" else "file")
+                full_quality = "" if sext in ANIM_EXT else url
+                note = ""
+                if kind == "video":
+                    gif, note = transcode_to_gif(data, sext)
+                    if gif:
+                        asset, aext, state = gif, "gif", "animated"
+                elif aext == "gif" and len(asset) > GIF_SOFT_CAP:
+                    # The project shipped a heavy GIF. Re-encode it: this file is
+                    # fetched by every visitor even before the card is opened.
+                    gif, note = transcode_to_gif(asset, "gif")
+                    if gif and len(gif) < len(asset):
+                        asset = gif
+                        full_quality = url
+                if license_ok and budget["bytes"] <= MEDIA_BUDGET_BYTES and state == "animated":
+                    rel, is_new = store(asset, aext, slot)
+                    budget["bytes"] += len(asset) if is_new else 0
                     budget["files"] += 1 if is_new else 0
                     rec["video"] = {
-                        "state": "animated" if sext == "gif" else "file",
+                        "state": state,
                         "src": rel,
                         "poster": rec["image"] if rec["image"].startswith("media/") else "",
+                        "full_quality": full_quality,
+                        "note": note,
                     }
                     rec["bundled"] = True
                 else:
+                    # Not redistributable, or no GIF could be produced within the
+                    # cap: link the upstream file and let the card show a poster.
                     rec["video"] = {
-                        "state": "animated" if sext == "gif" else "file",
+                        "state": "file",
                         "src": url,
                         "poster": "",
+                        "full_quality": url,
                         "hotlink": True,
+                        "note": note,
                     }
 
     # an animated image anywhere in the readme still makes a good "video" column
@@ -420,6 +507,50 @@ def handle_entry(entry: dict, budget: dict) -> dict:
     return rec
 
 
+def collect_referenced(records: dict) -> set[str]:
+    """Every media path the current media.json actually points at."""
+    ref: set[str] = set()
+    for rec in records.values():
+        for key in (rec.get("image"), (rec.get("video") or {}).get("src"),
+                    (rec.get("video") or {}).get("poster")):
+            if key and not key.startswith(("http://", "https://")):
+                ref.add(str(Path(key)))
+    return ref
+
+
+def garbage_collect(records: dict) -> tuple[int, int]:
+    """
+    Delete bundled assets nothing references any more.
+
+    Media is content-addressed, so changing how an asset is derived leaves the
+    previous blob behind. Without this, every re-encode, every improved
+    heuristic and every removed entry silently accumulates as dead weight in the
+    repository forever. Measured on the first run of this pipeline: 63 orphaned
+    files holding 39 of 59 MB.
+    """
+    ref = collect_referenced(records)
+    removed = freed = 0
+    if not MEDIA.exists():
+        return 0, 0
+    for path in MEDIA.rglob("*"):
+        if not path.is_file():
+            continue
+        rel = str(path.relative_to(ROOT))
+        if rel in ref:
+            continue
+        freed += path.stat().st_size
+        path.unlink()
+        removed += 1
+    # drop directories that became empty
+    for d in sorted((p for p in MEDIA.rglob("*") if p.is_dir()),
+                    key=lambda p: -len(p.parts)):
+        try:
+            d.rmdir()
+        except OSError:
+            pass
+    return removed, freed
+
+
 def main() -> int:
     print(f"== awesome-jev-live :: media @ {STAMP} ==")
     entries_path = DATA / "entries.json"
@@ -444,6 +575,9 @@ def main() -> int:
 
     only = set(os.environ.get("MEDIA_ONLY", "").split(",")) - {""}
     max_n = int(os.environ.get("MEDIA_MAX", "0")) or len(entries)
+    # Bypass the per-repo cache. Used when the extraction logic itself changed,
+    # because then the cached record is stale even though the repo has not moved.
+    force = os.environ.get("MEDIA_FORCE", "") not in ("", "0", "false")
 
     results = dict(prior)
     processed = 0
@@ -457,7 +591,11 @@ def main() -> int:
             break
         # reuse a cached record only when the repo did not move
         cached = prior.get(e["id"])
-        if cached and cached.get("pushed_at") == e.get("pushed_at") and cached.get("image"):
+        # Cached on pushed_at alone. Requiring a found image here would mean the
+        # ~300 projects that publish no media get their README refetched on every
+        # tick, which is both slow and pointless: an unpushed repository cannot
+        # have gained an asset.
+        if not force and cached and cached.get("pushed_at") == e.get("pushed_at"):
             results[e["id"]] = cached
             continue
         try:
@@ -475,6 +613,13 @@ def main() -> int:
 
     out = {"generated_at": STAMP, "entries": results,
            "bundled_bytes": budget["bytes"], "bundled_files": budget["files"]}
+
+    removed, freed = garbage_collect(results)
+    if removed:
+        budget["bytes"] -= freed
+        out["bundled_bytes"] = budget["bytes"]
+        print(f"   gc: removed {removed} unreferenced assets ({freed / 1e6:.1f} MB)")
+
     media_path.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n")
 
     with_img = sum(1 for v in results.values() if v.get("image"))

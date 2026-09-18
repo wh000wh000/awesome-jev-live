@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T21:37:02+08:00",
+ "generated_at": "2026-09-18T21:59:55+08:00",
  "entries": {
   "gh:typesafe-ai/skills": {
    "bundled": false,
@@ -2727,7 +2727,7 @@
    "bundled": true,
    "license_ok": true,
    "license": "MIT",
-   "image": "media/eliaalberti--jev-rules/ae4048f230729427.gif",
+   "image": "media/eliaalberti--jev-rules/f714e20b0600e246.gif",
    "image_alt": "EliaAlberti/jev-rules screenshot",
    "video": {
     "state": "animated",
@@ -2740,6 +2740,7 @@
     "videos": 0,
     "external": 0
    },
+   "image_reencoded": "gif pass 1 (0.4 MB)",
    "pushed_at": "2026-09-18T13:22:28Z"
   },
   "gh:enderzcx/spire-jev": {
@@ -3243,9 +3244,11 @@
    "image": "media/rashedint32--jev-gates/3996d0153a09b158.gif",
    "image_alt": "rashedInt32/jev-gates screenshot",
    "video": {
-    "state": "file",
-    "src": "media/rashedint32--jev-gates/d9ddd128a148385e.mp4",
-    "poster": "media/rashedint32--jev-gates/3996d0153a09b158.gif"
+    "state": "animated",
+    "src": "media/rashedint32--jev-gates/464e518e8a602a0d.gif",
+    "poster": "media/rashedint32--jev-gates/3996d0153a09b158.gif",
+    "full_quality": "https://raw.githubusercontent.com/rashedInt32/jev-gates/main/demo/out/jev-gates.mp4",
+    "note": "gif pass 1 (0.0 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -3914,9 +3917,11 @@
    "image": "media/denikuchero--jev-chess-lab/93f39c2d8831bde6.gif",
    "image_alt": "denikuchero/jev-chess-lab screenshot",
    "video": {
-    "state": "file",
-    "src": "media/denikuchero--jev-chess-lab/6733e8dbce00ead3.mp4",
-    "poster": "media/denikuchero--jev-chess-lab/93f39c2d8831bde6.gif"
+    "state": "animated",
+    "src": "media/denikuchero--jev-chess-lab/5b385b4d2de02637.gif",
+    "poster": "media/denikuchero--jev-chess-lab/93f39c2d8831bde6.gif",
+    "full_quality": "https://raw.githubusercontent.com/denikuchero/jev-chess-lab/main/docs/games/01-raw/replay.mp4",
+    "note": "gif pass 1 (0.1 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -4275,9 +4280,11 @@
    "image": "",
    "image_alt": "",
    "video": {
-    "state": "file",
-    "src": "media/iammrduncan--typesafe-ai-benchmark/c90c38d76d87a2fe.mp4",
-    "poster": ""
+    "state": "animated",
+    "src": "media/iammrduncan--typesafe-ai-benchmark/3d66c620e48ff597.gif",
+    "poster": "",
+    "full_quality": "https://raw.githubusercontent.com/iammrduncan/typesafe-ai-benchmark/main/docs/media/theater-demo.mp4",
+    "note": "gif pass 1 (0.2 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -4884,9 +4891,11 @@
    "image": "media/tianyucodings--nanojev/f6e35d78f4661f20.png",
    "image_alt": "TianyuCodings/NanoJev screenshot",
    "video": {
-    "state": "file",
-    "src": "media/tianyucodings--nanojev/9ee4bfd928a28800.mp4",
-    "poster": "media/tianyucodings--nanojev/f6e35d78f4661f20.png"
+    "state": "animated",
+    "src": "media/tianyucodings--nanojev/5055af419619e7e4.gif",
+    "poster": "media/tianyucodings--nanojev/f6e35d78f4661f20.png",
+    "full_quality": "https://raw.githubusercontent.com/TianyuCodings/NanoJev/main/assets/side_by_side_maze.mp4",
+    "note": "gif pass 1 (0.3 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -4983,7 +4992,9 @@
     "state": "file",
     "src": "https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4",
     "poster": "",
-    "hotlink": true
+    "full_quality": "https://raw.githubusercontent.com/chahero/tetris-jev/main/media/jev.mp4",
+    "hotlink": true,
+    "note": "gif pass 1 (0.2 MB)"
    },
    "source": "readme+hotlink(license)",
    "candidates": {
@@ -5190,9 +5201,11 @@
    "image": "media/tirukovelamanoj--jev-plays-doom/19e3fa783e7f72e5.jpg",
    "image_alt": "tirukovelamanoj/jev-plays-doom screenshot",
    "video": {
-    "state": "file",
-    "src": "media/tirukovelamanoj--jev-plays-doom/ea0cac5593b1ef6d.mp4",
-    "poster": "media/tirukovelamanoj--jev-plays-doom/19e3fa783e7f72e5.jpg"
+    "state": "animated",
+    "src": "media/tirukovelamanoj--jev-plays-doom/8c1b0d55baf76296.gif",
+    "poster": "media/tirukovelamanoj--jev-plays-doom/19e3fa783e7f72e5.jpg",
+    "full_quality": "https://raw.githubusercontent.com/tirukovelamanoj/jev-plays-doom/main/docs/jev-doom.mp4",
+    "note": "gif pass 2 (2.6 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -5247,9 +5260,11 @@
    "image": "media/jkudish--jev-browser/9712e94d8402c3ec.gif",
    "image_alt": "jkudish/jev-browser screenshot",
    "video": {
-    "state": "file",
-    "src": "media/jkudish--jev-browser/23cf8f7acfef335f.mp4",
-    "poster": "media/jkudish--jev-browser/9712e94d8402c3ec.gif"
+    "state": "animated",
+    "src": "media/jkudish--jev-browser/b4ae7fc04353e74c.gif",
+    "poster": "media/jkudish--jev-browser/9712e94d8402c3ec.gif",
+    "full_quality": "https://raw.githubusercontent.com/jkudish/jev-browser/main/assets/github-demo.mp4",
+    "note": "gif pass 1 (0.4 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -5685,9 +5700,11 @@
    "image": "media/sightmap--jev-turbo/80ba196d00024a03.gif",
    "image_alt": "sightmap/jev-turbo screenshot",
    "video": {
-    "state": "file",
-    "src": "media/sightmap--jev-turbo/43d98ba1580eee69.mp4",
-    "poster": "media/sightmap--jev-turbo/80ba196d00024a03.gif"
+    "state": "animated",
+    "src": "media/sightmap--jev-turbo/ad7a1ccc23e034dc.gif",
+    "poster": "media/sightmap--jev-turbo/80ba196d00024a03.gif",
+    "full_quality": "https://raw.githubusercontent.com/sightmap/jev-turbo/main/docs/demo.mp4",
+    "note": "gif pass 1 (0.4 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -5781,9 +5798,11 @@
    "image": "media/browser-use--jev-ultrafast/3ba041d1c574f62a.gif",
    "image_alt": "browser-use/jev-ultrafast screenshot",
    "video": {
-    "state": "file",
-    "src": "media/browser-use--jev-ultrafast/dcc8b24fd0db56bd.mp4",
-    "poster": "media/browser-use--jev-ultrafast/3ba041d1c574f62a.gif"
+    "state": "animated",
+    "src": "media/browser-use--jev-ultrafast/d3c9791c1ce6e146.gif",
+    "poster": "media/browser-use--jev-ultrafast/3ba041d1c574f62a.gif",
+    "full_quality": "https://raw.githubusercontent.com/browser-use/jev-ultrafast/main/docs/demo.mp4",
+    "note": "gif pass 1 (0.3 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -6221,7 +6240,9 @@
     "state": "file",
     "src": "https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov",
     "poster": "",
-    "hotlink": true
+    "full_quality": "https://raw.githubusercontent.com/daseinlabs/open-jev/main/docs/media/doom-recording.mov",
+    "hotlink": true,
+    "note": "gif pass 1 (2.3 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -6444,7 +6465,9 @@
     "state": "file",
     "src": "https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4",
     "poster": "",
-    "hotlink": true
+    "full_quality": "https://raw.githubusercontent.com/hqman/JevScout/main/assets/jev_job.mp4",
+    "hotlink": true,
+    "note": "gif pass 1 (1.2 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -6861,7 +6884,9 @@
     "state": "file",
     "src": "https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4",
     "poster": "",
-    "hotlink": true
+    "full_quality": "https://raw.githubusercontent.com/kentaro/jev-shogi/main/games/20260918-214930-skill-20/game.mp4",
+    "hotlink": true,
+    "note": "gif pass 1 (0.2 MB)"
    },
    "source": "readme",
    "candidates": {
@@ -7269,6 +7294,6 @@
    "pushed_at": "2026-09-18T10:38:08Z"
   }
  },
- "bundled_bytes": 48683222,
- "bundled_files": 75
+ "bundled_bytes": 44422353,
+ "bundled_files": 0
 }
