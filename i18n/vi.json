@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "Thêm trong danh mục này"
   },
   "categories": {
     "official-sdk": "SDK chính thức và công cụ cho nhà phát triển",

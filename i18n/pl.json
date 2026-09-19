@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "Więcej w tej kategorii"
   },
   "categories": {
     "official-sdk": "Oficjalne zestawy SDK i narzędzia dla programistów",

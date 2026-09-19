@@ -259,3 +259,32 @@
 - `+` [Zogrus/jev-technical-term](https://github.com/Zogrus/jev-technical-term) — inferred / media-discussions — ⭐0
 - `+` [immanuelsavio/jev-experiment](https://github.com/immanuelsavio/jev-experiment) — inferred / routing-guardrails — ⭐0
 - …另有 46 条新增
+
+## 2026-09-19T12:17:06+08:00
+- 收录总数 **497**；本 tick 新增 **65**
+- `+` [vinilana/jev-gateway](https://github.com/vinilana/jev-gateway) — inferred / routing-guardrails — ⭐15
+- `+` [jon-devlapaz/jev-me](https://github.com/jon-devlapaz/jev-me) — inferred / media-discussions — ⭐9
+- `+` [logan-markewich/jeff](https://github.com/logan-markewich/jeff) — inferred / media-discussions — ⭐8
+- `+` [manifoldor/xtags](https://github.com/manifoldor/xtags) — inferred / media-discussions — ⭐7
+- `+` [collapseindex/dinostomp](https://github.com/collapseindex/dinostomp) — inferred / routing-guardrails — ⭐5
+- `+` [AbdelStark/heist-one](https://github.com/AbdelStark/heist-one) — observed / research-models — ⭐4
+- `+` [Inventor of ChatGPT and RLHF Launches Typesafe.ai](https://news.ycombinator.com/item?id=49763045) — observed / media-discussions — ⭐3
+- `+` [buluoray/JevOnly](https://github.com/buluoray/JevOnly) — inferred / agent-tooling — ⭐2
+- `+` [phureewat29/jev-got](https://github.com/phureewat29/jev-got) — inferred / apps-demos — ⭐1
+- `+` [nrdz-labs/fast-jev-opencode](https://github.com/nrdz-labs/fast-jev-opencode) — inferred / agent-tooling — ⭐1
+- `+` [litshing/hermes-jev-plugins](https://github.com/litshing/hermes-jev-plugins) — inferred / agent-tooling — ⭐0
+- `+` [moguone/jev-lab](https://github.com/moguone/jev-lab) — observed / evaluation — ⭐0
+- `+` [da-vinci-noob/pi-jev-model-router](https://github.com/da-vinci-noob/pi-jev-model-router) — inferred / routing-guardrails — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / media-discussions — ⭐0
+- `+` [MrDiamondBallz/jev-agent-integration](https://github.com/MrDiamondBallz/jev-agent-integration) — inferred / community-sdk — ⭐0
+- `+` [octanevz/jev-playground-openrouter](https://github.com/octanevz/jev-playground-openrouter) — inferred / routing-guardrails — ⭐0
+- `+` [kuldeepsinh19/jev-decision-gateway](https://github.com/kuldeepsinh19/jev-decision-gateway) — inferred / agent-tooling — ⭐0
+- `+` [shivanathd/jev-playground](https://github.com/shivanathd/jev-playground) — inferred / routing-guardrails — ⭐0
+- `+` [uehaj/jev-semgrep](https://github.com/uehaj/jev-semgrep) — inferred / media-discussions — ⭐0
+- `+` [kyledickey/jev-go](https://github.com/kyledickey/jev-go) — observed / community-sdk — ⭐0
+- `+` [nak1b/jev-experiments](https://github.com/nak1b/jev-experiments) — inferred / media-discussions — ⭐0
+- `+` [jimmyhealer/jev-semantic-explorer](https://github.com/jimmyhealer/jev-semantic-explorer) — inferred / agent-tooling — ⭐0
+- `+` [okooo5km/jev](https://github.com/okooo5km/jev) — inferred / community-sdk — ⭐0
+- `+` [luw2007/omp-jev-extensions](https://github.com/luw2007/omp-jev-extensions) — inferred / agent-tooling — ⭐0
+- `+` [ThyFriendlyFox/jev-triage](https://github.com/ThyFriendlyFox/jev-triage) — inferred / routing-guardrails — ⭐0
+- …另有 40 条新增

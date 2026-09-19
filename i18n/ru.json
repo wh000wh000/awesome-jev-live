@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "Больше в этой категории"
   },
   "categories": {
     "official-sdk": "Официальные SDK и инструменты разработчика",

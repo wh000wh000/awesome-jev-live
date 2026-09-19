@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "Bu kategoride daha fazla"
   },
   "categories": {
     "official-sdk": "Resmî SDK'lar ve geliştirici araçları",

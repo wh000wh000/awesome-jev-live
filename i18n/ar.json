@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "المزيد في هذه الفئة"
   },
   "categories": {
     "official-sdk": "أدوات التطوير الرسمية (SDK)",

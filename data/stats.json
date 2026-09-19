@@ -1,39 +1,40 @@
 {
- "generated_at": "2026-09-19T10:17:00+08:00",
- "total": 488,
- "new_this_tick": 71,
+ "generated_at": "2026-09-19T12:17:06+08:00",
+ "total": 497,
+ "new_this_tick": 65,
  "by_category": {
   "official-sdk": 6,
   "community-sdk": 74,
-  "agent-tooling": 144,
-  "routing-guardrails": 48,
-  "evaluation": 39,
-  "research-models": 19,
-  "apps-demos": 42,
-  "media-discussions": 116
+  "agent-tooling": 147,
+  "routing-guardrails": 54,
+  "evaluation": 38,
+  "research-models": 21,
+  "apps-demos": 40,
+  "media-discussions": 117
  },
  "by_evidence": {
   "official": 6,
-  "observed": 105,
-  "inferred": 352,
+  "observed": 107,
+  "inferred": 359,
   "unverified": 25
  },
  "by_tier": {
   "official": 6,
-  "community": 482
+  "community": 491
  },
  "by_language": {
-  "Python": 157,
-  "TypeScript": 136,
+  "Python": 162,
+  "TypeScript": 139,
   "JavaScript": 73,
-  "Rust": 13,
-  "Go": 13,
-  "HTML": 8,
+  "Go": 12,
+  "Rust": 11,
+  "HTML": 10,
+  "PHP": 4,
   "Jupyter": 3,
   "Elixir": 3,
   "Ruby": 3,
   "Shell": 3,
-  "PHP": 3,
+  "CSS": 3,
   "Java": 2,
   "Swift": 2,
   "C#": 1,
@@ -44,16 +45,13 @@
   "Nushell": 1,
   "TeX": 1,
   "Dart": 1,
-  "CSS": 1,
   "Lex": 1,
-  "C++": 1,
-  "Scala": 1,
   "Astro": 1,
   "Emacs Lisp": 1,
   "OpenSCAD": 1
  },
- "repos": 464,
+ "repos": 474,
  "models": 2,
- "discussions": 21,
- "total_stars": 18255
+ "discussions": 20,
+ "total_stars": 18877
 }

@@ -50,6 +50,17 @@ LANGS = [
 
 EVIDENCE_ORDER = ["official", "observed", "inferred", "unverified"]
 
+# A README is capped at roughly 512 KB by GitHub, and this list grows with the
+# ecosystem, so the page cannot hold an unbounded number of full cards. Thai
+# crossed 485 KB at 530 entries and the audit stopped the publish -- correctly,
+# because the alternative was a page that silently stops rendering.
+#
+# The head of each category keeps its full card, with its image and recording.
+# The tail keeps a one-line entry, so every project still appears and is still
+# clickable; what it loses is the media block. That is a real trade and it is
+# the only one that bounds the page without dropping projects.
+MAX_FULL_CARDS_PER_CATEGORY = 24
+
 CATEGORY_ORDER = [
     "official-sdk", "community-sdk", "agent-tooling", "routing-guardrails",
     "evaluation", "research-models", "apps-demos", "media-discussions",
@@ -494,8 +505,25 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
         if t.get("category_blurbs", {}).get(cat):
             L.append(t["category_blurbs"][cat])
             L.append("")
-        for i, e in enumerate(rows, 1):
+        head, tail = rows[:MAX_FULL_CARDS_PER_CATEGORY], rows[MAX_FULL_CARDS_PER_CATEGORY:]
+        for i, e in enumerate(head, 1):
             L.append(render_card(e, media, t, i))
+
+        if tail:
+            L.append("<details>")
+            L.append(f"<summary><b>{esc(labels['more_in_category'])}</b> "
+                     f"<sub>· {len(tail)}</sub></summary>")
+            L.append("")
+            for e in tail:
+                summary = re.sub(r"([\[\]])", r"\\\1",
+                                 (e.get("summary") or "").strip().replace("\n", " "))
+                if len(summary) > 110:
+                    summary = summary[:107].rstrip() + "…"
+                suffix = f" — {esc(summary)}" if summary else ""
+                L.append(f"- [{md_escape(e['name'])}]({e['url']}){suffix}")
+            L.append("")
+            L.append("</details>")
+            L.append("")
 
     # language coverage
     L.append(f'<a id="{labels["by_language_anchor"]}"></a>')

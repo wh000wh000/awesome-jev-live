@@ -778,13 +778,26 @@ def main() -> int:
             print(f"   .. {processed} processed, {budget['bytes'] / 1e6:.1f} MB bundled")
         time.sleep(0.25)
 
-    out = {"generated_at": STAMP, "entries": results,
-           "bundled_bytes": budget["bytes"], "bundled_files": budget["files"]}
+    # Drop records whose entry is no longer listed. Files were already collected
+    # against the current records, but the records themselves accumulated: 792 of
+    # them for 497 entries, all retained forever.
+    live_ids = {e["id"] for e in entries}
+    stale = [k for k in results if k not in live_ids]
+    for k in stale:
+        results.pop(k, None)
+    if stale:
+        print(f"   pruned {len(stale)} media records for entries no longer listed")
 
     removed, freed = garbage_collect(results)
+    # Report what is actually on disk. The running tally cannot be authoritative
+    # once files have been pruned, and an inflated number is worse than none.
+    on_disk = sum(f.stat().st_size for f in MEDIA.rglob("*") if f.is_file())
+    budget["bytes"] = on_disk
+
+    out = {"generated_at": STAMP, "entries": results,
+           "bundled_bytes": on_disk,
+           "bundled_files": sum(1 for f in MEDIA.rglob("*") if f.is_file())}
     if removed:
-        budget["bytes"] -= freed
-        out["bundled_bytes"] = budget["bytes"]
         print(f"   gc: removed {removed} unreferenced assets ({freed / 1e6:.1f} MB)")
 
     media_path.write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n")

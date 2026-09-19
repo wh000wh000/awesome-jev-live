@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "Lainnya di kategori ini"
   },
   "categories": {
     "official-sdk": "SDK resmi dan alat pengembang",

@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "このカテゴリのその他"
   },
   "categories": {
     "official-sdk": "公式 SDK と開発者ツール",

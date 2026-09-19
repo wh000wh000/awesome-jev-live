@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "이 분류의 나머지"
   },
   "categories": {
     "official-sdk": "공식 SDK와 개발자 도구",

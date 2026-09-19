@@ -65,7 +65,8 @@
       "observed": "observed",
       "inferred": "inferred",
       "unverified": "unverified"
-    }
+    },
+    "more_in_category": "本分類更多項目"
   },
   "categories": {
     "official-sdk": "官方 SDK 與開發者工具",
