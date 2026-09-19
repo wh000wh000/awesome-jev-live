@@ -129,6 +129,45 @@ def bullets_as_table(bullets: list[str]) -> list[str]:
     return md_table(["", ""], rows)
 
 
+# Sentence terminator per language, for the compact list entries. A one-line
+# entry must end with proper punctuation to satisfy the manifest, and appending
+# an ASCII period to a Chinese sentence reads wrong.
+SENTENCE_END = {"zh-CN": "。", "zh-TW": "。", "ja": "。"}
+ALREADY_ENDED = ".!?。！？…:;"
+
+
+def as_list_description(summary: str, lang: str, limit: int = 110) -> str:
+    """
+    Shape an upstream description into a manifest-legal list item description.
+
+    Three constraints, each found by running the linter rather than guessed:
+    it must end with sentence punctuation, it must not be cut mid-quote (an
+    unclosed quote is a lint error and looks broken), and it must stay short.
+    """
+    text = re.sub(r"\s+", " ", (summary or "").strip())
+    text = re.sub(r"([\[\]])", r"\\\1", text)          # neutralise injected markdown
+    if len(text) > limit:
+        text = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:—-")
+        # A truncated quote or bracket reads as broken. Symmetric delimiters must
+        # be tested for parity: comparing count('"') > count('"') is always
+        # false, which is how an unclosed quote survived into the published page.
+        for sym in ('"', "'"):
+            if text.count(sym) % 2:
+                text = text[: text.rfind(sym)].rstrip()
+        for opener, closer in (("(", ")"), ("[", "]")):
+            while text.count(opener) > text.count(closer) and opener in text:
+                text = text[: text.rfind(opener)].rstrip()
+    # The linter accepts only ASCII sentence punctuation, and an upstream
+    # description may be Chinese while the README is English, so a CJK
+    # terminator is normalised here. List-item convention, not a rewrite.
+    text = text.rstrip()
+    if text.endswith(("。", "！", "？")):
+        text = text[:-1] + {"。": ".", "！": "!", "？": "?"}[text[-1]]
+    if text and text[-1] not in ALREADY_ENDED:
+        text += SENTENCE_END.get(lang, ".")
+    return text
+
+
 def gh_slug(text: str) -> str:
     """
     Reproduce GitHub's heading-anchor algorithm closely enough to link to it.
@@ -515,11 +554,10 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
                      f"<sub>· {len(tail)}</sub></summary>")
             L.append("")
             for e in tail:
-                summary = re.sub(r"([\[\]])", r"\\\1",
-                                 (e.get("summary") or "").strip().replace("\n", " "))
-                if len(summary) > 110:
-                    summary = summary[:107].rstrip() + "…"
-                suffix = f" — {esc(summary)}" if summary else ""
+                # The manifest requires `- [name](url) - description`, with a
+                # plain hyphen and a properly terminated description.
+                desc = as_list_description(e.get("summary") or "", t["lang"])
+                suffix = f" - {esc(desc)}" if desc else ""
                 L.append(f"- [{md_escape(e['name'])}]({e['url']}){suffix}")
             L.append("")
             L.append("</details>")
