@@ -288,3 +288,32 @@
 - `+` [luw2007/omp-jev-extensions](https://github.com/luw2007/omp-jev-extensions) — inferred / agent-tooling — ⭐0
 - `+` [ThyFriendlyFox/jev-triage](https://github.com/ThyFriendlyFox/jev-triage) — inferred / routing-guardrails — ⭐0
 - …另有 40 条新增
+
+## 2026-09-19T13:18:58+08:00
+- 收录总数 **467**；本 tick 新增 **29**
+- `+` [notque/vexjoy-agent](https://github.com/notque/vexjoy-agent) — observed / agent-tooling — ⭐420
+- `+` [zhuyansen/jev-search-rerank-eval](https://github.com/zhuyansen/jev-search-rerank-eval) — inferred / agent-tooling — ⭐4
+- `+` [kcb-swe-gh/typesafe-ai-jev](https://github.com/kcb-swe-gh/typesafe-ai-jev) — inferred / community-sdk — ⭐2
+- `+` [oxwen11/awesome-jev](https://github.com/oxwen11/awesome-jev) — inferred / media-discussions — ⭐2
+- `+` [socai-io/jev-social](https://github.com/socai-io/jev-social) — inferred / community-sdk — ⭐2
+- `+` [Ashadeepa/typesafe-jev-model-use-cases](https://github.com/Ashadeepa/typesafe-jev-model-use-cases) — observed / apps-demos — ⭐1
+- `+` [fatelei/jev-compact](https://github.com/fatelei/jev-compact) — inferred / community-sdk — ⭐1
+- `+` [RahulBalakavi/claude-code-jev](https://github.com/RahulBalakavi/claude-code-jev) — inferred / agent-tooling — ⭐1
+- `+` [Ashadeepa/typesafe-showcase](https://github.com/Ashadeepa/typesafe-showcase) — observed / apps-demos — ⭐0
+- `+` [davidrydberg/git-judge-jev](https://github.com/davidrydberg/git-judge-jev) — inferred / agent-tooling — ⭐0
+- `+` [Adilmp/does-jev-confidence-mean-anything](https://github.com/Adilmp/does-jev-confidence-mean-anything) — inferred / evaluation — ⭐0
+- `+` [yikangy873-gif/jev-desktop](https://github.com/yikangy873-gif/jev-desktop) — inferred / agent-tooling — ⭐0
+- `+` [hemanth/jev-chess](https://github.com/hemanth/jev-chess) — inferred / evaluation — ⭐0
+- `+` [rashedInt32/jev-lens](https://github.com/rashedInt32/jev-lens) — inferred / agent-tooling — ⭐0
+- `+` [2023Anita/codex-jev-assistant](https://github.com/2023Anita/codex-jev-assistant) — inferred / agent-tooling — ⭐0
+- `+` [CorieW/JevExplore](https://github.com/CorieW/JevExplore) — inferred / other — ⭐0
+- `+` [archi-max/jev-civ6](https://github.com/archi-max/jev-civ6) — observed / agent-tooling — ⭐0
+- `+` [yshraj/jev-traffic-race](https://github.com/yshraj/jev-traffic-race) — inferred / apps-demos — ⭐0
+- `+` [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) — inferred / apps-demos — ⭐0
+- `+` [jiayao/jev-grep](https://github.com/jiayao/jev-grep) — inferred / other — ⭐0
+- `+` [riposta/pi-jev](https://github.com/riposta/pi-jev) — inferred / agent-tooling — ⭐0
+- `+` [ai-dev-2024/JevLab](https://github.com/ai-dev-2024/JevLab) — inferred / evaluation — ⭐0
+- `+` [inematds/jev](https://github.com/inematds/jev) — inferred / other — ⭐0
+- `+` [inematds/jev-curso](https://github.com/inematds/jev-curso) — inferred / other — ⭐0
+- `+` [xfgong/dsh-jev-loop](https://github.com/xfgong/dsh-jev-loop) — inferred / agent-tooling — ⭐0
+- …另有 4 条新增
