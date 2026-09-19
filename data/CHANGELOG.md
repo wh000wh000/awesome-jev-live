@@ -433,3 +433,32 @@
 - `+` [tubone24/jev-practice-speed](https://github.com/tubone24/jev-practice-speed) — inferred / other — ⭐0
 - `+` [hulryung/jev-testbed](https://github.com/hulryung/jev-testbed) — inferred / other — ⭐0
 - …另有 31 条新增
+
+## 2026-09-20T00:38:15+08:00
+- 收录总数 **548**；本 tick 新增 **71**
+- `+` [OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger) — observed / community-sdk — ⭐11726
+- `+` [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) — inferred / community-sdk — ⭐24
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐15
+- `+` [yikangy873-gif/jev-desktop](https://github.com/yikangy873-gif/jev-desktop) — inferred / agent-tooling — ⭐8
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐7
+- `+` [rajdhakad9826/jev-router](https://github.com/rajdhakad9826/jev-router) — inferred / routing-guardrails — ⭐2
+- `+` [miniLV/Jev-Auto-Router](https://github.com/miniLV/Jev-Auto-Router) — inferred / agent-tooling — ⭐2
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐1
+- `+` [ilyamk/jev-gmail-ai-spam-filter-and-labeling](https://github.com/ilyamk/jev-gmail-ai-spam-filter-and-labeling) — inferred / routing-guardrails — ⭐1
+- `+` [jzhg6/jev-embodied-media-agent](https://github.com/jzhg6/jev-embodied-media-agent) — inferred / agent-tooling — ⭐1
+- `+` [savka777/jev-use](https://github.com/savka777/jev-use) — inferred / agent-tooling — ⭐1
+- `+` [imMamdouhaboammar/fable-jev](https://github.com/imMamdouhaboammar/fable-jev) — inferred / agent-tooling — ⭐1
+- `+` [XieChengYuan/jev-playground](https://github.com/XieChengYuan/jev-playground) — inferred / agent-tooling — ⭐1
+- `+` [fatwang2/jev-review-action](https://github.com/fatwang2/jev-review-action) — inferred / media-discussions — ⭐1
+- `+` [nexibeo/jev-browser-control](https://github.com/nexibeo/jev-browser-control) — inferred / community-sdk — ⭐0
+- `+` [kong75/jev-directory](https://github.com/kong75/jev-directory) — inferred / media-discussions — ⭐0
+- `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐0
+- `+` [Foshowithit/jev-rcos-study](https://github.com/Foshowithit/jev-rcos-study) — inferred / routing-guardrails — ⭐0
+- `+` [AliAkbariAlashti/hands-on-jev](https://github.com/AliAkbariAlashti/hands-on-jev) — inferred / other — ⭐0
+- `+` [laurentkempe/TypeSafeJevPlayground](https://github.com/laurentkempe/TypeSafeJevPlayground) — inferred / official-sdk — ⭐0
+- `+` [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) — inferred / other — ⭐0
+- `+` [ourines/hermes-jev](https://github.com/ourines/hermes-jev) — inferred / agent-tooling — ⭐0
+- `+` [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) — inferred / agent-tooling — ⭐0
+- `+` [larguesa/jev-search](https://github.com/larguesa/jev-search) — inferred / community-sdk — ⭐0
+- `+` [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) — inferred / agent-tooling — ⭐0
+- …另有 46 条新增
