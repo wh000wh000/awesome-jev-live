@@ -520,3 +520,32 @@
 - `+` [jaysonsantos/sudoku-jev](https://github.com/jaysonsantos/sudoku-jev) — inferred / routing-guardrails — ⭐0
 - `+` [jonymusky/jev-browser-qa](https://github.com/jonymusky/jev-browser-qa) — inferred / community-sdk — ⭐0
 - …另有 35 条新增
+
+## 2026-09-20T07:26:43+08:00
+- 收录总数 **568**；本 tick 新增 **51**
+- `+` [everyai-com/jev-directory](https://github.com/everyai-com/jev-directory) — inferred / media-discussions — ⭐10
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐3
+- `+` [EugeneBoondock/jevsql](https://github.com/EugeneBoondock/jevsql) — inferred / community-sdk — ⭐3
+- `+` [atarikcaliskan/jevball](https://github.com/atarikcaliskan/jevball) — inferred / apps-demos — ⭐3
+- `+` [realZachi/jevtest](https://github.com/realZachi/jevtest) — inferred / evaluation — ⭐3
+- `+` [rolottr/x-jev-classifier](https://github.com/rolottr/x-jev-classifier) — inferred / other — ⭐1
+- `+` [rorshopping/jev-browser-local](https://github.com/rorshopping/jev-browser-local) — inferred / evaluation — ⭐1
+- `+` [mohamedkuch/jev-dor](https://github.com/mohamedkuch/jev-dor) — inferred / other — ⭐1
+- `+` [Barneyjm/decision-circuits](https://github.com/Barneyjm/decision-circuits) — observed / community-sdk — ⭐1
+- `+` [robokrunch/jev-physical-ai](https://github.com/robokrunch/jev-physical-ai) — inferred / evaluation — ⭐0
+- `+` [robokrunch/awesome-jev](https://github.com/robokrunch/awesome-jev) — inferred / agent-tooling — ⭐0
+- `+` [collapseindex/jev-builder](https://github.com/collapseindex/jev-builder) — inferred / apps-demos — ⭐0
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐0
+- `+` [NatersGonnaN8/talk-to-jev](https://github.com/NatersGonnaN8/talk-to-jev) — inferred / routing-guardrails — ⭐0
+- `+` [daneknudsen8-maker/jev-voice-control](https://github.com/daneknudsen8-maker/jev-voice-control) — inferred / apps-demos — ⭐0
+- `+` [robwent/jev-tic-tac-toe](https://github.com/robwent/jev-tic-tac-toe) — inferred / evaluation — ⭐0
+- `+` [Alexandre-Borghi/jev-ncr-demo](https://github.com/Alexandre-Borghi/jev-ncr-demo) — inferred / apps-demos — ⭐0
+- `+` [sathariels/jev-guard](https://github.com/sathariels/jev-guard) — inferred / routing-guardrails — ⭐0
+- `+` [bravesfan133/minuspod-jev-proxy](https://github.com/bravesfan133/minuspod-jev-proxy) — inferred / community-sdk — ⭐0
+- `+` [jkalend/jev-realms](https://github.com/jkalend/jev-realms) — inferred / other — ⭐0
+- `+` [buberlo/jev-trader](https://github.com/buberlo/jev-trader) — inferred / evaluation — ⭐0
+- `+` [ismailakdag/typesafe-jev](https://github.com/ismailakdag/typesafe-jev) — inferred / other — ⭐0
+- `+` [Talya1412/jev-harness](https://github.com/Talya1412/jev-harness) — inferred / community-sdk — ⭐0
+- `+` [integralmarketingmx/jev-latam-lead-triage](https://github.com/integralmarketingmx/jev-latam-lead-triage) — inferred / routing-guardrails — ⭐0
+- `+` [jbellsolutions/jev-agent-kit](https://github.com/jbellsolutions/jev-agent-kit) — inferred / agent-tooling — ⭐0
+- …另有 26 条新增
