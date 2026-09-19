@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-09-19T17:52:18+08:00",
- "total": 512,
- "new_this_tick": 62,
+ "generated_at": "2026-09-19T20:06:43+08:00",
+ "total": 532,
+ "new_this_tick": 55,
  "by_category": {
   "official-sdk": 7,
-  "community-sdk": 80,
-  "agent-tooling": 163,
-  "routing-guardrails": 64,
-  "evaluation": 42,
-  "research-models": 19,
-  "apps-demos": 49,
+  "community-sdk": 84,
+  "agent-tooling": 171,
+  "routing-guardrails": 63,
+  "evaluation": 50,
+  "research-models": 20,
+  "apps-demos": 46,
   "media-discussions": 41,
-  "other": 47
+  "other": 50
  },
  "by_evidence": {
   "official": 6,
-  "inferred": 364,
-  "observed": 116,
-  "unverified": 26
+  "inferred": 376,
+  "observed": 123,
+  "unverified": 27
  },
  "by_tier": {
   "official": 6,
-  "community": 506
+  "community": 526
  },
  "by_language": {
-  "Python": 166,
-  "TypeScript": 146,
-  "JavaScript": 69,
-  "HTML": 13,
-  "Go": 12,
-  "Rust": 10,
+  "Python": 177,
+  "TypeScript": 153,
+  "JavaScript": 66,
+  "Go": 14,
+  "Rust": 12,
+  "HTML": 10,
   "PHP": 6,
+  "Ruby": 4,
   "Java": 3,
-  "Ruby": 3,
   "Shell": 3,
   "Jupyter": 2,
   "Elixir": 2,
@@ -47,12 +47,13 @@
   "Kotlin": 1,
   "Nushell": 1,
   "TeX": 1,
+  "R": 1,
   "Astro": 1,
   "Lex": 1,
   "OpenSCAD": 1
  },
- "repos": 486,
+ "repos": 505,
  "models": 2,
- "discussions": 23,
- "total_stars": 22114
+ "discussions": 24,
+ "total_stars": 23017
 }
