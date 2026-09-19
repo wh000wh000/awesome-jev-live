@@ -201,3 +201,32 @@
 - `+` [knowlet/jev-agentworld-web-simulator](https://github.com/knowlet/jev-agentworld-web-simulator) — observed / agent-tooling — ⭐0
 - `+` [rorshopping/jev-browser-local](https://github.com/rorshopping/jev-browser-local) — inferred / evaluation — ⭐0
 - …另有 39 条新增
+
+## 2026-09-19T08:08:22+08:00
+- 收录总数 **477**；本 tick 新增 **54**
+- `+` [tamaratran/jev-pruner](https://github.com/tamaratran/jev-pruner) — inferred / agent-tooling — ⭐10
+- `+` [jon-devlapaz/jev-me](https://github.com/jon-devlapaz/jev-me) — inferred / media-discussions — ⭐9
+- `+` [JackZeng/Jev_apps](https://github.com/JackZeng/Jev_apps) — inferred / media-discussions — ⭐6
+- `+` [sysadarsh/zerosweep](https://github.com/sysadarsh/zerosweep) — inferred / routing-guardrails — ⭐3
+- `+` [What is a System One model and why we need it?](https://news.ycombinator.com/item?id=49760138) — observed / media-discussions — ⭐2
+- `+` [Dharundp6/jev-carryforward](https://github.com/Dharundp6/jev-carryforward) — inferred / agent-tooling — ⭐1
+- `+` [charleeagni/JevPiano](https://github.com/charleeagni/JevPiano) — inferred / apps-demos — ⭐1
+- `+` [Z761293629/pi-jev-helm](https://github.com/Z761293629/pi-jev-helm) — inferred / media-discussions — ⭐1
+- `+` [chahero/driving-jev](https://github.com/chahero/driving-jev) — inferred / apps-demos — ⭐0
+- `+` [Btheriot83/jev-academy](https://github.com/Btheriot83/jev-academy) — inferred / media-discussions — ⭐0
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐0
+- `+` [KiishiAD/jev-loan-identity-benchmark](https://github.com/KiishiAD/jev-loan-identity-benchmark) — inferred / evaluation — ⭐0
+- `+` [ickma2311/jev-baselines-eval](https://github.com/ickma2311/jev-baselines-eval) — inferred / evaluation — ⭐0
+- `+` [dizk/pi-jev-lens](https://github.com/dizk/pi-jev-lens) — inferred / agent-tooling — ⭐0
+- `+` [kazuhideoki/jev-search](https://github.com/kazuhideoki/jev-search) — inferred / media-discussions — ⭐0
+- `+` [jdhornsby/typesafe-jev](https://github.com/jdhornsby/typesafe-jev) — inferred / media-discussions — ⭐0
+- `+` [gpazo/jev-vphone-cli](https://github.com/gpazo/jev-vphone-cli) — observed / community-sdk — ⭐0
+- `+` [thisisjorge/jev-control-room](https://github.com/thisisjorge/jev-control-room) — inferred / media-discussions — ⭐0
+- `+` [jolehuit/jev-downloads-sorter](https://github.com/jolehuit/jev-downloads-sorter) — inferred / routing-guardrails — ⭐0
+- `+` [sebastianbugal/jev](https://github.com/sebastianbugal/jev) — inferred / agent-tooling — ⭐0
+- `+` [ImXforever/typesafe-jev-1.13](https://github.com/ImXforever/typesafe-jev-1.13) — observed / media-discussions — ⭐0
+- `+` [llmer/jev-goldwrong](https://github.com/llmer/jev-goldwrong) — inferred / media-discussions — ⭐0
+- `+` [aamanlamba/jev-explore](https://github.com/aamanlamba/jev-explore) — observed / media-discussions — ⭐0
+- `+` [andyholst/hermes-typesafe-jev](https://github.com/andyholst/hermes-typesafe-jev) — inferred / agent-tooling — ⭐0
+- `+` [agentik-os/jev-radar](https://github.com/agentik-os/jev-radar) — inferred / media-discussions — ⭐0
+- …另有 29 条新增
