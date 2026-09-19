@@ -98,7 +98,7 @@ def edition_path(code: str) -> pathlib.Path:
 # shown at all. A single top-N cap pushed most of the 97 entries that publish a
 # screenshot into the one-line tail, where their image could not appear.
 FULL_CARDS_BY_RANK = 12
-MAX_FULL_CARDS_PER_CATEGORY = 24
+MAX_FULL_CARDS_PER_CATEGORY = 34
 
 # Must stay in step with the same list in curate.py. When it drifted, an entire
 # category rendered nothing and 72 entries silently vanished from the page.

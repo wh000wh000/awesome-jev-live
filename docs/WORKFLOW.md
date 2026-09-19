@@ -169,7 +169,14 @@ The honest statement is not that those entries are old, it is that they are
 empty.
 
 The freed budget goes to the entries that remain: cards are given tables, and
-the full-card allowance now covers every entry that has a screenshot to show.
+the full-card allowance (12 by rank, plus up to 34 that have a screenshot) now
+shows the image for 93 of the 95 entries that publish one. The largest edition
+is 378 KB, against the ~512 KB ceiling.
+
+Correcting an earlier overstatement: the first version of this change claimed
+the largest edition was smaller than before. It is not. It went from 335 KB to
+378 KB. What the pruning bought is fewer entries (497 to 452), 45 of them
+removed, and richer cards for the rest -- not a smaller page.
 
 ## Known limitations
 

@@ -233,8 +233,11 @@ def check_readmes(present: list[str]) -> None:
     # README grows with the ecosystem. Crossing that line does not produce an
     # error anywhere — the page simply stops rendering — so it is asserted here
     # while there is still room to react.
+    # GitHub stops rendering a README past roughly 512 KB. The warn band is set
+    # to leave a real gap before the hard stop rather than firing at 70% of the
+    # limit, which trains a reader to ignore it.
     SIZE_HARD = 480_000
-    SIZE_WARN = 360_000
+    SIZE_WARN = 430_000
     biggest = 0
     for code in present:
         path = edition_file(code)

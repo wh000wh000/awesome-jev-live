@@ -17,7 +17,7 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>繁體中文</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **即時索引** · 上次同步: `2026-09-19T12:49:34+08:00` (UTC+8)
+> **即時索引** · 上次同步: `2026-09-19T12:51:10+08:00` (UTC+8)
 > · 條目: **452** · 本輪新增: **0** · 實作語言: **25**
 
 <sub>以下每個條目都由本儲存庫的管線收集、篩選並複查。數字與時間戳記均來自資料來源，而非手工撰寫的快照。</sub>
@@ -2154,7 +2154,396 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 114</sub></summary>
+<summary>🤖 <b><a href="https://github.com/rthomas24/jev-realtime-trading">rthomas24/jev-realtime-trading</a></b> · ⭐1 · TypeScript · 🔎 inferred · 1 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | TypeScript                                  |
+| 授權條款 | MIT                                         |
+| 擁有者   | rthomas24                                   |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **1**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+Paper trading agents on a live tape, decided every second by TypeSafe's Jev (System One). Electron desktop app.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/rthomas24--jev-realtime-trading/f27df5cca6b8e2cf.png" width="100%" alt="rthomas24/jev-realtime-trading screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/EtienneLescot/jev-router">EtienneLescot/jev-router</a></b> · HTML · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | HTML                                        |
+| 授權條款 | MIT                                         |
+| 擁有者   | EtienneLescot                               |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+Typed judgments in, control flow out: two Jev calls route a support ticket to an agent, then pick its model tier and reasoning depth.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/etiennelescot--jev-router/96217fad0b128b3e.png" width="100%" alt="EtienneLescot/jev-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/flaviusapop/jev-router">flaviusapop/jev-router</a></b> · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | JavaScript                                  |
+| 授權條款 | MIT                                         |
+| 擁有者   | flaviusapop                                 |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+Routes each turn in Claude Code, Codex, Grok and opencode to the cheapest model and reasoning depth that can finish it, using TypeSafe Jev
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/flaviusapop--jev-router/b7f868696d35b78b.png" width="100%" alt="flaviusapop/jev-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/its-panzer/jev-model-router">its-panzer/jev-model-router</a></b> · Python · 🔎 inferred · 1 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | Python                                      |
+| 授權條款 | MIT                                         |
+| 擁有者   | its-panzer                                  |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-17 |
+| 最近推送       | 2026-09-17 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+A policy router that picks the cheapest Claude model that can finish the job
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/its-panzer--jev-model-router/98819f5aaf8e6373.png" width="100%" alt="its-panzer/jev-model-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/jimmyhealer/jev-semantic-explorer">jimmyhealer/jev-semantic-explorer</a></b> · Python · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | Python                                      |
+| 授權條款 | MIT                                         |
+| 擁有者   | jimmyhealer                                 |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-19 |
+| 最近推送       | 2026-09-19 |
+| 首次收錄       | 2026-09-19 |
+
+🏷 `agent-skills` · `claude-code` · `coding-agents` · `jev` · `llm-tools` · `mcp` · `typesafe`
+
+##### 📝 摘要
+
+Stop grepping. Ask a repo where behavior is enforced. One MCP tool for coding agents.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jimmyhealer--jev-semantic-explorer/f9d2833c758298d8.gif" width="100%" alt="jimmyhealer/jev-semantic-explorer screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/jimmyhealer--jev-semantic-explorer/f9d2833c758298d8.gif" width="100%" alt="jimmyhealer/jev-semantic-explorer animation"><br><sub>動態錄影</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/Mandrilsquad1441/jev-model-router">Mandrilsquad1441/jev-model-router</a></b> · TypeScript · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | TypeScript                                  |
+| 授權條款 | MIT                                         |
+| 擁有者   | Mandrilsquad1441                            |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-19 |
+
+🏷 `ai-agents` · `claude-code` · `claude-code-plugin` · `codex` · `codex-plugin` · `jev` · `llm` · `mcp`
+
+##### 📝 摘要
+
+Pick the best AI model and reasoning effort for any task in ~1s. Plugin for Claude Code, Claude Desktop and Codex, powered by TypeSafe's Jev decision model and live OpenRouter pricing. Balance intelligence, speed and cost, or choose your priority.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/mandrilsquad1441--jev-model-router/6187e7fb04b04c08.png" width="100%" alt="Mandrilsquad1441/jev-model-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/Pinutss/jev-mcp-router">Pinutss/jev-mcp-router</a></b> · Python · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | Python                                      |
+| 授權條款 | MIT                                         |
+| 擁有者   | Pinutss                                     |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-17 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+Select relevant MCP tools under a context-token budget, without executing them.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/pinutss--jev-mcp-router/3947a2a5cc3750c8.png" width="100%" alt="Pinutss/jev-mcp-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/Pinutss/jev-plugins">Pinutss/jev-plugins</a></b> · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 授權條款 | MIT                                         |
+| 擁有者   | Pinutss                                     |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+##### 📝 摘要
+
+Cursor and Hermes marketplace for the four published JEV Labs routers.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/pinutss--jev-plugins/b3fcd72ac9e61f49.jpg" width="100%" alt="Pinutss/jev-plugins screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/tgiridhar/claude-code-jev-smart-router">tgiridhar/claude-code-jev-smart-router</a></b> · Python · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `inferred`                                  |
+| 語言     | Python                                      |
+| 授權條款 | MIT                                         |
+| 擁有者   | tgiridhar                                   |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-18 |
+
+🏷 `ai-sdlc` · `anthropic` · `claude-code` · `fastapi` · `llm-routing` · `model-routing` · `prompt-caching`
+
+##### 📝 摘要
+
+HTTP proxy for Claude Code that selects the Claude model per request to cut cost and latency. Routes on task phase and the cost of an undetected error, gated by prompt-cache arithmetic. Proof of concept.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tgiridhar--claude-code-jev-smart-router/28b9e1b2a005c7e2.png" width="100%" alt="tgiridhar/claude-code-jev-smart-router screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/DevMortimer/pi-warden">DevMortimer/pi-warden</a></b> · ⭐64 · TypeScript · ❓ unverified · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位     | 值                                          |
+| -------- | ------------------------------------------- |
+| 分類     | `Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent` |
+| 層級     | 社群                                        |
+| 證據     | `unverified`                                |
+| 語言     | TypeScript                                  |
+| 授權條款 | MIT                                         |
+| 擁有者   | DevMortimer                                 |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **64**     |
+| Fork 數        | 5          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-16 |
+| 最近推送       | 2026-09-19 |
+| 首次收錄       | 2026-09-18 |
+
+🏷 `guardrails` · `pi-extension` · `pi-package` · `typesafe`
+
+##### 📝 摘要
+
+Guardrails for Pi built on pi-typesafe that steer the agent instead of interrupting you: Jev judges irreversible and off-task tool calls, detects stuck loops, checks unverified done claims, flags slop
+
+> 💡 Guardrails that steer an agent before it acts. Demonstrates the gate pattern, where the decision is cheap enough to run on every step.
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/devmortimer--pi-warden/b8dc20ac6694613a.png" width="100%" alt="DevMortimer/pi-warden screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>本分類更多項目</b> <sub>· 104</sub></summary>
 
 - [24601/Augustus](https://github.com/24601/Augustus) - Agent skill: design judgment-assisted systems with TypeSafe Jev (System One). Maps Choice/Score/Noul onto。
 - [codaaiteam/jev-mcp](https://github.com/codaaiteam/jev-mcp) - MCP server for Jev。
@@ -2207,7 +2596,6 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 - [omni-/ask-jev](https://github.com/omni-/ask-jev) - Utilizing Jev, the RLCD-type model provided by TypeSafe AI, to independently and cheaply judge agentic coding。
 - [poponline63/hermes-jev-north-star](https://github.com/poponline63/hermes-jev-north-star) - Hermes Agent skill whose north-star gate is judged by Jev (TypeSafe System One): turn an intention into a。
 - [Ravinder82/jev-flash-router](https://github.com/Ravinder82/jev-flash-router) - open-sourced jev-flash-router: an MCP server for TypeSafe。
-- [rthomas24/jev-realtime-trading](https://github.com/rthomas24/jev-realtime-trading) - Paper trading agents on a live tape, decided every second by TypeSafe。
 - [Wang-auspicious/codex-jev-compaction](https://github.com/Wang-auspicious/codex-jev-compaction) - Jev-powered context curation for Codex. Build compact, traceable handoff context through native plugins and。
 - [wotai-dev/typesafe-jev-tools](https://github.com/wotai-dev/typesafe-jev-tools) - A Claude Code hook that asks whether the decision you are writing needs a model at all. Includes a measured。
 - [alviso/jev-precheck](https://github.com/alviso/jev-precheck) - A second signature on every write an AI agent makes into a system of record. MCP proxy: fetch the records。
@@ -2219,15 +2607,11 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 - [dizk/pi-jev-lens](https://github.com/dizk/pi-jev-lens) - pi extension that compresses large tool results before they reach the model: jev picks the view, full text。
 - [DoGMaTiiC/hermes-jev](https://github.com/DoGMaTiiC/hermes-jev) - Hermes Agent plugin: route each turn to the one skill that fits, via TypeSafe Jev on the Vercel AI Gateway.
 - [duketopceo/jev-compact](https://github.com/duketopceo/jev-compact) - Moving-highlight context compaction for agent harnesses — Jev-scored span retention, tombstone restore via MCP。
-- [EtienneLescot/jev-router](https://github.com/EtienneLescot/jev-router) - Typed judgments in, control flow out: two Jev calls route a support ticket to an agent, then pick its model。
-- [flaviusapop/jev-router](https://github.com/flaviusapop/jev-router) - Routes each turn in Claude Code, Codex, Grok and opencode to the cheapest model and reasoning depth that can。
 - [gzawadzki/jev-usecases](https://github.com/gzawadzki/jev-usecases) - TypeSafe Jev demos: Play inbox, Czajka guard, agent-card router, seed comparator, RL data triage。
 - [hamakyo/jev-mahjong-bench](https://github.com/hamakyo/jev-mahjong-bench) - Reproducible riichi mahjong benchmark for Jev, GPT, Mortal, and hybrid agents using MJAI and RiichiEnv.
 - [hangarbay/jev.mcp](https://github.com/hangarbay/jev.mcp) - One MCP server for TypeSafe&#x27;s Jev: typed, calibrated decisions instead of generated text。
-- [its-panzer/jev-model-router](https://github.com/its-panzer/jev-model-router) - A policy router that picks the cheapest Claude model that can finish the job。
 - [itsaslamopenclawdata/GrowthCompany_JevOutputs](https://github.com/itsaslamopenclawdata/GrowthCompany_JevOutputs) - Jev (TypeSafe System One) x Hermes Agent - the calibrated decision-layer playbook: 5 end-to-end use cases。
 - [jh1373/jev-search](https://github.com/jh1373/jev-search) - Search your Obsidian vault locally and offline with no API key, then rerank the top results with Jev only。
-- [jimmyhealer/jev-semantic-explorer](https://github.com/jimmyhealer/jev-semantic-explorer) - Stop grepping. Ask a repo where behavior is enforced. One MCP tool for coding agents.
 - [jmanhype/jev-dspy-lab](https://github.com/jmanhype/jev-dspy-lab) - Reproducible calibration and selective-risk benchmarks for Jev/TypeSafe decisions in DSPy workflows。
 - [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) - A UiPath coded agent with a custom PII detection guardrail on the LLM boundary, built on the TypeSafe Jev。
 - [JoacoMarc/jev-harness-router](https://github.com/JoacoMarc/jev-harness-router) - Per-turn harness router on Jev (TypeSafe): one batched call picks the model tier, tools, skill and effort。
@@ -2241,7 +2625,6 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 - [litshing/hermes-jev-plugins](https://github.com/litshing/hermes-jev-plugins) - Two Hermes Agent plugins that prune the context window and gate permanent memory with cheap System One (Jev)。
 - [luw2007/omp-jev-extensions](https://github.com/luw2007/omp-jev-extensions) - OMP / pi-coding-agent extensions that delegate acceptance gating and subagent routing to the Typesafe Jev。
 - [MahmoudAdelbghany/jev-browser](https://github.com/MahmoudAdelbghany/jev-browser) - Jev-powered browser MCP for LLM agents — ~300ms decisions, no LLM tokens in the loop. Benchmark vs Playwright。
-- [Mandrilsquad1441/jev-model-router](https://github.com/Mandrilsquad1441/jev-model-router) - Pick the best AI model and reasoning effort for any task in ~1s. Plugin for Claude Code, Claude Desktop and。
 - [micic-mihajlo/jev-tool-runner](https://github.com/micic-mihajlo/jev-tool-runner) - Jev selects developer tools; Codex handles code. MCP and Jev-first execution with measured benchmarks.
 - [minhgv/jev-mcp](https://github.com/minhgv/jev-mcp) - TypeSafe Jev MCP decision layer for coding agents and CI。
 - [mjyoke1111/jev-lab](https://github.com/mjyoke1111/jev-lab) - Real browser-agent safety evaluation: Jev versus a baseline on benign and injected tasks。
@@ -2249,15 +2632,12 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 - [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) - Cache-neutral context trimming for the pi coding agent, powered by TypeSafe Jev: long tool output cut to。
 - [Panebianco00/jev-claude](https://github.com/Panebianco00/jev-claude) - Route Claude Code。
 - [pedroknigge/mcp_jev](https://github.com/pedroknigge/mcp_jev) - Open MCP server to run TypeSafe Jev (System One) packs locally — Choice / Noul / Score for Cursor &amp; agents。
-- [Pinutss/jev-mcp-router](https://github.com/Pinutss/jev-mcp-router) - Select relevant MCP tools under a context-token budget, without executing them.
 - [Pinutss/jev-memory-selector](https://github.com/Pinutss/jev-memory-selector) - Filters an agent&#x27;s memories to fit a token budget. Local, HTTP, MCP, Docker.
-- [Pinutss/jev-plugins](https://github.com/Pinutss/jev-plugins) - Cursor and Hermes marketplace for the four published JEV Labs routers.
 - [planstack-ai/jev-tetris-benchmark](https://github.com/planstack-ai/jev-tetris-benchmark) - Reproducible Tetris decision benchmark comparing TypeSafe Jev with Claude Haiku。
 - [raj8525/universal-jev](https://github.com/raj8525/universal-jev) - Universal TypeSafe Jev Runtime Plugin &amp; MCP Server for Coding Agents。
 - [rubichandrap/hermes-jev-guard](https://github.com/rubichandrap/hermes-jev-guard) - Hermes shell hooks: Jev-based route hint, tool-risk gate, and done-check。
 - [sebastianbugal/jev](https://github.com/sebastianbugal/jev) - TypeSafe。
 - [sypherin/jev-trace-classifier](https://github.com/sypherin/jev-trace-classifier) - Application of TypeSafe Jev (noul judgment primitive) on the collusion.wiki corpus: agent vs human page。
-- [tgiridhar/claude-code-jev-smart-router](https://github.com/tgiridhar/claude-code-jev-smart-router) - HTTP proxy for Claude Code that selects the Claude model per request to cut cost and latency. Routes on task。
 - [themsquared/jev-benchmark](https://github.com/themsquared/jev-benchmark) - Reproducible benchmark for TypeSafe AI。
 - [thevibeworks/awesome-typesafe-jev](https://github.com/thevibeworks/awesome-typesafe-jev) - Curated list of projects built on TypeSafe。
 - [thumay9700/jev-plays](https://github.com/thumay9700/jev-plays) - Autonomous game agent powered by TypeSafe AI&#x27;s Jev (System One decision engine), starting with Pokémon Red.
@@ -2267,7 +2647,6 @@ Multi-drone autonomy lab demonstrating TypeSafe Jev reflex decisions with option
 - [yangzhou-chaofan/awesome-jev-prompt](https://github.com/yangzhou-chaofan/awesome-jev-prompt) - latest top 100 showcases for jev (keep updating) from x / github / latest sources。
 - [yottayoshida/jev-sscope](https://github.com/yottayoshida/jev-sscope) - Watch a Claude Code session while it runs, scored step by step by Jev on Cloudflare Workers AI。
 - [zhangxaochen/dsh-jev](https://github.com/zhangxaochen/dsh-jev) - Jev (System One decision model) plugin suite for DeepSeek Harness (dsh)。
-- [DevMortimer/pi-warden](https://github.com/DevMortimer/pi-warden) - Guardrails for Pi built on pi-typesafe that steer the agent instead of interrupting you: Jev judges。
 - [HyunjunJeon/pi-quiet-ask](https://github.com/HyunjunJeon/pi-quiet-ask) - TypeSafe Jev as the pi coding agent&#x27;s quiet decision layer。
 - [3clyp50/a0-typesafe-ai](https://github.com/3clyp50/a0-typesafe-ai) - TypeSafe AI Jev judgments for Agent Zero, with typed tools and probability cards.
 
@@ -5185,7 +5564,46 @@ Watch TypeSafe Jev make highway driving decisions. Includes live API and offline
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 19</sub></summary>
+<summary>🎮 <b><a href="https://github.com/tanayvasishtha/Slither-Me-Jev">tanayvasishtha/Slither-Me-Jev</a></b> · JavaScript · 🔎 inferred · 0 天</summary>
+
+##### 📌 基本資訊
+
+| 欄位   | 值                                 |
+| ------ | ---------------------------------- |
+| 分類   | `應用程式、遊戲、機器人與互動示範` |
+| 層級   | 社群                               |
+| 證據   | `inferred`                         |
+| 語言   | JavaScript                         |
+| 擁有者 | tanayvasishtha                     |
+
+##### 📊 資料
+
+| 指標           | 值         |
+| -------------- | ---------- |
+| Star 數        | **0**      |
+| Fork 數        | 0          |
+| 未關閉的 issue | 0          |
+| 建立時間       | 2026-09-18 |
+| 最近推送       | 2026-09-18 |
+| 首次收錄       | 2026-09-19 |
+
+##### 📝 摘要
+
+8 AI snakes, 1 human, 1 arena. Every snake is driven live by TypeSafe's Jev, making all decisions in real time
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/tanayvasishtha/Slither-Me-Jev/main/menu-screenshot.png" width="100%" alt="tanayvasishtha/Slither-Me-Jev screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
+
+<sub>由於上游未宣告再散布授權，資源直接連結至上游儲存庫。</sub>
+
+</details>
+
+<details>
+<summary><b>本分類更多項目</b> <sub>· 18</sub></summary>
 
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken。
 - [vinilana/live-jev](https://github.com/vinilana/live-jev) - 2D autonomous car simulation in the browser, driven by TypeSafe&#x27;s Jev decision model。
@@ -5203,7 +5621,6 @@ Watch TypeSafe Jev make highway driving decisions. Includes live API and offline
 - [okinaaudio/live-jev](https://github.com/okinaaudio/live-jev) - Control Ableton Live with one short sentence (Japanese / English). Summon with ⌘⇧Space, type or dictate, done.
 - [pistachiopranay/jev-synergy-screening](https://github.com/pistachiopranay/jev-synergy-screening) - Jev (TypeSafe System One) × ASReview SYNERGY abstract screening demo — Choice/Noul vs gold labels。
 - [rchovatiya88/cyber-breach-jev](https://github.com/rchovatiya88/cyber-breach-jev) - Cyber-Breach: The Jev Protocol - A tactical cyberpunk arena combat game powered by TypeSafe AI Jev System One。
-- [tanayvasishtha/Slither-Me-Jev](https://github.com/tanayvasishtha/Slither-Me-Jev) - 8 AI snakes, 1 human, 1 arena. Every snake is driven live by TypeSafe&#x27;s Jev, making all decisions in real time。
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - 🧹 Fun project: a Chrome extension that asks a tiny AI decision model (TypeSafe Jev)。
 - [sorrycc/typesafe-snake](https://github.com/sorrycc/typesafe-snake) - Snake auto-played by TypeSafe。
 
@@ -6293,4 +6710,4 @@ TypeSafe Jev controls original StarCraft shareware through keyboard and mouse wi
 
 <sub>獨立社群專案。與 TypeSafe AI 無隸屬關係，未獲其背書或審閱。產品行為、定價、限制與模型別名均可能隨時變更；任何關鍵依賴請以官方文件為準。資源歸其上游專案所有，僅在授權允許的情況下轉載。</sub>
 
-<sub>產生工具 · `render.py` · 2026-09-19T12:49:34+08:00</sub>
+<sub>產生工具 · `render.py` · 2026-09-19T12:51:10+08:00</sub>
