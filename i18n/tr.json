@@ -78,7 +78,8 @@
     "evaluation": "Değerlendirme, kalibrasyon ve kıyaslamalar",
     "research-models": "Açık yeniden üretimler, ağırlıklar ve mimari araştırması",
     "apps-demos": "Uygulamalar, oyunlar, robotik ve etkileşimli demolar",
-    "media-discussions": "Yazılar, tartışmalar ve kardeş listeler"
+    "media-discussions": "Yazılar, tartışmalar ve kardeş listeler",
+    "other": "Diğer projeler"
   },
   "category_blurbs": {
     "official-sdk": "TypeSafe'in kendi yayımladığı her şey. Buradan başlayın.",

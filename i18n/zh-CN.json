@@ -78,7 +78,8 @@
     "evaluation": "评估、校准与基准测试",
     "research-models": "开放复现、权重与架构研究",
     "apps-demos": "应用、游戏、机器人与交互演示",
-    "media-discussions": "文章、讨论与同类列表"
+    "media-discussions": "文章、讨论与同类列表",
+    "other": "其他项目"
   },
   "category_blurbs": {
     "official-sdk": "全部由 TypeSafe 官方发布。从这里开始。",

@@ -78,7 +78,8 @@
     "evaluation": "Evaluation, calibration and benchmarks",
     "research-models": "Open reproductions, weights and architecture research",
     "apps-demos": "Applications, games, robotics and interactive demos",
-    "media-discussions": "Writing, discussions and sibling lists"
+    "media-discussions": "Writing, discussions and sibling lists",
+    "other": "Other projects"
   },
   "category_blurbs": {
     "official-sdk": "Everything published by TypeSafe itself. Start here.",

@@ -78,7 +78,8 @@
     "evaluation": "평가, 캘리브레이션, 벤치마크",
     "research-models": "공개 재현, 가중치, 아키텍처 연구",
     "apps-demos": "애플리케이션, 게임, 로보틱스, 인터랙티브 데모",
-    "media-discussions": "글, 토론, 유사 목록"
+    "media-discussions": "글, 토론, 유사 목록",
+    "other": "기타 프로젝트"
   },
   "category_blurbs": {
     "official-sdk": "TypeSafe가 직접 공개한 모든 것. 여기서 시작하십시오.",

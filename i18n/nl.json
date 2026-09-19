@@ -78,7 +78,8 @@
     "evaluation": "Evaluatie, kalibratie en benchmarks",
     "research-models": "Open reproducties, gewichten en architectuuronderzoek",
     "apps-demos": "Toepassingen, games, robotica en interactieve demo's",
-    "media-discussions": "Artikelen, discussies en zusterlijsten"
+    "media-discussions": "Artikelen, discussies en zusterlijsten",
+    "other": "Overige projecten"
   },
   "category_blurbs": {
     "official-sdk": "Alles wat TypeSafe zelf publiceert. Begin hier.",

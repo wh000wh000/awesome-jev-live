@@ -62,7 +62,11 @@ CATEGORY_EMOJI = {
     "research-models": "🔬",
     "apps-demos": "🎮",
     "media-discussions": "📰",
+    "other": "🧩",
 }
+
+# Not a domain, so it does not compete for a place in the picks strip.
+FEATURED_EXCLUDE = {"other"}
 EVIDENCE_EMOJI = {
     "official": "✅",
     "observed": "👁️",
@@ -521,7 +525,7 @@ def render_featured(entries: list[dict], media: dict, t: dict, names: dict) -> l
         return rows[0]
 
     picks = [illustrative(rows) for cat in CATEGORY_ORDER
-             if (rows := by_cat.get(cat))]
+             if cat not in FEATURED_EXCLUDE and (rows := by_cat.get(cat))]
 
     if not picks:
         return []

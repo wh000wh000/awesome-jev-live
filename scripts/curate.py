@@ -284,10 +284,13 @@ CATEGORIES = [
         r"simulat", r"demo", r"playground", r"visual", r"voice",
         r"dashboard", r"\bui\b", r"\bapp\b", r"music", r"video", r"mujoco",
         r"snake", r"arena", r"autopilot", r"computer.use", r"taxonomy",
-        r"trading", r"bot\b", r"snake", r"unity", r"emulator", r"screen",
+        r"trading", r"trade", r"trader", r"bot\b", r"snake", r"unity",
+        r"emulator", r"screen", r"adblock", r"shell", r"search", r"mobile",
     ]),
     # Explicit rather than a silent fallback. A curated list should say what
     # belongs here, not accept whatever matched nothing above.
+    # Reached only by falling through every rule above.
+    ("other", "其他项目", []),
     ("media-discussions", "文章、讨论与同类清单", [
         r"awesome", r"curated", r"directory", r"papers?", r"blog",
         r"article", r"write.?up", r"discussion", r"newsletter", r"reading",
@@ -295,11 +298,11 @@ CATEGORIES = [
     ]),
 ]
 
-DEFAULT_CATEGORY = ("media-discussions", "文章、讨论与视频")
+DEFAULT_CATEGORY = ("other", "其他项目")
 
 CATEGORY_ORDER = [
     "official-sdk", "community-sdk", "agent-tooling", "routing-guardrails",
-    "evaluation", "research-models", "apps-demos", "media-discussions",
+    "evaluation", "research-models", "apps-demos", "media-discussions", "other",
 ]
 CATEGORY_TITLES = {key: title for key, title, _patterns in CATEGORIES}
 CATEGORY_TITLES[DEFAULT_CATEGORY[0]] = DEFAULT_CATEGORY[1]

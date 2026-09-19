@@ -78,7 +78,8 @@
     "evaluation": "評価、キャリブレーション、ベンチマーク",
     "research-models": "公開再現、重み、アーキテクチャ研究",
     "apps-demos": "アプリケーション、ゲーム、ロボティクス、インタラクティブデモ",
-    "media-discussions": "記事、ディスカッション、類似リスト"
+    "media-discussions": "記事、ディスカッション、類似リスト",
+    "other": "その他のプロジェクト"
   },
   "category_blurbs": {
     "official-sdk": "TypeSafe 自身が公開したものすべて。まずはここから。",

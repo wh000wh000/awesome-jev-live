@@ -78,7 +78,8 @@
     "evaluation": "Evaluasi, kalibrasi, dan benchmark",
     "research-models": "Reproduksi terbuka, bobot, dan riset arsitektur",
     "apps-demos": "Aplikasi, game, robotika, dan demo interaktif",
-    "media-discussions": "Tulisan, diskusi, dan daftar sejenis"
+    "media-discussions": "Tulisan, diskusi, dan daftar sejenis",
+    "other": "Proyek lain"
   },
   "category_blurbs": {
     "official-sdk": "Semua yang diterbitkan TypeSafe sendiri. Mulai dari sini.",

@@ -78,7 +78,8 @@
     "evaluation": "Đánh giá, hiệu chỉnh và benchmark",
     "research-models": "Bản tái tạo mở, trọng số và nghiên cứu kiến trúc",
     "apps-demos": "Ứng dụng, trò chơi, robot và demo tương tác",
-    "media-discussions": "Bài viết, thảo luận và các danh sách cùng chủ đề"
+    "media-discussions": "Bài viết, thảo luận và các danh sách cùng chủ đề",
+    "other": "Dự án khác"
   },
   "category_blurbs": {
     "official-sdk": "Mọi thứ do chính TypeSafe công bố. Hãy bắt đầu từ đây.",

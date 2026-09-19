@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-19T12:17:06+08:00",
+ "generated_at": "2026-09-19T12:35:31+08:00",
  "total": 497,
- "new_this_tick": 65,
+ "new_this_tick": 0,
  "by_category": {
   "official-sdk": 6,
   "community-sdk": 74,
@@ -9,8 +9,9 @@
   "routing-guardrails": 54,
   "evaluation": 38,
   "research-models": 21,
-  "apps-demos": 40,
-  "media-discussions": 117
+  "apps-demos": 47,
+  "media-discussions": 38,
+  "other": 72
  },
  "by_evidence": {
   "official": 6,
@@ -45,8 +46,8 @@
   "Nushell": 1,
   "TeX": 1,
   "Dart": 1,
-  "Lex": 1,
   "Astro": 1,
+  "Lex": 1,
   "Emacs Lisp": 1,
   "OpenSCAD": 1
  },
