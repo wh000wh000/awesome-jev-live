@@ -225,6 +225,9 @@ def check_i18n() -> list[str]:
 
 
 # --------------------------------------------------------------------------
+ENTRIES: list[dict] = []
+
+
 def check_readmes(present: list[str]) -> None:
     # GitHub refuses to render a Markdown file beyond roughly 512 KB, and this
     # README grows with the ecosystem. Crossing that line does not produce an
@@ -266,6 +269,15 @@ def check_readmes(present: list[str]) -> None:
         closes = text.count("</details>")
         if opens != closes:
             fail(f"{name}: unbalanced <details> tags ({opens} open, {closes} close)")
+
+        # Coverage. Every listed entry must appear in every edition. This is the
+        # check that was missing when render.py kept its own copy of the category
+        # list and silently dropped all 72 entries of a category that was added
+        # to curate.py only -- the page looked complete, so nothing else caught it.
+        absent = [e["name"] for e in ENTRIES if e["url"] not in text]
+        if absent:
+            fail(f"{name}: {len(absent)} listed entries are missing from the page "
+                 f"(e.g. {', '.join(absent[:3])})")
     print(f"   readmes: {len(present)} checked, largest {biggest / 1000:.0f} KB")
 
 
@@ -317,6 +329,8 @@ def main(argv: list[str]) -> int:
     entries = doc.get("entries", [])
     print(f"== awesome-jev-live :: audit :: {len(entries)} entries ==")
 
+    ENTRIES.clear()
+    ENTRIES.extend(entries)
     check_entries(entries)
     check_media(entries)
     present = check_i18n()

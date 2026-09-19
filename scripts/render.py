@@ -94,9 +94,11 @@ def edition_path(code: str) -> pathlib.Path:
 # the only one that bounds the page without dropping projects.
 MAX_FULL_CARDS_PER_CATEGORY = 24
 
+# Must stay in step with the same list in curate.py. When it drifted, an entire
+# category rendered nothing and 72 entries silently vanished from the page.
 CATEGORY_ORDER = [
     "official-sdk", "community-sdk", "agent-tooling", "routing-guardrails",
-    "evaluation", "research-models", "apps-demos", "media-discussions",
+    "evaluation", "research-models", "apps-demos", "media-discussions", "other",
 ]
 
 
