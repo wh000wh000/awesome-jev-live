@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import html
 import json
+import unicodedata
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -92,7 +93,12 @@ def edition_path(code: str) -> pathlib.Path:
 # The tail keeps a one-line entry, so every project still appears and is still
 # clickable; what it loses is the media block. That is a real trade and it is
 # the only one that bounds the page without dropping projects.
-MAX_FULL_CARDS_PER_CATEGORY = 24
+# Two tiers, because ranking and illustration are different questions. The
+# ranking decides what a reader should see first; media decides what can be
+# shown at all. A single top-N cap pushed most of the 97 entries that publish a
+# screenshot into the one-line tail, where their image could not appear.
+FULL_CARDS_BY_RANK = 12
+MAX_FULL_CARDS_PER_CATEGORY = 20
 
 # Must stay in step with the same list in curate.py. When it drifted, an entire
 # category rendered nothing and 72 entries silently vanished from the page.
@@ -224,6 +230,25 @@ def gh_slug(text: str) -> str:
     return s.replace(" ", "-")
 
 
+def cell_width(text: str) -> int:
+    """
+    Display width of a table cell, not its character count.
+
+    An emoji occupies two columns and a CJK glyph occupies two, so padding by
+    len() leaves every emoji-bearing row misaligned -- 844 lint failures, and a
+    visibly ragged table. Variation selectors and combining marks take no space.
+    """
+    width = 0
+    for i, ch in enumerate(text):
+        if ch in ("\ufe0f", "\ufe0e") or unicodedata.combining(ch):
+            continue
+        wide = (unicodedata.east_asian_width(ch) in ("W", "F")
+                or ord(ch) >= 0x1F000            # emoji blocks, wide on screen
+                or (i + 1 < len(text) and text[i + 1] == "\ufe0f"))
+        width += 2 if wide else 1
+    return width
+
+
 def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
     """
     Render a markdown table with padded cells.
@@ -232,9 +257,7 @@ def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
     the alignment has to be computed from the widest cell rather than guessed,
     because a single long project list makes one column dominate.
     """
-    def width(cell: str) -> int:
-        return len(cell)
-
+    width = cell_width
     cols = len(headers)
     w = [width(h) for h in headers]
     for row in rows:
@@ -242,7 +265,10 @@ def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
             w[i] = max(w[i], width(row[i]))
 
     def line(cells: list[str]) -> str:
-        padded = [(cells[i] if i < len(cells) else "").ljust(w[i]) for i in range(cols)]
+        padded = []
+        for i in range(cols):
+            cell = cells[i] if i < len(cells) else ""
+            padded.append(cell + " " * max(0, w[i] - width(cell)))
         return "| " + " | ".join(padded) + " |"
 
     out = [line(headers), "| " + " | ".join("-" * w[i] for i in range(cols)) + " |"]
@@ -321,66 +347,77 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     out.append("")
 
     # 1. 基本信息
-    facts = [f"`{esc(t['categories'].get(e['category'], e['category']))}`",
-             esc(t["tiers"].get(e.get("tier", "community"), ""))]
-    facts.append(f"`{esc(t['evidence_levels'].get(e.get('evidence', 'unverified'), ''))}`")
+    # Facts and metrics as definition tables rather than one ·-joined line.
+    # A reader comparing two projects compares columns; a ·-joined line forces
+    # them to parse prose, which is what made the cards feel like a wall.
+    fact_rows: list[list[str]] = [
+        [f"{labels['category']}",
+         f"`{esc(t['categories'].get(e['category'], e['category']))}`"],
+        [f"{labels['tier']}",
+         esc(t["tiers"].get(e.get("tier", "community"), ""))],
+        [f"{labels['evidence']}",
+         f"`{esc(t['evidence_levels'].get(e.get('evidence', 'unverified'), ''))}`"],
+    ]
     if e.get("language"):
-        facts.append(esc(e["language"]))
+        fact_rows.append([f"{labels['language']}", esc(e["language"])])
     if e.get("license"):
-        facts.append(esc(e["license"]))
-    # Plain text, not a link. The card's own title already links the
-    # repository, and repeating the owner as a second link to the same place
-    # trips awesome-lint's double-link rule on every card in the list.
+        fact_rows.append([f"{labels['license']}", esc(e["license"])])
     if kind == "repo":
-        facts.append(esc(e.get("owner", "")))
+        # Plain text, not a link: the card's title already links the repository,
+        # and a second link to the same place trips the double-link rule.
+        fact_rows.append([f"{labels['owner']}", esc(e.get("owner", ""))])
     elif kind == "post":
-        # Attribution matters more than usual here: a post is a person's work,
-        # not an organisation's, so the author is a link and the handle is
-        # repeated rather than implied.
+        # Attribution matters more here: a post is a person's work, so the
+        # author is a link and the handle is written out rather than implied.
         who = esc(e.get("author") or e.get("author_handle") or "")
         link = e.get("author_url") or ""
-        facts.append(f"[{who}]({esc(link)})" if link else who)
+        who_bits = [f"[{who}]({esc(link)})" if link else who]
         if e.get("author_handle") and e.get("author"):
-            facts.append("@" + esc(e["author_handle"]))
-        facts.append(esc(e.get("platform") or (e.get("url") or "").split("/")[2] if "//" in (e.get("url") or "") else ""))
+            who_bits.append("@" + esc(e["author_handle"]))
+        platform = e.get("platform") or ""
+        if not platform and "//" in (e.get("url") or ""):
+            platform = (e.get("url") or "").split("/")[2]
+        if platform:
+            who_bits.append(esc(platform))
+        fact_rows.append([f"{labels['owner']}", " · ".join(who_bits)])
     out.append(f"##### 📌 {labels['facts']}")
     out.append("")
-    out.append(" · ".join(f for f in facts if f))
+    out.extend(md_table([labels["field"], labels["value"]], fact_rows))
     out.append("")
 
     # 2. 数据
-    metrics = []
+    metric_rows: list[list[str]] = []
     if kind == "repo":
         delta = e.get("stars_delta") or 0
-        dstr = f" ({'+' if delta > 0 else ''}{delta})" if delta else ""
-        metrics.append(f"⭐ {labels['stars']} **{e.get('stars', 0)}**{dstr}")
-        metrics.append(f"🍴 {labels['forks']} {e.get('forks', 0)}")
+        dstr = f" (+{delta})" if delta > 0 else (f" ({delta})" if delta else "")
+        metric_rows.append([f"{labels['stars']}", f"**{e.get('stars', 0)}**{dstr}"])
+        metric_rows.append([f"{labels['forks']}", str(e.get("forks", 0))])
         if e.get("open_issues") is not None:
-            metrics.append(f"🐛 {labels['issues']} {e.get('open_issues', 0)}")
+            metric_rows.append([f"{labels['issues']}", str(e.get("open_issues", 0))])
         if e.get("created_at"):
-            metrics.append(f"📅 {labels['created']} {str(e['created_at'])[:10]}")
+            metric_rows.append([f"{labels['created']}", str(e["created_at"])[:10]])
     elif kind == "model":
-        metrics.append(f"{labels['downloads']} {e.get('downloads', 0)}")
-        metrics.append(f"{labels['likes']} {e.get('likes', 0)}")
+        metric_rows.append([f"{labels['downloads']}", str(e.get("downloads", 0))])
+        metric_rows.append([f"{labels['likes']}", str(e.get("likes", 0))])
     elif kind in ("story", "comment"):
-        metrics.append(f"{labels['points']} {e.get('stars', 0)}")
-        metrics.append(f"{labels['comments']} {e.get('forks', 0)}")
+        metric_rows.append([f"{labels['points']}", str(e.get("stars", 0))])
+        metric_rows.append([f"{labels['comments']}", str(e.get("forks", 0))])
     elif kind == "post":
         pm = e.get("metrics") or {}
         if pm.get("views"):
-            metrics.append(f"👁️ {labels['views']} **{pm['views']}**")
+            metric_rows.append([f"{labels['views']}", f"**{pm['views']}**"])
         if pm.get("likes"):
-            metrics.append(f"❤️ {labels['likes']} {pm['likes']}")
+            metric_rows.append([f"{labels['likes']}", str(pm["likes"])])
         if pm.get("replies"):
-            metrics.append(f"💬 {labels['comments']} {pm['replies']}")
+            metric_rows.append([f"{labels['comments']}", str(pm["replies"])])
         if e.get("posted_at"):
-            metrics.append(f"📅 {labels['posted']} {str(e['posted_at'])[:10]}")
+            metric_rows.append([f"{labels['posted']}", str(e["posted_at"])[:10]])
     if kind != "post" and e.get("pushed_at"):
-        metrics.append(f"🚀 {labels['last_push']} {str(e['pushed_at'])[:10]}")
-    metrics.append(f"📥 {labels['first_seen']} {str(e.get('first_seen', ''))[:10]}")
+        metric_rows.append([f"{labels['last_push']}", str(e["pushed_at"])[:10]])
+    metric_rows.append([f"{labels['first_seen']}", str(e.get("first_seen", ""))[:10]])
     out.append(f"##### 📊 {labels['data']}")
     out.append("")
-    out.append(" · ".join(metrics))
+    out.extend(md_table([labels["metric"], labels["value"]], metric_rows))
     out.append("")
 
     # Topics are the project's own tags, so they add scannable, factual detail
@@ -437,6 +474,10 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     vsrc = asset_url(video.get("src", ""))
 
     if image or vstate != "none":
+        # A rule separates the written record from the visual one; without it
+        # the image table reads as another field of the data table.
+        out.append("---")
+        out.append("")
         out.append(f"<table><tr><th align=\"center\" width=\"50%\">🖼 {labels['image']}</th>"
                    f"<th align=\"center\" width=\"50%\">🎬 {labels['video']}</th></tr><tr>")
         # left cell
@@ -680,8 +721,18 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
         if t.get("category_blurbs", {}).get(cat):
             L.append(t["category_blurbs"][cat])
             L.append("")
-        head, tail = rows[:MAX_FULL_CARDS_PER_CATEGORY], rows[MAX_FULL_CARDS_PER_CATEGORY:]
-        for i, e in enumerate(head, 1):
+        head = list(rows[:FULL_CARDS_BY_RANK])
+        head_ids = {x["id"] for x in head}
+        # Then any remaining entry that can carry a visual, until the size cap.
+        for row in rows[FULL_CARDS_BY_RANK:]:
+            if len(head) >= MAX_FULL_CARDS_PER_CATEGORY:
+                break
+            if (media.get(row["id"]) or {}).get("image"):
+                head.append(row)
+                head_ids.add(row["id"])
+        head_sorted = [r for r in rows if r["id"] in head_ids]
+        tail = [r for r in rows if r["id"] not in head_ids]
+        for i, e in enumerate(head_sorted, 1):
             L.append(render_card(e, media, t, i))
 
         if tail:
