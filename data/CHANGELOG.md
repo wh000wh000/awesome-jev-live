@@ -317,3 +317,32 @@
 - `+` [inematds/jev-curso](https://github.com/inematds/jev-curso) — inferred / other — ⭐0
 - `+` [xfgong/dsh-jev-loop](https://github.com/xfgong/dsh-jev-loop) — inferred / agent-tooling — ⭐0
 - …另有 4 条新增
+
+## 2026-09-19T15:36:24+08:00
+- 收录总数 **488**；本 tick 新增 **56**
+- `+` [reticlehq/reticle](https://github.com/reticlehq/reticle) — inferred / agent-tooling — ⭐729
+- `+` [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) — inferred / other — ⭐56
+- `+` [vinilana/jev-gateway](https://github.com/vinilana/jev-gateway) — inferred / routing-guardrails — ⭐19
+- `+` [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) — inferred / agent-tooling — ⭐18
+- `+` [Open Source JEV architecture built 1 year ago](https://news.ycombinator.com/item?id=49764070) — observed / media-discussions — ⭐3
+- `+` [I accidentally created a mini-Jev and you can too](https://news.ycombinator.com/item?id=49762789) — observed / media-discussions — ⭐2
+- `+` [Cua S1- A family of System One models](https://news.ycombinator.com/item?id=49758885) — observed / media-discussions — ⭐2
+- `+` [everyinfra/jev-radar](https://github.com/everyinfra/jev-radar) — inferred / agent-tooling — ⭐1
+- `+` [almcc/slop-linter](https://github.com/almcc/slop-linter) — observed / other — ⭐1
+- `+` [jiawei686/jev-ultrafast-mcp](https://github.com/jiawei686/jev-ultrafast-mcp) — inferred / agent-tooling — ⭐1
+- `+` [WallerChen/jev-measured](https://github.com/WallerChen/jev-measured) — observed / evaluation — ⭐0
+- `+` [uesgugikouhei-oss/jev-ja-eval](https://github.com/uesgugikouhei-oss/jev-ja-eval) — inferred / evaluation — ⭐0
+- `+` [toorop/jev-skill](https://github.com/toorop/jev-skill) — inferred / agent-tooling — ⭐0
+- `+` [manyeya/modisa-jev](https://github.com/manyeya/modisa-jev) — inferred / agent-tooling — ⭐0
+- `+` [realdubb/jev-playground](https://github.com/realdubb/jev-playground) — inferred / community-sdk — ⭐0
+- `+` [ajensenwaud/hermes-jev-plugin](https://github.com/ajensenwaud/hermes-jev-plugin) — inferred / agent-tooling — ⭐0
+- `+` [Robincodes-Sandbox/laravel-jev-classifier](https://github.com/Robincodes-Sandbox/laravel-jev-classifier) — inferred / community-sdk — ⭐0
+- `+` [dtduc-git/jev-table](https://github.com/dtduc-git/jev-table) — inferred / community-sdk — ⭐0
+- `+` [jiangkoumo/ego-jev](https://github.com/jiangkoumo/ego-jev) — inferred / agent-tooling — ⭐0
+- `+` [NemanjaManic/ci-gatekeeper-bot-jev](https://github.com/NemanjaManic/ci-gatekeeper-bot-jev) — inferred / routing-guardrails — ⭐0
+- `+` [ayushkushwaha609/Jev-resume-screener](https://github.com/ayushkushwaha609/Jev-resume-screener) — observed / apps-demos — ⭐0
+- `+` [leepokai/jev-chain-of-thought](https://github.com/leepokai/jev-chain-of-thought) — inferred / evaluation — ⭐0
+- `+` [EthanThatOneKid/zocomputer-jev](https://github.com/EthanThatOneKid/zocomputer-jev) — inferred / agent-tooling — ⭐0
+- `+` [akash-kamat/jev-craft](https://github.com/akash-kamat/jev-craft) — inferred / apps-demos — ⭐0
+- `+` [omkarghugarkar007/actiongate-jev](https://github.com/omkarghugarkar007/actiongate-jev) — inferred / agent-tooling — ⭐0
+- …另有 31 条新增
