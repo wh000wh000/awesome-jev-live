@@ -491,3 +491,32 @@
 - `+` [swap-mitra/jev-techstack-classifier](https://github.com/swap-mitra/jev-techstack-classifier) — inferred / community-sdk — ⭐0
 - `+` [NSStudent/JevSwiftSDK](https://github.com/NSStudent/JevSwiftSDK) — inferred / community-sdk — ⭐0
 - …另有 53 条新增
+
+## 2026-09-20T05:12:20+08:00
+- 收录总数 **572**；本 tick 新增 **60**
+- `+` [skeptrunedev/jev-recruiter](https://github.com/skeptrunedev/jev-recruiter) — inferred / agent-tooling — ⭐28
+- `+` [altryne/jevify](https://github.com/altryne/jevify) — inferred / agent-tooling — ⭐8
+- `+` [romaluev/jev-ego](https://github.com/romaluev/jev-ego) — inferred / community-sdk — ⭐7
+- `+` [harshwasan/pi-jev-sentinel](https://github.com/harshwasan/pi-jev-sentinel) — inferred / agent-tooling — ⭐6
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐5
+- `+` [Kiln-AI/jev_jsonschema](https://github.com/Kiln-AI/jev_jsonschema) — inferred / other — ⭐5
+- `+` [hyperspaceai/jevcache](https://github.com/hyperspaceai/jevcache) — inferred / research-models — ⭐5
+- `+` [krzyzanowskim/TypeSafe](https://github.com/krzyzanowskim/TypeSafe) — unverified / community-sdk — ⭐4
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐4
+- `+` [joshmn/typesafe-sdk](https://github.com/joshmn/typesafe-sdk) — observed / community-sdk — ⭐4
+- `+` [buberlo/dsh-jev](https://github.com/buberlo/dsh-jev) — inferred / agent-tooling — ⭐2
+- `+` [Testing Jev as a validation gate for drug-discovery agents](https://news.ycombinator.com/item?id=49769496) — observed / media-discussions — ⭐2
+- `+` [choxos/jevchess](https://github.com/choxos/jevchess) — observed / routing-guardrails — ⭐1
+- `+` [andrueandersoncs/visual-jev](https://github.com/andrueandersoncs/visual-jev) — inferred / apps-demos — ⭐1
+- `+` [savka777/jev-search](https://github.com/savka777/jev-search) — inferred / agent-tooling — ⭐1
+- `+` [luxus/ha-conversation-jev](https://github.com/luxus/ha-conversation-jev) — inferred / agent-tooling — ⭐1
+- `+` [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) — inferred / apps-demos — ⭐1
+- `+` [mttrbrts/jev-folio-recursive-classifier](https://github.com/mttrbrts/jev-folio-recursive-classifier) — inferred / other — ⭐0
+- `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
+- `+` [KrzysztofStaron/jev-games](https://github.com/KrzysztofStaron/jev-games) — inferred / routing-guardrails — ⭐0
+- `+` [rachit-srivastava-devx/jev-classification-benchmark](https://github.com/rachit-srivastava-devx/jev-classification-benchmark) — inferred / evaluation — ⭐0
+- `+` [HermeticOrmus/ormus-jev](https://github.com/HermeticOrmus/ormus-jev) — inferred / routing-guardrails — ⭐0
+- `+` [mcgalleg/grokbot-jev-jobs](https://github.com/mcgalleg/grokbot-jev-jobs) — inferred / routing-guardrails — ⭐0
+- `+` [jaysonsantos/sudoku-jev](https://github.com/jaysonsantos/sudoku-jev) — inferred / routing-guardrails — ⭐0
+- `+` [jonymusky/jev-browser-qa](https://github.com/jonymusky/jev-browser-qa) — inferred / community-sdk — ⭐0
+- …另有 35 条新增
