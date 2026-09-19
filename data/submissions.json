@@ -18,7 +18,6 @@
     "                links one. Rendered as a prominent guide link.",
     "  replies_url   where that link was found, so the claim stays checkable"
   ],
-
   "submissions": [
     {
       "id": "x:tspy/2100864234523685146",
@@ -26,16 +25,16 @@
       "platform": "x",
       "url": "https://x.com/tspy/status/2100864234523685146",
       "title": {
-        "en": "X intent labeller",
-        "zh-CN": "X 帖子意图标注插件"
+        "en": "Xtags — X intent labeller",
+        "zh-CN": "Xtags — X 帖子意图标注插件"
       },
       "author": "yishan",
       "author_handle": "tspy",
       "author_url": "https://x.com/tspy",
       "posted_at": "2026-09-18T08:27:20.000Z",
       "summary": {
-        "en": "A Chrome extension that labels posts in an X timeline with their intent and probability as you scroll, drawn as a tag directly after each post's timestamp. Categories include inducement, provocation, promotion, machine-generated, persuasion, entertainment and information. A side panel reports session counts (seen, judged, correct) and cumulative token cost. The author reports near-instant responses and usable accuracy before any tuning.",
-        "zh-CN": "一个 Chrome 插件，在你滚动 X 时间线时实时标注每篇帖子的意图与概率，并把结果以标签形式画在帖子时间戳之后。类别包括诱导、挑拨、推销、机器生成、说服、娱乐、告知。右侧面板汇报本次会话的统计（总计 / 跳过 / 看过 / 判定 / 对了 / 失败）与累计 Token 花费。作者称几乎秒级响应，且在未细调的情况下分类已相当准。"
+        "en": "Xtags: a Chrome extension that labels each post in an X timeline with what it is trying to get from you — inducement, provocation, promotion, machine-generated, persuasion, entertainment, information — drawn as a tag plus a probability right after the timestamp. A side panel reports session counts (seen, judged, correct) and cumulative token cost. The author reports near-instant responses and usable accuracy before any tuning.",
+        "zh-CN": "Xtags：一个 Chrome 插件，在 X 时间线上给每条帖子标出「它想让你干什么」——诱导、挑拨、推销、机器生成、说服、娱乐、告知——以「标签 + 概率」的形式画在时间戳之后。右侧面板汇报本次会话的统计（总计 / 跳过 / 看过 / 判定 / 对了 / 失败）与累计 Token 花费。作者称几乎秒级响应，且在未细调的情况下分类已相当准。"
       },
       "category": "apps-demos",
       "tier": "community",
@@ -45,9 +44,11 @@
         "zh-CN": "它的价值不在准确率而在延迟论证：要让「滚动时逐条标注」成立，单次判断必须比滚动本身更便宜——这正是生成式模型无法满足的约束。"
       },
       "metrics": {
-        "views": 2364,
-        "likes": 15,
-        "replies": 9
+        "views": 9873,
+        "likes": 24,
+        "replies": 11,
+        "reposts": 3,
+        "bookmarks": 21
       },
       "media": {
         "poster": "https://pbs.twimg.com/amplify_video_thumb/2100858340331200512/img/7LtKeTJP8N4q4Q7u?format=jpg&name=large",
@@ -58,13 +59,13 @@
         ],
         "max_width": 1242
       },
-      "project_url": "",
+      "project_url": "https://github.com/manifoldor/xtags",
       "project_label": {
-        "en": "Original project",
-        "zh-CN": "原项目"
+        "en": "Original project (manifoldor/xtags)",
+        "zh-CN": "原项目（manifoldor/xtags）"
       },
       "replies_url": "https://x.com/tspy/status/2100864234523685146",
-      "source_note": "Submitted by the maintainer on 2026-09-18. Media fetched from the post itself."
+      "source_note": "Submitted by the maintainer 2026-09-18. Project link and updated metrics read from the author's own reply in the thread on 2026-09-19."
     }
   ]
 }
