@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-20T00:38:15+08:00",
- "count": 187,
+ "updated_at": "2026-09-20T02:57:58+08:00",
+ "count": 210,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -18,6 +18,17 @@
    "first_dropped": "2026-09-19T12:48:37+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:2389-research/jev-plays-pokemon",
+   "name": "2389-research/jev-plays-pokemon",
+   "url": "https://github.com/2389-research/jev-plays-pokemon",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T12:48:37+08:00",
    "id": "gh:AStheTECH/mewcp-jev",
    "name": "AStheTECH/mewcp-jev",
@@ -27,7 +38,7 @@
    "description_chars": 23,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -62,7 +73,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-19T13:18:58+08:00"
+   "first_dropped": "2026-09-19T13:18:58+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -77,6 +89,17 @@
    "last_seen_dropped": "2026-09-20T00:38:15+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:Ch1mpleo/Cross-Harness-Jev-Router",
+   "name": "Ch1mpleo/Cross-Harness-Jev-Router",
+   "url": "https://github.com/Ch1mpleo/Cross-Harness-Jev-Router",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T15:36:24+08:00",
    "id": "gh:ChasLui/ds2jev",
    "name": "ChasLui/ds2jev",
@@ -87,6 +110,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T15:36:24+08:00",
    "last_seen_dropped": "2026-09-19T22:21:03+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:Dimweaker/jev-libero",
+   "name": "Dimweaker/jev-libero",
+   "url": "https://github.com/Dimweaker/jev-libero",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T13:18:58+08:00",
@@ -120,6 +154,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T15:36:24+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:Georgakopoulos-Soares-lab/biosafe_jev",
+   "name": "Georgakopoulos-Soares-lab/biosafe_jev",
+   "url": "https://github.com/Georgakopoulos-Soares-lab/biosafe_jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -281,6 +326,17 @@
    "first_dropped": "2026-09-19T22:21:03+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:MoeclubM/PlayJev",
+   "name": "MoeclubM/PlayJev",
+   "url": "https://github.com/MoeclubM/PlayJev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 21,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-20T00:38:15+08:00",
    "id": "gh:Muhammad-Zain01/jev-real-usecases",
    "name": "Muhammad-Zain01/jev-real-usecases",
@@ -289,7 +345,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-20T00:38:15+08:00"
+   "first_dropped": "2026-09-20T00:38:15+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -315,6 +372,17 @@
    "last_seen_dropped": "2026-09-19T22:21:03+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:Octapull/jev-guardrail",
+   "name": "Octapull/jev-guardrail",
+   "url": "https://github.com/Octapull/jev-guardrail",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T17:52:18+08:00",
    "id": "gh:OmarMujahid/jev-decision-bench",
    "name": "OmarMujahid/jev-decision-bench",
@@ -336,6 +404,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:Pk13055/jev-playgroud",
+   "name": "Pk13055/jev-playgroud",
+   "url": "https://github.com/Pk13055/jev-playgroud",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 34,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T15:36:24+08:00",
@@ -403,7 +482,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -458,7 +537,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-20T00:38:15+08:00"
+   "first_dropped": "2026-09-20T00:38:15+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -481,7 +561,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00",
-   "last_seen_dropped": "2026-09-19T22:21:03+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -511,11 +591,12 @@
    "id": "gh:ZHYsfl/learn-jev",
    "name": "ZHYsfl/learn-jev",
    "url": "https://github.com/ZHYsfl/learn-jev",
-   "stars": 0,
+   "stars": 1,
    "evidence": "inferred",
-   "description_chars": 0,
+   "description_chars": 38,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-20T00:38:15+08:00"
+   "first_dropped": "2026-09-20T00:38:15+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -564,6 +645,17 @@
    "last_seen_dropped": "2026-09-19T22:21:03+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:akanthed/jev-migrate",
+   "name": "akanthed/jev-migrate",
+   "url": "https://github.com/akanthed/jev-migrate",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T22:21:03+08:00",
    "id": "gh:akanthed/jev-watch",
    "name": "akanthed/jev-watch",
@@ -609,6 +701,17 @@
    "last_seen_dropped": "2026-09-19T20:06:43+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:alsoleg89/jev-guard",
+   "name": "alsoleg89/jev-guard",
+   "url": "https://github.com/alsoleg89/jev-guard",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T12:48:37+08:00",
    "id": "gh:altregubov/jev-antigravity-mcp",
    "name": "altregubov/jev-antigravity-mcp",
@@ -618,7 +721,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -699,6 +802,17 @@
    "first_dropped": "2026-09-19T17:52:18+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:atakhadiviom/jev-context-engine",
+   "name": "atakhadiviom/jev-context-engine",
+   "url": "https://github.com/atakhadiviom/jev-context-engine",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T17:52:18+08:00",
    "id": "gh:atr0phy/jev-sandbox",
    "name": "atr0phy/jev-sandbox",
@@ -764,7 +878,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -798,6 +912,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T20:06:43+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:cedarmuse-creator/jev-decision-maker-at-meteora",
+   "name": "cedarmuse-creator/jev-decision-maker-at-meteora",
+   "url": "https://github.com/cedarmuse-creator/jev-decision-maker-at-meteora",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T15:36:24+08:00",
@@ -865,7 +990,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -900,7 +1025,7 @@
    "description_chars": 14,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-19T13:18:58+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -934,7 +1059,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -1008,12 +1133,12 @@
    "id": "gh:golergka/jev-plays-starcraft-2",
    "name": "golergka/jev-plays-starcraft-2",
    "url": "https://github.com/golergka/jev-plays-starcraft-2",
-   "stars": 0,
+   "stars": 1,
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-19T13:18:58+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-20T00:38:15+08:00",
@@ -1038,6 +1163,17 @@
    "first_dropped": "2026-09-19T15:36:24+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:harlanljones/jev-roster-shapes",
+   "name": "harlanljones/jev-roster-shapes",
+   "url": "https://github.com/harlanljones/jev-roster-shapes",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-20T00:38:15+08:00",
    "id": "gh:harshpuri84/slopcheck-jev",
    "name": "harshpuri84/slopcheck-jev",
@@ -1046,7 +1182,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-20T00:38:15+08:00"
+   "first_dropped": "2026-09-20T00:38:15+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -1069,6 +1206,17 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:hifizz/jev-readability",
+   "name": "hifizz/jev-readability",
+   "url": "https://github.com/hifizz/jev-readability",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -1102,7 +1250,8 @@
    "evidence": "inferred",
    "description_chars": 15,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-19T13:18:58+08:00"
+   "first_dropped": "2026-09-19T13:18:58+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -1138,6 +1287,17 @@
    "first_dropped": "2026-09-19T13:18:58+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:jangya/jev-in-action",
+   "name": "jangya/jev-in-action",
+   "url": "https://github.com/jangya/jev-in-action",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T22:21:03+08:00",
    "id": "gh:jdhornsby/typesafe-jev",
    "name": "jdhornsby/typesafe-jev",
@@ -1157,7 +1317,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-20T00:38:15+08:00"
+   "first_dropped": "2026-09-20T00:38:15+08:00",
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -1171,6 +1332,28 @@
    "first_dropped": "2026-09-19T20:06:43+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:jsherman999/jev_local_web_seatch-",
+   "name": "jsherman999/jev_local_web_seatch-",
+   "url": "https://github.com/jsherman999/jev_local_web_seatch-",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:juhiechandra/jev-cyber",
+   "name": "juhiechandra/jev-cyber",
+   "url": "https://github.com/juhiechandra/jev-cyber",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T22:21:03+08:00",
    "id": "gh:just-be-dev/jev-sat",
    "name": "just-be-dev/jev-sat",
@@ -1180,7 +1363,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T22:21:03+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T15:36:24+08:00",
@@ -1250,7 +1433,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-19T15:36:24+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -1273,7 +1456,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -1333,6 +1516,17 @@
    "first_dropped": "2026-09-19T17:52:18+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:mizchi/jev-lint",
+   "name": "mizchi/jev-lint",
+   "url": "https://github.com/mizchi/jev-lint",
+   "stars": 3,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-20T00:38:15+08:00",
    "id": "gh:mohannadize/jev-ielts-test",
    "name": "mohannadize/jev-ielts-test",
@@ -1342,6 +1536,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T00:38:15+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:mohit-singh-13/Testing-Jev",
+   "name": "mohit-singh-13/Testing-Jev",
+   "url": "https://github.com/mohit-singh-13/Testing-Jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-20T00:38:15+08:00",
@@ -1364,7 +1569,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T15:36:24+08:00",
@@ -1558,6 +1763,17 @@
    "first_dropped": "2026-09-19T22:21:03+08:00"
   },
   {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:pablozr/JevGuard",
+   "name": "pablozr/JevGuard",
+   "url": "https://github.com/pablozr/JevGuard",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
    "at": "2026-09-19T12:48:37+08:00",
    "id": "gh:paritosh100/Jev-vs-LLM",
    "name": "paritosh100/Jev-vs-LLM",
@@ -1603,6 +1819,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
    "last_seen_dropped": "2026-09-19T13:18:58+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:rchandnaWUSTL/jev-test-fantasy-football",
+   "name": "rchandnaWUSTL/jev-test-fantasy-football",
+   "url": "https://github.com/rchandnaWUSTL/jev-test-fantasy-football",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -1736,7 +1963,18 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:sk8metalme/jev-practice",
+   "name": "sk8metalme/jev-practice",
+   "url": "https://github.com/sk8metalme/jev-practice",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -1748,6 +1986,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T20:06:43+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:sljeff/jev-llm",
+   "name": "sljeff/jev-llm",
+   "url": "https://github.com/sljeff/jev-llm",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-20T00:38:15+08:00",
@@ -1804,7 +2053,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T15:36:24+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T15:36:24+08:00",
@@ -1885,6 +2134,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T22:21:03+08:00"
+  },
+  {
+   "at": "2026-09-20T02:57:58+08:00",
+   "id": "gh:uist1idrju3i/study-jev",
+   "name": "uist1idrju3i/study-jev",
+   "url": "https://github.com/uist1idrju3i/study-jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T22:21:03+08:00",
@@ -2009,7 +2269,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T20:06:43+08:00",
-   "last_seen_dropped": "2026-09-20T00:38:15+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -2079,7 +2339,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00",
-   "last_seen_dropped": "2026-09-19T22:21:03+08:00"
+   "last_seen_dropped": "2026-09-20T02:57:58+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",

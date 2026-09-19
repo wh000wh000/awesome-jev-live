@@ -462,3 +462,32 @@
 - `+` [larguesa/jev-search](https://github.com/larguesa/jev-search) — inferred / community-sdk — ⭐0
 - `+` [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) — inferred / agent-tooling — ⭐0
 - …另有 46 条新增
+
+## 2026-09-20T02:57:58+08:00
+- 收录总数 **557**；本 tick 新增 **78**
+- `+` [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) — observed / apps-demos — ⭐83
+- `+` [Tangerg/typesafe-sdk-go](https://github.com/Tangerg/typesafe-sdk-go) — unverified / community-sdk — ⭐8
+- `+` [jerryfane/omp-jev-compaction](https://github.com/jerryfane/omp-jev-compaction) — inferred / routing-guardrails — ⭐7
+- `+` [Show HN: CUA-S1 – A System One Model for Computer Use](https://news.ycombinator.com/item?id=49767564) — observed / media-discussions — ⭐4
+- `+` [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — inferred / community-sdk — ⭐3
+- `+` [Jev vs. XGBoost and Bert](https://news.ycombinator.com/item?id=49768899) — observed / media-discussions — ⭐3
+- `+` [In 2024 I fine-tuned an LLM. Jev could have removed the side quests](https://news.ycombinator.com/item?id=49767987) — observed / media-discussions — ⭐3
+- `+` [AiPersonacademy/Awesome-jev-use](https://github.com/AiPersonacademy/Awesome-jev-use) — inferred / media-discussions — ⭐2
+- `+` [buluoray/JevOnly](https://github.com/buluoray/JevOnly) — inferred / agent-tooling — ⭐2
+- `+` [Saik0s/diffusiongemma-jev-macos](https://github.com/Saik0s/diffusiongemma-jev-macos) — inferred / agent-tooling — ⭐2
+- `+` [Jev example use cases from community](https://news.ycombinator.com/item?id=49768162) — observed / media-discussions — ⭐2
+- `+` [walidboulanouar/awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) — inferred / routing-guardrails — ⭐1
+- `+` [jaibhasin/jev-yt-time-saver](https://github.com/jaibhasin/jev-yt-time-saver) — inferred / apps-demos — ⭐1
+- `+` [Bodila51/grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) — inferred / agent-tooling — ⭐1
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐1
+- `+` [zwliJay/jev-forge](https://github.com/zwliJay/jev-forge) — inferred / evaluation — ⭐1
+- `+` [bojansandhaus/jev-home-assistant-sentinel](https://github.com/bojansandhaus/jev-home-assistant-sentinel) — inferred / community-sdk — ⭐1
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐1
+- `+` [HisuiKoh/jev-vtuber-ime-core](https://github.com/HisuiKoh/jev-vtuber-ime-core) — inferred / other — ⭐1
+- `+` [choxos/JevVsLLM](https://github.com/choxos/JevVsLLM) — observed / routing-guardrails — ⭐0
+- `+` [muhammedilyasy/jev-mail](https://github.com/muhammedilyasy/jev-mail) — inferred / routing-guardrails — ⭐0
+- `+` [vcjdeboer/jev-reliability](https://github.com/vcjdeboer/jev-reliability) — inferred / evaluation — ⭐0
+- `+` [az9713/jev-projects](https://github.com/az9713/jev-projects) — inferred / agent-tooling — ⭐0
+- `+` [swap-mitra/jev-techstack-classifier](https://github.com/swap-mitra/jev-techstack-classifier) — inferred / community-sdk — ⭐0
+- `+` [NSStudent/JevSwiftSDK](https://github.com/NSStudent/JevSwiftSDK) — inferred / community-sdk — ⭐0
+- …另有 53 条新增
