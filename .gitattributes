@@ -6,6 +6,7 @@ data/media.json    linguist-generated -diff
 
 # Language statistics should describe the pipeline, not the generated list.
 README*.md export-ignore
+docs/README*.md export-ignore
 
 *.png binary
 *.gif binary

@@ -40,6 +40,11 @@ LANGS = [
     "it", "ar", "hi", "tr", "vi", "th", "id", "pl", "nl", "uk",
 ]
 
+
+def edition_file(code: str) -> Path:
+    """Translated editions live under docs/ so the repository root stays clean."""
+    return ROOT / "README.md" if code == "en" else ROOT / "docs" / f"README.{code}.md"
+
 REQUIRED_MARKERS = [
     "assets/readme/hero.png",   # hero present
     "awesome.re/badge",         # awesome badge
@@ -229,8 +234,8 @@ def check_readmes(present: list[str]) -> None:
     SIZE_WARN = 360_000
     biggest = 0
     for code in present:
-        name = "README.md" if code == "en" else f"README.{code}.md"
-        path = ROOT / name
+        path = edition_file(code)
+        name = str(path.relative_to(ROOT))
         if not path.exists():
             fail(f"{name} was not generated")
             continue
@@ -249,9 +254,11 @@ def check_readmes(present: list[str]) -> None:
         for marker in REQUIRED_MARKERS:
             if marker not in text:
                 fail(f"{name} is missing required marker {marker}")
-        # every language switcher link must resolve
-        for m in re.finditer(r'href="(README[^"]*\.md)"', text):
-            target = ROOT / m.group(1)
+        # Every language-switcher link must resolve. Links are relative to the
+        # edition doing the linking, so root links into docs/ and docs links
+        # back up to the root.
+        for m in re.finditer(r'href="([^"]*\.md)"', text):
+            target = (path.parent / m.group(1)).resolve()
             if not target.exists():
                 fail(f"{name} links to missing file {m.group(1)}")
         # a card that was opened but never closed silently swallows the page

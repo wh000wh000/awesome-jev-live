@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Meer in deze categorie"
+    "more_in_category": "Meer in deze categorie",
+    "featured_title": "🔥 Keuze van het moment — de eerste per categorie",
+    "featured_note": "Eén vermelding per categorie, gerangschikt op bewijsniveau en sterren, herberekend bij elke synchronisatie. Een ranglijst, geen aanbeveling; elke keuze linkt naar de volledige kaart hieronder. Projecten die een schermafbeelding of opname hebben gepubliceerd krijgen voorrang, zodat deze strook visueel blijft."
   },
   "categories": {
     "official-sdk": "Officiële SDK's en ontwikkelaarstools",

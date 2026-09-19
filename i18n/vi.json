@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Thêm trong danh mục này"
+    "more_in_category": "Thêm trong danh mục này",
+    "featured_title": "🔥 Chọn lọc lúc này — đứng đầu mỗi danh mục",
+    "featured_note": "Mỗi danh mục một mục, xếp theo mức bằng chứng và số sao, tính lại mỗi lần đồng bộ. Đây là xếp hạng, không phải đề xuất; mỗi lựa chọn dẫn tới thẻ đầy đủ bên dưới. Ưu tiên các dự án đã công bố ảnh chụp hoặc bản ghi, để dải này vẫn trực quan."
   },
   "categories": {
     "official-sdk": "SDK chính thức và công cụ cho nhà phát triển",

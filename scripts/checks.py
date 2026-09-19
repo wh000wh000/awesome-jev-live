@@ -128,12 +128,14 @@ def check_i18n() -> None:
 
 def check_readmes_in_sync() -> None:
     """Regenerate into a temp dir and compare against what is committed."""
+    def edition(code: str) -> Path:
+        return ROOT / "README.md" if code == "en" else ROOT / "docs" / f"README.{code}.md"
+
     before = {}
     for code in LANGS:
-        name = "README.md" if code == "en" else f"README.{code}.md"
-        p = ROOT / name
+        p = edition(code)
         if p.exists():
-            before[name] = p.read_text()
+            before[str(p.relative_to(ROOT))] = p.read_text()
 
     res = subprocess.run([sys.executable, str(SCRIPTS / "render.py")],
                          capture_output=True, text=True, cwd=str(ROOT))

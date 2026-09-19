@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "このカテゴリのその他"
+    "more_in_category": "このカテゴリのその他",
+    "featured_title": "🔥 今回のピックアップ · 各カテゴリの首位",
+    "featured_note": "各カテゴリから1件、証拠等級とスター数で順位付けし、同期のたびに再計算します。推薦ではなく順位であり、各項目は下の完全なカードにリンクします。スクリーンショットや録画を公開しているプロジェクトを優先するため、この欄は視覚的に保たれます。"
   },
   "categories": {
     "official-sdk": "公式 SDK と開発者ツール",

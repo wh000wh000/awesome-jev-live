@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Bu kategoride daha fazla"
+    "more_in_category": "Bu kategoride daha fazla",
+    "featured_title": "🔥 Günün seçkisi — her kategorinin birincisi",
+    "featured_note": "Her kategoriden bir kayıt; kanıt düzeyi ve yıldıza göre sıralanır, her eşitlemede yeniden hesaplanır. Bu bir sıralamadır, tavsiye değil; her seçim aşağıdaki tam kartına bağlanır. Ekran görüntüsü veya kayıt yayınlayan projeler tercih edilir; böylece şerit görsel kalır."
   },
   "categories": {
     "official-sdk": "Resmî SDK'lar ve geliştirici araçları",

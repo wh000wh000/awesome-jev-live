@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Lainnya di kategori ini"
+    "more_in_category": "Lainnya di kategori ini",
+    "featured_title": "🔥 Pilihan saat ini — peringkat pertama tiap kategori",
+    "featured_note": "Satu entri per kategori, diurutkan berdasarkan tingkat bukti dan bintang, dihitung ulang setiap sinkronisasi. Ini peringkat, bukan rekomendasi; setiap pilihan menaut ke kartu lengkapnya di bawah. Proyek yang telah menerbitkan tangkapan layar atau rekaman lebih diutamakan agar bagian ini tetap visual."
   },
   "categories": {
     "official-sdk": "SDK resmi dan alat pengembang",

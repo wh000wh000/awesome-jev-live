@@ -50,6 +50,35 @@ LANGS = [
 
 EVIDENCE_ORDER = ["official", "observed", "inferred", "unverified"]
 
+# Visual grammar. Emoji here are not decoration: they are the fastest way to
+# scan forty cards for the one that is a guardrail rather than a client, and
+# they survive translation where a word does not.
+CATEGORY_EMOJI = {
+    "official-sdk": "🏛️",
+    "community-sdk": "🧰",
+    "agent-tooling": "🤖",
+    "routing-guardrails": "🛡️",
+    "evaluation": "🧪",
+    "research-models": "🔬",
+    "apps-demos": "🎮",
+    "media-discussions": "📰",
+}
+EVIDENCE_EMOJI = {
+    "official": "✅",
+    "observed": "👁️",
+    "inferred": "🔎",
+    "unverified": "❓",
+}
+
+# Translated editions live under docs/ so that a visitor to the repository sees
+# one README in the file listing instead of twenty-one, and the first screen is
+# the index rather than a wall of filenames.
+DOCS_DIR = ROOT / "docs"
+
+
+def edition_path(code: str) -> pathlib.Path:
+    return ROOT / "README.md" if code == "en" else DOCS_DIR / f"README.{code}.md"
+
 # A README is capped at roughly 512 KB by GitHub, and this list grows with the
 # ecosystem, so the page cannot hold an unbounded number of full cards. Thai
 # crossed 485 KB at 530 entries and the audit stopped the publish -- correctly,
@@ -178,9 +207,15 @@ def gh_slug(text: str) -> str:
     produces the heading keeps the two in sync in all twenty languages,
     including the CJK ones.
     """
-    s = re.sub(r"<[^>]+>", "", text).strip().lower()
+    s = re.sub(r"<[^>]+>", "", text).lower()
     s = re.sub(r"[^\w\s-]", "", s, flags=re.UNICODE)
-    return re.sub(r"\s+", "-", s)
+    # Trim *after* stripping punctuation: a heading that starts with an emoji
+    # leaves a leading space behind, and slugging that produced an anchor
+    # beginning with a hyphen, which resolves to nothing.
+    s = s.strip()
+    # One hyphen per space, not one per run of spaces. GitHub's slugger does not
+    # collapse, so "moment — the" becomes "moment--the".
+    return s.replace(" ", "-")
 
 
 def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
@@ -213,13 +248,18 @@ def md_table(headers: list[str], rows: list[list[str]]) -> list[str]:
 # language switcher
 # --------------------------------------------------------------------------
 def lang_switcher(current: str, names: dict[str, str]) -> str:
+    """Links are relative to the edition doing the linking: root -> docs, docs -> sibling."""
+    in_docs = current != "en"
     parts = []
     for code in LANGS:
         label = names.get(code, code)
         if code == current:
             parts.append(f"<b>{esc(label)}</b>")
         else:
-            href = "README.md" if code == "en" else f"README.{code}.md"
+            if code == "en":
+                href = "../README.md" if in_docs else "README.md"
+            else:
+                href = f"README.{code}.md" if in_docs else f"docs/README.{code}.md"
             parts.append(f'<a href="{href}">{esc(label)}</a>')
     # wrap into a readable multi-line block
     return "<sub>" + " · ".join(parts) + "</sub>"
@@ -247,8 +287,8 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         bits.append("model")
     elif kind == "post" and e.get("author_handle"):
         bits.append("@" + esc(e["author_handle"]))
-    bits.append(labels["evidence_short"].get(e.get("evidence", "unverified"),
-                                             e.get("evidence", "")))
+    ev = e.get("evidence", "unverified")
+    bits.append(f"{EVIDENCE_EMOJI.get(ev, '')} {labels['evidence_short'].get(ev, ev)}")
     age = days_ago(e.get("pushed_at"))
     if age is not None:
         bits.append(f"{age}d" if t["lang"] == "en" else f"{age} 天")
@@ -257,7 +297,9 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     elif e.get("stars_delta"):
         bits.append(f"⭐{'+' if e['stars_delta'] > 0 else ''}{e['stars_delta']}")
 
-    summary_line = f'<b><a href="{esc(url)}">{esc(name)}</a></b> — ' + " · ".join(bits)
+    cat_icon = CATEGORY_EMOJI.get(e.get("category", ""), "•")
+    summary_line = (f'{cat_icon} <b><a href="{esc(url)}">{esc(name)}</a></b> · '
+                    + " · ".join(bits))
 
     # ---- body -----------------------------------------------------
     # Size note: GitHub refuses to render a Markdown file beyond roughly 512 KB,
@@ -295,7 +337,7 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         if e.get("author_handle") and e.get("author"):
             facts.append("@" + esc(e["author_handle"]))
         facts.append(esc(e.get("platform") or (e.get("url") or "").split("/")[2] if "//" in (e.get("url") or "") else ""))
-    out.append(f"##### {labels['facts']}")
+    out.append(f"##### 📌 {labels['facts']}")
     out.append("")
     out.append(" · ".join(f for f in facts if f))
     out.append("")
@@ -305,12 +347,12 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if kind == "repo":
         delta = e.get("stars_delta") or 0
         dstr = f" ({'+' if delta > 0 else ''}{delta})" if delta else ""
-        metrics.append(f"{labels['stars']} **{e.get('stars', 0)}**{dstr}")
-        metrics.append(f"{labels['forks']} {e.get('forks', 0)}")
+        metrics.append(f"⭐ {labels['stars']} **{e.get('stars', 0)}**{dstr}")
+        metrics.append(f"🍴 {labels['forks']} {e.get('forks', 0)}")
         if e.get("open_issues") is not None:
-            metrics.append(f"{labels['issues']} {e.get('open_issues', 0)}")
+            metrics.append(f"🐛 {labels['issues']} {e.get('open_issues', 0)}")
         if e.get("created_at"):
-            metrics.append(f"{labels['created']} {str(e['created_at'])[:10]}")
+            metrics.append(f"📅 {labels['created']} {str(e['created_at'])[:10]}")
     elif kind == "model":
         metrics.append(f"{labels['downloads']} {e.get('downloads', 0)}")
         metrics.append(f"{labels['likes']} {e.get('likes', 0)}")
@@ -320,23 +362,30 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     elif kind == "post":
         pm = e.get("metrics") or {}
         if pm.get("views"):
-            metrics.append(f"{labels['views']} {pm['views']}")
+            metrics.append(f"👁️ {labels['views']} **{pm['views']}**")
         if pm.get("likes"):
-            metrics.append(f"{labels['likes']} {pm['likes']}")
+            metrics.append(f"❤️ {labels['likes']} {pm['likes']}")
         if pm.get("replies"):
-            metrics.append(f"{labels['comments']} {pm['replies']}")
+            metrics.append(f"💬 {labels['comments']} {pm['replies']}")
         if e.get("posted_at"):
-            metrics.append(f"{labels['posted']} {str(e['posted_at'])[:10]}")
+            metrics.append(f"📅 {labels['posted']} {str(e['posted_at'])[:10]}")
     if kind != "post" and e.get("pushed_at"):
-        metrics.append(f"{labels['last_push']} {str(e['pushed_at'])[:10]}")
-    metrics.append(f"{labels['first_seen']} {str(e.get('first_seen', ''))[:10]}")
-    out.append(f"##### {labels['data']}")
+        metrics.append(f"🚀 {labels['last_push']} {str(e['pushed_at'])[:10]}")
+    metrics.append(f"📥 {labels['first_seen']} {str(e.get('first_seen', ''))[:10]}")
+    out.append(f"##### 📊 {labels['data']}")
     out.append("")
     out.append(" · ".join(metrics))
     out.append("")
 
+    # Topics are the project's own tags, so they add scannable, factual detail
+    # without inventing a description the maintainer never wrote.
+    topics = [x for x in (e.get("topics") or []) if x and x not in ("submission",)]
+    if topics:
+        out.append("🏷 " + " · ".join(f"`{esc(x)}`" for x in topics[:8]))
+        out.append("")
+
     # 3. 简介摘要
-    out.append(f"##### {labels['summary']}")
+    out.append(f"##### 📝 {labels['summary']}")
     out.append("")
     summary = ""
     if t["lang"] != "en":
@@ -367,11 +416,11 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if e.get("notes_i18n"):
         notes = (e["notes_i18n"] or {}).get(t["lang"]) or notes
     if notes:
-        out.append(f"> {notes}")
+        out.append(f"> 💡 {notes}")
         out.append("")
     if e.get("code_paths"):
         shown = ", ".join(f"`{p}`" for p in e["code_paths"][:4])
-        out.append(f"<sub>{labels['found_in_code']}: {shown}</sub>")
+        out.append(f"<sub>🔧 {labels['found_in_code']}: {shown}</sub>")
         out.append("")
 
     # 4. 图 | 视频
@@ -382,8 +431,8 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     vsrc = asset_url(video.get("src", ""))
 
     if image or vstate != "none":
-        out.append(f"<table><tr><th align=\"center\" width=\"50%\">{labels['image']}</th>"
-                   f"<th align=\"center\" width=\"50%\">{labels['video']}</th></tr><tr>")
+        out.append(f"<table><tr><th align=\"center\" width=\"50%\">🖼 {labels['image']}</th>"
+                   f"<th align=\"center\" width=\"50%\">🎬 {labels['video']}</th></tr><tr>")
         # left cell
         if image:
             out.append(f"<td align=\"center\" valign=\"top\">"
@@ -440,15 +489,90 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
 # --------------------------------------------------------------------------
 # one language
 # --------------------------------------------------------------------------
+def render_featured(entries: list[dict], media: dict, t: dict, names: dict) -> list[str]:
+    """
+    The picks strip: one entry per category, two to a row, each with its own
+    image when the project published one.
+
+    Picked by the same ranking that orders the sections, so the strip and the
+    list below it can never disagree about which entry is first. Entries arrive
+    already sorted, so the first of each category is the ranking leader.
+
+    Written as raw HTML rather than markdown because markdown inside a <td> is
+    not parsed: anything that looks like a table or a list there renders as
+    literal text.
+    """
+    by_cat: dict[str, list[dict]] = {}
+    for e in entries:
+        by_cat.setdefault(e["category"], []).append(e)
+
+    def illustrative(rows: list[dict]) -> dict:
+        """The highest-ranked entry that can actually show something.
+
+        Only three of eight category leaders publish a screenshot, so a strip
+        built strictly from the leaders would be mostly blank. Media is the one
+        property that makes this block worth its space, so the leader is taken
+        unless a lower-ranked entry can carry the visual, and the rule is stated
+        on the page rather than left implicit.
+        """
+        for row in rows:
+            if (media.get(row["id"]) or {}).get("image"):
+                return row
+        return rows[0]
+
+    picks = [illustrative(rows) for cat in CATEGORY_ORDER
+             if (rows := by_cat.get(cat))]
+
+    if not picks:
+        return []
+
+    L: list[str] = ['<a id="featured"></a>', ""]
+    L.append(f'## {t["labels"]["featured_title"]}')
+    L.append("")
+    L.append(f'<sub>{t["labels"]["featured_note"]}</sub>')
+    L.append("")
+    L.append("<table>")
+    for i in range(0, len(picks), 2):
+        L.append("<tr>")
+        for e in picks[i:i + 2]:
+            cat = e.get("category", "")
+            ev = e.get("evidence", "unverified")
+            img = asset_url((media.get(e["id"]) or {}).get("image", ""))
+            summary = re.sub(r"\s+", " ", (e.get("summary") or "").strip())
+            if len(summary) > 170:
+                summary = summary[:167].rsplit(" ", 1)[0] + "…"
+            bits = [f'⭐{e.get("stars", 0)}']
+            if e.get("language"):
+                bits.append(esc(e["language"]))
+            bits.append(f'{EVIDENCE_EMOJI.get(ev, "")} '
+                        f'{esc(t["labels"]["evidence_short"].get(ev, ev))}')
+            L.append('<td width="50%" valign="top">')
+            if img:
+                L.append(f'<img src="{esc(img)}" width="100%" '
+                         f'alt="{esc(e.get("name", ""))}">')
+            L.append(f'<b>{CATEGORY_EMOJI.get(cat, "•")} '
+                     f'<a href="{esc(e["url"])}">{esc(e.get("name", ""))}</a></b>')
+            L.append(f'<sub>{" · ".join(bits)}</sub>')
+            if summary:
+                L.append(f'<sub>{esc(summary)}</sub>')
+            L.append("</td>")
+        L.append("</tr>")
+    L.append("</table>")
+    L.append("")
+    return L
+
+
 def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
                     media: dict, names: dict[str, str]) -> str:
+    # Editions under docs/ reach assets and LICENSE one level up.
+    asset_prefix = "" if lang == "en" else "../"
     L: list[str] = []
     labels = t["labels"]
 
     # hero
-    hero = t.get("hero_image", "assets/readme/hero.png")
+    hero = asset_prefix + t.get("hero_image", "assets/readme/hero.png")
     L.append('<p align="center">')
-    L.append(f'  <img src="{hero}" width="100%" alt="{esc(t["title"])}">')
+    L.append(f'  <img src="{esc(hero)}" width="100%" alt="{esc(t["title"])}">')
     L.append("</p>")
     L.append("")
     L.append(f'<h1 align="center">{esc(t["title"])}</h1>')
@@ -462,7 +586,7 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append(f'  <img src="https://img.shields.io/badge/entries-{stats["total"]}-0d9488" alt="entries">')
     L.append(f'  <img src="https://img.shields.io/badge/languages-{len(LANGS)}-1f6feb" alt="languages">')
     L.append(f'  <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">')
-    L.append(f'  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>')
+    L.append(f'  <a href="{asset_prefix}LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>')
     L.append("</p>")
     L.append("")
 
@@ -480,6 +604,11 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append(f"<sub>{labels['live_note']}</sub>")
     L.append("")
 
+    # The picks strip leads, because the first question a visitor has is "what
+    # is actually good here", and answering it with one image per domain beats
+    # answering it with a table of contents.
+    L.extend(render_featured(entries, media, t, names))
+
     # contents -- first section, per the Awesome manifesto (awesome-lint
     # remark-lint:awesome-toc). A generated list is long; the table of contents
     # is the only thing that makes it navigable, so it comes before the
@@ -491,6 +620,9 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     # desynchronises every entry after it -- which is exactly what happens when
     # the ToC lists only the categories.
     toc: list[str] = [
+        # The picks strip is deliberately not listed: it sits above this table,
+        # and awesome-toc maps items to the headings *after* the table, so the
+        # first item has to be the first section below it.
         f"- [{labels['what_is_jev']}](#{gh_slug(labels['what_is_jev'])})",
         f"- [{labels['evidence_legend']}](#{gh_slug(labels['evidence_legend'])})",
     ]
@@ -499,8 +631,6 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
         if not n:
             continue
         title = t["categories"].get(cat, cat)
-        # The count lives here, not in the heading: a heading that reads
-        # "Category <sub>· 6</sub>" never matches its own ToC entry.
         toc.append(f"- [{title}](#{gh_slug(title)}) — **{n}**")
     toc.append(f"- [{labels['by_language']}](#{gh_slug(labels['by_language'])})")
     toc.append(f"- [{labels['how_it_works']}](#{gh_slug(labels['how_it_works'])})")
@@ -589,9 +719,9 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append("")
     L.append(t["pipeline_intro"])
     L.append("")
-    pipe = "assets/readme/pipeline.svg"
-    if (ROOT / pipe).exists():
-        L.append(f'<img src="{pipe}" width="100%" alt="{esc(labels["how_it_works"])}">')
+    pipe = asset_prefix + "assets/readme/pipeline.svg"
+    if (ROOT / "assets/readme/pipeline.svg").exists():
+        L.append(f'<img src="{esc(pipe)}" width="100%" alt="{esc(labels["how_it_works"])}">')
         L.append("")
     if t.get("pipeline_bullets"):
         L.extend(bullets_as_table(t["pipeline_bullets"]))
@@ -636,7 +766,8 @@ def main() -> int:
     written = []
     for code, t in translations.items():
         text = render_language(code, t, entries, stats, media, names)
-        out = ROOT / ("README.md" if code == "en" else f"README.{code}.md")
+        out = edition_path(code)
+        out.parent.mkdir(parents=True, exist_ok=True)
         old = out.read_text() if out.exists() else None
         if old != text:
             out.write_text(text)

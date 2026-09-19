@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "More in this category"
+    "more_in_category": "More in this category",
+    "featured_title": "🔥 Picks of the moment — the top of each category",
+    "featured_note": "One entry per category, ranked by evidence grade and stars, recomputed on every tick. A ranking, not an endorsement; every pick links through to its full card below. Projects that published a screenshot or a recording are preferred, so the strip stays visual."
   },
   "categories": {
     "official-sdk": "Official SDKs and developer tools",

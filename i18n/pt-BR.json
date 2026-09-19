@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Mais nesta categoria"
+    "more_in_category": "Mais nesta categoria",
+    "featured_title": "🔥 Seleção do momento — o primeiro de cada categoria",
+    "featured_note": "Uma entrada por categoria, ordenada por grau de evidência e estrelas, recalculada a cada sincronização. É um ranking, não uma recomendação; cada escolha leva à sua ficha completa. Projetos que publicaram uma captura ou gravação têm preferência, para que a faixa continue visual."
   },
   "categories": {
     "official-sdk": "SDKs oficiais e ferramentas para desenvolvedores",

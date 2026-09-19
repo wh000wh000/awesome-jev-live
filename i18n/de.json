@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Mehr in dieser Kategorie"
+    "more_in_category": "Mehr in dieser Kategorie",
+    "featured_title": "🔥 Auswahl des Moments — der Erste je Kategorie",
+    "featured_note": "Ein Eintrag je Kategorie, sortiert nach Evidenzgrad und Sternen, bei jeder Synchronisierung neu berechnet. Eine Rangliste, keine Empfehlung; jeder Pick verlinkt seine vollständige Karte. Projekte mit veröffentlichtem Screenshot oder einer Aufnahme werden bevorzugt, damit die Leiste visuell bleibt."
   },
   "categories": {
     "official-sdk": "Offizielle SDKs und Entwicklerwerkzeuge",

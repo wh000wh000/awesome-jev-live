@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "Więcej w tej kategorii"
+    "more_in_category": "Więcej w tej kategorii",
+    "featured_title": "🔥 Wybór chwili — pierwszy w każdej kategorii",
+    "featured_note": "Jeden wpis na kategorię, uszeregowany według poziomu dowodów i gwiazdek, przeliczany przy każdej synchronizacji. To ranking, nie rekomendacja; każdy wybór prowadzi do pełnej karty poniżej. Preferowane są projekty, które opublikowały zrzut ekranu lub nagranie, aby ta sekcja pozostała wizualna."
   },
   "categories": {
     "official-sdk": "Oficjalne zestawy SDK i narzędzia dla programistów",

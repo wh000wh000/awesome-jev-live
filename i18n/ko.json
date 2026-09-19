@@ -66,7 +66,9 @@
       "inferred": "inferred",
       "unverified": "unverified"
     },
-    "more_in_category": "이 분류의 나머지"
+    "more_in_category": "이 분류의 나머지",
+    "featured_title": "🔥 이번 선정 · 분야별 1위",
+    "featured_note": "분야별로 1개를 증거 등급과 스타 수로 순위화하며 동기화마다 다시 계산합니다. 추천이 아닌 순위이고, 각 항목은 아래 전체 카드로 연결됩니다.스크린샷이나 녹화를 공개한 프로젝트를 우선하므로 이 영역은 시각적으로 유지됩니다."
   },
   "categories": {
     "official-sdk": "공식 SDK와 개발자 도구",
