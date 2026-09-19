@@ -166,8 +166,15 @@ def check_media(entries: list[dict]) -> None:
             if not src or not isinstance(src, str):
                 continue
             mm = re.match(r"https?://(?:raw\.)?githubusercontent\.com/([^/]+)/", src, re.I) \
-                or re.match(r"https?://github\.com/([^/]+)/", src, re.I)
-            if mm and mm.group(1).lower() != owner:
+                or re.match(
+                    r"https?://github\.com/([^/]+)/(?:raw|blob|releases|tree)/",
+                    src, re.I)
+            # github.com/user-attachments/... is GitHub's own asset CDN, not a
+            # repository. A project that uploads its screenshot into an issue
+            # gets a URL there, and treating the first path segment as an owner
+            # reported it as another account's asset.
+            if mm and mm.group(1).lower() not in GITHUB_ASSET_NAMESPACES \
+                    and mm.group(1).lower() != owner:
                 misattributed += 1
                 fail(f"{e['id']}: media comes from {mm.group(1)}'s repository, "
                      f"not its own -> {src[:90]}")
@@ -226,6 +233,11 @@ def check_i18n() -> list[str]:
 
 # --------------------------------------------------------------------------
 ENTRIES: list[dict] = []
+
+# Namespaces on github.com that are GitHub's own asset delivery, not owners.
+GITHUB_ASSET_NAMESPACES = {
+    "user-attachments", "user-images", "private-user-images", "objects",
+}
 
 
 def check_readmes(present: list[str]) -> None:

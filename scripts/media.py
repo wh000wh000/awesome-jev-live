@@ -334,6 +334,9 @@ def owned_by(url: str, full: str) -> bool:
     compare against.
     """
     owner = full.split("/")[0].lower()
+    if re.match(r"https?://github\.com/(user-attachments|user-images|"
+                r"private-user-images|objects)/", url, re.I):
+        return True                       # GitHub's own asset CDN, not a repo
     m = re.match(r"https?://(?:raw\.githubusercontent\.com|githubusercontent\.com)"
                  r"/([^/]+)/([^/]+)/", url, re.I)
     if not m:
