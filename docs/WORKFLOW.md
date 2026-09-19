@@ -142,6 +142,35 @@ Where this list intentionally departs from the Awesome manifest: entries are
 collapsible cards carrying images and video rather than one-line bullets, because
 a card is what makes a project's own recording visible without leaving the page.
 
+## What gets dropped, and why
+
+The published page has a hard ceiling of roughly 512 KB, and this list grows
+with its ecosystem. Something has to give, and compacting every card until none
+of them can show anything is the wrong thing to give: it spends the budget
+evenly and buys nothing.
+
+So the list is selective. An entry is removed when it offers a reader nothing to
+act on — no traction, no independent evidence that anyone uses it, and no
+description explaining what it is. Any single signal is enough to stay:
+
+- published by TypeSafe itself, or
+- found in a code search for a Jev API token, or
+- at least 5 stars, or
+- an upstream description of at least 40 characters
+
+A name and a URL is not an entry. The current thresholds are named constants at
+the top of `scripts/curate.py`, and every removal is written to
+`data/dropped.json` with the entry, the signals it was judged on and the reason,
+so the decision is reviewable and reversible rather than a silent deletion.
+
+**This is deliberately not age-based.** Every zero-star repository in this
+ecosystem was created within three days, so a staleness rule would bite nothing.
+The honest statement is not that those entries are old, it is that they are
+empty.
+
+The freed budget goes to the entries that remain: cards are given tables, and
+the full-card allowance now covers every entry that has a screenshot to show.
+
 ## Known limitations
 
 These are real and are stated rather than hidden.

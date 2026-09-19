@@ -57,6 +57,18 @@ OFFICIAL_ALLOWLIST = {
 # declared Jev in the repository name or in an explicit topic tag.
 MIN_STARS = 3
 
+# Retention. The published page has a hard ceiling of roughly 512 KB, so the
+# list has to choose what to keep instead of compacting everything until no card
+# can show anything. An entry is dropped when it offers a reader nothing to act
+# on: no traction, no independent evidence that it is used, and no description
+# explaining what it is. A name and a URL is not an entry.
+#
+# Deliberately not age-based. Every zero-star repository in this ecosystem was
+# created within three days, so a "stale" rule would bite nothing -- the honest
+# statement is not that these are old, it is that they are empty.
+RETENTION_MIN_STARS = 5
+RETENTION_MIN_DESCRIPTION = 40
+
 # Discussion noise floor. A 1-point link submission is not an ecosystem signal,
 # and HN comment bodies are chatter rather than evidence.
 MIN_HN_POINTS = 2
@@ -356,6 +368,31 @@ def categorize(text: str, full_name: str) -> str:
     return DEFAULT_CATEGORY[0]
 
 
+# Entries removed by the retention policy, collected for the audit trail.
+DROPPED: list[dict] = []
+
+
+def is_substantive(e: dict) -> bool:
+    """
+    Whether a repository gives a reader anything to act on.
+
+    Any single signal is enough: the vendor published it, someone was found
+    using it, it has traction, or its author explained what it does. What fails
+    is the entry that is only a name.
+    """
+    if e.get("tier") == "official":
+        return True
+    if e.get("evidence") == "observed":
+        return True
+    if e.get("in_code_search"):
+        return True
+    if int(e.get("stars") or 0) >= RETENTION_MIN_STARS:
+        return True
+    if len((e.get("summary") or "").strip()) >= RETENTION_MIN_DESCRIPTION:
+        return True
+    return False
+
+
 def evidence_grade(tier: str, in_code: bool, strong: bool, explicit: bool) -> str:
     """
     巡检 four-level scheme, applied to a repository.
@@ -477,6 +514,22 @@ def build_repo_entries(repos: list[dict], code_repos: set[str]) -> list[dict]:
             "is_sibling_list": full in COMPETITOR_LISTS,
             "matched_queries": r.get("matched_queries") or [],
         })
+
+    kept: list[dict] = []
+    for e in out:
+        if is_substantive(e):
+            kept.append(e)
+        else:
+            DROPPED.append({
+                "at": STAMP, "id": e["id"], "name": e["name"], "url": e["url"],
+                "stars": e.get("stars", 0), "evidence": e.get("evidence"),
+                "description_chars": len((e.get("summary") or "").strip()),
+                "reason": "no traction, no independent evidence, no description",
+            })
+    if DROPPED:
+        print(f"   retention: dropped {len(DROPPED)} entries with no traction, "
+              f"no independent evidence and no description")
+    out = kept
 
     reasons: dict[str, int] = {}
     for _f, why in rejected:
@@ -757,6 +810,32 @@ def main() -> int:
     dropped = previous.keys() - {e["id"] for e in merged}
     if dropped:
         print(f"   note: {len(dropped)} previously listed entries no longer match")
+
+    if DROPPED:
+        dpath = DATA / "dropped.json"
+        old_dropped = []
+        if dpath.exists():
+            try:
+                old_dropped = json.loads(dpath.read_text()).get("entries", [])
+            except Exception:  # noqa: BLE001
+                old_dropped = []
+        # Keep the first time an entry was dropped, and refresh its signals, so
+        # the decision can be reviewed and reversed without re-deriving it.
+        seen = {d["id"]: d for d in old_dropped}
+        for d in DROPPED:
+            if d["id"] in seen:
+                seen[d["id"]]["last_seen_dropped"] = STAMP
+                seen[d["id"]]["stars"] = d["stars"]
+                seen[d["id"]]["description_chars"] = d["description_chars"]
+            else:
+                d["first_dropped"] = STAMP
+                seen[d["id"]] = d
+        dpath.write_text(json.dumps(
+            {"updated_at": STAMP, "count": len(seen),
+             "policy": {"min_stars": RETENTION_MIN_STARS,
+                        "min_description_chars": RETENTION_MIN_DESCRIPTION},
+             "entries": sorted(seen.values(), key=lambda x: x["name"])},
+            ensure_ascii=False, indent=1) + "\n")
 
     payload = {
         "generated_at": STAMP,

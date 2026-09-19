@@ -1,43 +1,43 @@
 {
- "generated_at": "2026-09-19T12:35:31+08:00",
- "total": 497,
+ "generated_at": "2026-09-19T12:48:37+08:00",
+ "total": 452,
  "new_this_tick": 0,
  "by_category": {
   "official-sdk": 6,
-  "community-sdk": 74,
-  "agent-tooling": 147,
-  "routing-guardrails": 54,
+  "community-sdk": 72,
+  "agent-tooling": 138,
+  "routing-guardrails": 50,
   "evaluation": 38,
-  "research-models": 21,
-  "apps-demos": 47,
-  "media-discussions": 38,
-  "other": 72
+  "research-models": 19,
+  "apps-demos": 43,
+  "media-discussions": 37,
+  "other": 49
  },
  "by_evidence": {
   "official": 6,
   "observed": 107,
-  "inferred": 359,
+  "inferred": 314,
   "unverified": 25
  },
  "by_tier": {
   "official": 6,
-  "community": 491
+  "community": 446
  },
  "by_language": {
-  "Python": 162,
-  "TypeScript": 139,
-  "JavaScript": 73,
-  "Go": 12,
+  "Python": 148,
+  "TypeScript": 125,
+  "JavaScript": 66,
   "Rust": 11,
-  "HTML": 10,
+  "Go": 11,
+  "HTML": 9,
   "PHP": 4,
   "Jupyter": 3,
   "Elixir": 3,
   "Ruby": 3,
-  "Shell": 3,
   "CSS": 3,
   "Java": 2,
   "Swift": 2,
+  "Shell": 2,
   "C#": 1,
   "C": 1,
   "Haskell": 1,
@@ -48,11 +48,10 @@
   "Dart": 1,
   "Astro": 1,
   "Lex": 1,
-  "Emacs Lisp": 1,
   "OpenSCAD": 1
  },
- "repos": 474,
+ "repos": 429,
  "models": 2,
  "discussions": 20,
- "total_stars": 18877
+ "total_stars": 18867
 }
