@@ -113,6 +113,35 @@ def check_entries(entries: list[dict]) -> None:
 
 
 # --------------------------------------------------------------------------
+def check_summaries() -> None:
+    """
+    The translation cache is an input the renderer trusts. A malformed file
+    silently drops every translated string back to English, so it is checked
+    rather than assumed.
+    """
+    base = DATA / "summaries"
+    if not base.exists():
+        warn("no translation cache; editions beyond English show source text")
+        return
+    total = 0
+    for path in sorted(base.glob("*.json")):
+        doc = load(path, None)
+        if not isinstance(doc, dict):
+            fail(f"data/summaries/{path.name} is not a JSON object")
+            continue
+        bad = [k for k, v in doc.items()
+               if not isinstance(v, str) or not v.strip()]
+        if bad:
+            fail(f"data/summaries/{path.name}: {len(bad)} empty or non-string "
+                 f"entries (e.g. {bad[:2]})")
+        if not re.fullmatch(r"[0-9a-f]{16}", "") and any(
+                not re.fullmatch(r"[0-9a-f]{16}", k) for k in doc):
+            fail(f"data/summaries/{path.name}: keys are not content hashes")
+        total += len(doc)
+    print(f"   summaries: {len(list(base.glob('*.json')))} languages, "
+          f"{total} cached strings")
+
+
 def check_media(entries: list[dict]) -> None:
     media_path = DATA / "media.json"
     if not media_path.exists():
@@ -348,6 +377,7 @@ def main(argv: list[str]) -> int:
     ENTRIES.extend(entries)
     check_entries(entries)
     check_media(entries)
+    check_summaries()
     present = check_i18n()
     check_readmes(present)
 

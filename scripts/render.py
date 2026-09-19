@@ -26,6 +26,7 @@ outside it as ordinary markdown. That is the robust arrangement on GitHub.
 
 from __future__ import annotations
 
+import hashlib
 import html
 import json
 import unicodedata
@@ -79,6 +80,41 @@ EVIDENCE_EMOJI = {
 # one README in the file listing instead of twenty-one, and the first screen is
 # the index rather than a wall of filenames.
 DOCS_DIR = ROOT / "docs"
+
+
+SUMMARY_CACHE: dict[str, dict[str, str]] = {}
+
+
+def load_summary_cache() -> None:
+    """
+    Translations of entry prose, keyed by the hash of the English source.
+
+    Content-addressed, so an upstream description that changes invalidates its
+    own translation instead of silently serving a stale one, and two entries
+    with identical text share a single translation. Missing entries fall back to
+    English: a half-translated edition is better than an empty one, and the
+    cache fills in over successive ticks.
+    """
+    SUMMARY_CACHE.clear()
+    base = DATA / "summaries"
+    if not base.exists():
+        return
+    for path in base.glob("*.json"):
+        try:
+            SUMMARY_CACHE[path.stem] = json.loads(path.read_text())
+        except Exception:  # noqa: BLE001
+            SUMMARY_CACHE[path.stem] = {}
+
+
+def text_hash(text: str) -> str:
+    return hashlib.sha1(text.strip().encode("utf-8")).hexdigest()[:16]
+
+
+def localized(text: str, lang: str) -> str:
+    """The cached translation when there is one, otherwise the original."""
+    if not text or lang == "en":
+        return text
+    return (SUMMARY_CACHE.get(lang) or {}).get(text_hash(text)) or text
 
 
 def edition_path(code: str) -> pathlib.Path:
@@ -177,7 +213,7 @@ SENTENCE_END = {"zh-CN": "。", "zh-TW": "。", "ja": "。"}
 ALREADY_ENDED = ".!?。！？…:;"
 
 
-def as_list_description(summary: str, lang: str, limit: int = 110) -> str:
+def as_list_description(summary: str, lang: str, limit: int = 80) -> str:
     """
     Shape an upstream description into a manifest-legal list item description.
 
@@ -347,74 +383,86 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     out.append("")
 
     # 1. 基本信息
-    # Facts and metrics as definition tables rather than one ·-joined line.
-    # A reader comparing two projects compares columns; a ·-joined line forces
-    # them to parse prose, which is what made the cards feel like a wall.
-    fact_rows: list[list[str]] = [
-        [f"{labels['category']}",
-         f"`{esc(t['categories'].get(e['category'], e['category']))}`"],
-        [f"{labels['tier']}",
-         esc(t["tiers"].get(e.get("tier", "community"), ""))],
-        [f"{labels['evidence']}",
-         f"`{esc(t['evidence_levels'].get(e.get('evidence', 'unverified'), ''))}`"],
-    ]
-    if e.get("language"):
-        fact_rows.append([f"{labels['language']}", esc(e["language"])])
-    if e.get("license"):
-        fact_rows.append([f"{labels['license']}", esc(e["license"])])
-    if kind == "repo":
-        # Plain text, not a link: the card's title already links the repository,
-        # and a second link to the same place trips the double-link rule.
-        fact_rows.append([f"{labels['owner']}", esc(e.get("owner", ""))])
+    # Order and weight follow what a reader actually came for: the summary
+    # first, then the few facts that are not already visible in the summary
+    # line, then the metrics. An earlier version led with six fact rows and six
+    # metric rows and buried the description underneath them.
+    out.append(f"##### 📝 {labels['summary']}")
+    out.append("")
+    summary = ""
+    if t["lang"] != "en":
+        summary = (e.get("summary_i18n") or {}).get(t["lang"], "")
+    summary = summary or e.get("summary") or t["labels"]["no_summary"]
+    if not (e.get("summary_i18n") or {}).get(t["lang"]):
+        summary = localized(summary, t["lang"])
+    summary = re.sub(r"([\[\]])", r"\\\1", summary.strip())
+    out.append(summary)
+    out.append("")
+
+    if kind == "post" and e.get("project_url"):
+        plabel = (e.get("project_label") or {}).get(t["lang"]) \
+            or (e.get("project_label") or {}).get("en") or labels["original_project"]
+        out.append(f"➡️ **{esc(plabel)}** — [{md_escape(e['project_url'])}]({e['project_url']})")
+        out.append("")
     elif kind == "post":
-        # Attribution matters more here: a post is a person's work, so the
-        # author is a link and the handle is written out rather than implied.
+        out.append(f"<sub>{labels['project_link_pending']}</sub>")
+        out.append("")
+
+    notes = e.get("notes") or ""
+    if e.get("notes_i18n"):
+        notes = (e["notes_i18n"]).get(t["lang"]) or notes
+    if not (e.get("notes_i18n") or {}).get(t["lang"]):
+        notes = localized(notes, t["lang"])
+    if notes:
+        out.append(f"> 💡 {notes}")
+        out.append("")
+
+    if e.get("code_paths"):
+        shown = ", ".join(f"`{x}`" for x in e["code_paths"][:4])
+        out.append(f"<sub>🔧 {labels['found_in_code']}: {shown}</sub>")
+        out.append("")
+
+    # Only the facts a reader cannot infer from the summary line above it.
+    fact_rows: list[list[str]] = [[
+        labels["category"],
+        f"`{esc(t['categories'].get(e['category'], e['category']))}`"],
+    ]
+    ev = e.get("evidence", "unverified")
+    fact_rows.append([labels["evidence"],
+                      f"{EVIDENCE_EMOJI.get(ev, '')} "
+                      f"`{esc(t['evidence_levels'].get(ev, ev))}`"])
+    if e.get("language"):
+        fact_rows.append([labels["language"], esc(e["language"])])
+    if kind == "post":
         who = esc(e.get("author") or e.get("author_handle") or "")
         link = e.get("author_url") or ""
-        who_bits = [f"[{who}]({esc(link)})" if link else who]
+        who_cell = f"[{who}]({esc(link)})" if link else who
         if e.get("author_handle") and e.get("author"):
-            who_bits.append("@" + esc(e["author_handle"]))
-        platform = e.get("platform") or ""
-        if not platform and "//" in (e.get("url") or ""):
-            platform = (e.get("url") or "").split("/")[2]
-        if platform:
-            who_bits.append(esc(platform))
-        fact_rows.append([f"{labels['owner']}", " · ".join(who_bits)])
+            who_cell += " · @" + esc(e["author_handle"])
+        fact_rows.append([labels["owner"], who_cell])
     out.append(f"##### 📌 {labels['facts']}")
     out.append("")
     out.extend(md_table([labels["field"], labels["value"]], fact_rows))
     out.append("")
 
-    # 2. 数据
     metric_rows: list[list[str]] = []
     if kind == "repo":
         delta = e.get("stars_delta") or 0
         dstr = f" (+{delta})" if delta > 0 else (f" ({delta})" if delta else "")
-        metric_rows.append([f"{labels['stars']}", f"**{e.get('stars', 0)}**{dstr}"])
-        metric_rows.append([f"{labels['forks']}", str(e.get("forks", 0))])
-        if e.get("open_issues") is not None:
-            metric_rows.append([f"{labels['issues']}", str(e.get("open_issues", 0))])
-        if e.get("created_at"):
-            metric_rows.append([f"{labels['created']}", str(e["created_at"])[:10]])
-    elif kind == "model":
-        metric_rows.append([f"{labels['downloads']}", str(e.get("downloads", 0))])
-        metric_rows.append([f"{labels['likes']}", str(e.get("likes", 0))])
-    elif kind in ("story", "comment"):
-        metric_rows.append([f"{labels['points']}", str(e.get("stars", 0))])
-        metric_rows.append([f"{labels['comments']}", str(e.get("forks", 0))])
+        metric_rows.append([f"⭐ {labels['stars']}", f"**{e.get('stars', 0)}**{dstr}"])
+        if e.get("pushed_at"):
+            metric_rows.append([f"🚀 {labels['last_push']}", str(e["pushed_at"])[:10]])
     elif kind == "post":
         pm = e.get("metrics") or {}
         if pm.get("views"):
-            metric_rows.append([f"{labels['views']}", f"**{pm['views']}**"])
+            metric_rows.append([f"👁️ {labels['views']}", f"**{pm['views']}**"])
         if pm.get("likes"):
-            metric_rows.append([f"{labels['likes']}", str(pm["likes"])])
+            metric_rows.append([f"❤️ {labels['likes']}", str(pm["likes"])])
         if pm.get("replies"):
-            metric_rows.append([f"{labels['comments']}", str(pm["replies"])])
+            metric_rows.append([f"💬 {labels['comments']}", str(pm["replies"])])
         if e.get("posted_at"):
-            metric_rows.append([f"{labels['posted']}", str(e["posted_at"])[:10]])
-    if kind != "post" and e.get("pushed_at"):
-        metric_rows.append([f"{labels['last_push']}", str(e["pushed_at"])[:10]])
-    metric_rows.append([f"{labels['first_seen']}", str(e.get("first_seen", ""))[:10]])
+            metric_rows.append([f"📅 {labels['posted']}", str(e["posted_at"])[:10]])
+    metric_rows.append([f"📥 {labels['first_seen']}", str(e.get("first_seen", ""))[:10]])
     out.append(f"##### 📊 {labels['data']}")
     out.append("")
     out.extend(md_table([labels["metric"], labels["value"]], metric_rows))
@@ -425,45 +473,6 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     topics = [x for x in (e.get("topics") or []) if x and x not in ("submission",)]
     if topics:
         out.append("🏷 " + " · ".join(f"`{esc(x)}`" for x in topics[:8]))
-        out.append("")
-
-    # 3. 简介摘要
-    out.append(f"##### 📝 {labels['summary']}")
-    out.append("")
-    summary = ""
-    if t["lang"] != "en":
-        summary = (e.get("summary_i18n") or {}).get(t["lang"], "")
-    summary = summary or e.get("summary") or t["labels"]["no_summary"]
-    # Upstream descriptions are untrusted markdown, not authored content. A
-    # project described as "[net]-only Lex effect" injects a reference link into
-    # the published page, so bracketed link syntax is neutralised.
-    summary = re.sub(r"([\[\]])", r"\\\1", summary.strip())
-    out.append(summary)
-    out.append("")
-
-    # The upstream project this post is about. Kept immediately after the
-    # summary and given its own labelled line, because for a post this is the
-    # only route from "someone built something" to "here is the thing".
-    if kind == "post" and e.get("project_url"):
-        plabel = (e.get("project_label") or {}).get(t["lang"]) \
-            or (e.get("project_label") or {}).get("en") or labels["original_project"]
-        out.append(f"➡️ **{esc(plabel)}** — [{md_escape(e['project_url'])}]({e['project_url']})")
-        out.append("")
-    elif kind == "post":
-        # Honest placeholder rather than silence: the reader learns that the
-        # link is still being tracked down, not that it does not exist.
-        out.append(f"<sub>{labels['project_link_pending']}</sub>")
-        out.append("")
-
-    notes = e.get("notes") or ""
-    if e.get("notes_i18n"):
-        notes = (e["notes_i18n"] or {}).get(t["lang"]) or notes
-    if notes:
-        out.append(f"> 💡 {notes}")
-        out.append("")
-    if e.get("code_paths"):
-        shown = ", ".join(f"`{p}`" for p in e["code_paths"][:4])
-        out.append(f"<sub>🔧 {labels['found_in_code']}: {shown}</sub>")
         out.append("")
 
     # 4. 图 | 视频
@@ -585,7 +594,8 @@ def render_featured(entries: list[dict], media: dict, t: dict, names: dict) -> l
             cat = e.get("category", "")
             ev = e.get("evidence", "unverified")
             img = asset_url((media.get(e["id"]) or {}).get("image", ""))
-            summary = re.sub(r"\s+", " ", (e.get("summary") or "").strip())
+            summary = re.sub(r"\s+", " ",
+                             localized(e.get("summary") or "", t["lang"]).strip())
             if len(summary) > 170:
                 summary = summary[:167].rsplit(" ", 1)[0] + "…"
             bits = [f'⭐{e.get("stars", 0)}']
@@ -743,7 +753,8 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
             for e in tail:
                 # The manifest requires `- [name](url) - description`, with a
                 # plain hyphen and a properly terminated description.
-                desc = as_list_description(e.get("summary") or "", t["lang"])
+                desc = as_list_description(
+                    localized(e.get("summary") or "", t["lang"]), t["lang"])
                 suffix = f" - {esc(desc)}" if desc else ""
                 L.append(f"- [{md_escape(e['name'])}]({e['url']}){suffix}")
             L.append("")
@@ -808,6 +819,10 @@ def main() -> int:
     stats = load(DATA / "stats.json", {})
     media_doc = load(DATA / "media.json", {})
     media = media_doc.get("entries", {}) if isinstance(media_doc, dict) else {}
+
+    load_summary_cache()
+    print(f"   summary cache: "
+          f"{', '.join(f'{k}={len(v)}' for k, v in sorted(SUMMARY_CACHE.items())) or '(none)'}")
 
     names = {}
     translations = {}

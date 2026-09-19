@@ -178,6 +178,35 @@ the largest edition was smaller than before. It is not. It went from 335 KB to
 378 KB. What the pruning bought is fewer entries (497 to 452), 45 of them
 removed, and richer cards for the rest -- not a smaller page.
 
+## Translated summaries
+
+The twenty editions share one template, and entry prose is translated into the
+other nineteen languages by `scripts/translate.py`, which fills a
+content-addressed cache under `data/summaries/<lang>.json`.
+
+Three properties make this safe to run beside a deterministic pipeline:
+
+**The cache is an input, not an effect.** The renderer reads it and falls back
+to English for anything missing. If the translation stage never runs again
+every edition still renders; nothing breaks and no fact changes.
+
+**Keys are hashes of the English source.** An upstream description that changes
+invalidates its own translation instead of silently serving a stale one, and two
+entries with identical text share one translation.
+
+**Identifiers are masked before the text is sent.** The first attempt at
+multilingual output rendered "MIT" as 麻省理工学院 — the Massachusetts Institute
+of Technology — inside a table of software licences. Every code span, URL,
+licence id, language name, product name and acronym is now replaced by a
+placeholder and restored afterwards, and a translation that loses, duplicates or
+invents a placeholder is rejected outright, keeping the English original. A
+reader seeing English is a much smaller failure than a reader seeing a wrong
+fact.
+
+The stage is bounded per tick, so coverage converges over successive runs rather
+than costing half an hour in one. The one-line tail is translated after the head
+that readers actually open.
+
 ## Known limitations
 
 These are real and are stated rather than hidden.
@@ -186,6 +215,9 @@ These are real and are stated rather than hidden.
   query. Two sort orders (recency and stars) close most of the gap, but a
   project that is neither new nor popular can be missed. The seed list exists
   for exactly this.
+- **Translations are machine-produced.** They are protected against mangled
+  identifiers but not reviewed by a speaker of each language. The English
+  edition is the source of truth; corrections are welcome.
 - **`observed` is not `correct`.** It records that a project was found using a
   Jev-specific API token. It says nothing about whether the project works.
 - **Media selection is heuristic.** When a README has several candidates, the
