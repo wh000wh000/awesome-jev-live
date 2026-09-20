@@ -25,6 +25,7 @@ Outputs  data/entries.json, data/stats.json, data/CHANGELOG.md
 
 from __future__ import annotations
 
+import hashlib
 import json
 import re
 import sys
@@ -603,6 +604,54 @@ def build_submission_entries(subs: list[dict]) -> list[dict]:
     return out
 
 
+def build_knowledge_entries(items: list[dict], taken: set[str]) -> list[dict]:
+    """
+    Turn our own collection log into entries.
+
+    These are the half of the ecosystem a repository search cannot see: the
+    official pages that were read and verified, the independent production
+    tests, the write-ups, the disputes. The log already grades its evidence in
+    the same four levels this list uses, so nothing is re-judged here.
+
+    A URL already present from another source is skipped: the same page should
+    not appear twice under two headings.
+    """
+    out: list[dict] = []
+    for it in items:
+        url = (it.get("url") or "").strip()
+        title = (it.get("title") or "").strip()
+        if not url or not title or url in taken:
+            continue
+        taken.add(url)
+        point = (it.get("point") or "").strip() or title
+        out.append({
+            "id": "note:" + hashlib.sha1(url.encode()).hexdigest()[:16],
+            "kind": "note",
+            "name": title,
+            "url": url,
+            "owner": "",
+            "summary": point,
+            "notes": (it.get("impact") or "").strip(),
+            "category": "media-discussions",
+            "tier": "community",
+            "evidence": it.get("evidence") or "inferred",
+            "language": "",
+            "license": "",
+            "stars": 0,
+            "forks": 0,
+            "created_at": it.get("date") or "",
+            "pushed_at": it.get("date") or "",
+            "topics": ["collection", it.get("kind_label") or ""],
+            # The collection log is written in Chinese, so its records are a
+            # non-English source. Every edition -- English included -- needs a
+            # translation lookup for them.
+            "source_lang": "zh",
+            "source_note": it.get("source_note") or "",
+            "seen_days": it.get("seen_days", 1),
+        })
+    return out
+
+
 def build_model_entries(models: list[dict]) -> list[dict]:
     out = []
     for m in models:
@@ -767,12 +816,25 @@ def main() -> int:
             print(f"  !! could not read submissions.json: {exc}", file=sys.stderr)
     print(f"   submissions: {len(submissions)}")
 
+    knowledge = []
+    kpath = DATA / "knowledge.json"
+    if kpath.exists():
+        try:
+            knowledge = json.loads(kpath.read_text()).get("entries", [])
+        except Exception as exc:  # noqa: BLE001
+            print(f"  !! could not read knowledge.json: {exc}", file=sys.stderr)
+    print(f"   collection log: {len(knowledge)} entries")
+
     fresh = (
         build_repo_entries(repos, code_repos)
         + build_model_entries(models)
         + build_discussion_entries(hits)
         + build_submission_entries(submissions)
     )
+    # De-duplicate against everything already found, so a page our own log
+    # recorded does not appear twice.
+    taken = {e["url"] for e in fresh}
+    fresh += build_knowledge_entries(knowledge, taken)
     print(f"   relevant candidates: {len(fresh)}")
 
     prev_path = DATA / "entries.json"

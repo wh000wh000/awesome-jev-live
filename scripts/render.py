@@ -110,9 +110,15 @@ def text_hash(text: str) -> str:
     return hashlib.sha1(text.strip().encode("utf-8")).hexdigest()[:16]
 
 
-def localized(text: str, lang: str) -> str:
-    """The cached translation when there is one, otherwise the original."""
-    if not text or lang == "en":
+def localized(text: str, lang: str, source_lang: str = "en") -> str:
+    """
+    The cached translation when there is one, otherwise the original.
+
+    `source_lang` is the language the text is already in. Most entries are
+    English, but the collection log is Chinese, and for those the English
+    edition needs a lookup just as much as the others do.
+    """
+    if not text or lang == source_lang:
         return text
     return (SUMMARY_CACHE.get(lang) or {}).get(text_hash(text)) or text
 
@@ -394,7 +400,7 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         summary = (e.get("summary_i18n") or {}).get(t["lang"], "")
     summary = summary or e.get("summary") or t["labels"]["no_summary"]
     if not (e.get("summary_i18n") or {}).get(t["lang"]):
-        summary = localized(summary, t["lang"])
+        summary = localized(summary, t["lang"], e.get("source_lang") or "en")
     summary = re.sub(r"([\[\]])", r"\\\1", summary.strip())
     out.append(summary)
     out.append("")
@@ -412,7 +418,7 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if e.get("notes_i18n"):
         notes = (e["notes_i18n"]).get(t["lang"]) or notes
     if not (e.get("notes_i18n") or {}).get(t["lang"]):
-        notes = localized(notes, t["lang"])
+        notes = localized(notes, t["lang"], e.get("source_lang") or "en")
     if notes:
         out.append(f"> 💡 {notes}")
         out.append("")
@@ -754,7 +760,8 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
                 # The manifest requires `- [name](url) - description`, with a
                 # plain hyphen and a properly terminated description.
                 desc = as_list_description(
-                    localized(e.get("summary") or "", t["lang"]), t["lang"])
+                    localized(e.get("summary") or "", t["lang"],
+                              e.get("source_lang") or "en"), t["lang"])
                 suffix = f" - {esc(desc)}" if desc else ""
                 L.append(f"- [{md_escape(e['name'])}]({e['url']}){suffix}")
             L.append("")

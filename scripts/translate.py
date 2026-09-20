@@ -45,6 +45,9 @@ CST = timezone(timedelta(hours=8))
 STAMP = datetime.now(CST).isoformat(timespec="seconds")
 
 LANGS = [
+    # English is included because the collection log is a Chinese source: the
+    # English edition needs a translation of it too.
+    "en",
     "zh-CN", "zh-TW", "ja", "ko", "es", "fr", "de", "pt-BR", "ru",
     "it", "ar", "hi", "tr", "vi", "th", "id", "pl", "nl", "uk",
 ]
@@ -92,6 +95,26 @@ PROTECT_WORDS.sort(key=len, reverse=True)
 CODE_SPAN = re.compile(r"`[^`]+`")
 URL = re.compile(r"https?://[^\s)\]<>]+")
 WORD = re.compile(r"\b(" + "|".join(re.escape(w) for w in PROTECT_WORDS) + r")\b")
+
+
+CJK = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
+
+
+def needs_translation(text: str, lang: str) -> bool:
+    """
+    Whether `text` still has to be translated for `lang`.
+
+    Without this, adding English as a target queued every English summary in the
+    repository for translation into English: 491 identity calls whose only
+    effect was to push the thirty Chinese collection-log records to the back of
+    the queue, where they never ran.
+    """
+    chinese = bool(CJK.search(text))
+    if lang == "en":
+        return chinese                  # English text is already English
+    if lang == "zh-CN":
+        return not chinese              # Chinese text is already Simplified
+    return True                         # zh-TW converts script; the rest translate
 
 
 def key(text: str) -> str:
@@ -246,7 +269,41 @@ def ask(chunk: list[tuple[str, str]], lang: str, base: str, api_key: str,
     return merged
 
 
+def acquire_lock():
+    """
+    One translator at a time.
+
+    Running two instances is not merely wasteful: each loads the whole cache,
+    adds its own strings and writes the file back, so the second writer silently
+    discards the first one's work. That is exactly what happened when two rounds
+    of groups were launched and overlapped -- coverage came out uneven across
+    languages with nothing in the log to explain it.
+
+    Returns a release callable, or None when another instance holds the lock.
+    """
+    import os
+    lock = CACHE.parent / ".translate.lock"
+    lock.mkdir(parents=True, exist_ok=True) if False else None
+    lockfile = CACHE.parent / ".translate.lockdir"
+    try:
+        os.mkdir(lockfile)
+    except FileExistsError:
+        return None
+    return lambda: os.rmdir(lockfile)
+
+
 def main() -> int:
+    release = acquire_lock()
+    if release is None:
+        print("   another translate run holds the lock; exiting")
+        return 0
+    try:
+        return _main()
+    finally:
+        release()
+
+
+def _main() -> int:
     api_key = load_key()
     if not api_key:
         print("   no translation credentials; skipping (editions keep English)")
@@ -272,8 +329,11 @@ def main() -> int:
     for e in entries:
         for field in ("summary", "notes"):
             text = (e.get(field) or "").strip()
-            if len(text) >= 8 and not (e.get(f"{field}_i18n") or {}):
-                wanted.setdefault(key(text), text)
+            if len(text) < 8 or (e.get(f"{field}_i18n") or {}):
+                continue
+            # Already in the target language? Nothing to do; the renderer skips
+            # the lookup for a matching source language anyway.
+            wanted.setdefault(key(text), text)
 
     CACHE.mkdir(parents=True, exist_ok=True)
     print(f"== translate :: {len(wanted)} distinct strings, "
@@ -300,7 +360,8 @@ def main() -> int:
         if stale:
             print(f"   {lang:<6} pruned {len(stale)} stale strings")
         caches[lang] = cache
-        todo[lang] = [(k, v) for k, v in wanted.items() if k not in cache]
+        todo[lang] = [(k, v) for k, v in wanted.items()
+                      if k not in cache and needs_translation(v, lang)]
 
     total_added = 0
     calls = 0
