@@ -607,3 +607,32 @@
 - `+` [Yzywil/jev-windows](https://github.com/Yzywil/jev-windows) — inferred / routing-guardrails — ⭐0
 - `+` [0mis/astra-jev-new-vegas](https://github.com/0mis/astra-jev-new-vegas) — inferred / apps-demos — ⭐0
 - …另有 44 条新增
+
+## 2026-09-20T14:09:03+08:00
+- 收录总数 **596**；本 tick 新增 **67**
+- `+` [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) — inferred / other — ⭐41
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / other — ⭐21
+- `+` [Dimweaker/jev-libero](https://github.com/Dimweaker/jev-libero) — inferred / apps-demos — ⭐10
+- `+` [madeye/pi-jev](https://github.com/madeye/pi-jev) — inferred / agent-tooling — ⭐10
+- `+` [GodsBoy/jev-agent-skill-router](https://github.com/GodsBoy/jev-agent-skill-router) — inferred / agent-tooling — ⭐8
+- `+` [chy4pro/jev-for-chrome](https://github.com/chy4pro/jev-for-chrome) — inferred / agent-tooling — ⭐4
+- `+` [Ray-Hughes/jevalyn](https://github.com/Ray-Hughes/jevalyn) — inferred / community-sdk — ⭐3
+- `+` [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) — inferred / agent-tooling — ⭐3
+- `+` [muhammedilyasy/jev-mail](https://github.com/muhammedilyasy/jev-mail) — inferred / routing-guardrails — ⭐2
+- `+` [Understand any Bluesky account (Jev)](https://news.ycombinator.com/item?id=49772632) — observed / media-discussions — ⭐2
+- `+` [What are you building with jev?](https://news.ycombinator.com/item?id=49772507) — observed / media-discussions — ⭐2
+- `+` [JEV: Ranking 6K+ peer-company candidates in ~40 seconds](https://news.ycombinator.com/item?id=49772480) — observed / media-discussions — ⭐2
+- `+` [Semantic end-to-end agent testing for iOS, Android, and web using Jev](https://news.ycombinator.com/item?id=49770667) — observed / media-discussions — ⭐2
+- `+` [AstonyCat/jev-tab-grouper](https://github.com/AstonyCat/jev-tab-grouper) — inferred / community-sdk — ⭐1
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐1
+- `+` [yohanargentina-oss/Foq](https://github.com/yohanargentina-oss/Foq) — observed / agent-tooling — ⭐1
+- `+` [LeddoEngano/jev-eyes](https://github.com/LeddoEngano/jev-eyes) — inferred / apps-demos — ⭐1
+- `+` [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) — observed / media-discussions — ⭐0
+- `+` [yibie/laya-jev-lab](https://github.com/yibie/laya-jev-lab) — inferred / evaluation — ⭐0
+- `+` [maxlibin/moomoo-jev-trader](https://github.com/maxlibin/moomoo-jev-trader) — inferred / apps-demos — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
+- `+` [ogamircs/jev-demo](https://github.com/ogamircs/jev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [angribot/pi-jev](https://github.com/angribot/pi-jev) — inferred / other — ⭐0
+- `+` [krsna-smnt/jev-moral-dilemmas](https://github.com/krsna-smnt/jev-moral-dilemmas) — inferred / routing-guardrails — ⭐0
+- `+` [az9713/jev-email-triage](https://github.com/az9713/jev-email-triage) — inferred / routing-guardrails — ⭐0
+- …另有 42 条新增
