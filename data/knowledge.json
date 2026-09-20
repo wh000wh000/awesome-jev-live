@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-20T15:56:14+08:00",
+ "generated_at": "2026-09-20T18:43:20+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 39,
+ "count": 40,
  "grades": {
   "official": 11,
-  "observed": 27,
+  "observed": 28,
   "inferred": 0,
   "unverified": 1
  },
@@ -476,6 +476,18 @@
    "seen_days": 1,
    "point": "",
    "impact": "片段库 Vercel 行补 **AI SDK 用法**（真正的增量）；**关键数字表无需改动**（数字已有）→ **本轮定义级变更降级为\"否\"**",
+   "source_note": ""
+  },
+  {
+   "url": "https://cellcog.ai/blog/jev-typesafe-decision-model",
+   "title": "[cellcog.ai 追踪页]() 自称分层记录 *\"claims / concedes / measured / found, dated\"* → 与本库锚页设计意图一致，值得长期对照",
+   "kind_label": "观测",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
    "source_note": ""
   }
  ]

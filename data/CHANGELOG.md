@@ -719,3 +719,32 @@
 - `+` [opsiaadi/opnroute-jev](https://github.com/opsiaadi/opnroute-jev) — inferred / agent-tooling — ⭐0
 - `+` [larches-technologies/openclaw-jev-router](https://github.com/larches-technologies/openclaw-jev-router) — inferred / routing-guardrails — ⭐0
 - …另有 19 条新增
+
+## 2026-09-20T18:43:20+08:00
+- 收录总数 **648**；本 tick 新增 **87**
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / other — ⭐25
+- `+` [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) — inferred / apps-demos — ⭐14
+- `+` [erendikmenn/jev-rag-benchmark](https://github.com/erendikmenn/jev-rag-benchmark) — inferred / evaluation — ⭐7
+- `+` [Show HN: Will Jev pull the lever in the trolley problem?](https://news.ycombinator.com/item?id=49773756) — observed / media-discussions — ⭐4
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐3
+- `+` [whyashthakker/awesome-jev-use-cases](https://github.com/whyashthakker/awesome-jev-use-cases) — inferred / research-models — ⭐3
+- `+` [iefnaf/pi-jev](https://github.com/iefnaf/pi-jev) — inferred / routing-guardrails — ⭐3
+- `+` [lhemerly/mcts-agent](https://github.com/lhemerly/mcts-agent) — unverified / agent-tooling — ⭐3
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / other — ⭐2
+- `+` [DuckDB extension: typed Jev answers as real SQL types](https://news.ycombinator.com/item?id=49774406) — observed / media-discussions — ⭐2
+- `+` [Jev vs. classical ML. Strong on sentiment: Mixed across tasks](https://news.ycombinator.com/item?id=49774364) — observed / media-discussions — ⭐2
+- `+` [Is Jev the general-purpose classifier we've been waiting for?](https://news.ycombinator.com/item?id=49774338) — observed / media-discussions — ⭐2
+- `+` [Jev is the fastest-adopted model in AI Gateway history](https://news.ycombinator.com/item?id=49774164) — observed / media-discussions — ⭐2
+- `+` [A deep dive into Jev, TypeSafe's System One model](https://news.ycombinator.com/item?id=49774157) — observed / media-discussions — ⭐2
+- `+` [LiuHao-1443/jev-table-tennis](https://github.com/LiuHao-1443/jev-table-tennis) — inferred / agent-tooling — ⭐1
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐1
+- `+` [dog-last/awesome-jev](https://github.com/dog-last/awesome-jev) — inferred / evaluation — ⭐1
+- `+` [keiffff/jev-kit](https://github.com/keiffff/jev-kit) — inferred / agent-tooling — ⭐1
+- `+` [muse0509/jev-preflight](https://github.com/muse0509/jev-preflight) — inferred / community-sdk — ⭐1
+- `+` [kurihada/pi-jev-permit](https://github.com/kurihada/pi-jev-permit) — inferred / agent-tooling — ⭐0
+- `+` [minhlucvan/dsh-plugin-jev](https://github.com/minhlucvan/dsh-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [marcbara/jev-preflop-poker](https://github.com/marcbara/jev-preflop-poker) — observed / evaluation — ⭐0
+- `+` [boldbug1/jev-triage](https://github.com/boldbug1/jev-triage) — inferred / community-sdk — ⭐0
+- `+` [ismailakdag/typesafe-jev](https://github.com/ismailakdag/typesafe-jev) — inferred / other — ⭐0
+- `+` [maito1201/jev-harness](https://github.com/maito1201/jev-harness) — inferred / agent-tooling — ⭐0
+- …另有 62 条新增
