@@ -690,3 +690,32 @@
 - `+` [deva981001/jev-workflow-codex](https://github.com/deva981001/jev-workflow-codex) — inferred / agent-tooling — ⭐0
 - `+` [rashedInt32/jev-reach](https://github.com/rashedInt32/jev-reach) — inferred / agent-tooling — ⭐0
 - `+` [hoangngochuong24947-gif/jev-figure-router](https://github.com/hoangngochuong24947-gif/jev-figure-router) — inferred / agent-tooling — ⭐0
+
+## 2026-09-20T15:56:14+08:00
+- 收录总数 **641**；本 tick 新增 **44**
+- `+` [Frank-ZY-Dou/awesome-jev](https://github.com/Frank-ZY-Dou/awesome-jev) — inferred / apps-demos — ⭐8
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐6
+- `+` [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734) — observed / media-discussions — ⭐2
+- `+` [RudyJunyu/Jev-MCP](https://github.com/RudyJunyu/Jev-MCP) — inferred / agent-tooling — ⭐1
+- `+` [cvsgireesh/jev-usher](https://github.com/cvsgireesh/jev-usher) — inferred / agent-tooling — ⭐1
+- `+` [Hldwsd/minesweeper-jev](https://github.com/Hldwsd/minesweeper-jev) — inferred / research-models — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / community-sdk — ⭐1
+- `+` [buckmoon/jev-issue-router](https://github.com/buckmoon/jev-issue-router) — inferred / agent-tooling — ⭐1
+- `+` [n0nuser/battlesnake-jev](https://github.com/n0nuser/battlesnake-jev) — inferred / community-sdk — ⭐0
+- `+` [waterme7on/jev-paper-trader](https://github.com/waterme7on/jev-paper-trader) — inferred / official-sdk — ⭐0
+- `+` [chy4pro/jev-dev-kit](https://github.com/chy4pro/jev-dev-kit) — inferred / agent-tooling — ⭐0
+- `+` [priyankark/jev-state](https://github.com/priyankark/jev-state) — inferred / evaluation — ⭐0
+- `+` [ygivenx/jev-try](https://github.com/ygivenx/jev-try) — inferred / other — ⭐0
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐0
+- `+` [SarathChandraBellam/jev-vs-llm-ticket-router](https://github.com/SarathChandraBellam/jev-vs-llm-ticket-router) — inferred / routing-guardrails — ⭐0
+- `+` [SqaaSSL/openclaw-jev-compaction](https://github.com/SqaaSSL/openclaw-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [Nixz0824/rag-jev](https://github.com/Nixz0824/rag-jev) — inferred / evaluation — ⭐0
+- `+` [xjfyt/jev-cpu-demo](https://github.com/xjfyt/jev-cpu-demo) — inferred / agent-tooling — ⭐0
+- `+` [CodeCampusCo/jev-mcp](https://github.com/CodeCampusCo/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [sawzhang/jev-demo](https://github.com/sawzhang/jev-demo) — observed / apps-demos — ⭐0
+- `+` [glud123/jev-assist](https://github.com/glud123/jev-assist) — inferred / agent-tooling — ⭐0
+- `+` [nickylin/jev-harness](https://github.com/nickylin/jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [Taveren7/jev-outlook-organizer](https://github.com/Taveren7/jev-outlook-organizer) — inferred / other — ⭐0
+- `+` [opsiaadi/opnroute-jev](https://github.com/opsiaadi/opnroute-jev) — inferred / agent-tooling — ⭐0
+- `+` [larches-technologies/openclaw-jev-router](https://github.com/larches-technologies/openclaw-jev-router) — inferred / routing-guardrails — ⭐0
+- …另有 19 条新增
