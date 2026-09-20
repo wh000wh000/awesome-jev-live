@@ -616,9 +616,16 @@ def render_featured(entries: list[dict], media: dict, t: dict, names: dict) -> l
             L.append('<td width="50%" valign="top">')
             if img:
                 L.append(f'<img src="{esc(img)}" width="100%" '
-                         f'alt="{esc(e.get("name", ""))}">')
+                         f'alt="{esc(title)}">')
+            # The picks strip builds its own markup, so it does not inherit the
+            # title localisation that render_card applies. Without this, a
+            # collection-log record appeared in Chinese at the top of the
+            # English page while its own card below it was in English.
+            title = e.get("name", "")
+            if (e.get("source_lang") or "en") != "en":
+                title = localized(title, t["lang"], e.get("source_lang"))
             L.append(f'<b>{CATEGORY_EMOJI.get(cat, "•")} '
-                     f'<a href="{esc(e["url"])}">{esc(e.get("name", ""))}</a></b>')
+                     f'<a href="{esc(e["url"])}">{esc(title)}</a></b>')
             L.append(f'<sub>{" · ".join(bits)}</sub>')
             if summary:
                 L.append(f'<sub>{esc(summary)}</sub>')
