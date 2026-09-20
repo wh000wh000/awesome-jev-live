@@ -578,3 +578,32 @@
 - `+` [licensedsaucer9-web/jev-opportunities](https://github.com/licensedsaucer9-web/jev-opportunities) — inferred / research-models — ⭐0
 - `+` [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) — inferred / evaluation — ⭐0
 - …另有 30 条新增
+
+## 2026-09-20T11:53:32+08:00
+- 收录总数 **592**；本 tick 新增 **69**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐43
+- `+` [savka777/jev-use](https://github.com/savka777/jev-use) — inferred / agent-tooling — ⭐34
+- `+` [zszz3/Pi-Jev-Guide](https://github.com/zszz3/Pi-Jev-Guide) — inferred / other — ⭐12
+- `+` [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) — inferred / apps-demos — ⭐11
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — unverified / other — ⭐5
+- `+` [rashedInt32/jev-mcp](https://github.com/rashedInt32/jev-mcp) — inferred / agent-tooling — ⭐3
+- `+` [Jev vs. XGBoost and Bert](https://news.ycombinator.com/item?id=49768899) — observed / media-discussions — ⭐3
+- `+` [In 2024 I fine-tuned an LLM. Jev could have removed the side quests](https://news.ycombinator.com/item?id=49767987) — observed / media-discussions — ⭐3
+- `+` [Jev's Architecture Unmasked](https://news.ycombinator.com/item?id=49766351) — observed / media-discussions — ⭐3
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐2
+- `+` [ShuhanSun/jev-oas-sentinel](https://github.com/ShuhanSun/jev-oas-sentinel) — observed / other — ⭐2
+- `+` [drowzeys/keys-MiniMax-Code-CLI-Browser-Scroll-Context-Enhancement-Pack-with-Jev-Ultrafast-Integration](https://github.com/drowzeys/keys-MiniMax-Code-CLI-Browser-Scroll-Context-Enhancement-Pack-with-Jev-Ultrafast-Integration) — inferred / community-sdk — ⭐2
+- `+` [gaborishka/jev-canvas](https://github.com/gaborishka/jev-canvas) — inferred / routing-guardrails — ⭐2
+- `+` [Using system-one models inside high-throughput data pipelines](https://news.ycombinator.com/item?id=49771931) — observed / media-discussions — ⭐2
+- `+` [Jev example use cases from community](https://news.ycombinator.com/item?id=49768162) — observed / media-discussions — ⭐2
+- `+` [Can You Beat Jev?](https://news.ycombinator.com/item?id=49767438) — observed / media-discussions — ⭐2
+- `+` [kev: Jev-like model built on Qwen2.5-0.5B](https://news.ycombinator.com/item?id=49766295) — observed / media-discussions — ⭐2
+- `+` [tubone24/jev-practice-speed](https://github.com/tubone24/jev-practice-speed) — inferred / other — ⭐1
+- `+` [yibie/pi-jev-browser](https://github.com/yibie/pi-jev-browser) — inferred / apps-demos — ⭐1
+- `+` [kazuhideoki/jev-search](https://github.com/kazuhideoki/jev-search) — inferred / apps-demos — ⭐1
+- `+` [wenchenxi/jev-console](https://github.com/wenchenxi/jev-console) — inferred / community-sdk — ⭐1
+- `+` [kw2828/OpenJev](https://github.com/kw2828/OpenJev) — inferred / research-models — ⭐1
+- `+` [inematds/jev](https://github.com/inematds/jev) — inferred / other — ⭐1
+- `+` [Yzywil/jev-windows](https://github.com/Yzywil/jev-windows) — inferred / routing-guardrails — ⭐0
+- `+` [0mis/astra-jev-new-vegas](https://github.com/0mis/astra-jev-new-vegas) — inferred / apps-demos — ⭐0
+- …另有 44 条新增
