@@ -549,3 +549,32 @@
 - `+` [integralmarketingmx/jev-latam-lead-triage](https://github.com/integralmarketingmx/jev-latam-lead-triage) — inferred / routing-guardrails — ⭐0
 - `+` [jbellsolutions/jev-agent-kit](https://github.com/jbellsolutions/jev-agent-kit) — inferred / agent-tooling — ⭐0
 - …另有 26 条新增
+
+## 2026-09-20T09:39:36+08:00
+- 收录总数 **580**；本 tick 新增 **55**
+- `+` [okinaaudio/live-jev](https://github.com/okinaaudio/live-jev) — inferred / apps-demos — ⭐27
+- `+` [Show HN: Jev-lint – semantic linter with plain English rules](https://news.ycombinator.com/item?id=49771155) — observed / media-discussions — ⭐4
+- `+` [samdotmak/jev-recall](https://github.com/samdotmak/jev-recall) — inferred / agent-tooling — ⭐3
+- `+` [CrowdLinker/JevPromptCoach](https://github.com/CrowdLinker/JevPromptCoach) — inferred / agent-tooling — ⭐2
+- `+` [Generating levels in real time with the Jev model](https://news.ycombinator.com/item?id=49771494) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev-align, a CLI to calibrate Jev to your judgement](https://news.ycombinator.com/item?id=49770872) — observed / media-discussions — ⭐2
+- `+` [Jev is to tool use what RAG is to context](https://news.ycombinator.com/item?id=49770295) — observed / media-discussions — ⭐2
+- `+` [TypeSafe's Jev Can't See. I Made It Guess What I Drew Anyway](https://news.ycombinator.com/item?id=49768633) — observed / media-discussions — ⭐2
+- `+` [I Built a System One Model on a RTX 3070](https://news.ycombinator.com/item?id=49770066) — observed / media-discussions — ⭐2
+- `+` [CompleteTech-LLC-AI-Research/jev-311-heatmap](https://github.com/CompleteTech-LLC-AI-Research/jev-311-heatmap) — inferred / community-sdk — ⭐1
+- `+` [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) — inferred / agent-tooling — ⭐1
+- `+` [Mistertelecom/NEXUS-AI-Gateway-with-JEV](https://github.com/Mistertelecom/NEXUS-AI-Gateway-with-JEV) — inferred / routing-guardrails — ⭐1
+- `+` [eachann1024/pi-jev-reply](https://github.com/eachann1024/pi-jev-reply) — inferred / apps-demos — ⭐1
+- `+` [codebam/jev-guardrails](https://github.com/codebam/jev-guardrails) — inferred / community-sdk — ⭐0
+- `+` [willkelly/jev-evaluation](https://github.com/willkelly/jev-evaluation) — inferred / routing-guardrails — ⭐0
+- `+` [Umbylicus/umby-jev-stack](https://github.com/Umbylicus/umby-jev-stack) — inferred / agent-tooling — ⭐0
+- `+` [vynnlee/jev-mail](https://github.com/vynnlee/jev-mail) — inferred / routing-guardrails — ⭐0
+- `+` [Xy2002/poker-jev-test-bench](https://github.com/Xy2002/poker-jev-test-bench) — inferred / routing-guardrails — ⭐0
+- `+` [totally-tim/jev-gate](https://github.com/totally-tim/jev-gate) — inferred / community-sdk — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
+- `+` [danvega/jev-spring-boot-starter](https://github.com/danvega/jev-spring-boot-starter) — inferred / community-sdk — ⭐0
+- `+` [ashafizullah/jev-linkedin](https://github.com/ashafizullah/jev-linkedin) — inferred / apps-demos — ⭐0
+- `+` [jonatasperaza/jev-voice-windows](https://github.com/jonatasperaza/jev-voice-windows) — inferred / apps-demos — ⭐0
+- `+` [licensedsaucer9-web/jev-opportunities](https://github.com/licensedsaucer9-web/jev-opportunities) — inferred / research-models — ⭐0
+- `+` [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) — inferred / evaluation — ⭐0
+- …另有 30 条新增
