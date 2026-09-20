@@ -665,3 +665,28 @@
 - `+` [补齐官方缺失页：迁移到 v1 API](https://docs.typesafe.ai/migrating-to-v1) — official / media-discussions — ⭐0
 - `+` [`calibre`：独立标定实验证明"阈值参数不跨数据集迁移"](https://github.com/FirasSX914/calibre) — observed / media-discussions — ⭐0
 - …另有 19 条新增
+
+## 2026-09-20T14:56:29+08:00
+- 收录总数 **635**；本 tick 新增 **22**
+- `+` [win4r/jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) — inferred / community-sdk — ⭐8
+- `+` [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748) — observed / media-discussions — ⭐2
+- `+` [Show HN: Typesafe Java SDK (Unofficial)](https://news.ycombinator.com/item?id=49762324) — observed / media-discussions — ⭐2
+- `+` [Bald0Wang/jev-docs-zh](https://github.com/Bald0Wang/jev-docs-zh) — observed / other — ⭐1
+- `+` [matthewman/jev-snake](https://github.com/matthewman/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [xm1233/weekend-dinner-jev](https://github.com/xm1233/weekend-dinner-jev) — inferred / apps-demos — ⭐0
+- `+` [davidrydberg/freshdesk-triage-jev](https://github.com/davidrydberg/freshdesk-triage-jev) — inferred / routing-guardrails — ⭐0
+- `+` [jeffloo886/jev-notion](https://github.com/jeffloo886/jev-notion) — inferred / community-sdk — ⭐0
+- `+` [Ash20pk/beat-the-reviewer](https://github.com/Ash20pk/beat-the-reviewer) — observed / evaluation — ⭐0
+- `+` [shivamnarkar47/Jev-testcase](https://github.com/shivamnarkar47/Jev-testcase) — inferred / other — ⭐0
+- `+` [Arohtea/jev-readout](https://github.com/Arohtea/jev-readout) — inferred / other — ⭐0
+- `+` [mleyvaz/jev-typed-evaluation-collapse](https://github.com/mleyvaz/jev-typed-evaluation-collapse) — inferred / routing-guardrails — ⭐0
+- `+` [fbettag/elixir-jev](https://github.com/fbettag/elixir-jev) — inferred / community-sdk — ⭐0
+- `+` [SupremeDreamZ/jev-fastloop](https://github.com/SupremeDreamZ/jev-fastloop) — inferred / agent-tooling — ⭐0
+- `+` [simonsez9510/jev-cite-check](https://github.com/simonsez9510/jev-cite-check) — inferred / other — ⭐0
+- `+` [dspachos/jev-dspy](https://github.com/dspachos/jev-dspy) — inferred / community-sdk — ⭐0
+- `+` [Atikpui007/jev-sift](https://github.com/Atikpui007/jev-sift) — inferred / agent-tooling — ⭐0
+- `+` [yottayoshida/jev-intent-review](https://github.com/yottayoshida/jev-intent-review) — inferred / other — ⭐0
+- `+` [jukkatupamaki/better-call-jev](https://github.com/jukkatupamaki/better-call-jev) — inferred / agent-tooling — ⭐0
+- `+` [deva981001/jev-workflow-codex](https://github.com/deva981001/jev-workflow-codex) — inferred / agent-tooling — ⭐0
+- `+` [rashedInt32/jev-reach](https://github.com/rashedInt32/jev-reach) — inferred / agent-tooling — ⭐0
+- `+` [hoangngochuong24947-gif/jev-figure-router](https://github.com/hoangngochuong24947-gif/jev-figure-router) — inferred / agent-tooling — ⭐0
