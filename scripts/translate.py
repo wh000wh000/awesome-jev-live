@@ -282,14 +282,25 @@ def acquire_lock():
     Returns a release callable, or None when another instance holds the lock.
     """
     import os
-    lock = CACHE.parent / ".translate.lock"
-    lock.mkdir(parents=True, exist_ok=True) if False else None
+    import shutil
+    import time as _time
     lockfile = CACHE.parent / ".translate.lockdir"
     try:
         os.mkdir(lockfile)
     except FileExistsError:
-        return None
-    return lambda: os.rmdir(lockfile)
+        # A run killed mid-flight leaves the directory behind. Treat a lock
+        # older than the longest a run can plausibly take as stale, or one
+        # killed process stops translation for good.
+        age = _time.time() - lockfile.stat().st_mtime
+        if age < 3600:
+            return None
+        print("   clearing a stale translate lock")
+        shutil.rmtree(lockfile, ignore_errors=True)
+        try:
+            os.mkdir(lockfile)
+        except OSError:
+            return None
+    return lambda: shutil.rmtree(lockfile, ignore_errors=True)
 
 
 def main() -> int:
@@ -327,7 +338,13 @@ def _main() -> int:
 
     wanted: dict[str, str] = {}
     for e in entries:
-        for field in ("summary", "notes"):
+        # A record authored in another language needs its title translated as
+        # well as its prose, or the English edition leads with a Chinese
+        # heading and only the body underneath it is in English.
+        fields = ["summary", "notes"]
+        if (e.get("source_lang") or "en") != "en":
+            fields.append("name")
+        for field in fields:
             text = (e.get(field) or "").strip()
             if len(text) < 8 or (e.get(f"{field}_i18n") or {}):
                 continue

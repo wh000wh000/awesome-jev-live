@@ -349,6 +349,10 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     # A submission's display title is localized; a repository's name is not.
     if kind == "post":
         name = (e.get("title_i18n") or {}).get(t["lang"]) or name
+    # A record from our own collection log is authored in Chinese; its title is
+    # a translatable string like any other.
+    if (e.get("source_lang") or "en") != "en":
+        name = localized(name, t["lang"], e.get("source_lang"))
     url = e.get("url", "")
 
     # ---- at-a-glance facts for the summary line -------------------
