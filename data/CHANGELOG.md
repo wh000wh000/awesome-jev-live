@@ -748,3 +748,32 @@
 - `+` [ismailakdag/typesafe-jev](https://github.com/ismailakdag/typesafe-jev) — inferred / other — ⭐0
 - `+` [maito1201/jev-harness](https://github.com/maito1201/jev-harness) — inferred / agent-tooling — ⭐0
 - …另有 62 条新增
+
+## 2026-09-20T21:08:19+08:00
+- 收录总数 **658**；本 tick 新增 **72**
+- `+` [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) — inferred / agent-tooling — ⭐68
+- `+` [savka777/jev-use](https://github.com/savka777/jev-use) — inferred / agent-tooling — ⭐52
+- `+` [rhighs/jev-code](https://github.com/rhighs/jev-code) — inferred / community-sdk — ⭐15
+- `+` [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) — inferred / community-sdk — ⭐12
+- `+` [romaluev/jev-ego](https://github.com/romaluev/jev-ego) — inferred / community-sdk — ⭐9
+- `+` [receptron/laya](https://github.com/receptron/laya) — unverified / other — ⭐6
+- `+` [buberlo/dsh-jev](https://github.com/buberlo/dsh-jev) — inferred / agent-tooling — ⭐4
+- `+` [0xBakeer/arbiter](https://github.com/0xBakeer/arbiter) — unverified / community-sdk — ⭐4
+- `+` [jaibhasin/jev-yt-time-saver](https://github.com/jaibhasin/jev-yt-time-saver) — inferred / apps-demos — ⭐3
+- `+` [narekgevorgyan/ultrabrowse](https://github.com/narekgevorgyan/ultrabrowse) — unverified / community-sdk — ⭐3
+- `+` [kindintelligence/jev-rust-review](https://github.com/kindintelligence/jev-rust-review) — inferred / agent-tooling — ⭐2
+- `+` [hamidfarmani/jev-resume-match](https://github.com/hamidfarmani/jev-resume-match) — inferred / apps-demos — ⭐2
+- `+` [dtunai/cu-Jev](https://github.com/dtunai/cu-Jev) — inferred / evaluation — ⭐2
+- `+` [miniLV/Jev-Auto-Router](https://github.com/miniLV/Jev-Auto-Router) — inferred / agent-tooling — ⭐2
+- `+` [kenhuangus/jev-usecases](https://github.com/kenhuangus/jev-usecases) — inferred / routing-guardrails — ⭐2
+- `+` [Auto approve pull requests with Jev](https://news.ycombinator.com/item?id=49775144) — observed / media-discussions — ⭐2
+- `+` [A MySQL plugin that filters rows by meaning (built on TypeSafe Jev)](https://news.ycombinator.com/item?id=49774592) — observed / media-discussions — ⭐2
+- `+` [dtheofr/typesafe-jev-ruby](https://github.com/dtheofr/typesafe-jev-ruby) — observed / community-sdk — ⭐1
+- `+` [jzhg6/jev-embodied-media-agent](https://github.com/jzhg6/jev-embodied-media-agent) — inferred / agent-tooling — ⭐1
+- `+` [YehuiTang0316/jev-nlgrep](https://github.com/YehuiTang0316/jev-nlgrep) — inferred / agent-tooling — ⭐1
+- `+` [de-niji/jev-hermes](https://github.com/de-niji/jev-hermes) — inferred / agent-tooling — ⭐1
+- `+` [javiergradiche/ruby_llm-providers-typesafe](https://github.com/javiergradiche/ruby_llm-providers-typesafe) — observed / community-sdk — ⭐1
+- `+` [logicrw/ask-jev](https://github.com/logicrw/ask-jev) — inferred / community-sdk — ⭐0
+- `+` [IslamBaraka90/jev-typesafe-real-financial-use-cases](https://github.com/IslamBaraka90/jev-typesafe-real-financial-use-cases) — inferred / agent-tooling — ⭐0
+- `+` [alexmeckes/jev-the-spire](https://github.com/alexmeckes/jev-the-spire) — inferred / evaluation — ⭐0
+- …另有 47 条新增

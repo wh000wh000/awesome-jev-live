@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-20T18:43:20+08:00",
+ "generated_at": "2026-09-20T21:08:19+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 40,
+ "count": 41,
  "grades": {
   "official": 11,
-  "observed": 28,
+  "observed": 29,
   "inferred": 0,
   "unverified": 1
  },
@@ -481,6 +481,18 @@
   {
    "url": "https://cellcog.ai/blog/jev-typesafe-decision-model",
    "title": "[cellcog.ai 追踪页]() 自称分层记录 *\"claims / concedes / measured / found, dated\"* → 与本库锚页设计意图一致，值得长期对照",
+   "kind_label": "观测",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://www.infoworld.com/article/4223468/typesafe-ais-new-models-work-with-machines-not-humans.html",
+   "title": "New：[InfoWorld（2026-09-17）]() —— 企业媒体视角，用例清单：*\"which tool to invoke, which action to take next, whether a request should be approved, when a task…",
    "kind_label": "观测",
    "evidence": "observed",
    "date": "",
