@@ -777,3 +777,32 @@
 - `+` [IslamBaraka90/jev-typesafe-real-financial-use-cases](https://github.com/IslamBaraka90/jev-typesafe-real-financial-use-cases) — inferred / agent-tooling — ⭐0
 - `+` [alexmeckes/jev-the-spire](https://github.com/alexmeckes/jev-the-spire) — inferred / evaluation — ⭐0
 - …另有 47 条新增
+
+## 2026-09-20T23:32:35+08:00
+- 收录总数 **673**；本 tick 新增 **84**
+- `+` [wobsoriano/oxlint-plugin-jev](https://github.com/wobsoriano/oxlint-plugin-jev) — inferred / agent-tooling — ⭐32
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / other — ⭐26
+- `+` [philippdubach/pi-jev-router](https://github.com/philippdubach/pi-jev-router) — inferred / agent-tooling — ⭐14
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — unverified / other — ⭐6
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐5
+- `+` [Peu77/JevFind](https://github.com/Peu77/JevFind) — inferred / agent-tooling — ⭐4
+- `+` [Let me Jev that for you](https://news.ycombinator.com/item?id=49776178) — observed / media-discussions — ⭐3
+- `+` [larguesa/jev-search](https://github.com/larguesa/jev-search) — inferred / community-sdk — ⭐2
+- `+` [Show HN: A minimal Pareto-optimal OpenRouter model router for pi, based on Jev](https://news.ycombinator.com/item?id=49775968) — observed / media-discussions — ⭐2
+- `+` [Show HN: lgtm? – Jev-powered checks that make agents test](https://news.ycombinator.com/item?id=49775566) — observed / media-discussions — ⭐2
+- `+` [dougsong/jev-android](https://github.com/dougsong/jev-android) — inferred / community-sdk — ⭐1
+- `+` [LeddoEngano/jev-eyes](https://github.com/LeddoEngano/jev-eyes) — observed / community-sdk — ⭐1
+- `+` [Patrick-SCH03/jev-issue-radar](https://github.com/Patrick-SCH03/jev-issue-radar) — inferred / routing-guardrails — ⭐1
+- `+` [exfly/laya-jev-compatible-server](https://github.com/exfly/laya-jev-compatible-server) — inferred / other — ⭐1
+- `+` [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe) — observed / community-sdk — ⭐1
+- `+` [MaxIvanyshen/jev-review](https://github.com/MaxIvanyshen/jev-review) — inferred / agent-tooling — ⭐1
+- `+` [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev) — inferred / agent-tooling — ⭐1
+- `+` [tanayvasishtha/Slither-Me-Jev](https://github.com/tanayvasishtha/Slither-Me-Jev) — inferred / apps-demos — ⭐1
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐1
+- `+` [HisuiKoh/jev-vtuber-ime-core](https://github.com/HisuiKoh/jev-vtuber-ime-core) — inferred / other — ⭐1
+- `+` [cephalization/jev-triage](https://github.com/cephalization/jev-triage) — inferred / routing-guardrails — ⭐1
+- `+` [russfranky/jev-crawlers](https://github.com/russfranky/jev-crawlers) — inferred / official-sdk — ⭐0
+- `+` [yn01/jev-stormboard](https://github.com/yn01/jev-stormboard) — inferred / other — ⭐0
+- `+` [JohnsonRan/pi-jev](https://github.com/JohnsonRan/pi-jev) — inferred / agent-tooling — ⭐0
+- `+` [yodakeisuke/fpna-jev-master-matching](https://github.com/yodakeisuke/fpna-jev-master-matching) — inferred / other — ⭐0
+- …另有 59 条新增
