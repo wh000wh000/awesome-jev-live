@@ -636,3 +636,32 @@
 - `+` [krsna-smnt/jev-moral-dilemmas](https://github.com/krsna-smnt/jev-moral-dilemmas) — inferred / routing-guardrails — ⭐0
 - `+` [az9713/jev-email-triage](https://github.com/az9713/jev-email-triage) — inferred / routing-guardrails — ⭐0
 - …另有 42 条新增
+
+## 2026-09-20T14:33:29+08:00
+- 收录总数 **630**；本 tick 新增 **44**
+- `+` [OmniJev/awesome-jev-gallery](https://github.com/OmniJev/awesome-jev-gallery) — observed / evaluation — ⭐71
+- `+` [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) — unverified / agent-tooling — ⭐3
+- `+` [zeeshan8281/slo-router](https://github.com/zeeshan8281/slo-router) — inferred / routing-guardrails — ⭐3
+- `+` [TypeSafeAI/clarity-judge](https://github.com/TypeSafeAI/clarity-judge) — official / official-sdk — ⭐2
+- `+` [Show HN: Jev, Fly Me to the Moon](https://news.ycombinator.com/item?id=49769916) — observed / media-discussions — ⭐2
+- `+` [DM010727/jev-superpowers-review](https://github.com/DM010727/jev-superpowers-review) — inferred / agent-tooling — ⭐1
+- `+` [TheWebDevel/jev-fanout](https://github.com/TheWebDevel/jev-fanout) — inferred / evaluation — ⭐0
+- `+` [munirad7s/jev-escape](https://github.com/munirad7s/jev-escape) — inferred / other — ⭐0
+- `+` [BeiZi6/jev-introduction](https://github.com/BeiZi6/jev-introduction) — inferred / other — ⭐0
+- `+` [omribenami/jev-operated-drone](https://github.com/omribenami/jev-operated-drone) — inferred / routing-guardrails — ⭐0
+- `+` [CompleteTech-LLC-AI-Research/jev-context-fabric](https://github.com/CompleteTech-LLC-AI-Research/jev-context-fabric) — inferred / agent-tooling — ⭐0
+- `+` [Mairuis/jev-doudizhu](https://github.com/Mairuis/jev-doudizhu) — inferred / other — ⭐0
+- `+` [JLegends/opencode-jev-compaction](https://github.com/JLegends/opencode-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [shinshin86/jev-aituber-tension-sample](https://github.com/shinshin86/jev-aituber-tension-sample) — inferred / apps-demos — ⭐0
+- `+` [TypeSafe 新增 Team 页 + 导航新增 `Enterprise` 入口（产品化/商业化信号）](https://typesafe.ai/team) — official / media-discussions — ⭐0
+- `+` [`classifier.dev`：建在 Jev 上的免费零样本分类服务（含 agent skill）](https://classifier.dev) — observed / media-discussions — ⭐0
+- `+` [官方文档索引与限流/上下文/定制政策全部核实](https://docs.typesafe.ai/models) — official / media-discussions — ⭐0
+- `+` [confidence 的官方语义确认](https://docs.typesafe.ai/confidence) — official / media-discussions — ⭐0
+- `+` [9 类已知缺陷（jaggedness）](https://docs.typesafe.ai/model-jaggedness/jev-1.13) — official / media-discussions — ⭐0
+- `+` [发现并抓取 18 篇官方 cookbook 实战配方（此前完全缺失）](https://docs.typesafe.ai/llms.txt) — official / media-discussions — ⭐0
+- `+` [`consistency_choice` cookbook 正式回答了"重复调用结果会变"](https://docs.typesafe.ai/cookbooks/consistency_choice_cookbook) — official / media-discussions — ⭐0
+- `+` [`clownware/bouncer` 提供目前最硬的第三方独立标定数据](https://github.com/clownware/bouncer) — observed / media-discussions — ⭐0
+- `+` [安装官方 agent skill `typesafe-ai` — ，MIT）](https://github.com/typesafe-ai/skills（⭐128) — official / media-discussions — ⭐0
+- `+` [补齐官方缺失页：迁移到 v1 API](https://docs.typesafe.ai/migrating-to-v1) — official / media-discussions — ⭐0
+- `+` [`calibre`：独立标定实验证明"阈值参数不跨数据集迁移"](https://github.com/FirasSX914/calibre) — observed / media-discussions — ⭐0
+- …另有 19 条新增
