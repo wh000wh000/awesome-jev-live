@@ -156,6 +156,14 @@ def esc(text: str) -> str:
     return html.escape(str(text or ""), quote=True)
 
 
+def plain_text(text: str) -> str:
+    """Markdown stripped to what a reader sees, for comparisons and captions."""
+    t = re.sub(r"`([^`]*)`", r"\1", str(text or ""))
+    t = re.sub(r"\*\*([^*]*)\*\*", r"\1", t)
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def md_escape(text: str) -> str:
     """Make a one-line string safe inside a markdown link caption."""
     return re.sub(r"([\[\]<>`])", r"\\\1", str(text or "")).replace("\n", " ").strip()
@@ -231,16 +239,33 @@ def as_list_description(summary: str, lang: str, limit: int = 80) -> str:
     text = re.sub(r"\s+", " ", (summary or "").strip())
     text = re.sub(r"([\[\]])", r"\\\1", text)          # neutralise injected markdown
     if len(text) > limit:
-        text = text[:limit].rsplit(" ", 1)[0].rstrip(" ,;:—-")
-        # A truncated quote or bracket reads as broken. Symmetric delimiters must
-        # be tested for parity: comparing count('"') > count('"') is always
-        # false, which is how an unclosed quote survived into the published page.
-        for sym in ('"', "'"):
-            if text.count(sym) % 2:
-                text = text[: text.rfind(sym)].rstrip()
-        for opener, closer in (("(", ")"), ("[", "]")):
-            while text.count(opener) > text.count(closer) and opener in text:
-                text = text[: text.rfind(opener)].rstrip()
+        head = text[:limit]
+        # Prefer to end on a sentence. A hard cut produced fragments like
+        # "connect images, video, and screen observations to structured." --
+        # grammatically dead, and it made four hundred one-line entries read as
+        # broken rather than brief.
+        cut = max(head.rfind(". "), head.rfind("。"), head.rfind("; "),
+                  head.rfind("！"), head.rfind("？"))
+        if cut > limit * 0.45:
+            text = head[: cut + 1].rstrip()
+        else:
+            text = head.rsplit(" ", 1)[0].rstrip(" ,;:—-")
+            if text and text[-1] not in ALREADY_ENDED:
+                text += "…"
+    # Balance the delimiters whether or not anything was cut: an unclosed quote
+    # or bracket is a lint failure and reads as broken text. Symmetric
+    # delimiters need a parity test -- comparing count('"') > count('"') is
+    # always false, which is how an unclosed quote once reached the page.
+    # Paired delimiters, including the curly forms a Chinese source produces.
+    # A closing mark with no opener is as broken as an unclosed one.
+    for opener, closer in (('"', '"'), ("'", "'"), ("“", "”"), ("‘", "’")):
+        while text.count(closer) > text.count(opener):
+            text = text[: text.rfind(closer)].rstrip()
+        if opener == closer and text.count(opener) % 2:
+            text = text[: text.rfind(opener)].rstrip()
+    for opener, closer in (("(", ")"), ("（", "）"), ("[", "]")):
+        while text.count(opener) > text.count(closer) and opener in text:
+            text = text[: text.rfind(opener)].rstrip()
     # The linter accepts only ASCII sentence punctuation, and an upstream
     # description may be Chinese while the README is English, so a CJK
     # terminator is normalised here. List-item convention, not a rewrite.
@@ -425,6 +450,13 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if not (e.get("notes_i18n") or {}).get(t["lang"]):
         notes = localized(notes, t["lang"], e.get("source_lang") or "en")
     if notes:
+        # Upstream notes carry the same bracket syntax as summaries; left alone
+        # a stray "[" becomes a markdown reference to a definition that does not
+        # exist.
+        notes = re.sub(r"([\[\]])", r"\\\1", notes.strip())
+        for sym in ('"', "“"):
+            if notes.count(sym) % 2:
+                notes = notes[: notes.rfind(sym)].rstrip()
         out.append(f"> 💡 {notes}")
         out.append("")
 
@@ -439,8 +471,12 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
         f"`{esc(t['categories'].get(e['category'], e['category']))}`"],
     ]
     ev = e.get("evidence", "unverified")
+    # No emoji inside a markdown table cell. `string-width` treats several emoji
+    # as one column where a terminal shows two -- star U+2B50 among them -- so a
+    # single such cell shifts its whole column by one and every row in the file
+    # fails alignment. The grade's icon still appears in the card's summary line,
+    # which is not a table.
     fact_rows.append([labels["evidence"],
-                      f"{EVIDENCE_EMOJI.get(ev, '')} "
                       f"`{esc(t['evidence_levels'].get(ev, ev))}`"])
     if e.get("language"):
         fact_rows.append([labels["language"], esc(e["language"])])
@@ -460,20 +496,20 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
     if kind == "repo":
         delta = e.get("stars_delta") or 0
         dstr = f" (+{delta})" if delta > 0 else (f" ({delta})" if delta else "")
-        metric_rows.append([f"⭐ {labels['stars']}", f"**{e.get('stars', 0)}**{dstr}"])
+        metric_rows.append([labels["stars"], f"**{e.get('stars', 0)}**{dstr}"])
         if e.get("pushed_at"):
-            metric_rows.append([f"🚀 {labels['last_push']}", str(e["pushed_at"])[:10]])
+            metric_rows.append([labels["last_push"], str(e["pushed_at"])[:10]])
     elif kind == "post":
         pm = e.get("metrics") or {}
         if pm.get("views"):
-            metric_rows.append([f"👁️ {labels['views']}", f"**{pm['views']}**"])
+            metric_rows.append([labels["views"], f"**{pm['views']}**"])
         if pm.get("likes"):
-            metric_rows.append([f"❤️ {labels['likes']}", str(pm["likes"])])
+            metric_rows.append([labels["likes"], str(pm["likes"])])
         if pm.get("replies"):
-            metric_rows.append([f"💬 {labels['comments']}", str(pm["replies"])])
+            metric_rows.append([labels["comments"], str(pm["replies"])])
         if e.get("posted_at"):
-            metric_rows.append([f"📅 {labels['posted']}", str(e["posted_at"])[:10]])
-    metric_rows.append([f"📥 {labels['first_seen']}", str(e.get("first_seen", ""))[:10]])
+            metric_rows.append([labels["posted"], str(e["posted_at"])[:10]])
+    metric_rows.append([labels["first_seen"], str(e.get("first_seen", ""))[:10]])
     out.append(f"##### 📊 {labels['data']}")
     out.append("")
     out.extend(md_table([labels["metric"], labels["value"]], metric_rows))
@@ -775,9 +811,16 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
             for e in tail:
                 # The manifest requires `- [name](url) - description`, with a
                 # plain hyphen and a properly terminated description.
-                desc = as_list_description(
-                    localized(e.get("summary") or "", t["lang"],
-                              e.get("source_lang") or "en"), t["lang"])
+                raw = localized(e.get("summary") or "", t["lang"],
+                                e.get("source_lang") or "en")
+                # The manifest forbids a description that opens by repeating the
+                # item it describes, which collection-log records do because
+                # their 要点 restates the title.
+                plain = plain_text(raw)
+                name_plain = plain_text(e.get("name") or "")
+                if name_plain and plain.startswith(name_plain):
+                    raw = plain[len(name_plain):].lstrip(" :：—-·")
+                desc = as_list_description(raw, t["lang"])
                 suffix = f" - {esc(desc)}" if desc else ""
                 L.append(f"- [{md_escape(e['name'])}]({e['url']}){suffix}")
             L.append("")
