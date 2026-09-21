@@ -334,6 +334,15 @@ def main() -> int:
 
     # Pages needs a marker to disable Jekyll processing of the generated files.
     (DOCS / ".nojekyll").write_text("")
+    (DOCS / "robots.txt").write_text(
+        "User-agent: *\nAllow: /\n\n"
+        f"Sitemap: {SITE_URL}sitemap.xml\n")
+    (DOCS / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f'  <url><loc>{SITE_URL}</loc><lastmod>{STAMP[:10]}</lastmod>'
+        '<changefreq>hourly</changefreq><priority>1.0</priority></url>\n'
+        '</urlset>\n')
 
     # llms.txt, the emerging convention for AI crawlers. Generated from the same
     # data as everything else, so it cannot drift.

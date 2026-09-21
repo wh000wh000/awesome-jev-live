@@ -43,6 +43,7 @@ NOW = datetime.now(CST)
 STAMP = NOW.isoformat(timespec="seconds")
 
 REPO_URL = "https://github.com/wh000wh000/awesome-jev-live"
+SITE_URL = "https://wh000wh000.github.io/awesome-jev-live/"
 RAW_BASE = "https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/"
 
 LANGS = [
@@ -661,6 +662,10 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append(f'  <img src="https://img.shields.io/badge/languages-{len(LANGS)}-1f6feb" alt="languages">')
     L.append(f'  <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">')
     L.append(f'  <a href="{asset_prefix}LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>')
+    # The site is the searchable, filterable view of the same data. Linking it
+    # from the README gives a reader a reason to leave the page and gives the
+    # site the backlink it needs to be indexed.
+    L.append(f'  <a href="{SITE_URL}"><img src="https://img.shields.io/badge/site-searchable-1f6feb" alt="site"></a>')
     L.append("</p>")
     L.append("")
 
