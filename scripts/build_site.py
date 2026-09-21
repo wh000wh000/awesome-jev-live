@@ -1,0 +1,393 @@
+#!/usr/bin/env python3
+"""
+awesome-jev-live :: build_site.py
+
+Builds the GitHub Pages site into docs/.
+
+Why a site
+----------
+A repository is discovered through its name, description, topics and star count.
+None of those show what makes this list different: that every entry carries an
+evidence grade, that it is rebuilt every two hours, or that it publishes in
+twenty languages. A page can show all three at once, and it is a URL that can be
+linked, indexed and shared independently of GitHub's ranking.
+
+The site is generated exactly like the READMEs: one template, data from
+data/entries.json. It is English with links to the twenty editions, rather than
+twenty generated sites, because a reader searching for "Jev projects" is
+overwhelmingly searching in English.
+
+Outputs
+  docs/index.html   the page (self-contained: no CDN, no build step, no JS deps)
+  docs/site.json    the data it reads
+"""
+
+from __future__ import annotations
+
+import html
+import json
+import re
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+DOCS = ROOT / "docs"
+CST = timezone(timedelta(hours=8))
+NOW = datetime.now(CST)
+STAMP = NOW.isoformat(timespec="seconds")
+
+REPO_URL = "https://github.com/wh000wh000/awesome-jev-live"
+SITE_URL = "https://wh000wh000.github.io/awesome-jev-live/"
+
+CATEGORY_EMOJI = {
+    "official-sdk": "🏛️", "community-sdk": "🧰", "agent-tooling": "🤖",
+    "routing-guardrails": "🛡️", "evaluation": "🧪", "research-models": "🔬",
+    "apps-demos": "🎮", "media-discussions": "📰", "other": "🧩",
+}
+EVIDENCE_EMOJI = {"official": "✅", "observed": "👁️",
+                  "inferred": "🔎", "unverified": "❓"}
+EVIDENCE_ORDER = ["official", "observed", "inferred", "unverified"]
+LANGS = [("en", "English"), ("zh-CN", "简体中文"), ("zh-TW", "繁體中文"),
+         ("ja", "日本語"), ("ko", "한국어"), ("es", "Español"),
+         ("fr", "Français"), ("de", "Deutsch"), ("pt-BR", "Português"),
+         ("ru", "Русский"), ("it", "Italiano"), ("ar", "العربية"),
+         ("hi", "हिन्दी"), ("tr", "Türkçe"), ("vi", "Tiếng Việt"),
+         ("th", "ไทย"), ("id", "Bahasa Indonesia"), ("pl", "Polski"),
+         ("nl", "Nederlands"), ("uk", "Українська")]
+
+
+def esc(t) -> str:
+    return html.escape(str(t or ""), quote=True)
+
+
+def strip_md(t: str) -> str:
+    """The site renders plain text; the source carries markdown emphasis."""
+    t = re.sub(r"`([^`]*)`", r"\1", str(t or ""))
+    t = re.sub(r"\*\*([^*]*)\*\*", r"\1", t)
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def build_payload(entries: list[dict], stats: dict, media: dict) -> dict:
+    out = []
+    for e in entries:
+        m = media.get(e["id"]) or {}
+        out.append({
+            "n": e.get("name", ""),
+            "u": e.get("url", ""),
+            "c": e.get("category", ""),
+            "e": e.get("evidence", "unverified"),
+            "t": e.get("tier", "community"),
+            "s": int(e.get("stars") or 0),
+            "l": e.get("language") or "",
+            "d": strip_md(e.get("summary") or "")[:300],
+            "k": e.get("kind", "repo"),
+            "g": (e.get("topics") or [])[:6],
+            "i": bool(m.get("image")),
+            "f": str(e.get("first_seen") or "")[:10],
+            "p": str(e.get("pushed_at") or "")[:10],
+        })
+    return {
+        "generated_at": STAMP,
+        "total": stats.get("total", len(out)),
+        "new_this_tick": stats.get("new_this_tick", 0),
+        "by_category": stats.get("by_category", {}),
+        "by_evidence": stats.get("by_evidence", {}),
+        "by_language": stats.get("by_language", {}),
+        "categories": CATEGORY_EMOJI,
+        "evidence_order": EVIDENCE_ORDER,
+        "entries": out,
+    }
+
+
+PAGE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Awesome Jev — an evidence-graded index, rebuilt every 2 hours</title>
+<meta name="description" content="A live index of the Jev / TypeSafe System One ecosystem: __TOTAL__ entries across SDKs, MCP tooling, agent guardrails, evaluations and open models. Every entry carries an evidence grade. Rebuilt every two hours.">
+<meta property="og:title" content="Awesome Jev — evidence-graded, rebuilt every 2 hours">
+<meta property="og:description" content="__TOTAL__ Jev / TypeSafe System One projects, graded by how much was actually verified. 20 language editions.">
+<meta property="og:image" content="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/assets/readme/hero.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='24' font-size='24'>🔥</text></svg>">
+<style>
+  :root{
+    --bg:#0b0f14; --panel:#0e141b; --line:#1f2a36; --fg:#e6edf3;
+    --muted:#8b98a5; --primary:#14b8a6; --accent:#f0a93b; --blue:#7dd3fc;
+    --violet:#c4b5fd; --red:#f87171; --green:#4ade80;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);
+    font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  a{color:var(--primary);text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  header{border-bottom:1px solid var(--line);background:linear-gradient(180deg,#0e141b,var(--bg))}
+  .hero{width:100%;display:block;border-radius:0 0 12px 12px}
+  h1{font-size:clamp(28px,5vw,44px);margin:22px 0 6px;letter-spacing:-.02em}
+  .tag{color:var(--muted);margin:0 0 18px;font-size:clamp(15px,2.2vw,18px)}
+  .bar{display:flex;flex-wrap:wrap;gap:18px;padding:14px 0;border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);color:var(--muted);font-size:14px}
+  .bar b{color:var(--fg)}
+  .pulse{display:inline-block;width:8px;height:8px;border-radius:50%;
+    background:var(--green);margin-right:7px;box-shadow:0 0 0 0 rgba(74,222,128,.7);
+    animation:p 2s infinite}
+  @keyframes p{0%{box-shadow:0 0 0 0 rgba(74,222,128,.6)}70%{box-shadow:0 0 0 9px rgba(74,222,128,0)}100%{box-shadow:0 0 0 0 rgba(74,222,128,0)}}
+  .controls{display:flex;flex-wrap:wrap;gap:10px;margin:22px 0 8px}
+  input[type=search]{flex:1 1 260px;background:var(--panel);border:1px solid var(--line);
+    color:var(--fg);border-radius:10px;padding:11px 14px;font-size:15px;outline:none}
+  input[type=search]:focus{border-color:var(--primary)}
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin:10px 0}
+  .chip{background:var(--panel);border:1px solid var(--line);color:var(--muted);
+    border-radius:999px;padding:5px 12px;font-size:13px;cursor:pointer;user-select:none}
+  .chip:hover{border-color:#2c3b4d;color:var(--fg)}
+  .chip[aria-pressed=true]{border-color:var(--primary);color:var(--fg);
+    background:rgba(20,184,166,.10)}
+  main{padding:8px 0 60px}
+  .count{color:var(--muted);font-size:14px;margin:16px 0 6px}
+  ul{list-style:none;padding:0;margin:0}
+  li.item{border:1px solid var(--line);border-radius:12px;background:var(--panel);
+    padding:14px 16px;margin:10px 0}
+  li.item:hover{border-color:#2c3b4d}
+  .row1{display:flex;flex-wrap:wrap;gap:10px;align-items:baseline}
+  .name{font-weight:600;font-size:16px;word-break:break-word}
+  .meta{color:var(--muted);font-size:13px;margin-left:auto;white-space:nowrap}
+  .desc{color:#b9c4d0;font-size:14px;margin:7px 0 0}
+  .tags{margin-top:8px;display:flex;flex-wrap:wrap;gap:6px}
+  .tag2{font-size:11px;color:var(--muted);background:#131b24;border:1px solid var(--line);
+    border-radius:6px;padding:2px 7px}
+  .ev{border-radius:6px;padding:2px 8px;font-size:12px;border:1px solid}
+  .ev.official{color:var(--green);border-color:rgba(74,222,128,.35)}
+  .ev.observed{color:var(--blue);border-color:rgba(125,211,252,.35)}
+  .ev.inferred{color:var(--accent);border-color:rgba(240,169,59,.35)}
+  .ev.unverified{color:var(--muted);border-color:var(--line)}
+  .langs{display:flex;flex-wrap:wrap;gap:8px;font-size:13px;padding:14px 0 0}
+  footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;padding:22px 0 50px}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 0;font-size:13px;color:var(--muted)}
+  code{background:#131b24;border:1px solid var(--line);border-radius:5px;padding:1px 5px;font-size:13px}
+  @media(prefers-color-scheme:light){
+    :root{--bg:#fbfcfd;--panel:#fff;--line:#e3e8ee;--fg:#1b2430;--muted:#5b6675}
+    .desc{color:#3d4856}
+    .tag2{background:#f2f5f8}
+    code{background:#f2f5f8}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <img class="hero" src="../assets/readme/hero.png" alt="Awesome Jev Live">
+    <h1>Awesome Jev</h1>
+    <p class="tag">Every entry carries an evidence grade. Rebuilt every two hours.</p>
+    <div class="bar">
+      <span><span class="pulse"></span>Last sync <b id="sync">__STAMP__</b></span>
+      <span>Entries <b id="total">__TOTAL__</b></span>
+      <span>New this tick <b id="new">__NEW__</b></span>
+      <span>Editions <b>20</b></span>
+    </div>
+  </div>
+</header>
+<main class="wrap">
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name, description, topic…" autocomplete="off">
+  </div>
+  <div class="chips" id="cats"></div>
+  <div class="chips" id="evs"></div>
+  <div class="legend" id="legend"></div>
+  <p class="count" id="count"></p>
+  <ul id="list"></ul>
+  <div class="langs">
+    Read it in:
+    __LANGS__
+  </div>
+</main>
+<footer class="wrap">
+  <p><strong>Evidence grades.</strong> <code>official</code> published by TypeSafe AI ·
+  <code>observed</code> found used in real code, or its own text cites the API ·
+  <code>inferred</code> declared in a repository name or topic tag ·
+  <code>unverified</code> matched on vocabulary alone. The grade describes how much
+  was verified, not how good a project is.</p>
+  <p>Independent community project. Not affiliated with, endorsed by or reviewed by
+  TypeSafe AI. Product behaviour, pricing, limits and model aliases change without
+  notice; verify anything load-bearing against the official documentation.</p>
+  <p><a href="https://github.com/wh000wh000/awesome-jev-live">Repository</a> ·
+  <a href="https://github.com/wh000wh000/awesome-jev-live/blob/main/CONTRIBUTING.md">Contributing</a> ·
+  <a href="https://github.com/wh000wh000/awesome-jev-live/blob/main/data/CHANGELOG.md">Change ledger</a> ·
+  <a href="https://github.com/wh000wh000/awesome-jev-live/blob/main/LICENSE">MIT</a></p>
+</footer>
+<script>
+const EV = {official:"✅", observed:"👁️", inferred:"🔎", unverified:"❓"};
+let data = null, cat = "all", ev = "all";
+
+fetch("site.json").then(r => r.json()).then(d => {
+  data = d;
+  document.getElementById("sync").textContent = d.generated_at.replace("T", " ");
+  document.getElementById("total").textContent = d.total;
+  document.getElementById("new").textContent = d.new_this_tick;
+  buildChips();
+  render();
+});
+
+function buildChips() {
+  const cats = document.getElementById("cats");
+  for (const [key, n] of Object.entries(data.by_category)) {
+    cats.appendChild(chip(`${data.categories[key] || "•"} ${key} (${n})`, key, "cat"));
+  }
+  const evs = document.getElementById("evs");
+  for (const key of data.evidence_order) {
+    evs.appendChild(chip(`${EV[key]} ${key} (${data.by_evidence[key] || 0})`, key, "ev"));
+  }
+}
+
+function chip(label, value, kind) {
+  const b = document.createElement("button");
+  b.className = "chip";
+  b.textContent = label;
+  b.setAttribute("aria-pressed", (kind === "cat" ? cat : ev) === value);
+  b.onclick = () => {
+    if (kind === "cat") cat = (cat === value ? "all" : value);
+    else ev = (ev === value ? "all" : value);
+    document.querySelectorAll(kind === "cat" ? "#cats .chip" : "#evs .chip")
+      .forEach(c => c.setAttribute("aria-pressed", "false"));
+    if ((kind === "cat" ? cat : ev) !== "all") b.setAttribute("aria-pressed", "true");
+    render();
+  };
+  return b;
+}
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const rows = data.entries.filter(e =>
+    (cat === "all" || e.c === cat) &&
+    (ev === "all" || e.e === ev) &&
+    (!q || (e.n + " " + e.d + " " + (e.g || []).join(" ") + " " + e.l).toLowerCase().includes(q))
+  );
+  document.getElementById("count").textContent =
+    `${rows.length} of ${data.total} entries` + (q ? ` matching “${q}”` : "");
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  for (const e of rows.slice(0, 400)) {
+    const li = document.createElement("li");
+    li.className = "item";
+    const bits = [];
+    if (e.s) bits.push(`⭐ ${e.s}`);
+    if (e.l) bits.push(e.l);
+    if (e.p) bits.push(`pushed ${e.p}`);
+    li.innerHTML =
+      `<div class="row1">
+         <span class="name"><a href="${esc(e.u)}">${esc(e.n)}</a></span>
+         <span class="ev ${e.e}">${EV[e.e]} ${e.e}</span>
+         <span class="meta">${bits.map(esc).join(" · ")}</span>
+       </div>` +
+      (e.d ? `<p class="desc">${esc(e.d)}</p>` : "") +
+      (e.g && e.g.length
+        ? `<div class="tags">${e.g.map(t => `<span class="tag2">${esc(t)}</span>`).join("")}</div>`
+        : "");
+    list.appendChild(li);
+  }
+}
+function esc(s) {
+  return String(s == null ? "" : s).replace(/[&<>"']/g,
+    c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+document.getElementById("q").addEventListener("input", render);
+</script>
+</body>
+</html>
+"""
+
+
+def main() -> int:
+    doc = json.loads((DATA / "entries.json").read_text())
+    stats = json.loads((DATA / "stats.json").read_text())
+    media_doc = json.loads((DATA / "media.json").read_text())
+    media = media_doc.get("entries", {}) if isinstance(media_doc, dict) else {}
+
+    DOCS.mkdir(parents=True, exist_ok=True)
+    payload = build_payload(doc["entries"], stats, media)
+    (DOCS / "site.json").write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n")
+
+    langs = " · ".join(
+        f'<a href="README.{code}.md">{esc(label)}</a>' if code != "en"
+        else "<b>English</b>" for code, label in LANGS)
+
+    page = (PAGE
+            .replace("__TOTAL__", str(payload["total"]))
+            .replace("__NEW__", str(payload["new_this_tick"]))
+            .replace("__STAMP__", esc(payload["generated_at"][:16].replace("T", " ")))
+            .replace("__LANGS__", langs))
+    (DOCS / "index.html").write_text(page)
+
+    # Pages needs a marker to disable Jekyll processing of the generated files.
+    (DOCS / ".nojekyll").write_text("")
+
+    # llms.txt, the emerging convention for AI crawlers. Generated from the same
+    # data as everything else, so it cannot drift.
+    top = {k: v for k, v in sorted(stats.get("by_category", {}).items(),
+                                    key=lambda kv: -kv[1])}
+    lines = [
+        "# Awesome Jev",
+        "",
+        "> An evidence-graded, continuously rebuilt index of the Jev / TypeSafe",
+        "> System One ecosystem: SDKs, MCP tooling, agent guardrails, evaluations,",
+        "> open models, applications and writing. Every entry carries an evidence",
+        "> grade saying how much was actually verified. Rebuilt every two hours in",
+        "> twenty languages.",
+        "",
+        f"Last generated: {STAMP}",
+        f"Entries: {stats.get('total')}",
+        "",
+        "## What Jev is",
+        "",
+        "Jev is TypeSafe AI's first System One model. It takes a state plus typed",
+        "questions whose answer space is fixed in advance and returns constrained",
+        "answers with probability distributions, rather than generating text. The",
+        "primitives are Choice, Score and Noul. Endpoint: POST",
+        "https://api.typesafe.ai/v1/systemone, model jev-latest.",
+        "",
+        "## Evidence grades",
+        "",
+        "- official: published by TypeSafe AI itself",
+        "- observed: found used in real code, or its own text cites the API",
+        "- inferred: declared in a repository name or an explicit topic tag",
+        "- unverified: matched on vocabulary alone",
+        "",
+        "The grade describes how much was verified, not how good a project is.",
+        "",
+        "## Sections",
+        "",
+    ]
+    for key, n in top.items():
+        lines.append(f"- {key}: {n} entries")
+    lines += [
+        "",
+        "## Pages",
+        "",
+        f"- [Index]({SITE_URL}): searchable, filterable list of every entry",
+        f"- [Repository]({REPO_URL}): the generated README, contributing guide and change ledger",
+        f"- [English README]({REPO_URL}/blob/main/README.md)",
+        f"- [Chinese README]({REPO_URL}/blob/main/docs/README.zh-CN.md)",
+        f"- [Data]({REPO_URL}/blob/main/data/entries.json): the underlying entries as JSON",
+        "",
+        "## Disclosure",
+        "",
+        "Independent community project, not affiliated with or endorsed by TypeSafe",
+        "AI. Product behaviour, pricing and model aliases change without notice.",
+        "",
+    ]
+    (ROOT / "llms.txt").write_text("\n".join(lines))
+
+    print(f"   site: docs/index.html ({len(page) / 1024:.0f} KB), "
+          f"docs/site.json ({len(json.dumps(payload)) / 1024:.0f} KB), "
+          f"{len(payload['entries'])} entries")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
