@@ -953,3 +953,22 @@
 - `+` [fsmiamoto/pi-jev-prune](https://github.com/fsmiamoto/pi-jev-prune) — inferred / other — ⭐0
 - `+` [gbesse/wordpress-jev-rules](https://github.com/gbesse/wordpress-jev-rules) — inferred / agent-tooling — ⭐0
 - `+` [Beckettsapere824/Jev-ic](https://github.com/Beckettsapere824/Jev-ic) — inferred / apps-demos — ⭐0
+
+## 2026-09-21T16:15:40+08:00
+- 收录总数 **708**；本 tick 新增 **16**
+- `+` [tshmieldev/sharp](https://github.com/tshmieldev/sharp) — inferred / routing-guardrails — ⭐29
+- `+` [collapseindex/jev-ultralightspeed](https://github.com/collapseindex/jev-ultralightspeed) — inferred / other — ⭐6
+- `+` [kerryrm/systemANE](https://github.com/kerryrm/systemANE) — unverified / routing-guardrails — ⭐3
+- `+` [chy4pro/jev-in-mcp](https://github.com/chy4pro/jev-in-mcp) — inferred / agent-tooling — ⭐1
+- `+` [chy4pro/jev-dev-kit](https://github.com/chy4pro/jev-dev-kit) — inferred / agent-tooling — ⭐1
+- `+` [Wany-i/jev-ads-analysis](https://github.com/Wany-i/jev-ads-analysis) — inferred / agent-tooling — ⭐0
+- `+` [muratcanberber/JEV-TheFishGame](https://github.com/muratcanberber/JEV-TheFishGame) — inferred / apps-demos — ⭐0
+- `+` [chy4pro/jev-realtime-sdk](https://github.com/chy4pro/jev-realtime-sdk) — inferred / community-sdk — ⭐0
+- `+` [Eronmmer/jev-cua](https://github.com/Eronmmer/jev-cua) — inferred / agent-tooling — ⭐0
+- `+` [fewhnhouse/jev-review-action](https://github.com/fewhnhouse/jev-review-action) — observed / other — ⭐0
+- `+` [KiritoKing/midscene-jev-runner](https://github.com/KiritoKing/midscene-jev-runner) — inferred / community-sdk — ⭐0
+- `+` [Akashdb5/jev-sql-guard](https://github.com/Akashdb5/jev-sql-guard) — inferred / community-sdk — ⭐0
+- `+` [Randy0609/agent-jev-harness](https://github.com/Randy0609/agent-jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [Akashdb5/jev-outreach-router](https://github.com/Akashdb5/jev-outreach-router) — inferred / routing-guardrails — ⭐0
+- `+` [Sachin-chaurasiya/scam-checker-with-jev](https://github.com/Sachin-chaurasiya/scam-checker-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [grapefruit0205/jev-save](https://github.com/grapefruit0205/jev-save) — inferred / agent-tooling — ⭐0
