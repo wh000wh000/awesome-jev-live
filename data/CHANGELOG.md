@@ -916,3 +916,16 @@
 - `+` [syanhg/JevBrowser](https://github.com/syanhg/JevBrowser) — inferred / apps-demos — ⭐0
 - `+` [stefanoCassola/jev-governor](https://github.com/stefanoCassola/jev-governor) — inferred / evaluation — ⭐0
 - `+` [Akashdb5/jev-router](https://github.com/Akashdb5/jev-router) — inferred / routing-guardrails — ⭐0
+
+## 2026-09-21T15:47:44+08:00
+- 收录总数 **703**；本 tick 新增 **10**
+- `+` [wobsoriano/oxlint-plugin-jev](https://github.com/wobsoriano/oxlint-plugin-jev) — inferred / agent-tooling — ⭐50
+- `+` [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps) — inferred / other — ⭐5
+- `+` [liao96312/jev-arena-nanojev](https://github.com/liao96312/jev-arena-nanojev) — inferred / research-models — ⭐2
+- `+` [abhishekmamdapure/jev-information-extraction](https://github.com/abhishekmamdapure/jev-information-extraction) — inferred / other — ⭐1
+- `+` [svitaTLCO/jev-skill](https://github.com/svitaTLCO/jev-skill) — inferred / agent-tooling — ⭐0
+- `+` [NaluKicks-808/jev-field-guide-skill](https://github.com/NaluKicks-808/jev-field-guide-skill) — inferred / agent-tooling — ⭐0
+- `+` [NaluKicks-808/jev-field-trial](https://github.com/NaluKicks-808/jev-field-trial) — inferred / agent-tooling — ⭐0
+- `+` [RadRebelSam/jev-decision-lab](https://github.com/RadRebelSam/jev-decision-lab) — inferred / evaluation — ⭐0
+- `+` [daviddl9/jev-router](https://github.com/daviddl9/jev-router) — inferred / routing-guardrails — ⭐0
+- `+` [muhandis525/jev-esp32s3-gateway](https://github.com/muhandis525/jev-esp32s3-gateway) — inferred / routing-guardrails — ⭐0
