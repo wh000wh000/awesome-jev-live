@@ -1055,3 +1055,32 @@
 - `+` [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) — inferred / media-discussions — ⭐1
 - `+` [stas4000/jev-papers](https://github.com/stas4000/jev-papers) — inferred / research-models — ⭐1
 - …另有 80 条新增
+
+## 2026-09-21T23:20:24+08:00
+- 收录总数 **737**；本 tick 新增 **115**
+- `+` [Finderchangchang/jev-chat-JARVIS](https://github.com/Finderchangchang/jev-chat-JARVIS) — inferred / other — ⭐459
+- `+` [jerryjliu/docjev](https://github.com/jerryjliu/docjev) — unverified / other — ⭐163
+- `+` [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) — unverified / other — ⭐114
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐51
+- `+` [zhengxuyu/litjev](https://github.com/zhengxuyu/litjev) — unverified / other — ⭐36
+- `+` [OmniJev/PlayJev](https://github.com/OmniJev/PlayJev) — inferred / agent-tooling — ⭐18
+- `+` [We Tested Jev on 100 Agent Tool Calls](https://news.ycombinator.com/item?id=49788402) — observed / media-discussions — ⭐10
+- `+` [DECRUX9812/typesafe-skill-router](https://github.com/DECRUX9812/typesafe-skill-router) — inferred / agent-tooling — ⭐8
+- `+` [arunav25/jev-mcp](https://github.com/arunav25/jev-mcp) — inferred / community-sdk — ⭐7
+- `+` [HexyeDEV/JevPR](https://github.com/HexyeDEV/JevPR) — inferred / other — ⭐7
+- `+` [Prophetlab/JevPokerBench](https://github.com/Prophetlab/JevPokerBench) — inferred / agent-tooling — ⭐6
+- `+` [It's Easy to Dismiss Jev as Just a Classifier](https://news.ycombinator.com/item?id=49787418) — observed / media-discussions — ⭐4
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐3
+- `+` [rezoch340/jev-chat-JARVIS-windows](https://github.com/rezoch340/jev-chat-JARVIS-windows) — inferred / other — ⭐3
+- `+` [yangyu666/dsh-jev-prune](https://github.com/yangyu666/dsh-jev-prune) — inferred / research-models — ⭐3
+- `+` [Query-farm/vgi-typesafe](https://github.com/Query-farm/vgi-typesafe) — unverified / community-sdk — ⭐3
+- `+` [neko233-com/laya-go](https://github.com/neko233-com/laya-go) — unverified / community-sdk — ⭐3
+- `+` [iamvatsalpatel/tiershift](https://github.com/iamvatsalpatel/tiershift) — inferred / community-sdk — ⭐3
+- `+` [Completing Programming Adventures with Jev](https://news.ycombinator.com/item?id=49787999) — observed / media-discussions — ⭐3
+- `+` [A weekend with Jev made my coding agents up to 31% faster](https://news.ycombinator.com/item?id=49787871) — observed / media-discussions — ⭐3
+- `+` [Show HN: I made a game about awkward conversations using Jev](https://news.ycombinator.com/item?id=49787381) — observed / media-discussions — ⭐3
+- `+` [Show HN: Run Jev-style models locally on Mac with 0.74 GB RAM](https://news.ycombinator.com/item?id=49787265) — observed / media-discussions — ⭐3
+- `+` [Jev, Prolog, Pi, and the dream of probabilistic logic programming](https://news.ycombinator.com/item?id=49787058) — observed / media-discussions — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐2
+- …另有 90 条新增
