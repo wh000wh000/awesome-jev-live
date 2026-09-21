@@ -1113,3 +1113,32 @@
 - `+` [hfnissum-byte/jevmerge](https://github.com/hfnissum-byte/jevmerge) — observed / routing-guardrails — ⭐0
 - `+` [moelahmady/shunt-jev](https://github.com/moelahmady/shunt-jev) — inferred / agent-tooling — ⭐0
 - …另有 74 条新增
+
+## 2026-09-22T04:01:28+08:00
+- 收录总数 **714**；本 tick 新增 **80**
+- `+` [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) — inferred / other — ⭐35
+- `+` [frostney/clean-code-review](https://github.com/frostney/clean-code-review) — inferred / community-sdk — ⭐7
+- `+` [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) — inferred / agent-tooling — ⭐6
+- `+` [You can use any LLM just like JEV](https://news.ycombinator.com/item?id=49791782) — observed / media-discussions — ⭐6
+- `+` [Write Without Spaces with Jev](https://news.ycombinator.com/item?id=49790936) — observed / media-discussions — ⭐4
+- `+` [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) — inferred / agent-tooling — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [javiergradiche/ruby_llm-providers-typesafe](https://github.com/javiergradiche/ruby_llm-providers-typesafe) — observed / community-sdk — ⭐2
+- `+` [Mullet of Log Processing: Determinism in the Front, AI at the Back (Expanso/Jev)](https://news.ycombinator.com/item?id=49791429) — observed / media-discussions — ⭐2
+- `+` [zurfyx/jev-browser-skill](https://github.com/zurfyx/jev-browser-skill) — inferred / agent-tooling — ⭐1
+- `+` [ajayk/jev-go-sdk](https://github.com/ajayk/jev-go-sdk) — inferred / community-sdk — ⭐1
+- `+` [Pasblinn/jev-lab](https://github.com/Pasblinn/jev-lab) — inferred / agent-tooling — ⭐1
+- `+` [RavenValentin/TypeSafe.Jev](https://github.com/RavenValentin/TypeSafe.Jev) — inferred / community-sdk — ⭐1
+- `+` [bytelabs-oss/clash-jev](https://github.com/bytelabs-oss/clash-jev) — inferred / routing-guardrails — ⭐1
+- `+` [hfnissum-byte/Hunkpick](https://github.com/hfnissum-byte/Hunkpick) — observed / routing-guardrails — ⭐1
+- `+` [MorrisZJ/AnyJev](https://github.com/MorrisZJ/AnyJev) — inferred / research-models — ⭐1
+- `+` [dfinke/jev-experiments](https://github.com/dfinke/jev-experiments) — inferred / apps-demos — ⭐1
+- `+` [a-Fig/jev-score](https://github.com/a-Fig/jev-score) — inferred / community-sdk — ⭐1
+- `+` [satiricalguru/Fast-Jev-Agents](https://github.com/satiricalguru/Fast-Jev-Agents) — inferred / agent-tooling — ⭐1
+- `+` [karozi/awesome-jev-resources](https://github.com/karozi/awesome-jev-resources) — observed / apps-demos — ⭐1
+- `+` [ppradyoth/jev-guard](https://github.com/ppradyoth/jev-guard) — observed / routing-guardrails — ⭐0
+- `+` [schalkneethling/jev-lint](https://github.com/schalkneethling/jev-lint) — inferred / other — ⭐0
+- `+` [abe17124/jev-laya-chess-bench](https://github.com/abe17124/jev-laya-chess-bench) — inferred / other — ⭐0
+- `+` [mrebbert/Jev-CustomerService-Demo](https://github.com/mrebbert/Jev-CustomerService-Demo) — observed / routing-guardrails — ⭐0
+- `+` [mbburabak/jev-safety-benchmark](https://github.com/mbburabak/jev-safety-benchmark) — inferred / routing-guardrails — ⭐0
+- …另有 55 条新增
