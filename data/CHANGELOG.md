@@ -1026,3 +1026,32 @@
 - `+` [metask-ai/metask-jev](https://github.com/metask-ai/metask-jev) — inferred / evaluation — ⭐1
 - `+` [sseanliu/Jev-Vision](https://github.com/sseanliu/Jev-Vision) — inferred / agent-tooling — ⭐1
 - …另有 62 条新增
+
+## 2026-09-21T21:01:36+08:00
+- 收录总数 **716**；本 tick 新增 **105**
+- `+` [kitfunso/hippo-memory](https://github.com/kitfunso/hippo-memory) — unverified / community-sdk — ⭐750
+- `+` [AbdelStark/awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) — observed / agent-tooling — ⭐416
+- `+` [cookiespiggy/agentic-rl](https://github.com/cookiespiggy/agentic-rl) — inferred / agent-tooling — ⭐103
+- `+` [smkrv/jev-calibrate](https://github.com/smkrv/jev-calibrate) — inferred / community-sdk — ⭐31
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐8
+- `+` [frostney/clean-code-review](https://github.com/frostney/clean-code-review) — inferred / community-sdk — ⭐7
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐7
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐6
+- `+` [FFatTiger/new-api-plugin-typesafe](https://github.com/FFatTiger/new-api-plugin-typesafe) — unverified / agent-tooling — ⭐3
+- `+` [apiplant/laya-rs](https://github.com/apiplant/laya-rs) — unverified / research-models — ⭐3
+- `+` [Bald0Wang/jev-docs-zh](https://github.com/Bald0Wang/jev-docs-zh) — observed / other — ⭐3
+- `+` [lukstei/slop-grader](https://github.com/lukstei/slop-grader) — inferred / community-sdk — ⭐3
+- `+` [mountainMath/JevR](https://github.com/mountainMath/JevR) — inferred / community-sdk — ⭐3
+- `+` [freepik-company/jev-mcp](https://github.com/freepik-company/jev-mcp) — inferred / community-sdk — ⭐2
+- `+` [FazalAAli/jev-robotics-demo](https://github.com/FazalAAli/jev-robotics-demo) — inferred / agent-tooling — ⭐2
+- `+` [JevBench: Benchmark for Jev-Class Models](https://news.ycombinator.com/item?id=49786635) — observed / media-discussions — ⭐2
+- `+` [hemanth/jev-chess](https://github.com/hemanth/jev-chess) — inferred / evaluation — ⭐1
+- `+` [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) — observed / media-discussions — ⭐1
+- `+` [Vankleben/jev-arm-lab](https://github.com/Vankleben/jev-arm-lab) — inferred / agent-tooling — ⭐1
+- `+` [jiawei686/jev-screen-mcp](https://github.com/jiawei686/jev-screen-mcp) — inferred / agent-tooling — ⭐1
+- `+` [jiawei686/jev-review-mcp](https://github.com/jiawei686/jev-review-mcp) — inferred / agent-tooling — ⭐1
+- `+` [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) — inferred / community-sdk — ⭐1
+- `+` [KuzanJ/awesome-jev](https://github.com/KuzanJ/awesome-jev) — inferred / research-models — ⭐1
+- `+` [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) — inferred / media-discussions — ⭐1
+- `+` [stas4000/jev-papers](https://github.com/stas4000/jev-papers) — inferred / research-models — ⭐1
+- …另有 80 条新增
