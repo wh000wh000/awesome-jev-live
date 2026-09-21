@@ -929,3 +929,8 @@
 - `+` [RadRebelSam/jev-decision-lab](https://github.com/RadRebelSam/jev-decision-lab) — inferred / evaluation — ⭐0
 - `+` [daviddl9/jev-router](https://github.com/daviddl9/jev-router) — inferred / routing-guardrails — ⭐0
 - `+` [muhandis525/jev-esp32s3-gateway](https://github.com/muhandis525/jev-esp32s3-gateway) — inferred / routing-guardrails — ⭐0
+
+## 2026-09-21T15:55:18+08:00
+- 收录总数 **700**；本 tick 新增 **2**
+- `+` [Dimweaker/jev-libero](https://github.com/Dimweaker/jev-libero) — inferred / apps-demos — ⭐34
+- `+` [sseanliu/Jev-Vision](https://github.com/sseanliu/Jev-Vision) — inferred / agent-tooling — ⭐1
