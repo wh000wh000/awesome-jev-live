@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-20T23:32:30+08:00",
+ "generated_at": "2026-09-21T08:58:14+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 41,
+ "count": 43,
  "grades": {
   "official": 11,
-  "observed": 29,
+  "observed": 31,
   "inferred": 0,
   "unverified": 1
  },
@@ -500,6 +500,30 @@
    "seen_days": 1,
    "point": "",
    "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://x.com/i/article/2100463318209048850",
+   "title": "第 9 份独立评测：[@juanmacias《Testing TypeSafe's Jev - Legal Corpus》]()",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "**[DEFINITION-CHANGE]** → 生态全景新增 **§1b**",
+   "source_note": ""
+  },
+  {
+   "url": "https://harnessrouter.ai/blog/what-is-a-system-one-model",
+   "title": "独立第三方与我们的术语纪律收敛：[HarnessRouter（2026-09-20）]()",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "**[DEFINITION-CHANGE]** → 锚页 §3 新增 **D7**（\"不主张\"由六条扩为**七条**：前六条是官方自己说的，**D7 是第三方对品类名性质的界定，本库采纳**）",
    "source_note": ""
   }
  ]

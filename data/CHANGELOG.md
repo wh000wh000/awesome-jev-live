@@ -806,3 +806,32 @@
 - `+` [JohnsonRan/pi-jev](https://github.com/JohnsonRan/pi-jev) — inferred / agent-tooling — ⭐0
 - `+` [yodakeisuke/fpna-jev-master-matching](https://github.com/yodakeisuke/fpna-jev-master-matching) — inferred / other — ⭐0
 - …另有 59 条新增
+
+## 2026-09-21T08:58:14+08:00
+- 收录总数 **673**；本 tick 新增 **176**
+- `+` [jaredpalmer/kev](https://github.com/jaredpalmer/kev) — observed / other — ⭐1033
+- `+` [juspay/neurolink](https://github.com/juspay/neurolink) — inferred / community-sdk — ⭐134
+- `+` [wd041216-bit/zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) — inferred / agent-tooling — ⭐17
+- `+` [carldaws/hunch](https://github.com/carldaws/hunch) — inferred / community-sdk — ⭐13
+- `+` [iapp-technology/openthai-systemone](https://github.com/iapp-technology/openthai-systemone) — unverified / other — ⭐11
+- `+` [frostney/clean-code-review](https://github.com/frostney/clean-code-review) — inferred / community-sdk — ⭐7
+- `+` [imMamdouhaboammar/get-fable](https://github.com/imMamdouhaboammar/get-fable) — inferred / agent-tooling — ⭐6
+- `+` [Show HN: jevals – replacing LLM judges with typed Jev decisions](https://news.ycombinator.com/item?id=49780849) — observed / media-discussions — ⭐6
+- `+` [abhishek085/open-spark-jev](https://github.com/abhishek085/open-spark-jev) — inferred / agent-tooling — ⭐5
+- `+` [qkal/Canny](https://github.com/qkal/Canny) — inferred / community-sdk — ⭐3
+- `+` [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals) — inferred / agent-tooling — ⭐3
+- `+` [JanOstrowka/typesafe-assist](https://github.com/JanOstrowka/typesafe-assist) — unverified / agent-tooling — ⭐3
+- `+` [AiPersonacademy/jev-resume-disqualifier](https://github.com/AiPersonacademy/jev-resume-disqualifier) — inferred / research-models — ⭐3
+- `+` [kisshan13/typesafe-ai-go](https://github.com/kisshan13/typesafe-ai-go) — observed / community-sdk — ⭐3
+- `+` [shamazharikh/qwen-rlcd](https://github.com/shamazharikh/qwen-rlcd) — unverified / evaluation — ⭐3
+- `+` [Mawfyy/jevflow](https://github.com/Mawfyy/jevflow) — unverified / agent-tooling — ⭐3
+- `+` [virolea/jev](https://github.com/virolea/jev) — inferred / community-sdk — ⭐3
+- `+` [kushals256/jevcache](https://github.com/kushals256/jevcache) — unverified / community-sdk — ⭐3
+- `+` [Jev is now available to everyone. No waitlist.](https://news.ycombinator.com/item?id=49780343) — observed / media-discussions — ⭐3
+- `+` [Rebuilding our agent with Jev as a core primitive](https://news.ycombinator.com/item?id=49779979) — observed / media-discussions — ⭐3
+- `+` [bilune/jev-design](https://github.com/bilune/jev-design) — inferred / apps-demos — ⭐2
+- `+` [teempai/jev-in-codex](https://github.com/teempai/jev-in-codex) — inferred / agent-tooling — ⭐2
+- `+` [ibrahemid/git-jev-stage](https://github.com/ibrahemid/git-jev-stage) — inferred / community-sdk — ⭐2
+- `+` [rthomas24/jev-realtime-trading](https://github.com/rthomas24/jev-realtime-trading) — inferred / agent-tooling — ⭐2
+- `+` [It's Easy to Dismiss Jev as Just a Classifier](https://news.ycombinator.com/item?id=49780404) — observed / media-discussions — ⭐2
+- …另有 151 条新增
