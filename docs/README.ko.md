@@ -12,13 +12,14 @@
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
+  <a href="https://wh000wh000.github.io/awesome-jev-live/"><img src="https://img.shields.io/badge/site-searchable-1f6feb" alt="site"></a>
 </p>
 
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <b>한국어</b> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **라이브 인덱스** · 최근 동기화: `2026-09-21T15:59:28+08:00` (UTC+8)
-> · 항목: **700** · 이번 회차 신규: **2** · 구현 언어: **25**
+> **라이브 인덱스** · 최근 동기화: `2026-09-21T16:05:24+08:00` (UTC+8)
+> · 항목: **700** · 이번 회차 신규: **16** · 구현 언어: **25**
 
 <sub>아래의 모든 항목은 이 저장소의 파이프라인이 수집·선별·재확인한 것입니다. 수치와 타임스탬프는 출처에서 가져온 것이며, 손으로 작성한 스냅샷이 아닙니다.</sub>
 
@@ -32,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>🏛️ <a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b>
-<sub>⭐1339 · ✅ official</sub>
+<sub>⭐1342 · ✅ official</sub>
 <sub>TypeSafe의 System One API로 구축하기 위한 에이전트 스킬</sub>
 </td>
 <td width="50%" valign="top">
@@ -46,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/gargpratyush--jev-router/361cf042aa7f2e59.png" width="100%" alt="opaielsheikh/typesafe-migration-guard">
 <b>🤖 <a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b>
-<sub>⭐272 · JavaScript · 🔎 inferred</sub>
+<sub>⭐274 · JavaScript · 🔎 inferred</sub>
 <sub>jev-router를 사용하여 작업에 가장 저렴한 claude code 모델로 라우팅</sub>
 </td>
 <td width="50%" valign="top">
@@ -66,7 +67,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/da3528699bc28423.gif" width="100%" alt="ikermoel/open-alternative-jev">
 <b>🔬 <a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b>
-<sub>⭐1615 · Python · 🔎 inferred</sub>
+<sub>⭐1620 · Python · 🔎 inferred</sub>
 <sub>Jev의 나노 복제본: 병렬 결정, 동적 후보 및 엔드투엔드 학습 파이프라인.</sub>
 </td>
 </tr>
@@ -90,14 +91,14 @@
 - [Jev란?](#jev란)
 - [항목 등급 기준](#항목-등급-기준)
 - [공식 SDK와 개발자 도구](#공식-sdk와-개발자-도구) — **6**
-- [커뮤니티 클라이언트, SDK, 어댑터](#커뮤니티-클라이언트-sdk-어댑터) — **113**
-- [에이전트 도구: MCP, 훅, 게이트, 코딩 에이전트](#에이전트-도구-mcp-훅-게이트-코딩-에이전트) — **190**
-- [라우팅, 가드레일, 승인](#라우팅-가드레일-승인) — **68**
-- [평가, 캘리브레이션, 벤치마크](#평가-캘리브레이션-벤치마크) — **81**
+- [커뮤니티 클라이언트, SDK, 어댑터](#커뮤니티-클라이언트-sdk-어댑터) — **112**
+- [에이전트 도구: MCP, 훅, 게이트, 코딩 에이전트](#에이전트-도구-mcp-훅-게이트-코딩-에이전트) — **196**
+- [라우팅, 가드레일, 승인](#라우팅-가드레일-승인) — **69**
+- [평가, 캘리브레이션, 벤치마크](#평가-캘리브레이션-벤치마크) — **78**
 - [공개 재현, 가중치, 아키텍처 연구](#공개-재현-가중치-아키텍처-연구) — **32**
-- [애플리케이션, 게임, 로보틱스, 인터랙티브 데모](#애플리케이션-게임-로보틱스-인터랙티브-데모) — **54**
-- [글, 토론, 유사 목록](#글-토론-유사-목록) — **88**
-- [기타 프로젝트](#기타-프로젝트) — **68**
+- [애플리케이션, 게임, 로보틱스, 인터랙티브 데모](#애플리케이션-게임-로보틱스-인터랙티브-데모) — **55**
+- [글, 토론, 유사 목록](#글-토론-유사-목록) — **86**
+- [기타 프로젝트](#기타-프로젝트) — **66**
 - [구현 언어별 프로젝트](#구현-언어별-프로젝트)
 - [이 목록이 최신 상태를 유지하는 방식](#이-목록이-최신-상태를-유지하는-방식)
 
@@ -131,7 +132,7 @@ Jev는 TypeSafe AI의 첫 **System One model**입니다. 산문을 쓰지 않습
 TypeSafe가 직접 공개한 모든 것. 여기서 시작하십시오.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐1339 · ✅ official · 9 天 · ⭐+4</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐1342 · ✅ official · 9 天 · ⭐+3</summary>
 
 ##### 📝 요약
 
@@ -150,14 +151,14 @@ TypeSafe의 System One API로 구축하기 위한 에이전트 스킬
 
 | 지표         | 값            |
 | ------------ | ------------- |
-| ⭐ 스타 수   | **1339** (+4) |
+| ⭐ 스타 수   | **1342** (+3) |
 | 🚀 최근 푸시 | 2026-09-12    |
 | 📥 최초 등재 | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐213 · Python · ✅ official · 2 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐214 · Python · ✅ official · 2 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -177,11 +178,11 @@ LLM APIs을 기반으로 하는 즉시 교체 가능한 TypeSafeClient 대체 �
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **213**    |
-| 🚀 최근 푸시 | 2026-09-18 |
-| 📥 최초 등재 | 2026-09-18 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **214** (+1) |
+| 🚀 최근 푸시 | 2026-09-18   |
+| 📥 최초 등재 | 2026-09-18   |
 
 </details>
 
@@ -697,7 +698,7 @@ Find files by describing them in plain English: find(1) with a semantic --like p
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐11870 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐11872 · Python · 🔎 inferred · 0 天 · ⭐+2</summary>
 
 ##### 📝 요약
 
@@ -715,7 +716,7 @@ Jev System One 통합을 지원하는 오픈 소스 AI 트레이딩 OS, 에이�
 
 | 지표         | 값             |
 | ------------ | -------------- |
-| ⭐ 스타 수   | **11870** (+1) |
+| ⭐ 스타 수   | **11872** (+2) |
 | 🚀 최근 푸시 | 2026-09-21     |
 | 📥 최초 등재 | 2026-09-20     |
 
@@ -1377,7 +1378,7 @@ High-throughput, robust native DuckDB extension for batched and streaming TypeSa
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 79</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 78</sub></summary>
 
 - [dtheofr/typesafe-jev-ruby](https://github.com/dtheofr/typesafe-jev-ruby) - Ruby client for Jev, TypeSafe.
 - [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) - A curated list of TypeSafe Jev resources, SDKs, agents, MCP servers.
@@ -1386,7 +1387,6 @@ High-throughput, robust native DuckDB extension for batched and streaming TypeSa
 - [SC0d3r/jev-systemone](https://github.com/SC0d3r/jev-systemone) - Typed TypeScript client for Jev System One models, Choice, Score &amp; Noul.
 - [Tango-Tango/ex_typesafe](https://github.com/Tango-Tango/ex_typesafe) - An Elixir SDK for Typesafe&#x27;s API (https://docs.typesafe.ai/sdk).
 - [thomasbrueggemann/jeffrey](https://github.com/thomasbrueggemann/jeffrey) - A coding agent CLI where Jev (TypeSafe System One) or Laya decide what to do.
-- [ziyu/system-one-sdk](https://github.com/ziyu/system-one-sdk) - system one 모델을 위한 통합 인터페이스 래퍼.
 - [realZachi/pg-jev](https://github.com/realZachi/pg-jev) - 일상 언어로 Postgres 테이블에 질문하세요. TypeSafe의 Jev로 구동되는 PostgreSQL 확장 프로그램입니다.
 - [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) - Jev과 GEPA를 사용해 인간 피드백으로 보정된 AI Functions를 구축하세요.
 - [juspay/neurolink](https://github.com/juspay/neurolink) - 세 가지 추론 유형(생성, 스트리밍, 결정)에 걸쳐 40개 AI 프로바이더를 지원하는 단일 TypeScript 인터페이스. Decide는.
@@ -1400,8 +1400,8 @@ High-throughput, robust native DuckDB extension for batched and streaming TypeSa
 - [dannote/jev](https://github.com/dannote/jev) - OTP용 TypeSafe Jev: GenServer에서 Jev에 답하고 그 응답에 패턴 매칭합니다.
 - [danvega/jev-spring-boot-starter](https://github.com/danvega/jev-spring-boot-starter) - Spring MVC와 RestClient를 사용하여 TypeSafe Jev을 위한 간단한 Spring Boot 4 스타터.
 - [Nasrallah-AL/jev-cli](https://github.com/Nasrallah-AL/jev-cli) - TypeSafe의 Jev AI 모델을 위한 명령줄 도구.
-- [carldaws/hunch](https://github.com/carldaws/hunch) - Ruby 및 Rails를 위한 확률적 제어 흐름 - TypeSafe의 Jev로 구동.
 - [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep이지만 패턴이 설명입니다. TypeSafe의 Jev 결정 모델로 의미에 따라 행을 필터링합니다. 행당 약 200ms와 1센트의.
+- [carldaws/hunch](https://github.com/carldaws/hunch) - Ruby 및 Rails를 위한 확률적 제어 흐름 - TypeSafe의 Jev로 구동.
 - [sharziki/semdecide](https://github.com/sharziki/semdecide) - TypeSafe AI Jev 기반의 Unix pipelines 및 CI를 위한 타입화된 의미론적 결정.
 - [AkashPriyadarshii/jev-superpowers](https://github.com/AkashPriyadarshii/jev-superpowers) - TypeSafe Jev System One 유형 지정 의사결정으로 업그레이드된 AI 코딩 에이전트를 위한 체계적인 소프트웨어 개발 프레임워크.
 - [qkal/Canny](https://github.com/qkal/Canny) - AI 코딩 에이전트가 증거 없이 작업이 완료되었다고 주장하지 못하게 합니다. 결정은 결정론적 훅이 내리고, TypeSafe의 Jev가.
@@ -1419,7 +1419,7 @@ High-throughput, robust native DuckDB extension for batched and streaming TypeSa
 - [Butochnikov/laravel-typesafe-jev](https://github.com/Butochnikov/laravel-typesafe-jev) - 타입 지정 응답, 비동기 요청, 범위 지정 의존성 주입 및 테스트 페이크를 제공하는 TypeSafe Jev AI용 비공식 Laravel 통합.
 - [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) - See what Jev thinks about your SaaS website — powered by ReplyNodes web context.
 - [typakon4/jev-layer](https://github.com/typakon4/jev-layer) - 호스트가 라우팅, 영수증, 재생 및 fail-open 통합을 소유하는 에이전트 하니스용 이식 가능한 System-1 의사결정 계층.
-- [gordan-code/jev-metrics](https://github.com/gordan-code/jev-metrics) - 在现有 jev-review 结构基础上，加一个落库层 + 一层 CLI jev-report。 功能：把 Evaluation 落库（本地 SQLite.
+- [gordan-code/jev-metrics](https://github.com/gordan-code/jev-metrics) - 用 TypeSafe Jev 给 AI coding agent 做持续代码质量 review 的校准审计层。持久化 19.
 - [logicrw/ask-jev](https://github.com/logicrw/ask-jev) - Ultra-fast, fail-open advisory decisions and verbatim extractive reading view.
 - [MattiooFR/mcp-server-jev](https://github.com/MattiooFR/mcp-server-jev) - Typed AI decisions for Codex, Claude and any MCP client, powered by TypeSafe.
 - [mukiwu/jev-search-mcp](https://github.com/mukiwu/jev-search-mcp) - Jev Search as an MCP server, Claude Code plugin and CLI. Plain-language web.
@@ -1468,7 +1468,7 @@ High-throughput, robust native DuckDB extension for batched and streaming TypeSa
 가장 빠르게 커지는 범주: 에이전트의 다음 행동 앞에 타입 지정된 판단을 놓는 훅, MCP 서버, 게이트.
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐5584 · TypeScript · 👁️ observed · 3 天 · ⭐+8</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐5593 · TypeScript · 👁️ observed · 3 天 · ⭐+9</summary>
 
 ##### 📝 요약
 
@@ -1490,14 +1490,14 @@ Claude 모든 도구 호출과 결과를 하나의 빠른 요청에서 점수화
 
 | 지표         | 값            |
 | ------------ | ------------- |
-| ⭐ 스타 수   | **5584** (+8) |
+| ⭐ 스타 수   | **5593** (+9) |
 | 🚀 최근 푸시 | 2026-09-18    |
 | 📥 최초 등재 | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐272 · JavaScript · 🔎 inferred · 1 天</summary>
+<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐274 · JavaScript · 🔎 inferred · 1 天 · ⭐+2</summary>
 
 ##### 📝 요약
 
@@ -1515,11 +1515,11 @@ jev-router를 사용하여 작업에 가장 저렴한 claude code 모델로 라�
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **272**    |
-| 🚀 최근 푸시 | 2026-09-19 |
-| 📥 최초 등재 | 2026-09-18 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **274** (+2) |
+| 🚀 최근 푸시 | 2026-09-19   |
+| 📥 최초 등재 | 2026-09-18   |
 
 ---
 
@@ -1531,7 +1531,7 @@ jev-router를 사용하여 작업에 가장 저렴한 claude code 모델로 라�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐114 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐115 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -1551,7 +1551,7 @@ Codex의 턴별 모델 및 추론 라우팅. Jev(TypeSafe System One)이 구동�
 
 | 지표         | 값           |
 | ------------ | ------------ |
-| ⭐ 스타 수   | **114** (+1) |
+| ⭐ 스타 수   | **115** (+1) |
 | 🚀 최근 푸시 | 2026-09-21   |
 | 📥 최초 등재 | 2026-09-18   |
 
@@ -1668,7 +1668,7 @@ Jev의 사용 사례, 프로젝트, SDKs 및 리소스를 엄선한 목록. Jev�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/GhalebDweikat/winnow">GhalebDweikat/winnow</a></b> · ⭐35 · Python · 👁️ observed · 2 天</summary>
+<summary>🤖 <b><a href="https://github.com/GhalebDweikat/winnow">GhalebDweikat/winnow</a></b> · ⭐36 · Python · 👁️ observed · 2 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -1684,11 +1684,11 @@ Claude Code용 보정된 컨텍스트 필터입니다. 모든 도구 결과는 �
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **35**     |
-| 🚀 최근 푸시 | 2026-09-19 |
-| 📥 최초 등재 | 2026-09-18 |
+| 지표         | 값          |
+| ------------ | ----------- |
+| ⭐ 스타 수   | **36** (+1) |
+| 🚀 최근 푸시 | 2026-09-19  |
+| 📥 최초 등재 | 2026-09-18  |
 
 🏷 `claude-code` · `claude-code-plugin` · `context-management` · `jev` · `llm-agents` · `typesafe`
 
@@ -1908,7 +1908,7 @@ TypeSafe Jev 1.13 vs Claude Fable 5.1, GPT-6 Astra, Kimi K3, MiniMax M3 and Deep
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/reticlehq/reticle">reticlehq/reticle</a></b> · ⭐781 · TypeScript · 🔎 inferred · 1 天</summary>
+<summary>🤖 <b><a href="https://github.com/reticlehq/reticle">reticlehq/reticle</a></b> · ⭐782 · TypeScript · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -1924,11 +1924,11 @@ AI 에이전트는 코드를 생성할 수 있지만, 자신이 무엇을 구축
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **781**    |
-| 🚀 최근 푸시 | 2026-09-19 |
-| 📥 최초 등재 | 2026-09-19 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **782** (+1) |
+| 🚀 최근 푸시 | 2026-09-19   |
+| 📥 최초 등재 | 2026-09-19   |
 
 🏷 `agent-skill` · `agent-skills` · `agent-testing` · `agent-verification` · `ai-testing-tool` · `automated-testing` · `claude-code` · `claude-skills`
 
@@ -1944,7 +1944,7 @@ AI 에이전트는 코드를 생성할 수 있지만, 자신이 무엇을 구축
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/devagrawal09/jev-review">devagrawal09/jev-review</a></b> · ⭐432 · TypeScript · 🔎 inferred · 4 天</summary>
+<summary>🤖 <b><a href="https://github.com/devagrawal09/jev-review">devagrawal09/jev-review</a></b> · ⭐433 · TypeScript · 🔎 inferred · 4 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -1960,11 +1960,11 @@ TypeSafe Jev로 구축한 단계적 코드 리뷰 워크플로와 로컬 대시�
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **432**    |
-| 🚀 최근 푸시 | 2026-09-17 |
-| 📥 최초 등재 | 2026-09-18 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **433** (+1) |
+| 🚀 최근 푸시 | 2026-09-17   |
+| 📥 최초 등재 | 2026-09-18   |
 
 🏷 `ai` · `code-review` · `jev` · `typesafe-ai` · `typescript`
 
@@ -1978,7 +1978,7 @@ TypeSafe Jev로 구축한 단계적 코드 리뷰 워크플로와 로컬 대시�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/kerpopule/hermes-jev-skills">kerpopule/hermes-jev-skills</a></b> · ⭐317 · Python · 🔎 inferred · 0 天 · ⭐+4</summary>
+<summary>🤖 <b><a href="https://github.com/kerpopule/hermes-jev-skills">kerpopule/hermes-jev-skills</a></b> · ⭐317 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -1994,11 +1994,11 @@ Hermes 에이전트를 위한 Jev 기반 모델 라우팅, 메모리, 압축, �
 
 ##### 📊 데이터
 
-| 지표         | 값           |
-| ------------ | ------------ |
-| ⭐ 스타 수   | **317** (+4) |
-| 🚀 최근 푸시 | 2026-09-21   |
-| 📥 최초 등재 | 2026-09-19   |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **317**    |
+| 🚀 최근 푸시 | 2026-09-21 |
+| 📥 최초 등재 | 2026-09-19 |
 
 ---
 
@@ -2010,7 +2010,7 @@ Hermes 에이전트를 위한 Jev 기반 모델 라우팅, 메모리, 압축, �
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/wy-coliney/jev-browser-use">wy-coliney/jev-browser-use</a></b> · ⭐287 · JavaScript · 🔎 inferred · 2 天 · ⭐+2</summary>
+<summary>🤖 <b><a href="https://github.com/wy-coliney/jev-browser-use">wy-coliney/jev-browser-use</a></b> · ⭐288 · JavaScript · 🔎 inferred · 2 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -2028,7 +2028,7 @@ Hermes 에이전트를 위한 Jev 기반 모델 라우팅, 메모리, 압축, �
 
 | 지표         | 값           |
 | ------------ | ------------ |
-| ⭐ 스타 수   | **287** (+2) |
+| ⭐ 스타 수   | **288** (+1) |
 | 🚀 최근 푸시 | 2026-09-19   |
 | 📥 최초 등재 | 2026-09-18   |
 
@@ -2180,7 +2180,7 @@ TypeSafe Jev 및 LocalLLaMA/typed-decisions의 Laya를 능가하는 보정된 15
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/savka777/jev-use">savka777/jev-use</a></b> · ⭐78 · Swift · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/savka777/jev-use">savka777/jev-use</a></b> · ⭐78 · Swift · 🔎 inferred · 1 天</summary>
 
 ##### 📝 요약
 
@@ -2196,11 +2196,11 @@ TypeSafe Jev 및 LocalLLaMA/typed-decisions의 Laya를 능가하는 보정된 15
 
 ##### 📊 데이터
 
-| 지표         | 값          |
-| ------------ | ----------- |
-| ⭐ 스타 수   | **78** (+1) |
-| 🚀 최근 푸시 | 2026-09-19  |
-| 📥 최초 등재 | 2026-09-20  |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **78**     |
+| 🚀 최근 푸시 | 2026-09-19 |
+| 📥 최초 등재 | 2026-09-20 |
 
 🏷 `accessibility` · `ai` · `ai-agents` · `browser-use` · `computer-use` · `harness` · `jev` · `macos`
 
@@ -2214,7 +2214,7 @@ TypeSafe Jev 및 LocalLLaMA/typed-decisions의 Laya를 능가하는 보정된 15
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/Bodila51/grok-bot-jev">Bodila51/grok-bot-jev</a></b> · ⭐65 · Python · 🔎 inferred · 1 天</summary>
+<summary>🤖 <b><a href="https://github.com/Bodila51/grok-bot-jev">Bodila51/grok-bot-jev</a></b> · ⭐66 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -2230,11 +2230,11 @@ TypeSafe Jev을 Grok Bot에 저렴한 결정 레이어로 연결하세요 - 사�
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **65**     |
-| 🚀 최근 푸시 | 2026-09-20 |
-| 📥 최초 등재 | 2026-09-20 |
+| 지표         | 값          |
+| ------------ | ----------- |
+| ⭐ 스타 수   | **66** (+1) |
+| 🚀 최근 푸시 | 2026-09-20  |
+| 📥 최초 등재 | 2026-09-20  |
 
 🏷 `cursor` · `decision-layer` · `grok-bot` · `jev` · `python` · `typesafe`
 
@@ -2248,7 +2248,7 @@ TypeSafe Jev을 Grok Bot에 저렴한 결정 레이어로 연결하세요 - 사�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/socai-io/jev-social">socai-io/jev-social</a></b> · ⭐34 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🤖 <b><a href="https://github.com/socai-io/jev-social">socai-io/jev-social</a></b> · ⭐35 · JavaScript · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -2264,11 +2264,11 @@ Jev 기반 Instagram, TikTok 및 LinkedIn 조사: 타입이 지정된 라우팅,
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **34**     |
-| 🚀 최근 푸시 | 2026-09-21 |
-| 📥 최초 등재 | 2026-09-19 |
+| 지표         | 값          |
+| ------------ | ----------- |
+| ⭐ 스타 수   | **35** (+1) |
+| 🚀 최근 푸시 | 2026-09-21  |
+| 📥 최초 등재 | 2026-09-19  |
 
 🏷 `agent-skills` · `ai-agents` · `browser-agent` · `browser-automation` · `computer-use` · `decision-model` · `instagram` · `jev`
 
@@ -2555,12 +2555,13 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 156</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 162</sub></summary>
 
 - [BYK/jev-mcp](https://github.com/BYK/jev-mcp) - TypeSafe의 Jev를 위한 평가 우선 MCP 서버입니다. System One 모델은 생성된 텍스트 대신 확률과 함께 유형이 지정된.
 - [llt22/jev-lab](https://github.com/llt22/jev-lab) - TypeSafe의 Jev(System One 모델)을 위한 실습 연구실: Noul/Choice/Score 프리미티브의 재현 가능한 벤치마크.
 - [ahoo/cpa-plugin-systemone](https://github.com/ahoo/cpa-plugin-systemone) - Native SystemOne (Jev) provider for CLIProxyAPI: chat-compatible jev-1.13.
 - [api-evangelist/typesafe-ai](https://github.com/api-evangelist/typesafe-ai) - TypeSafe AI is a San Francisco AI lab building System One models — a class of.
+- [ChenneyZhuang/localdecide](https://github.com/ChenneyZhuang/localdecide) - Local, open-source Jev alternative: browser agent decisions with Laya.
 - [JiaWeiXie/jev-enhanced-plugin](https://github.com/JiaWeiXie/jev-enhanced-plugin) - A Claude Code plugin that takes skills already in use and adds one thing to.
 - [jms-dcksn/uipath-jev-guardrail-connector](https://github.com/jms-dcksn/uipath-jev-guardrail-connector) - TypeSafe Jev System One 모델을 기반으로 하는 UiPath 자체 가드레일 사용 커넥터: 자연어 에이전트 정책을 보정된 확률로.
 - [SherifAshraf2003/jev-use](https://github.com/SherifAshraf2003/jev-use) - A computer-use agent whose decision layer is a System One model, not a frontier.
@@ -2593,7 +2594,6 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 - [ranjan2829/AskJev](https://github.com/ranjan2829/AskJev) - AskJev — 모든 웹사이트를 위한 Jev 오토파일럿 + 되돌릴 수 없는 클릭에 대한 가드.
 - [zjunlp/JevLoop](https://github.com/zjunlp/JevLoop) - 결정에 대규모 언어 모델 호출 비용이 들지 않는 에이전트 루프. 의존성 없음, 오프라인 실행, API 키 불필요.
 - [imMamdouhaboammar/get-fable](https://github.com/imMamdouhaboammar/get-fable) - 이미 사용 중인 모델이 더 나은 계획 수립, 영구 컨텍스트, 스킬, 훅, 실패 처리 및 검증을 통해 프론티어 모델처럼 작동하도록 만드세요.
-- [karanb192/jev-architect](https://github.com/karanb192/jev-architect) - TypeSafe Jev 의사결정 루프를 찾고, 설계하고, 평가하세요.
 - [jackbarunz/jev-tool-router](https://github.com/jackbarunz/jev-tool-router) - Codex를 위한 Jev 기반 MCP 도구 라우팅.
 - [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) - Jev-Mem: System-One 제어 에이전트 메모리.
 - [nozomi-koborinai/jev-spec](https://github.com/nozomi-koborinai/jev-spec) - ⚡ TypeSafe AI Jev로 구동되는 AI Code 및 Specs를 위한 사양 주도 의미론적 검증 엔진.
@@ -2616,6 +2616,7 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 - [ctaxnagomi/instruct-jev](https://github.com/ctaxnagomi/instruct-jev) - INSTRUCT_JEV - TypeSafe AI Jev / System One instruction corpus.
 - [eugeniughelbur/jev-engineering](https://github.com/eugeniughelbur/jev-engineering) - The decision layer for AI agents. Typed, calibrated decisions in ~400ms for two.
 - [g0runmezadam/what-is-jev](https://github.com/g0runmezadam/what-is-jev) - Independent, source-linked research on TypeSafe AI.
+- [jbt95/jev-toolkit](https://github.com/jbt95/jev-toolkit) - MCP-first toolkit for TypeSafe/Jev — the System One decision model. One stdio.
 - [jimmyliao/jev-storyboard-lab](https://github.com/jimmyliao/jev-storyboard-lab) - Google ADK vs Microsoft Agent Framework for structured-output agents, with.
 - [jmanhype/jev-dspy-lab](https://github.com/jmanhype/jev-dspy-lab) - DSPy 워크플로의 Jev/TypeSafe 결정에 대한 재현 가능한 보정 및 선택적 위험 벤치마크.
 - [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) - LangChain awrap_model_call 미들웨어로 TypeSafe Jev 모델을 기반으로 구축한, LLM 경계에서 사용자 지정 PII.
@@ -2650,15 +2651,18 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 - [coderexpert123/jev-browser-wingman](https://github.com/coderexpert123/jev-browser-wingman) - Browser automation where TypeSafe.
 - [CompleteDotTech/jev-factorio-agent](https://github.com/CompleteDotTech/jev-factorio-agent) - Jev picks what, code owns how - a System One Factorio agent driven by.
 - [ctmx/openrouter-jev-mcp](https://github.com/ctmx/openrouter-jev-mcp) - High-speed System One Jev AI decision gateway and MCP server powered by.
+- [cyberspace-cs/jev-agent-routing](https://github.com/cyberspace-cs/jev-agent-routing) - DIY Jev fast decision layer for Agent - 10x faster, 10x cheaper.
 - [Dreydrey9000/jev-relay](https://github.com/Dreydrey9000/jev-relay) - Guarded local-first decision advice for Claude Code, Codex and Hermes/Jax, with.
 - [eddydong/JevTest](https://github.com/eddydong/JevTest) - Labeled replacement bench for TypeSafe Jev: classifiers, first-response.
 - [eriklee1895/jev-town](https://github.com/eriklee1895/jev-town) - 一个不停在做决定的小镇：每个居民每刻的判断都是一次 Jev（TypeSafe System One）调用，概率、犹豫和「哪些决定只是抛硬币」都看得见 · A.
+- [gbesse/temporal-jev-decisions](https://github.com/gbesse/temporal-jev-decisions) - Bounded Jev Activities and deterministic Workflow examples for Temporal.
+- [gbesse/wordpress-jev-rules](https://github.com/gbesse/wordpress-jev-rules) - WordPress Playground validation for the PHP plugin.
 - [ghubnab99/jev-enterprise-decision-fabric](https://github.com/ghubnab99/jev-enterprise-decision-fabric) - Architecture for running many semantic decisions through one validated path.
 - [glud123/jev-assist](https://github.com/glud123/jev-assist) - Rank every file in a repo by relevance to a task before you start reading — one.
 - [goodruizhan/pi-jev-control](https://github.com/goodruizhan/pi-jev-control) - System-One control plane for Pi Coding Agent powered by TypeSafe Jev.
 - [gowtham980/jev-router](https://github.com/gowtham980/jev-router) - Provider-neutral, quality-aware model routing for OpenClaw.
-- [grapefruit0205/jev-save](https://github.com/grapefruit0205/jev-save) - Runtime efficiency guard for coding agents (Claude Code, Codex): Jev judges.
 - [gualican/jev-model-router](https://github.com/gualican/jev-model-router) - Routes prompts to the right Claude tier (Haiku/Sonnet/Opus) using TypeSafe.
+- [hcl-z/jev-guard](https://github.com/hcl-z/jev-guard) - Blocks agent file changes that violate your repo.
 - [hoaphm/jev-decision-maker](https://github.com/hoaphm/jev-decision-maker) - omp plugin: JEV (TypeSafe System One) picks the next coding step from.
 - [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) - Jev judgment, not generation: prune long tool output, screen fetched pages for.
 - [ieee0824/jev-mcp](https://github.com/ieee0824/jev-mcp) - A Rust MCP server for TypeSafe AI Jev structured decisions.
@@ -2687,6 +2691,7 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 - [RefoundAI/jev-editor-skill](https://github.com/RefoundAI/jev-editor-skill) - Editorial gate skill for Claude Code and other agents. Scores a draft on AI.
 - [rioriost/rspamd-jev](https://github.com/rioriost/rspamd-jev) - TypeSafe Jev shadow-evaluation plugin for Rspamd with optional GPT provider.
 - [Rorogogogo/jev-browser-relay](https://github.com/Rorogogogo/jev-browser-relay) - A high-speed browser runtime for AI coding agents: Jev drives the browser loop.
+- [Royhu1/jev-poker-trainer](https://github.com/Royhu1/jev-poker-trainer) - A multilingual Texas Hold’em training studio with Jev-powered opponents, live.
 - [Ryder-MHumble/Awsome-Jev-Router](https://github.com/Ryder-MHumble/Awsome-Jev-Router) - A Jev practice catalog and local-first Agent skill router: map recurring logs.
 - [sbhand22/jev-agent-eval-example](https://github.com/sbhand22/jev-agent-eval-example) - A runnable decision-first agent evaluation example using Jev and TypeSafe AI.
 - [shimo4228/jev-skill-router](https://github.com/shimo4228/jev-skill-router) - Claude Code plugin: asks TypeSafe Jev which installed skill fits each prompt.
@@ -2700,6 +2705,7 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 - [Towzai/dsh-memory-jev](https://github.com/Towzai/dsh-memory-jev) - Memory plugin for DeepSeek Harness: every memory read/write is a typed.
 - [uninhibited-scholar/jev-universal](https://github.com/uninhibited-scholar/jev-universal) - Jev structured decisions for Claude, ChatGPT, Kimi Code, ZCode and Codex via MCP.
 - [vineetagarwal54/jev-mcp-middleware](https://github.com/vineetagarwal54/jev-mcp-middleware) - Semantic MCP middleware that intercepts AI-agent tool calls and combines.
+- [vlasvar/jev-research](https://github.com/vlasvar/jev-research) - Local-first research app: Jev triage + Codex synthesis.
 - [wangdada8208/codex-cua-jev](https://github.com/wangdada8208/codex-cua-jev) - Bridge Codex native macOS Computer Use runtime to any AI agent without login.
 - [WaynezProg/jev-kit](https://github.com/WaynezProg/jev-kit) - Source-bound evidence checks and bounded Jev judgments for coding agents via.
 - [weidacn/jev-ai-mcp](https://github.com/weidacn/jev-ai-mcp) - MCP server for Jev AI (jev-ai.pro): classification, scoring, yes/no checks.
@@ -2723,7 +2729,7 @@ TypeSafe의 Jev 및 System One에서 영감을 받은 오픈 소스 로컬 의�
 프로덕션에 가까운 사용 사례 — 각 요청을 실제로 처리할 수 있는 가장 저렴한 모델로 보내고, 결과에는 결정론적 검사를 유지합니다.
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/Dicklesworthstone/skillranker">Dicklesworthstone/skillranker</a></b> · ⭐106 · Rust · 👁️ observed · 0 天 · ⭐+1</summary>
+<summary>🛡️ <b><a href="https://github.com/Dicklesworthstone/skillranker">Dicklesworthstone/skillranker</a></b> · ⭐106 · Rust · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
@@ -2741,11 +2747,11 @@ TypeSafe.ai의 Jev로 구동되는 Rust CLI은(는) 실시간 세션 컨텍스�
 
 ##### 📊 데이터
 
-| 지표         | 값           |
-| ------------ | ------------ |
-| ⭐ 스타 수   | **106** (+1) |
-| 🚀 최근 푸시 | 2026-09-21   |
-| 📥 최초 등재 | 2026-09-18   |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **106**    |
+| 🚀 최근 푸시 | 2026-09-21 |
+| 📥 최초 등재 | 2026-09-18 |
 
 🏷 `agent-skills` · `ai-agents` · `asupersync` · `claude-code` · `cli` · `developer-tools` · `frankentui` · `jev`
 
@@ -3038,7 +3044,7 @@ Jev(TypeSafe AI System One Model) 스터디 — 타입화된 결정·RLCD·confi
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/collapseindex/dinostomp">collapseindex/dinostomp</a></b> · ⭐6 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🛡️ <b><a href="https://github.com/collapseindex/dinostomp">collapseindex/dinostomp</a></b> · ⭐6 · Python · 🔎 inferred · 1 天</summary>
 
 ##### 📝 요약
 
@@ -3056,7 +3062,7 @@ AI 평가를 위한 검증 계층. 점수만이 아니라 도구 자체를 검�
 
 | 지표         | 값         |
 | ------------ | ---------- |
-| ⭐ 스타 수   | **6** (+1) |
+| ⭐ 스타 수   | **6**      |
 | 🚀 최근 푸시 | 2026-09-19 |
 | 📥 최초 등재 | 2026-09-19 |
 
@@ -3408,10 +3414,9 @@ Confidence-gated incident routing with TypeSafe Jev
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 45</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 46</sub></summary>
 
 - [keeltrace/hermes-jev](https://github.com/keeltrace/hermes-jev) - TypeSafe Jev를 사용한 타입 지정된 System One 판정, 순위 지정, 검증 및 선택적 Hermes 도구 게이트.
-- [iefnaf/pi-jev](https://github.com/iefnaf/pi-jev) - Jev으로 구동되는 Pi 확장 모음: 선택적 컨텍스트 압축 및 모델 라우팅.
 - [scienthoon/jev-ood-calibration](https://github.com/scienthoon/jev-ood-calibration) - TypeSafe의 Jev에 대한 독립 보정 테스트로, 해당 모델이 본 적이 있을 수 없는 작업을 사용합니다. Vercel AI Gateway를.
 - [maker-KK/todo-jev](https://github.com/maker-KK/todo-jev) - TypeSafe Jev(System One)로 구동되는 초고속 저비용 지능형 작업 분류기 및 3단계 라우팅 엔진 ⚡.
 - [4esv/jev-eval](https://github.com/4esv/jev-eval) - Benchmark TypeSafe Jev against any OpenRouter model on your own labelled.
@@ -3432,10 +3437,12 @@ Confidence-gated incident routing with TypeSafe Jev
 - [finnhll/jev-eval](https://github.com/finnhll/jev-eval) - Validation harness for Jev&#x27;s Choice, Score and Noul primitives on OpenRouter&#x27;s.
 - [fly2abhishek/jev-field-tests](https://github.com/fly2abhishek/jev-field-tests) - Twelve field tests for TypeSafe.
 - [gaborishka/jev-wrapped](https://github.com/gaborishka/jev-wrapped) - Telegram channel X-ray: Jev judges a year of posts, you get a card. One.
+- [gbesse/node-red-contrib-jev-decisions](https://github.com/gbesse/node-red-contrib-jev-decisions) - Native Node-RED nodes for versioned Jev decisions, review routing and.
+- [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) - Guarded asynchronous decision nodes for Unity Behavior, using a server-side.
 - [Haslab-dev/pandu-jev](https://github.com/Haslab-dev/pandu-jev) - Pandu, is mini Jev model, inspired by Jev. Tiny policy models for fast, local.
 - [kevin9327/jev-bot](https://github.com/kevin9327/jev-bot) - JevBot: TypeSafe Jev 지원 봇. Choice+Score+Noul을(를) 입력하면 정형 응답/에스컬레이션/차단을 출력합니다.
-- [matu79go/jev-hanko](https://github.com/matu79go/jev-hanko) - Measuring TypeSafe AI.
 - [meetr1912/jev-arena](https://github.com/meetr1912/jev-arena) - 분석적으로 알려진 무작위 세계에서 TypeSafe Jev의 보정 경기장: 신뢰성, Brier/ECE 및 신뢰도 게이트 위험-커버리지.
+- [monstercode2/jev-local](https://github.com/monstercode2/jev-local) - Jev 本地试验台：通过 Vercel AI Gateway 测试中文客服分类、真假判断和评分.
 - [pathak-r/how-good-is-jev](https://github.com/pathak-r/how-good-is-jev) - How good is Jev? TypeSafe Jev vs an LLM on the same intent-routing task.
 - [petercr/jev-orchestrator](https://github.com/petercr/jev-orchestrator) - An mini node orchestrator that uses Jev to handle routing to different LLMs.
 - [PeterP22/jev-triage](https://github.com/PeterP22/jev-triage) - Confidence-gated creator inbox triage on TypeSafe&#x27;s Jev (System One) model.
@@ -3924,7 +3931,7 @@ JEV Prompt Injection Guardian is a prompt injection quarantine and risk-scoring 
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/Heman10x-NGU/Verdict-open-jev">Heman10x-NGU/Verdict-open-jev</a></b> · ⭐54 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/Heman10x-NGU/Verdict-open-jev">Heman10x-NGU/Verdict-open-jev</a></b> · ⭐54 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -3940,11 +3947,11 @@ JEV Prompt Injection Guardian is a prompt injection quarantine and risk-scoring 
 
 ##### 📊 데이터
 
-| 지표         | 값          |
-| ------------ | ----------- |
-| ⭐ 스타 수   | **54** (+1) |
-| 🚀 최근 푸시 | 2026-09-20  |
-| 📥 최초 등재 | 2026-09-18  |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **54**     |
+| 🚀 최근 푸시 | 2026-09-20 |
+| 📥 최초 등재 | 2026-09-18 |
 
 🏷 `brier-score` · `calibration` · `decision-engine` · `edge-ai` · `gliclass` · `jev` · `modernbert` · `onnx`
 
@@ -4334,42 +4341,6 @@ Is Jev a good Gomoku, Go, or chess player? Play TypeSafe's System One decision m
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/izzuddin8803/jev-showdown">izzuddin8803/jev-showdown</a></b> · Python · 🔎 inferred · 0 天</summary>
-
-##### 📝 요약
-
-Jev plays Pokemon Showdown: 40 battles, 940 decisions, reproducible results, and an annotated replay.
-
-##### 📌 기본 정보
-
-| 필드     | 값                             |
-| -------- | ------------------------------ |
-| 카테고리 | `평가, 캘리브레이션, 벤치마크` |
-| 근거     | 🔎 `inferred`                  |
-| 언어     | Python                         |
-
-##### 📊 데이터
-
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **0**      |
-| 🚀 최근 푸시 | 2026-09-21 |
-| 📥 최초 등재 | 2026-09-21 |
-
-🏷 `ai-evaluation` · `jev` · `pokemon-showdown` · `python` · `typesafe`
-
----
-
-<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/izzuddin8803/jev-showdown/main/docs/images/battle-opening.jpg" width="100%" alt="izzuddin8803/jev-showdown screenshot"></td>
-<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
-</tr></table>
-
-<sub>재배포 라이선스가 명시되지 않아 업스트림 저장소에서 자산을 직접 링크했습니다.</sub>
-
-</details>
-
-<details>
 <summary>🧪 <b><a href="https://github.com/khmuhtadin/n8n-nodes-jev-classification">khmuhtadin/n8n-nodes-jev-classification</a></b> · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
@@ -4572,7 +4543,41 @@ TypeSafe의 RLCD-Jev 모델이 파일 조각에서 실제 비밀 자격 증명�
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 47</sub></summary>
+<summary>🧪 <b><a href="https://github.com/VladUZH/jev-calibration">VladUZH/jev-calibration</a></b> · Python · 🔎 inferred · 0 天</summary>
+
+##### 📝 요약
+
+Pretrained base LMs are already calibrated on option-logit readouts; instruct tuning breaks it. Measured on Qwen2.5 0.5B/1.5B/7B, MMLU/ARC/HellaSwag.
+
+##### 📌 기본 정보
+
+| 필드     | 값                             |
+| -------- | ------------------------------ |
+| 카테고리 | `평가, 캘리브레이션, 벤치마크` |
+| 근거     | 🔎 `inferred`                  |
+| 언어     | Python                         |
+
+##### 📊 데이터
+
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **0**      |
+| 🚀 최근 푸시 | 2026-09-20 |
+| 📥 최초 등재 | 2026-09-20 |
+
+🏷 `calibration` · `llm` · `mmlu` · `qwen` · `rlhf` · `uncertainty`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 이미지</th><th align="center" width="50%">🎬 동영상</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/vladuzh--jev-calibration/781eaa0b9f2c5066.png" width="100%" alt="VladUZH/jev-calibration screenshot"></td>
+<td align="center" valign="top"><sub>게시된 미디어 없음</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>이 분류의 나머지</b> <sub>· 44</sub></summary>
 
 - [emretheus/jev-rag-benchmark](https://github.com/emretheus/jev-rag-benchmark) - Free English RAG benchmark for TypeSafe Jev 1.13 — frozen candidate pools.
 - [jburns24/jev-demo](https://github.com/jburns24/jev-demo) - playing with jev-latest evaluation model.
@@ -4584,7 +4589,6 @@ TypeSafe의 RLCD-Jev 모델이 파일 조각에서 실제 비밀 자격 증명�
 - [y0usaf/jev-lm](https://github.com/y0usaf/jev-lm) - 출력 계층이 Jev인 단어 수준 언어 모델: n-gram 초안 작성기, Noul 청크 검증, 토큰당 비트 평가.
 - [us/jev-local](https://github.com/us/jev-local) - 로컬 Jev 호환 평가 서버: 유형이 지정된 noul/choice/score를 사용하는 POST /v1/systemone, 오픈 가중치, 대기.
 - [KantaHayashiAI/jev-does-not-play-dice](https://github.com/KantaHayashiAI/jev-does-not-play-dice) - Jev의 확률 보정, 불확실성 보고 및 예측 확률 보존에 관한 실험.
-- [metask-ai/metask-jev](https://github.com/metask-ai/metask-jev) - Metask-Jev: calibrated typed-decision models (Jev-class). Single forward pass.
 - [tubone24/jev-practice-speed](https://github.com/tubone24/jev-practice-speed) - A WebGL demo where you play the card game Speed against a CPU whose brain is.
 - [123Satyajeet123/jev-wide](https://github.com/123Satyajeet123/jev-wide) - Rank or pick from more candidates than Jev can see in one call. The documented.
 - [Alpha-Harper-Franklin/jev-drive](https://github.com/Alpha-Harper-Franklin/jev-drive) - Jev + autonomous driving: structured decisions, multimodal baselines, recovery.
@@ -4592,7 +4596,6 @@ TypeSafe의 RLCD-Jev 모델이 파일 조각에서 실제 비밀 자격 증명�
 - [cloudbtl/JevRAG](https://github.com/cloudbtl/JevRAG) - Option-ready retrieval for decision models (TypeSafe Jev) on the CloudBTL.
 - [co1smos/jev-demo](https://github.com/co1smos/jev-demo) - Historical paper-trading simulator for evaluating TypeSafe AI JEV decisions.
 - [colinmcnamara/jev-first-look](https://github.com/colinmcnamara/jev-first-look) - Scripts and raw results for a first hands-on look at Jev, TypeSafe AI.
-- [Danu28/pi-jev-harness](https://github.com/Danu28/pi-jev-harness) - Pure Jev System-One harness for Pi — pi-model tool-based calibrate + plan +.
 - [dnakhoa/jev-deferred-crispification](https://github.com/dnakhoa/jev-deferred-crispification) - 입장 논문: TypeSafe AI의 Jev 및 System-One 의사결정 모델에 빠져 있는 Hidden-Markov 및 퍼지 프리미티브. 두.
 - [edgelabs-ai/jev48](https://github.com/edgelabs-ai/jev48) - Open, auditable reproduction of TypeSafe Jev: a 2B probabilistic decision model.
 - [eggmasonvalue/jev-takes-mauboussin](https://github.com/eggmasonvalue/jev-takes-mauboussin) - Michael Mauboussin의 50문항 의사결정 보정 테스트에서 TypeSafe의 Jev 평가.
@@ -4610,7 +4613,6 @@ TypeSafe의 RLCD-Jev 모델이 파일 조각에서 실제 비밀 자격 증명�
 - [sjyangkevin/jev-as-a-judge](https://github.com/sjyangkevin/jev-as-a-judge) - A local demo comparing Jev and LLM judges for answer evaluation, with native.
 - [stefanoCassola/jev-governor](https://github.com/stefanoCassola/jev-governor) - In-loop control of under-relaxation in OpenFOAM (SIMPLE and PIMPLE), with rules.
 - [UpHash-Network/mini-jev](https://github.com/UpHash-Network/mini-jev) - Typed decisions from frozen local LLMs, with reproducible evaluation and.
-- [VladUZH/jev-calibration](https://github.com/VladUZH/jev-calibration) - Pretrained base LMs are already calibrated on option-logit readouts; instruct.
 - [WiredMind2/jev](https://github.com/WiredMind2/jev) - Independent research notes toward an open Jev-like decision model: public.
 - [xienda/dsh-jev-verify](https://github.com/xienda/dsh-jev-verify) - Jev (TypeSafe System One) decision tools + live verification benchmark for.
 - [yslinear/cartpole-jev](https://github.com/yslinear/cartpole-jev) - A tug-of-war over one shared actuator — you and TypeSafe.
@@ -4658,7 +4660,7 @@ TypeSafe의 RLCD-Jev 모델이 파일 조각에서 실제 비밀 자격 증명�
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐1615 · Python · 🔎 inferred · 0 天 · ⭐+2</summary>
+<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐1620 · Python · 🔎 inferred · 0 天 · ⭐+5</summary>
 
 ##### 📝 요약
 
@@ -4678,7 +4680,7 @@ Jev의 나노 복제본: 병렬 결정, 동적 후보 및 엔드투엔드 학습
 
 | 지표         | 값            |
 | ------------ | ------------- |
-| ⭐ 스타 수   | **1615** (+2) |
+| ⭐ 스타 수   | **1620** (+5) |
 | 🚀 최근 푸시 | 2026-09-20    |
 | 📥 최초 등재 | 2026-09-18    |
 
@@ -4857,7 +4859,7 @@ An evidence-graded deep dive into Jev (TypeSafe AI's System One model): interfac
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐417 · Python · 🔎 inferred · 0 天</summary>
+<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐418 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -4873,11 +4875,11 @@ An evidence-graded deep dive into Jev (TypeSafe AI's System One model): interfac
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **417**    |
-| 🚀 최근 푸시 | 2026-09-21 |
-| 📥 최초 등재 | 2026-09-19 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **418** (+1) |
+| 🚀 최근 푸시 | 2026-09-21   |
+| 📥 최초 등재 | 2026-09-19   |
 
 ---
 
@@ -4889,7 +4891,7 @@ An evidence-graded deep dive into Jev (TypeSafe AI's System One model): interfac
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/wfzyx/von">wfzyx/von</a></b> · ⭐281 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/wfzyx/von">wfzyx/von</a></b> · ⭐281 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -4905,11 +4907,11 @@ An evidence-graded deep dive into Jev (TypeSafe AI's System One model): interfac
 
 ##### 📊 데이터
 
-| 지표         | 값           |
-| ------------ | ------------ |
-| ⭐ 스타 수   | **281** (+1) |
-| 🚀 최근 푸시 | 2026-09-21   |
-| 📥 최초 등재 | 2026-09-19   |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **281**    |
+| 🚀 최근 푸시 | 2026-09-21 |
+| 📥 최초 등재 | 2026-09-19 |
 
 🏷 `decision-model` · `jev` · `machine-learning` · `python` · `rlcd` · `system-one` · `typesafe`
 
@@ -4954,7 +4956,7 @@ An evidence-graded deep dive into Jev (TypeSafe AI's System One model): interfac
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐139 · Python · 🔎 inferred · 0 天</summary>
+<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐140 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -4970,11 +4972,11 @@ EmbodiedJev: MiniCPM5-2B, Jev 및 호환 모델 APIs을 사용하는 MuJoCo 로�
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **139**    |
-| 🚀 최근 푸시 | 2026-09-20 |
-| 📥 최초 등재 | 2026-09-20 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **140** (+1) |
+| 🚀 최근 푸시 | 2026-09-20   |
+| 📥 최초 등재 | 2026-09-20   |
 
 ---
 
@@ -5524,7 +5526,7 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/jarrodwatts/jev-trader">jarrodwatts/jev-trader</a></b> · ⭐1641 · TypeScript · 🔎 inferred · 4 天 · ⭐+2</summary>
+<summary>🎮 <b><a href="https://github.com/jarrodwatts/jev-trader">jarrodwatts/jev-trader</a></b> · ⭐1645 · TypeScript · 🔎 inferred · 4 天 · ⭐+4</summary>
 
 ##### 📝 요약
 
@@ -5542,14 +5544,14 @@ Monad 블록마다 하나의 AI 거래 결정. Kuru MON-USDC에서 Jev.
 
 | 지표         | 값            |
 | ------------ | ------------- |
-| ⭐ 스타 수   | **1641** (+2) |
+| ⭐ 스타 수   | **1645** (+4) |
 | 🚀 최근 푸시 | 2026-09-17    |
 | 📥 최초 등재 | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐343 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐344 · TypeScript · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -5565,11 +5567,11 @@ TypeSafe의 Jev로 웹을 검색합니다: 소스 선택, 쿼리 이해 및 관�
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **343**    |
-| 🚀 최근 푸시 | 2026-09-20 |
-| 📥 최초 등재 | 2026-09-18 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **344** (+1) |
+| 🚀 최근 푸시 | 2026-09-20   |
+| 📥 최초 등재 | 2026-09-18   |
 
 ---
 
@@ -5581,7 +5583,7 @@ TypeSafe의 Jev로 웹을 검색합니다: 소스 선택, 쿼리 이해 및 관�
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐205 · TypeScript · 🔎 inferred · 0 天 · ⭐+2</summary>
+<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐205 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -5597,11 +5599,11 @@ Typesafe의 Jev 모델을 사용한 브라우저 사용
 
 ##### 📊 데이터
 
-| 지표         | 값           |
-| ------------ | ------------ |
-| ⭐ 스타 수   | **205** (+2) |
-| 🚀 최근 푸시 | 2026-09-21   |
-| 📥 최초 등재 | 2026-09-18   |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **205**    |
+| 🚀 최근 푸시 | 2026-09-21 |
+| 📥 최초 등재 | 2026-09-18 |
 
 ---
 
@@ -5711,7 +5713,7 @@ Jev으로 구축되었으며 LLM가 없는 도구 호출 챗봇.
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/aowang-ai/jev-trade">aowang-ai/jev-trade</a></b> · ⭐62 · TypeScript · 🔎 inferred · 1 天</summary>
+<summary>🎮 <b><a href="https://github.com/aowang-ai/jev-trade">aowang-ai/jev-trade</a></b> · ⭐63 · TypeScript · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -5727,11 +5729,11 @@ Hyperliquid의 실시간 Jev 트레이더
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **62**     |
-| 🚀 최근 푸시 | 2026-09-19 |
-| 📥 최초 등재 | 2026-09-19 |
+| 지표         | 값          |
+| ------------ | ----------- |
+| ⭐ 스타 수   | **63** (+1) |
+| 🚀 최근 푸시 | 2026-09-19  |
+| 📥 최초 등재 | 2026-09-19  |
 
 🏷 `hyperliquid` · `jev` · `quantitative-finance` · `typesafe`
 
@@ -5747,7 +5749,7 @@ Hyperliquid의 실시간 Jev 트레이더
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/NanmiCoder/jev-arena">NanmiCoder/jev-arena</a></b> · ⭐48 · JavaScript · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🎮 <b><a href="https://github.com/NanmiCoder/jev-arena">NanmiCoder/jev-arena</a></b> · ⭐48 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -5763,11 +5765,11 @@ Jev 모델 소개 및 실제 측정: Choice / Score / Noul을 통해 자연어�
 
 ##### 📊 데이터
 
-| 지표         | 값          |
-| ------------ | ----------- |
-| ⭐ 스타 수   | **48** (+1) |
-| 🚀 최근 푸시 | 2026-09-20  |
-| 📥 최초 등재 | 2026-09-20  |
+| 지표         | 값         |
+| ------------ | ---------- |
+| ⭐ 스타 수   | **48**     |
+| 🚀 최근 푸시 | 2026-09-20 |
+| 📥 최초 등재 | 2026-09-20 |
 
 ---
 
@@ -5779,7 +5781,7 @@ Jev 모델 소개 및 실제 측정: Choice / Score / Noul을 통해 자연어�
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/Dimweaker/jev-libero">Dimweaker/jev-libero</a></b> · ⭐34 · Python · 🔎 inferred · 0 天 · **NEW**</summary>
+<summary>🎮 <b><a href="https://github.com/Dimweaker/jev-libero">Dimweaker/jev-libero</a></b> · ⭐34 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 요약
 
@@ -5911,7 +5913,7 @@ Jev vs uniform random in Bomberman: four action interfaces, decision logs, and 4
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 32</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 33</sub></summary>
 
 - [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev)
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - 음성으로 실제 브라우저를 제어합니다. Jev(TypeSafe System One)이 음성 단어당 약 300ms 만에 의도와 대상을 결정하고.
@@ -5928,6 +5930,7 @@ Jev vs uniform random in Bomberman: four action interfaces, decision logs, and 4
 - [Alpha-Harper-Franklin/jev-multimodal](https://github.com/Alpha-Harper-Franklin/jev-multimodal) - Jev + Multimodal: connect images, video, and screen observations to structured.
 - [Alpha-Harper-Franklin/jev-vla](https://github.com/Alpha-Harper-Franklin/jev-vla) - Jev + VLA: structured decisions, failure detection, and recovery for.
 - [Alpha-Harper-Franklin/jev-wam](https://github.com/Alpha-Harper-Franklin/jev-wam) - Jev + WAM: structured decisions for World Action Models and world-model.
+- [Beckettsapere824/Jev-ic](https://github.com/Beckettsapere824/Jev-ic) - Rapid first-pass investment screening tool for VCs, angel investors, and.
 - [ben0128/jev-fighter-demo](https://github.com/ben0128/jev-fighter-demo) - 2D fighting demo where TypeSafe&#x27;s Jev (System One) makes real-time decisions.
 - [DowLucas/browser-jev](https://github.com/DowLucas/browser-jev) - Adversarial browser testing: personas explore your web app while Jev judges.
 - [Ege-BULUT/jev-play-games](https://github.com/Ege-BULUT/jev-play-games) - Watch TypeSafe.
@@ -6263,7 +6266,7 @@ preview 端点 `/preview/evaluation` → 稳定版 **`POST /v1/systemone`**；`p
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 76</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 74</sub></summary>
 
 - [yibie/awesome-jev](https://github.com/yibie/awesome-jev) - Jev—유형이 지정된 결정을 위한 TypeSafe AI의 System One 모델—을 기반으로 구축된 공개 프로젝트, 통합 및 논의의 엄선된.
 - [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) - 소프트웨어에서 빠르고 유형이 지정되며 신뢰도를 인식하는 결정을 내리기 위한 System One 모델인 TypeSafe Jev에 대한 근거 기반.
@@ -6285,7 +6288,6 @@ preview 端点 `/preview/evaluation` → 稳定版 **`POST /v1/systemone`**；`p
 - [Have a Question? Ask Jev](https://news.ycombinator.com/item?id=49782388)
 - [I Built a System One Model on a RTX 3070](https://news.ycombinator.com/item?id=49770066)
 - [Jev is now available to everyone. No waitlist.](https://news.ycombinator.com/item?id=49780343)
-- [Jev – System-1 Agent Architecture Radar (open-source)](https://news.ycombinator.com/item?id=49782061)
 - [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) - Jev, TypeSafe의 System One 모델로 구축된 엄선 프로젝트.
 - [Mini-Jev – typesafe's Jev implemented on top of an LLM locally](https://news.ycombinator.com/item?id=49748643)
 - [Turn any Llama-server into a jev system one endpoint](https://news.ycombinator.com/item?id=49783288)
@@ -6313,7 +6315,6 @@ preview 端点 `/preview/evaluation` → 稳定版 **`POST /v1/systemone`**；`p
 - [Typesafe's Jev is the fish at the poker table](https://news.ycombinator.com/item?id=49745212)
 - [Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD](https://news.ycombinator.com/item?id=49734345)
 - [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) - A crawler-maintained directory of projects built on Jev, TypeSafe AI.
-- [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) - Jev(TypeSafe AI의 System One 모델)를 기반으로 구축된 프로젝트를 Jev 자체가 엄선했습니다.
 - [108 条声明对照：Jev 的校准并不独特（含作者自我修正）](https://truestandard.ai/blog/jev-accuracy-tested) - 108 条声明对照：Jev 的校准并不独特（含作者自我修正）.
 - [\[cellcog.ai 追踪页\]() 自称分层记录 *"claims / concedes / measured / found, dated"* → 与本库锚页设计意图一致，值得长期对照](https://cellcog.ai/blog/jev-typesafe-decision-model) - \[cellcog.ai 追踪页\]() 自称分层记录 *&quot;claims / concedes / measured / found, dated&quot;* →.
 - [\`calibre\`：独立标定实验证明"阈值参数不跨数据集迁移"](https://github.com/FirasSX914/calibre) - 在两个带标签数据集（**Banking77** 与 **Web of Science**）上独立测量 Jev 校准，**协议在出结果前冻结**，原始.
@@ -6349,7 +6350,7 @@ preview 端点 `/preview/evaluation` → 稳定版 **`POST /v1/systemone`**；`p
 ## 기타 프로젝트
 
 <details>
-<summary>🧩 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐13344 · Python · 👁️ observed · 2 天 · ⭐+36</summary>
+<summary>🧩 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐13386 · Python · 👁️ observed · 2 天 · ⭐+42</summary>
 
 ##### 📝 요약
 
@@ -6369,7 +6370,7 @@ i. am. speed.
 
 | 지표         | 값              |
 | ------------ | --------------- |
-| ⭐ 스타 수   | **13344** (+36) |
+| ⭐ 스타 수   | **13386** (+42) |
 | 🚀 최근 푸시 | 2026-09-18      |
 | 📥 최초 등재 | 2026-09-18      |
 
@@ -6383,7 +6384,7 @@ i. am. speed.
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐1297 · Python · 👁️ observed · 0 天 · ⭐+11</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐1312 · Python · 👁️ observed · 0 天 · ⭐+15</summary>
 
 ##### 📝 요약
 
@@ -6403,7 +6404,7 @@ Qwen3.5를 기반으로 구축되어 직접 학습하고 실행할 수 있는 �
 
 | 지표         | 값             |
 | ------------ | -------------- |
-| ⭐ 스타 수   | **1297** (+11) |
+| ⭐ 스타 수   | **1312** (+15) |
 | 🚀 최근 푸시 | 2026-09-21     |
 | 📥 최초 등재 | 2026-09-21     |
 
@@ -6665,11 +6666,11 @@ System one model API based on Laya
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/JustinRoderick/jev-test">JustinRoderick/jev-test</a></b> · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/Lancer59/SystemOneModels">Lancer59/SystemOneModels</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 요약
 
-Testing typesafe.ai new model Jev
+Testing out System One Models
 
 ##### 📌 기본 정보
 
@@ -6677,14 +6678,14 @@ Testing typesafe.ai new model Jev
 | -------- | --------------- |
 | 카테고리 | `기타 프로젝트` |
 | 근거     | 👁️ `observed`   |
-| 언어     | TypeScript      |
+| 언어     | Python          |
 
 ##### 📊 데이터
 
 | 지표         | 값         |
 | ------------ | ---------- |
 | ⭐ 스타 수   | **0**      |
-| 🚀 최근 푸시 | 2026-09-21 |
+| 🚀 최근 푸시 | 2026-09-20 |
 | 📥 최초 등재 | 2026-09-21 |
 
 </details>
@@ -6724,7 +6725,7 @@ Testing typesafe.ai new model Jev
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐105 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐107 · Python · 🔎 inferred · 0 天 · ⭐+2</summary>
 
 ##### 📝 요약
 
@@ -6740,11 +6741,11 @@ Testing typesafe.ai new model Jev
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **105**    |
-| 🚀 최근 푸시 | 2026-09-20 |
-| 📥 최초 등재 | 2026-09-20 |
+| 지표         | 값           |
+| ------------ | ------------ |
+| ⭐ 스타 수   | **107** (+2) |
+| 🚀 최근 푸시 | 2026-09-20   |
+| 📥 최초 등재 | 2026-09-20   |
 
 ---
 
@@ -6756,7 +6757,7 @@ Testing typesafe.ai new model Jev
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/manifoldor/xtags">manifoldor/xtags</a></b> · ⭐9 · JavaScript · 🔎 inferred · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/manifoldor/xtags">manifoldor/xtags</a></b> · ⭐10 · JavaScript · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -6772,11 +6773,11 @@ X 타임라인의 각 게시물에 게시물이 여러분에게 무엇을 하기
 
 ##### 📊 데이터
 
-| 지표         | 값         |
-| ------------ | ---------- |
-| ⭐ 스타 수   | **9**      |
-| 🚀 최근 푸시 | 2026-09-20 |
-| 📥 최초 등재 | 2026-09-19 |
+| 지표         | 값          |
+| ------------ | ----------- |
+| ⭐ 스타 수   | **10** (+1) |
+| 🚀 최근 푸시 | 2026-09-20  |
+| 📥 최초 등재 | 2026-09-19  |
 
 🏷 `ai` · `chrome-extension` · `jev` · `typesafe` · `userscript` · `x-twitter`
 
@@ -6890,7 +6891,7 @@ JEV Document Classification은 AI를 사용하고 TypeSafe의 "System One" 모�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/uhhfeef/jev-lm">uhhfeef/jev-lm</a></b> · ⭐1 · Python · 🔎 inferred · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/uhhfeef/jev-lm">uhhfeef/jev-lm</a></b> · ⭐2 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 요약
 
@@ -6908,7 +6909,7 @@ A character-level language model built on Jev, a System One classifier
 
 | 지표         | 값         |
 | ------------ | ---------- |
-| ⭐ 스타 수   | **1**      |
+| ⭐ 스타 수   | **2** (+1) |
 | 🚀 최근 푸시 | 2026-09-20 |
 | 📥 최초 등재 | 2026-09-21 |
 
@@ -7218,9 +7219,8 @@ OpenThai-SystemOne: 오픈 태국어 + 영어 System One 의사결정 모델(0.8
 </details>
 
 <details>
-<summary><b>이 분류의 나머지</b> <sub>· 40</sub></summary>
+<summary><b>이 분류의 나머지</b> <sub>· 38</sub></summary>
 
-- [Lancer59/SystemOneModels](https://github.com/Lancer59/SystemOneModels) - Testing out System One Models.
 - [staturecrane/jev-testing](https://github.com/staturecrane/jev-testing) - Running some tests with TypesafeAI&#x27;s System One model.
 - [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu)
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments)
@@ -7230,35 +7230,34 @@ OpenThai-SystemOne: 오픈 태국어 + 영어 System One 의사결정 모델(0.8
 - [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev)
 - [oso95/x-scanner](https://github.com/oso95/x-scanner) - X에서 스크롤하는 모든 게시물에 타입이 지정된 Jev 판단과 실시간 비용 카운터를 표시하는 Chrome 확장.
 - [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) - TypeSafe Jev용 작고 확장 가능한 결정-실행 하네스.
-- [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps)
 - [lbotinelly/jev-little-airways](https://github.com/lbotinelly/jev-little-airways) - Jev 및 TypeSafe의 System One 의사결정 모델을 위한 쇼 앤 텔 역량 연구입니다.
 - [comoc/jev-minesweeper](https://github.com/comoc/jev-minesweeper) - TypeSafe Jev (System One) にブラウザ上のマインスイーパーを解かせるデモ.
 - [exfly/laya-jev-compatible-server](https://github.com/exfly/laya-jev-compatible-server) - A TypeSafe Jev-compatible HTTP server (POST /v1/systemone).
 - [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) - System One judgments (noul/choice/score) from any LLM in one prefill — a Rust.
 - [2951461586/Jev-Register-Tool](https://github.com/2951461586/Jev-Register-Tool) - TypeSafe（Jev / System One）申请 → 确认邮件 → 获批 → 注册 → 建 API Key 全链路工具，纯 HTTP 无浏览器.
 - [abhishekmamdapure/jev-information-extraction](https://github.com/abhishekmamdapure/jev-information-extraction) - Parsing the PDF and extracting the relevant information.
-- [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) - A lightweight collection of developer utilities and scripts designed to.
+- [phunterlau/Jev-plus-reasoning](https://github.com/phunterlau/Jev-plus-reasoning) - Add reasoning to Jev for harder problems.
 - [TanayPadar/gpt-vs-jev](https://github.com/TanayPadar/gpt-vs-jev) - 동일한 입력에 대해 GPT이 생성한 언어와 JEV 구조화 Noul 결정을 비교합니다.
 - [TomRichner/can-jev-bayes](https://github.com/TomRichner/can-jev-bayes) - Can Jev Bayes? No. Testing TypeSafe AI.
 - [akash-kamat/jev-llm](https://github.com/akash-kamat/jev-llm) - An LLM built without a language model — using TypeSafe Jev.
-- [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) - control your desktop smoothly. powered by typesafe&#x27;s jev.
 - [andrest04/jev-lab](https://github.com/andrest04/jev-lab) - A local Node lab for TypeSafe.
 - [BeiZi6/jev-introduction](https://github.com/BeiZi6/jev-introduction) - Jev 中文介绍：System One、State、Choice、Score、Noul，提供 Markdown、HTML 和 PDF.
-- [cexll/train-your-first-jev](https://github.com/cexll/train-your-first-jev) - Train your own Jev-style decision model: Chinese interactive course, Qwen LoRA.
+- [fsmiamoto/pi-jev-prune](https://github.com/fsmiamoto/pi-jev-prune) - Experimental pi extension: Jev-driven, cache-aware, recoverable pruning of.
 - [fumokmm/jev-oppao](https://github.com/fumokmm/jev-oppao) - Jev で「いっぱい→おっぱい」を Noul / Choice / Score で聞く最小デモ.
+- [gbesse/camunda-jev-connector](https://github.com/gbesse/camunda-jev-connector) - Camunda 8 decision worker, Modeler template and BPMN example using Jev.
+- [gbesse/directus-extension-jev](https://github.com/gbesse/directus-extension-jev) - Native Directus Flow operation for versioned Jev decisions with server-side.
+- [gbesse/django-jev-decisions](https://github.com/gbesse/django-jev-decisions) - Django model decision queue, admin history and stale-state checks for Jev.
 - [HermeticOrmus/jev-primitives](https://github.com/HermeticOrmus/jev-primitives) - Jev primitives: Choice / Score / Noul explainers + examples.
 - [iAziz786/omp-jev-decision](https://github.com/iAziz786/omp-jev-decision) - omp extension: a read-tier `decision` tool backed by TypeSafe System One (Jev).
 - [konaito/jev-fetch](https://github.com/konaito/jev-fetch) - Ultra-fast, cost-effective intelligent web scraping powered by JEV (System One).
 - [memorysaver/jev-atari-lab](https://github.com/memorysaver/jev-atari-lab) - Challenge Atari with Jev: structured decisions, value questions, and replayable.
 - [mikeyacobian/jev-stub](https://github.com/mikeyacobian/jev-stub) - Tiny Jev (typesafe) call stub — sample rows + Choice/noul questions.
-- [phunterlau/Jev-plus-reasoning](https://github.com/phunterlau/Jev-plus-reasoning) - Add reasoning to Jev for harder problems.
 - [qlj215/Jev-projects](https://github.com/qlj215/Jev-projects) - Jev 文本判断工具：Noul、Choice、Score，深色本地网页与命令行，Python 标准库实现.
 - [robfrase/jev](https://github.com/robfrase/jev) - Local &quot;System One&quot; — typed closed-set decisions on local Qwen/Spark. Drop-in.
 - [rupeshs/flappybird-jev-test](https://github.com/rupeshs/flappybird-jev-test) - Testing flappy bird with SystemOne Jev like model locally.
 - [schalkneethling/jev-lint](https://github.com/schalkneethling/jev-lint) - An experiment with semantic code linting using Jev from TypeSafe AI.
 - [swang666/polymarket-jev](https://github.com/swang666/polymarket-jev) - Polymarket resolution-lag scanner built on TypeSafe.
 - [tibuchivn/jev-complete.nvim](https://github.com/tibuchivn/jev-complete.nvim) - Semantic code completion for Neovim using Jev (TypeSafe AI) as a ranking.
-- [yottayoshida/jev-intent-review](https://github.com/yottayoshida/jev-intent-review) - Verify a pull request against the intent that caused it, across the whole.
 - [razorback16/openjev](https://github.com/razorback16/openjev) - DiffusionGemma 기반의 개방형 Jev 호환 System One 결정 서버.
 
 </details>
@@ -7269,33 +7268,33 @@ OpenThai-SystemOne: 오픈 태국어 + 영어 System One 의사결정 모델(0.8
 
 생태계는 Python과 TypeScript에 집중되어 있지만, 타입 지정 클라이언트는 다른 언어에서도 계속 나타나고 있습니다. 이 표는 항목 자체에서 생성됩니다.
 
-| 언어       | 항목 | 예시                                                                                               |
-| ---------- | ---- | -------------------------------------------------------------------------------------------------- |
-| Python     | 272  | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `ckaraca/awesome-jev`  |
-| TypeScript | 146  | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/clarity-judge`, `opaielsheikh/typesafe-migration-guard` |
-| JavaScript | 78   | `clouatre-labs/decisions-judge-mcp`, `ziyu/system-one-sdk`, `Ying-Kai-Liao/jev-browser`            |
-| HTML       | 17   | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `caijinchun/nanojev-arena`            |
-| Rust       | 15   | `AkashPriyadarshii/jev-curate`, `AkashPriyadarshii/jev-seo`, `shaharia-lab/jev-cli`                |
-| Go         | 13   | `kisshan13/typesafe-ai-go`, `Gaurav-Gosain/jev-go`, `Stumble/jev-go`                               |
-| Jupyter    | 5    | `jexp/neo4jev`, `GitHub30/OpenJev`, `bitnovus/jev-spam-eval`                                       |
-| Ruby       | 5    | `dtheofr/typesafe-jev-ruby`, `carldaws/hunch`, `Ray-Hughes/jevalyn`                                |
-| Java       | 4    | `Premo-Cloud/typesafe-sdk-java`, `danvega/jev-spring-boot-starter`, `Olti1947/jev-java`            |
-| C          | 3    | `CheshiAI/Cheshi`, `giuliosmall/pg_typesafe`, `muhandis525/jev-esp32s3-gateway`                    |
-| Elixir     | 3    | `nshkrdotcom/typesafe_sdk`, `Tango-Tango/ex_typesafe`, `dannote/jev`                               |
-| Swift      | 3    | `savka777/jev-use`, `chris-wozniczek/jev-voice-control`, `amapara27/jev-pilot`                     |
-| C#         | 2    | `saibimajdi/typesafeai-dotnet-sdk`, `ghubnab99/jev-enterprise-decision-fabric`                     |
-| CSS        | 2    | `AbdelStark/awesome-typesafe`, `mizzlelover/jev-hub`                                               |
-| Lua        | 2    | `Mawfyy/jev-router.nvim`, `tibuchivn/jev-complete.nvim`                                            |
-| PHP        | 2    | `Butochnikov/laravel-typesafe-jev`, `soderlind/ai-provider-for-jev`                                |
-| PowerShell | 2    | `omni-/ask-jev`, `vineetagarwal54/jev-mcp-middleware`                                              |
-| Shell      | 2    | `realZachi/pg-jev`, `wotai-dev/typesafe-jev-tools`                                                 |
-| TeX        | 2    | `Andymulb/jev_the_philosopher`, `dnakhoa/jev-deferred-crispification`                              |
-| Assembly   | 1    | `smarthi/assembly-jev-router`                                                                      |
-| C++        | 1    | `prasanthj/duckdb-jev`                                                                             |
-| Clojure    | 1    | `TullyStewart/clj-jev`                                                                             |
-| Haskell    | 1    | `getmissionctrl/hs-jev`                                                                            |
-| Makefile   | 1    | `bavovna/jev-like-srv`                                                                             |
-| Nushell    | 1    | `cablehead/jev.nu`                                                                                 |
+| 언어       | 항목 | 예시                                                                                                        |
+| ---------- | ---- | ----------------------------------------------------------------------------------------------------------- |
+| Python     | 272  | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `ckaraca/awesome-jev`           |
+| TypeScript | 145  | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/clarity-judge`, `opaielsheikh/typesafe-migration-guard`          |
+| JavaScript | 81   | `clouatre-labs/decisions-judge-mcp`, `Ying-Kai-Liao/jev-browser`, `AkashPriyadarshii/jev-superpowers`       |
+| HTML       | 16   | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `caijinchun/nanojev-arena`                     |
+| Rust       | 15   | `AkashPriyadarshii/jev-curate`, `AkashPriyadarshii/jev-seo`, `shaharia-lab/jev-cli`                         |
+| Go         | 13   | `kisshan13/typesafe-ai-go`, `Gaurav-Gosain/jev-go`, `Stumble/jev-go`                                        |
+| Jupyter    | 5    | `jexp/neo4jev`, `GitHub30/OpenJev`, `bitnovus/jev-spam-eval`                                                |
+| Ruby       | 5    | `dtheofr/typesafe-jev-ruby`, `carldaws/hunch`, `Ray-Hughes/jevalyn`                                         |
+| Java       | 4    | `Premo-Cloud/typesafe-sdk-java`, `danvega/jev-spring-boot-starter`, `Olti1947/jev-java`                     |
+| C          | 3    | `CheshiAI/Cheshi`, `giuliosmall/pg_typesafe`, `muhandis525/jev-esp32s3-gateway`                             |
+| C#         | 3    | `saibimajdi/typesafeai-dotnet-sdk`, `ghubnab99/jev-enterprise-decision-fabric`, `gbesse/unity-jev-behavior` |
+| Elixir     | 3    | `nshkrdotcom/typesafe_sdk`, `Tango-Tango/ex_typesafe`, `dannote/jev`                                        |
+| PHP        | 3    | `Butochnikov/laravel-typesafe-jev`, `gbesse/wordpress-jev-rules`, `soderlind/ai-provider-for-jev`           |
+| CSS        | 2    | `AbdelStark/awesome-typesafe`, `mizzlelover/jev-hub`                                                        |
+| Lua        | 2    | `Mawfyy/jev-router.nvim`, `tibuchivn/jev-complete.nvim`                                                     |
+| PowerShell | 2    | `omni-/ask-jev`, `vineetagarwal54/jev-mcp-middleware`                                                       |
+| Shell      | 2    | `realZachi/pg-jev`, `wotai-dev/typesafe-jev-tools`                                                          |
+| Swift      | 2    | `savka777/jev-use`, `chris-wozniczek/jev-voice-control`                                                     |
+| TeX        | 2    | `Andymulb/jev_the_philosopher`, `dnakhoa/jev-deferred-crispification`                                       |
+| Assembly   | 1    | `smarthi/assembly-jev-router`                                                                               |
+| C++        | 1    | `prasanthj/duckdb-jev`                                                                                      |
+| Clojure    | 1    | `TullyStewart/clj-jev`                                                                                      |
+| Haskell    | 1    | `getmissionctrl/hs-jev`                                                                                     |
+| Makefile   | 1    | `bavovna/jev-like-srv`                                                                                      |
+| Nushell    | 1    | `cablehead/jev.nu`                                                                                          |
 
 <sub>언어를 명시한 항목만 집계합니다. 인프라, 문서, 토론 항목은 이 표에서 제외됩니다.</sub>
 
@@ -7321,4 +7320,4 @@ OpenThai-SystemOne: 오픈 태국어 + 영어 System One 의사결정 모델(0.8
 
 <sub>독립적인 커뮤니티 프로젝트입니다. TypeSafe AI와 제휴 관계가 없고, 그로부터 승인이나 검토를 받지 않았습니다. 제품 동작, 가격, 제한, 모델 별칭은 예고 없이 바뀝니다. 중요한 사항은 공식 문서로 확인하십시오. 자산은 각 업스트림 프로젝트에 귀속되며, 라이선스가 허용하는 경우에만 게재합니다.</sub>
 
-<sub>생성 도구 · `render.py` · 2026-09-21T15:59:28+08:00</sub>
+<sub>생성 도구 · `render.py` · 2026-09-21T16:05:24+08:00</sub>

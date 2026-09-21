@@ -934,3 +934,22 @@
 - 收录总数 **700**；本 tick 新增 **2**
 - `+` [Dimweaker/jev-libero](https://github.com/Dimweaker/jev-libero) — inferred / apps-demos — ⭐34
 - `+` [sseanliu/Jev-Vision](https://github.com/sseanliu/Jev-Vision) — inferred / agent-tooling — ⭐1
+
+## 2026-09-21T16:04:22+08:00
+- 收录总数 **700**；本 tick 新增 **16**
+- `+` [jbt95/jev-toolkit](https://github.com/jbt95/jev-toolkit) — inferred / agent-tooling — ⭐1
+- `+` [ChenneyZhuang/localdecide](https://github.com/ChenneyZhuang/localdecide) — observed / agent-tooling — ⭐0
+- `+` [cyberspace-cs/jev-agent-routing](https://github.com/cyberspace-cs/jev-agent-routing) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/camunda-jev-connector](https://github.com/gbesse/camunda-jev-connector) — inferred / other — ⭐0
+- `+` [gbesse/directus-extension-jev](https://github.com/gbesse/directus-extension-jev) — inferred / other — ⭐0
+- `+` [gbesse/temporal-jev-decisions](https://github.com/gbesse/temporal-jev-decisions) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/node-red-contrib-jev-decisions](https://github.com/gbesse/node-red-contrib-jev-decisions) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/django-jev-decisions](https://github.com/gbesse/django-jev-decisions) — inferred / other — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [vlasvar/jev-research](https://github.com/vlasvar/jev-research) — inferred / agent-tooling — ⭐0
+- `+` [hcl-z/jev-guard](https://github.com/hcl-z/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [monstercode2/jev-local](https://github.com/monstercode2/jev-local) — inferred / routing-guardrails — ⭐0
+- `+` [Royhu1/jev-poker-trainer](https://github.com/Royhu1/jev-poker-trainer) — inferred / agent-tooling — ⭐0
+- `+` [fsmiamoto/pi-jev-prune](https://github.com/fsmiamoto/pi-jev-prune) — inferred / other — ⭐0
+- `+` [gbesse/wordpress-jev-rules](https://github.com/gbesse/wordpress-jev-rules) — inferred / agent-tooling — ⭐0
+- `+` [Beckettsapere824/Jev-ic](https://github.com/Beckettsapere824/Jev-ic) — inferred / apps-demos — ⭐0
