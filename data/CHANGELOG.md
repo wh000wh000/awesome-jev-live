@@ -835,3 +835,32 @@
 - `+` [rthomas24/jev-realtime-trading](https://github.com/rthomas24/jev-realtime-trading) — inferred / agent-tooling — ⭐2
 - `+` [It's Easy to Dismiss Jev as Just a Classifier](https://news.ycombinator.com/item?id=49780404) — observed / media-discussions — ⭐2
 - …另有 151 条新增
+
+## 2026-09-21T13:48:29+08:00
+- 收录总数 **694**；本 tick 新增 **140**
+- `+` [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) — inferred / community-sdk — ⭐57
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐47
+- `+` [SiliconLabAI/OpenJev](https://github.com/SiliconLabAI/OpenJev) — inferred / other — ⭐33
+- `+` [mizchi/jev-playground](https://github.com/mizchi/jev-playground) — inferred / apps-demos — ⭐19
+- `+` [danvega/jev-spring-boot-starter](https://github.com/danvega/jev-spring-boot-starter) — inferred / community-sdk — ⭐18
+- `+` [Jev, Prolog, Pi, and the dream of probabilistic logic programming](https://news.ycombinator.com/item?id=49781694) — observed / media-discussions — ⭐16
+- `+` [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) — inferred / agent-tooling — ⭐13
+- `+` [zjunlp/JevLoop](https://github.com/zjunlp/JevLoop) — inferred / agent-tooling — ⭐6
+- `+` [forvela/jev-agent-browser](https://github.com/forvela/jev-agent-browser) — inferred / agent-tooling — ⭐6
+- `+` [hotchpotch/jev-reranker](https://github.com/hotchpotch/jev-reranker) — inferred / routing-guardrails — ⭐5
+- `+` [jackbarunz/jev-tool-router](https://github.com/jackbarunz/jev-tool-router) — inferred / agent-tooling — ⭐5
+- `+` [Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev](https://news.ycombinator.com/item?id=49781612) — observed / media-discussions — ⭐5
+- `+` [nozomi-koborinai/jev-spec](https://github.com/nozomi-koborinai/jev-spec) — inferred / agent-tooling — ⭐4
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐4
+- `+` [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) — inferred / agent-tooling — ⭐4
+- `+` [rupeshpoojary9/poorjev](https://github.com/rupeshpoojary9/poorjev) — inferred / routing-guardrails — ⭐3
+- `+` [joshhu/jevtest](https://github.com/joshhu/jevtest) — unverified / routing-guardrails — ⭐3
+- `+` [Have a Question? Ask Jev](https://news.ycombinator.com/item?id=49782388) — observed / media-discussions — ⭐3
+- `+` [Jev – System-1 Agent Architecture Radar (open-source)](https://news.ycombinator.com/item?id=49782061) — observed / media-discussions — ⭐3
+- `+` [AkashPriyadarshii/jev-git](https://github.com/AkashPriyadarshii/jev-git) — inferred / community-sdk — ⭐2
+- `+` [rajasekharponakala/jev-mcp](https://github.com/rajasekharponakala/jev-mcp) — observed / agent-tooling — ⭐2
+- `+` [TypeSafeAI/clarity-judge](https://github.com/TypeSafeAI/clarity-judge) — official / official-sdk — ⭐2
+- `+` [Mrlyk/jev-browser](https://github.com/Mrlyk/jev-browser) — inferred / community-sdk — ⭐2
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐2
+- `+` [legacybridge-tech/pi-typesafe-jev](https://github.com/legacybridge-tech/pi-typesafe-jev) — inferred / research-models — ⭐2
+- …另有 115 条新增
