@@ -972,3 +972,28 @@
 - `+` [Akashdb5/jev-outreach-router](https://github.com/Akashdb5/jev-outreach-router) — inferred / routing-guardrails — ⭐0
 - `+` [Sachin-chaurasiya/scam-checker-with-jev](https://github.com/Sachin-chaurasiya/scam-checker-with-jev) — inferred / agent-tooling — ⭐0
 - `+` [grapefruit0205/jev-save](https://github.com/grapefruit0205/jev-save) — inferred / agent-tooling — ⭐0
+
+## 2026-09-21T16:37:07+08:00
+- 收录总数 **703**；本 tick 新增 **22**
+- `+` [mejiasd3v/pi-jev-router](https://github.com/mejiasd3v/pi-jev-router) — inferred / routing-guardrails — ⭐9
+- `+` [rajdhakad9826/jev-router](https://github.com/rajdhakad9826/jev-router) — inferred / routing-guardrails — ⭐5
+- `+` [mikakostoev/jev-voice-control](https://github.com/mikakostoev/jev-voice-control) — inferred / routing-guardrails — ⭐0
+- `+` [ashishakkumar/Jev-Checkpoint](https://github.com/ashishakkumar/Jev-Checkpoint) — inferred / community-sdk — ⭐0
+- `+` [tphakala/jev-mcp](https://github.com/tphakala/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [LucasZhangTJU/guandan-jev](https://github.com/LucasZhangTJU/guandan-jev) — inferred / apps-demos — ⭐0
+- `+` [Siim/jev-claim-vs-measured](https://github.com/Siim/jev-claim-vs-measured) — inferred / evaluation — ⭐0
+- `+` [ChenneyZhuang/laya-browser-agent](https://github.com/ChenneyZhuang/laya-browser-agent) — observed / agent-tooling — ⭐0
+- `+` [basmilius/homey-jev](https://github.com/basmilius/homey-jev) — inferred / other — ⭐0
+- `+` [wr0x00/jev_mcp](https://github.com/wr0x00/jev_mcp) — inferred / agent-tooling — ⭐0
+- `+` [Qingbolan/Jev2SemOpt](https://github.com/Qingbolan/Jev2SemOpt) — inferred / routing-guardrails — ⭐0
+- `+` [To3akaRin/Jev-agent](https://github.com/To3akaRin/Jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [1deat0r/Jev-Grep](https://github.com/1deat0r/Jev-Grep) — inferred / agent-tooling — ⭐0
+- `+` [XLCYun/nl-jev](https://github.com/XLCYun/nl-jev) — inferred / community-sdk — ⭐0
+- `+` [HamsterPark/Jev-Xiangqi](https://github.com/HamsterPark/Jev-Xiangqi) — inferred / apps-demos — ⭐0
+- `+` [HamsterPark/Jev-Huarongdao](https://github.com/HamsterPark/Jev-Huarongdao) — inferred / other — ⭐0
+- `+` [winter-loo/jev-voice-browser](https://github.com/winter-loo/jev-voice-browser) — inferred / apps-demos — ⭐0
+- `+` [zhazhahuiyuxiaoxiao/jev-personal-radar](https://github.com/zhazhahuiyuxiaoxiao/jev-personal-radar) — inferred / other — ⭐0
+- `+` [mjyoke1111/jev-lab](https://github.com/mjyoke1111/jev-lab) — inferred / agent-tooling — ⭐0
+- `+` [makefunstuff/jev-lsp](https://github.com/makefunstuff/jev-lsp) — inferred / agent-tooling — ⭐0
+- `+` [mizchi/jev-test-filter](https://github.com/mizchi/jev-test-filter) — inferred / routing-guardrails — ⭐0
+- `+` [f/jev-leftpad](https://github.com/f/jev-leftpad) — inferred / other — ⭐0
