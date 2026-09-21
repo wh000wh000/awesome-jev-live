@@ -181,7 +181,7 @@ PAGE = """<!doctype html>
 <body>
 <header>
   <div class="wrap">
-    <img class="hero" src="../assets/readme/hero.png" alt="Awesome Jev Live">
+    <img class="hero" src="hero.png" alt="Awesome Jev Live">
     <h1>Awesome Jev</h1>
     <p class="tag">Every entry carries an evidence grade. Rebuilt every two hours.</p>
     <div class="bar">
@@ -309,6 +309,14 @@ def main() -> int:
     media = media_doc.get("entries", {}) if isinstance(media_doc, dict) else {}
 
     DOCS.mkdir(parents=True, exist_ok=True)
+
+    # Pages serves /docs as the site root, so anything referenced with ../ is
+    # outside the site and 404s. The hero is copied in rather than hot-linked:
+    # a self-contained site keeps working if the raw host is unreachable.
+    hero_src = ROOT / "assets/readme/hero.png"
+    if hero_src.exists():
+        (DOCS / "hero.png").write_bytes(hero_src.read_bytes())
+
     payload = build_payload(doc["entries"], stats, media)
     (DOCS / "site.json").write_text(
         json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n")
