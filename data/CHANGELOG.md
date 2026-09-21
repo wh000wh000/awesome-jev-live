@@ -1084,3 +1084,32 @@
 - `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
 - `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐2
 - …另有 90 条新增
+
+## 2026-09-22T01:46:51+08:00
+- 收录总数 **732**；本 tick 新增 **99**
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / media-discussions — ⭐102
+- `+` [jev-jarvis/jev-jarvis](https://github.com/jev-jarvis/jev-jarvis) — inferred / other — ⭐8
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐3
+- `+` [nibzard/decision-model-benchmark](https://github.com/nibzard/decision-model-benchmark) — unverified / evaluation — ⭐3
+- `+` [What Jev Means for the Future of Evals](https://news.ycombinator.com/item?id=49789909) — observed / media-discussions — ⭐3
+- `+` [Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev](https://news.ycombinator.com/item?id=49789538) — observed / media-discussions — ⭐3
+- `+` [Show HN: Judge HN Threads with Jev](https://news.ycombinator.com/item?id=49788903) — observed / media-discussions — ⭐3
+- `+` [AkashPriyadarshii/jev-git](https://github.com/AkashPriyadarshii/jev-git) — inferred / community-sdk — ⭐2
+- `+` [chenrui333/jev-docs](https://github.com/chenrui333/jev-docs) — inferred / community-sdk — ⭐2
+- `+` [rajivkuriakose/typesafe-jev-examples](https://github.com/rajivkuriakose/typesafe-jev-examples) — inferred / routing-guardrails — ⭐2
+- `+` [Jev is good for agentic security use cases too](https://news.ycombinator.com/item?id=49788374) — observed / media-discussions — ⭐2
+- `+` [Show HN: HN for Me – Jev curates Hacker News based on your interests](https://news.ycombinator.com/item?id=49788260) — observed / media-discussions — ⭐2
+- `+` [Umbylicus/umby-jev-stack](https://github.com/Umbylicus/umby-jev-stack) — inferred / agent-tooling — ⭐1
+- `+` [JLegends/opencode-jev-compaction](https://github.com/JLegends/opencode-jev-compaction) — inferred / agent-tooling — ⭐1
+- `+` [dtheofr/typesafe-jev-ruby](https://github.com/dtheofr/typesafe-jev-ruby) — observed / community-sdk — ⭐1
+- `+` [Kaos599/jev-writer](https://github.com/Kaos599/jev-writer) — inferred / agent-tooling — ⭐1
+- `+` [turenlabs/jast](https://github.com/turenlabs/jast) — observed / apps-demos — ⭐1
+- `+` [wustep/jev-playground](https://github.com/wustep/jev-playground) — observed / apps-demos — ⭐1
+- `+` [royalpinto007/jev-msw](https://github.com/royalpinto007/jev-msw) — inferred / research-models — ⭐1
+- `+` [nexibeo/jev-browser-control](https://github.com/nexibeo/jev-browser-control) — inferred / community-sdk — ⭐1
+- `+` [Dj-Shortcut/rekordbox-jev](https://github.com/Dj-Shortcut/rekordbox-jev) — inferred / other — ⭐1
+- `+` [antTing/jev-accounts-hub](https://github.com/antTing/jev-accounts-hub) — inferred / routing-guardrails — ⭐1
+- `+` [makiisthenes/JevAIExperimentation](https://github.com/makiisthenes/JevAIExperimentation) — inferred / other — ⭐0
+- `+` [hfnissum-byte/jevmerge](https://github.com/hfnissum-byte/jevmerge) — observed / routing-guardrails — ⭐0
+- `+` [moelahmady/shunt-jev](https://github.com/moelahmady/shunt-jev) — inferred / agent-tooling — ⭐0
+- …另有 74 条新增
