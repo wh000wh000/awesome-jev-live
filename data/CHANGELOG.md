@@ -864,3 +864,32 @@
 - `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐2
 - `+` [legacybridge-tech/pi-typesafe-jev](https://github.com/legacybridge-tech/pi-typesafe-jev) — inferred / research-models — ⭐2
 - …另有 115 条新增
+
+## 2026-09-21T15:08:55+08:00
+- 收录总数 **702**；本 tick 新增 **59**
+- `+` [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) — inferred / other — ⭐28
+- `+` [RenaGao/jev-dataops](https://github.com/RenaGao/jev-dataops) — inferred / evaluation — ⭐19
+- `+` [chy4pro/jev-for-chrome](https://github.com/chy4pro/jev-for-chrome) — inferred / agent-tooling — ⭐11
+- `+` [carlosedm10/agi-jev-containment](https://github.com/carlosedm10/agi-jev-containment) — inferred / community-sdk — ⭐4
+- `+` [kushals256/jevcache](https://github.com/kushals256/jevcache) — unverified / community-sdk — ⭐3
+- `+` [nico-martin/open-jev](https://github.com/nico-martin/open-jev) — inferred / community-sdk — ⭐3
+- `+` [Astro-Han/decision-head-rlcd](https://github.com/Astro-Han/decision-head-rlcd) — unverified / research-models — ⭐3
+- `+` [daniel-farina/nitro](https://github.com/daniel-farina/nitro) — unverified / routing-guardrails — ⭐3
+- `+` [PsiACE/dohnuts](https://github.com/PsiACE/dohnuts) — observed / other — ⭐3
+- `+` [You could have built Jev](https://news.ycombinator.com/item?id=49783456) — observed / media-discussions — ⭐3
+- `+` [buluoray/JevOnly](https://github.com/buluoray/JevOnly) — inferred / agent-tooling — ⭐2
+- `+` [Replacing an agentic classification loop with Jev: 7x faster](https://news.ycombinator.com/item?id=49783806) — observed / media-discussions — ⭐2
+- `+` [Jev's Architecture Unmasked](https://news.ycombinator.com/item?id=49783588) — observed / media-discussions — ⭐2
+- `+` [Find-jevable-code – audit a repo for Jev-replaceable decisions](https://news.ycombinator.com/item?id=49783502) — observed / media-discussions — ⭐2
+- `+` [jimmyliao/jev-storyboard-lab](https://github.com/jimmyliao/jev-storyboard-lab) — inferred / agent-tooling — ⭐1
+- `+` [anpicasso/hermes-jev-curator](https://github.com/anpicasso/hermes-jev-curator) — inferred / other — ⭐1
+- `+` [SupratikB23/JevCanvas](https://github.com/SupratikB23/JevCanvas) — inferred / apps-demos — ⭐1
+- `+` [Nancy-Chauhan/hearth-jev-rental-search](https://github.com/Nancy-Chauhan/hearth-jev-rental-search) — inferred / apps-demos — ⭐0
+- `+` [imsukhe/jev-ai-skill](https://github.com/imsukhe/jev-ai-skill) — inferred / community-sdk — ⭐0
+- `+` [xienda/dsh-jev-verify](https://github.com/xienda/dsh-jev-verify) — inferred / evaluation — ⭐0
+- `+` [TullyStewart/clj-jev](https://github.com/TullyStewart/clj-jev) — inferred / community-sdk — ⭐0
+- `+` [khmuhtadin/n8n-nodes-jev-classification](https://github.com/khmuhtadin/n8n-nodes-jev-classification) — inferred / evaluation — ⭐0
+- `+` [ryokobachan/slither-jev](https://github.com/ryokobachan/slither-jev) — inferred / routing-guardrails — ⭐0
+- `+` [rioriost/rspamd-jev](https://github.com/rioriost/rspamd-jev) — inferred / agent-tooling — ⭐0
+- `+` [swang666/polymarket-jev](https://github.com/swang666/polymarket-jev) — inferred / other — ⭐0
+- …另有 34 条新增
