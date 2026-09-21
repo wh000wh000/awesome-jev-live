@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-21T16:37:07+08:00",
+ "generated_at": "2026-09-21T18:46:15+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 43,
+ "count": 44,
  "grades": {
   "official": 11,
-  "observed": 31,
+  "observed": 32,
   "inferred": 0,
   "unverified": 1
  },
@@ -524,6 +524,18 @@
    "seen_days": 1,
    "point": "",
    "impact": "**[DEFINITION-CHANGE]** → 锚页 §3 新增 **D7**（\"不主张\"由六条扩为**七条**：前六条是官方自己说的，**D7 是第三方对品类名性质的界定，本库采纳**）",
+   "source_note": ""
+  },
+  {
+   "url": "https://patmcguinness.substack.com/p/jev-makes-fast-and-cheap-decisions",
+   "title": "创始人第二段\"原始初衷\"（比第一段更锋利）：Diogo Almeida 经 [Pat McGuinness Substack]() 转引",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "**[DEFINITION-CHANGE]** → 锚页 §1",
    "source_note": ""
   }
  ]

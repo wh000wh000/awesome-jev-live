@@ -997,3 +997,32 @@
 - `+` [makefunstuff/jev-lsp](https://github.com/makefunstuff/jev-lsp) — inferred / agent-tooling — ⭐0
 - `+` [mizchi/jev-test-filter](https://github.com/mizchi/jev-test-filter) — inferred / routing-guardrails — ⭐0
 - `+` [f/jev-leftpad](https://github.com/f/jev-leftpad) — inferred / other — ⭐0
+
+## 2026-09-21T18:46:16+08:00
+- 收录总数 **714**；本 tick 新增 **87**
+- `+` [receptron/laya](https://github.com/receptron/laya) — unverified / other — ⭐73
+- `+` [Jev-Leftpad](https://news.ycombinator.com/item?id=49784706) — observed / media-discussions — ⭐49
+- `+` [BeatAPI/awesome-jev](https://github.com/BeatAPI/awesome-jev) — inferred / community-sdk — ⭐24
+- `+` [kavehmz/typesafe-playground](https://github.com/kavehmz/typesafe-playground) — unverified / routing-guardrails — ⭐11
+- `+` [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) — unverified / other — ⭐11
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐5
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐5
+- `+` [chengyongru/fastjev](https://github.com/chengyongru/fastjev) — inferred / community-sdk — ⭐5
+- `+` [yzfly/edgejev](https://github.com/yzfly/edgejev) — inferred / evaluation — ⭐3
+- `+` [epergaboni/jevseo](https://github.com/epergaboni/jevseo) — unverified / other — ⭐3
+- `+` [zcoder-run/rust-sysone](https://github.com/zcoder-run/rust-sysone) — unverified / community-sdk — ⭐3
+- `+` [fritzprix/systemone-lite](https://github.com/fritzprix/systemone-lite) — unverified / other — ⭐3
+- `+` [Jev 1.13 Jaggedness](https://news.ycombinator.com/item?id=49784926) — observed / media-discussions — ⭐3
+- `+` [Show HN: Grade text from the CLI with custom rulesets and Jev](https://news.ycombinator.com/item?id=49784831) — observed / media-discussions — ⭐3
+- `+` [The easiest-to-understand article I've read about Jev](https://news.ycombinator.com/item?id=49784782) — observed / media-discussions — ⭐3
+- `+` [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) — inferred / other — ⭐2
+- `+` [yangyu666/dsh-jev-prune](https://github.com/yangyu666/dsh-jev-prune) — inferred / research-models — ⭐2
+- `+` [Show HN: Jeeva – A modular trading engine for mid-frequency trading using Jev](https://news.ycombinator.com/item?id=49784390) — observed / media-discussions — ⭐2
+- `+` [qingshungLI/everything-about-jev](https://github.com/qingshungLI/everything-about-jev) — observed / other — ⭐1
+- `+` [LiuHao-1443/jev-table-tennis](https://github.com/LiuHao-1443/jev-table-tennis) — inferred / agent-tooling — ⭐1
+- `+` [xinwang-nwpu/jev-mobile](https://github.com/xinwang-nwpu/jev-mobile) — inferred / agent-tooling — ⭐1
+- `+` [duckegg0623-create/jev-wechat-live](https://github.com/duckegg0623-create/jev-wechat-live) — inferred / other — ⭐1
+- `+` [naveenreddy61/jev-experiments](https://github.com/naveenreddy61/jev-experiments) — observed / other — ⭐1
+- `+` [metask-ai/metask-jev](https://github.com/metask-ai/metask-jev) — inferred / evaluation — ⭐1
+- `+` [sseanliu/Jev-Vision](https://github.com/sseanliu/Jev-Vision) — inferred / agent-tooling — ⭐1
+- …另有 62 条新增
