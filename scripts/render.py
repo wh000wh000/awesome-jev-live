@@ -142,6 +142,13 @@ def edition_path(code: str) -> pathlib.Path:
 # screenshot into the one-line tail, where their image could not appear.
 FULL_CARDS_BY_RANK = 12
 MAX_FULL_CARDS_PER_CATEGORY = 34
+# Budget for the largest edition. GitHub stops rendering a README past roughly
+# 512 KB, and the non-Latin editions cost two to three bytes per character, so
+# Thai or Hindi always hits the ceiling first. The cap below is a starting
+# point: main() measures what was actually produced and lowers it until the
+# largest edition fits, because a fixed number is correct only until the list
+# grows.
+SIZE_TARGET_BYTES = 430_000
 
 # Must stay in step with the same list in curate.py. When it drifted, an entire
 # category rendered nothing and 72 entries silently vanished from the page.
@@ -901,8 +908,35 @@ def main() -> int:
         translations[code] = t
         names[code] = t.get("native_name", code)
 
-    written = []
-    for code, t in translations.items():
+    def render_all(cap: int) -> tuple[list[str], int]:
+        global MAX_FULL_CARDS_PER_CATEGORY
+        MAX_FULL_CARDS_PER_CATEGORY = cap
+        written, biggest = [], 0
+        for code, tr in translations.items():
+            text = render_language(code, tr, entries, stats, media, names)
+            out = edition_path(code)
+            out.parent.mkdir(parents=True, exist_ok=True)
+            old = out.read_text() if out.exists() else None
+            if old != text:
+                out.write_text(text)
+                written.append(out.name)
+            else:
+                written.append(f"{out.name}(same)")
+            biggest = max(biggest, out.stat().st_size)
+        return written, biggest
+
+    cap = MAX_FULL_CARDS_PER_CATEGORY
+    written, biggest = render_all(cap)
+    tries = 0
+    while biggest > SIZE_TARGET_BYTES and cap > 8 and tries < 4:
+        cap -= 4
+        tries += 1
+        print(f"   largest edition {biggest / 1024:.0f} KiB > "
+              f"{SIZE_TARGET_BYTES / 1024:.0f} KiB budget; retrying at cap {cap}")
+        written, biggest = render_all(cap)
+
+    for code in LANGS if False else ():
+        pass
         text = render_language(code, t, entries, stats, media, names)
         out = edition_path(code)
         out.parent.mkdir(parents=True, exist_ok=True)

@@ -200,7 +200,7 @@ PAGE = """<!doctype html>
   <div class="chips" id="evs"></div>
   <div class="legend" id="legend"></div>
   <p class="count" id="count"></p>
-  <ul id="list"></ul>
+  <ul id="list">__ITEMS__</ul>
   <div class="langs">
     Read it in:
     __LANGS__
@@ -221,6 +221,10 @@ PAGE = """<!doctype html>
   <a href="https://github.com/wh000wh000/awesome-jev-live/blob/main/LICENSE">MIT</a></p>
 </footer>
 <script>
+// Every entry is already in the HTML above. This script only filters: it hides
+// and shows what is there, and never builds a result from data. A crawler or an
+// agent that does not run JavaScript -- or runs it before the fetch resolves --
+// still sees the full list, which is the whole point of publishing a page.
 const EV = {official:"✅", observed:"👁️", inferred:"🔎", unverified:"❓"};
 let data = null, cat = "all", ev = "all";
 
@@ -231,12 +235,12 @@ fetch("site.json").then(r => r.json()).then(d => {
   document.getElementById("new").textContent = d.new_this_tick;
   buildChips();
   render();
-});
+}).catch(() => { buildChipsFromDom(); });
 
 function buildChips() {
   const cats = document.getElementById("cats");
   for (const [key, n] of Object.entries(data.by_category)) {
-    cats.appendChild(chip(`${data.categories[key] || "•"} ${key} (${n})`, key, "cat"));
+    cats.appendChild(chip(`${data.categories[key] || ""} ${key} (${n})`.trim(), key, "cat"));
   }
   const evs = document.getElementById("evs");
   for (const key of data.evidence_order) {
@@ -262,34 +266,30 @@ function chip(label, value, kind) {
 
 function render() {
   const q = document.getElementById("q").value.trim().toLowerCase();
-  const rows = data.entries.filter(e =>
-    (cat === "all" || e.c === cat) &&
-    (ev === "all" || e.e === ev) &&
-    (!q || (e.n + " " + e.d + " " + (e.g || []).join(" ") + " " + e.l).toLowerCase().includes(q))
-  );
+  const items = document.querySelectorAll("#list li.item");
+  let shown = 0;
+  items.forEach(li => {
+    const ok = (cat === "all" || li.dataset.c === cat) &&
+               (ev === "all" || li.dataset.e === ev) &&
+               (!q || (li.dataset.hay || "").includes(q));
+    li.hidden = !ok;
+    if (ok) shown++;
+  });
   document.getElementById("count").textContent =
-    `${rows.length} of ${data.total} entries` + (q ? ` matching “${q}”` : "");
-  const list = document.getElementById("list");
-  list.innerHTML = "";
-  for (const e of rows.slice(0, 400)) {
-    const li = document.createElement("li");
-    li.className = "item";
-    const bits = [];
-    if (e.s) bits.push(`⭐ ${e.s}`);
-    if (e.l) bits.push(e.l);
-    if (e.p) bits.push(`pushed ${e.p}`);
-    li.innerHTML =
-      `<div class="row1">
-         <span class="name"><a href="${esc(e.u)}">${esc(e.n)}</a></span>
-         <span class="ev ${e.e}">${EV[e.e]} ${e.e}</span>
-         <span class="meta">${bits.map(esc).join(" · ")}</span>
-       </div>` +
-      (e.d ? `<p class="desc">${esc(e.d)}</p>` : "") +
-      (e.g && e.g.length
-        ? `<div class="tags">${e.g.map(t => `<span class="tag2">${esc(t)}</span>`).join("")}</div>`
-        : "");
-    list.appendChild(li);
-  }
+    `${shown} of ${items.length} entries` + (q ? ` matching “${q}”` : "");
+}
+
+function buildChipsFromDom() {
+  const counts = {}, evs = {};
+  document.querySelectorAll("#list li.item").forEach(li => {
+    counts[li.dataset.c] = (counts[li.dataset.c] || 0) + 1;
+    evs[li.dataset.e] = (evs[li.dataset.e] || 0) + 1;
+  });
+  data = {by_category: counts, by_evidence: evs,
+          categories: {}, evidence_order: Object.keys(EV),
+          total: document.querySelectorAll("#list li.item").length,
+          generated_at: "", new_this_tick: ""};
+  buildChips();
 }
 function esc(s) {
   return String(s == null ? "" : s).replace(/[&<>"']/g,
@@ -297,6 +297,7 @@ function esc(s) {
 }
 document.getElementById("q").addEventListener("input", render);
 </script>
+<script type="application/ld+json">__JSONLD__</script>
 </body>
 </html>
 """
@@ -325,7 +326,47 @@ def main() -> int:
         f'<a href="README.{code}.md">{esc(label)}</a>' if code != "en"
         else "<b>English</b>" for code, label in LANGS)
 
+    items = []
+    for e in payload["entries"]:
+        bits = []
+        if e["s"]:
+            bits.append(f"★ {e['s']}")
+        if e["l"]:
+            bits.append(esc(e["l"]))
+        if e["p"]:
+            bits.append(f"pushed {esc(e['p'])}")
+        hay = esc((e["n"] + " " + e["d"] + " " + " ".join(e["g"]) + " " + e["l"]).lower())
+        items.append(
+            f'<li class="item" data-c="{esc(e["c"])}" data-e="{esc(e["e"])}"'
+            f' data-hay="{hay}">'
+            f'<div class="row1"><span class="name">'
+            f'<a href="{esc(e["u"])}">{esc(e["n"])}</a></span>'
+            f'<span class="ev {esc(e["e"])}">{EVIDENCE_EMOJI.get(e["e"], "")} '
+            f'{esc(e["e"])}</span>'
+            f'<span class="meta">{esc(" · ".join(bits))}</span></div>'
+            + (f'<p class="desc">{esc(e["d"])}</p>' if e["d"] else "")
+            + (f'<div class="tags">' + "".join(
+                f'<span class="tag2">{esc(t)}</span>' for t in e["g"]) + "</div>"
+               if e["g"] else "")
+            + "</li>")
+
+    jsonld = json.dumps({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Awesome Jev",
+        "description": "An evidence-graded index of the Jev / TypeSafe System One "
+                       "ecosystem, rebuilt every two hours.",
+        "url": SITE_URL,
+        "numberOfItems": payload["total"],
+        "itemListElement": [
+            {"@type": "ListItem", "position": i + 1, "name": e["n"], "url": e["u"]}
+            for i, e in enumerate(payload["entries"][:500])
+        ],
+    }, ensure_ascii=False)
+
     page = (PAGE
+            .replace("__ITEMS__", "\n".join(items))
+            .replace("__JSONLD__", jsonld)
             .replace("__TOTAL__", str(payload["total"]))
             .replace("__NEW__", str(payload["new_this_tick"]))
             .replace("__STAMP__", esc(payload["generated_at"][:16].replace("T", " ")))
