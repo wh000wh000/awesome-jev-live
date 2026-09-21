@@ -893,3 +893,26 @@
 - `+` [rioriost/rspamd-jev](https://github.com/rioriost/rspamd-jev) — inferred / agent-tooling — ⭐0
 - `+` [swang666/polymarket-jev](https://github.com/swang666/polymarket-jev) — inferred / other — ⭐0
 - …另有 34 条新增
+
+## 2026-09-21T15:37:07+08:00
+- 收录总数 **701**；本 tick 新增 **20**
+- `+` [sharziki/semdecide](https://github.com/sharziki/semdecide) — inferred / community-sdk — ⭐13
+- `+` [frostney/clean-code-review](https://github.com/frostney/clean-code-review) — inferred / community-sdk — ⭐7
+- `+` [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://news.ycombinator.com/item?id=49783999) — observed / media-discussions — ⭐4
+- `+` [sseanliu/Jev-Vision](https://github.com/sseanliu/Jev-Vision) — inferred / agent-tooling — ⭐1
+- `+` [Dililianxice/jev-inner-speech-bci](https://github.com/Dililianxice/jev-inner-speech-bci) — inferred / evaluation — ⭐1
+- `+` [Ege-BULUT/jev-play-games](https://github.com/Ege-BULUT/jev-play-games) — inferred / apps-demos — ⭐0
+- `+` [Gaoridang/jev-day0-fast-compaction](https://github.com/Gaoridang/jev-day0-fast-compaction) — inferred / apps-demos — ⭐0
+- `+` [zzz1YAO/DataJev](https://github.com/zzz1YAO/DataJev) — inferred / agent-tooling — ⭐0
+- `+` [kyle-chalmers/typesafe-jev-incident-router](https://github.com/kyle-chalmers/typesafe-jev-incident-router) — inferred / routing-guardrails — ⭐0
+- `+` [123Satyajeet123/jev-wide](https://github.com/123Satyajeet123/jev-wide) — inferred / evaluation — ⭐0
+- `+` [yslinear/cartpole-jev](https://github.com/yslinear/cartpole-jev) — inferred / evaluation — ⭐0
+- `+` [cloudbtl/JevRAG](https://github.com/cloudbtl/JevRAG) — inferred / evaluation — ⭐0
+- `+` [ZizhuangCui/codex-jev-imagegen](https://github.com/ZizhuangCui/codex-jev-imagegen) — inferred / agent-tooling — ⭐0
+- `+` [tomsen02/jev-bombergirl](https://github.com/tomsen02/jev-bombergirl) — inferred / apps-demos — ⭐0
+- `+` [phunterlau/Jev-plus-reasoning](https://github.com/phunterlau/Jev-plus-reasoning) — inferred / other — ⭐0
+- `+` [gordan-code/jev-metrics](https://github.com/gordan-code/jev-metrics) — inferred / community-sdk — ⭐0
+- `+` [DowLucas/browser-jev](https://github.com/DowLucas/browser-jev) — inferred / apps-demos — ⭐0
+- `+` [syanhg/JevBrowser](https://github.com/syanhg/JevBrowser) — inferred / apps-demos — ⭐0
+- `+` [stefanoCassola/jev-governor](https://github.com/stefanoCassola/jev-governor) — inferred / evaluation — ⭐0
+- `+` [Akashdb5/jev-router](https://github.com/Akashdb5/jev-router) — inferred / routing-guardrails — ⭐0
