@@ -1345,3 +1345,32 @@
 - `+` [molis-ai/jev-workbench](https://github.com/molis-ai/jev-workbench) — inferred / agent-tooling — ⭐2
 - `+` [Can Jev be jailbroken?](https://news.ycombinator.com/item?id=49802723) — observed / media-discussions — ⭐2
 - …另有 83 条新增
+
+## 2026-09-23T02:15:21+08:00
+- 收录总数 **752**；本 tick 新增 **98**
+- `+` [topherchris420/james_library](https://github.com/topherchris420/james_library) — inferred / community-sdk — ⭐74
+- `+` [philippdubach/pi-jev-router](https://github.com/philippdubach/pi-jev-router) — inferred / agent-tooling — ⭐14
+- `+` [ChristianAlexander/laya_ex](https://github.com/ChristianAlexander/laya_ex) — observed / community-sdk — ⭐14
+- `+` [Qew7/jev-feels](https://github.com/Qew7/jev-feels) — inferred / community-sdk — ⭐9
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐8
+- `+` [Nisaka520/JevIntent](https://github.com/Nisaka520/JevIntent) — inferred / agent-tooling — ⭐7
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐7
+- `+` [We put Jev in production against a cross-encoder. Here are the numbers](https://news.ycombinator.com/item?id=49804788) — observed / media-discussions — ⭐5
+- `+` [DelvisorLabs/Pyro](https://github.com/DelvisorLabs/Pyro) — observed / routing-guardrails — ⭐4
+- `+` [pCwOrM/werr](https://github.com/pCwOrM/werr) — inferred / agent-tooling — ⭐3
+- `+` [JacquesGariepy/ORIGIN-CIVILIZATION](https://github.com/JacquesGariepy/ORIGIN-CIVILIZATION) — inferred / community-sdk — ⭐3
+- `+` [ankit-aglawe/tinyjev](https://github.com/ankit-aglawe/tinyjev) — inferred / evaluation — ⭐3
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐3
+- `+` [codejunkie99/codex-model-routing](https://github.com/codejunkie99/codex-model-routing) — unverified / agent-tooling — ⭐3
+- `+` [deyna256/langchain-loadout](https://github.com/deyna256/langchain-loadout) — inferred / community-sdk — ⭐3
+- `+` [Embodied-AI-System/Qwen3.5-OneForward](https://github.com/Embodied-AI-System/Qwen3.5-OneForward) — inferred / other — ⭐3
+- `+` [RevocGG/typesafe-jev-bridge](https://github.com/RevocGG/typesafe-jev-bridge) — inferred / community-sdk — ⭐3
+- `+` [Nisaka520/JevBystander](https://github.com/Nisaka520/JevBystander) — inferred / other — ⭐2
+- `+` [trietphan/jev-claw](https://github.com/trietphan/jev-claw) — inferred / agent-tooling — ⭐2
+- `+` [waynesutton/ask-jev-ai](https://github.com/waynesutton/ask-jev-ai) — inferred / other — ⭐2
+- `+` [bojansandhaus/jev-decisions](https://github.com/bojansandhaus/jev-decisions) — inferred / agent-tooling — ⭐2
+- `+` [TinyJev -Tiny Jev-style decision model that runs offline](https://news.ycombinator.com/item?id=49804866) — observed / media-discussions — ⭐2
+- `+` [We Rebuilt Jev's API on an Open Model and Used It to Play Doom](https://news.ycombinator.com/item?id=49804256) — observed / media-discussions — ⭐2
+- `+` [Show HN: I gave Jev my forum database so he could find the most relevant](https://news.ycombinator.com/item?id=49804096) — observed / media-discussions — ⭐2
+- `+` [Calibrating Jev as a Code Reviewer](https://news.ycombinator.com/item?id=49803758) — observed / media-discussions — ⭐2
+- …另有 73 条新增

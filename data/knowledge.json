@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-22T23:49:38+08:00",
+ "generated_at": "2026-09-23T02:15:20+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 47,
+ "count": 49,
  "grades": {
   "official": 11,
-  "observed": 35,
+  "observed": 37,
   "inferred": 0,
   "unverified": 1
  },
@@ -566,6 +566,30 @@
    "url": "https://ibl.ai/blog/jev-judge-model-evaluation-not-generation-enterprise",
    "title": "先例清单：[ibl.ai]() 指出 CriticGPT 与 Prometheus 2 都在 2024 年就做\"判断模型\" → 写进优先权争议页 §4d，与 Laya 的指称分开记；本库判断 Jev 与它们的真实差异是\"把判断做成带类型与概率的一等 API\"",
    "kind_label": "观测·策展",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://tanh.xyz/research-notes/jev-prompt-manipulation",
+   "title": "第 12 份独立评测：注入鲁棒性系统测试《Can Jev be jailbroken?》（[tanh.xyz]()，14,495 次记录调用，原始记录公开）",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://ts2.tech/en/typesafe-ai-raises-40-million-for-jev-but-its-445x-cost-claim-is-still-self-tested/",
+   "title": "财经媒体的独立表态：[TechStock²《…Its 445× Cost Claim Is Still Self-Tested》]()（2026-09-17）：*\"…leaves the biggest performance numbers dependent on TypeSafe's…",
+   "kind_label": "观测·策展·定义级",
    "evidence": "observed",
    "date": "",
    "first_seen": "",
