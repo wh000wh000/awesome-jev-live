@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-22T20:43:20+08:00",
+ "generated_at": "2026-09-22T23:49:38+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 45,
+ "count": 47,
  "grades": {
   "official": 11,
-  "observed": 33,
+  "observed": 35,
   "inferred": 0,
   "unverified": 1
  },
@@ -542,6 +542,30 @@
    "url": "https://wavect.io/blog/jev-ai-decision-model-review",
    "title": "四条精准告诫（已写入 IO 契约 §S8） —— [Wavect 独立评测]()：",
    "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://blog.senko.net/analyzing-jev-a-new-ai-model",
+   "title": "第 11 份独立评测：克罗地亚语零样本 vs 自己微调的 BERT（[Senko Rašić]()，09-22）",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://ibl.ai/blog/jev-judge-model-evaluation-not-generation-enterprise",
+   "title": "先例清单：[ibl.ai]() 指出 CriticGPT 与 Prometheus 2 都在 2024 年就做\"判断模型\" → 写进优先权争议页 §4d，与 Laya 的指称分开记；本库判断 Jev 与它们的真实差异是\"把判断做成带类型与概率的一等 API\"",
+   "kind_label": "观测·策展",
    "evidence": "observed",
    "date": "",
    "first_seen": "",

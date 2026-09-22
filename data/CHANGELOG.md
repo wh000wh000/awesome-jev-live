@@ -1316,3 +1316,32 @@
 - `+` [proshunsuke/jev-tab-order](https://github.com/proshunsuke/jev-tab-order) — inferred / other — ⭐1
 - `+` [Zboubkiller/jev-plays-sts2](https://github.com/Zboubkiller/jev-plays-sts2) — inferred / other — ⭐0
 - …另有 55 条新增
+
+## 2026-09-22T23:49:39+08:00
+- 收录总数 **741**；本 tick 新增 **108**
+- `+` [rokbenko/quackd](https://github.com/rokbenko/quackd) — observed / community-sdk — ⭐229
+- `+` [CTNicholas/jev-workflow-builder](https://github.com/CTNicholas/jev-workflow-builder) — inferred / agent-tooling — ⭐125
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐76
+- `+` [OpenAI is about to eat Jev's lunch – Arcturus Labs](https://news.ycombinator.com/item?id=49802161) — observed / media-discussions — ⭐74
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐73
+- `+` [Jev – a curation of Jev demos on X, tools, skills, and integrations](https://news.ycombinator.com/item?id=49802160) — observed / media-discussions — ⭐43
+- `+` [sabeel111/OpenSourceJev](https://github.com/sabeel111/OpenSourceJev) — inferred / other — ⭐27
+- `+` [khordoo/jev-reflex-autonomy-lab](https://github.com/khordoo/jev-reflex-autonomy-lab) — inferred / agent-tooling — ⭐16
+- `+` [Prophetlab/JevPokerBench](https://github.com/Prophetlab/JevPokerBench) — inferred / agent-tooling — ⭐11
+- `+` [doeixd/discern](https://github.com/doeixd/discern) — inferred / other — ⭐10
+- `+` [jiawei686/jev-ultrafast-mcp](https://github.com/jiawei686/jev-ultrafast-mcp) — inferred / agent-tooling — ⭐10
+- `+` [shapsider/OmniJev](https://github.com/shapsider/OmniJev) — inferred / evaluation — ⭐9
+- `+` [anessbelbati/jev-rerank-bench](https://github.com/anessbelbati/jev-rerank-bench) — inferred / other — ⭐5
+- `+` [romanmeclazcke/codex-sift](https://github.com/romanmeclazcke/codex-sift) — unverified / agent-tooling — ⭐5
+- `+` [Tongyun1/Jev-in-the-Loop](https://github.com/Tongyun1/Jev-in-the-Loop) — inferred / research-models — ⭐4
+- `+` [SamuelSacco/jev-exploration](https://github.com/SamuelSacco/jev-exploration) — inferred / apps-demos — ⭐3
+- `+` [LingyeNBird/codesafe](https://github.com/LingyeNBird/codesafe) — unverified / routing-guardrails — ⭐3
+- `+` [JabbaKadabra/SystemOneDotNet](https://github.com/JabbaKadabra/SystemOneDotNet) — unverified / community-sdk — ⭐3
+- `+` [JustineDevs/meta-architect](https://github.com/JustineDevs/meta-architect) — inferred / agent-tooling — ⭐3
+- `+` [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) — inferred / evaluation — ⭐3
+- `+` [ajensenwaud/hermes-jev-plugin](https://github.com/ajensenwaud/hermes-jev-plugin) — inferred / agent-tooling — ⭐3
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐2
+- `+` [redreamality/jev-skill-selection](https://github.com/redreamality/jev-skill-selection) — inferred / agent-tooling — ⭐2
+- `+` [molis-ai/jev-workbench](https://github.com/molis-ai/jev-workbench) — inferred / agent-tooling — ⭐2
+- `+` [Can Jev be jailbroken?](https://news.ycombinator.com/item?id=49802723) — observed / media-discussions — ⭐2
+- …另有 83 条新增
