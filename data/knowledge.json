@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-23T02:15:20+08:00",
+ "generated_at": "2026-09-23T04:43:33+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
- "count": 49,
+ "count": 52,
  "grades": {
   "official": 11,
-  "observed": 37,
-  "inferred": 0,
+  "observed": 39,
+  "inferred": 1,
   "unverified": 1
  },
  "entries": [
@@ -591,6 +591,42 @@
    "title": "财经媒体的独立表态：[TechStock²《…Its 445× Cost Claim Is Still Self-Tested》]()（2026-09-17）：*\"…leaves the biggest performance numbers dependent on TypeSafe's…",
    "kind_label": "观测·策展·定义级",
    "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://markets.businessinsider.com/news/stocks/aurora-mobile-s-gptbots-ai-integrates-jev-two-layers-of-ai-one-enterprise-platform-1036563338",
+   "title": "首个上市公司级集成：[Aurora Mobile（NASDAQ: JG）的 GPTBots.ai 集成 Jev]()（09-22）→ *\"two-layer AI architecture: one layer that thinks, one layer that…",
+   "kind_label": "观测·策展·定义级",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://astgl.com/p/local-laya-vs-hosted-jev-typed-decisions",
+   "title": "又一份\"本地 vs 托管\"选型实录：[astgl.com]()（James Cruce，09-22）—— 421M 开源模型在其 frozen replay 上胜过自制路由；他最终不选 Jev 是因为约束（数据不出本机、可控回退），并主动限定*\"whether Laya beats Jev…",
+   "kind_label": "观测·策展",
+   "evidence": "observed",
+   "date": "",
+   "first_seen": "",
+   "seen_days": 1,
+   "point": "",
+   "impact": "",
+   "source_note": ""
+  },
+  {
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
+   "title": "新的优先权主张（与 Laya 无关）：HN `I built the Jev architecture one year ago and open-sourced it`（2pts）→ [r/LocalLLaMA 帖]()；本轮只登记 URL 与主张，未读原文、不下判断，下一轮核实",
+   "kind_label": "⚠️ 登记待核实",
+   "evidence": "inferred",
    "date": "",
    "first_seen": "",
    "seen_days": 1,

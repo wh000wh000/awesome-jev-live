@@ -1374,3 +1374,32 @@
 - `+` [Show HN: I gave Jev my forum database so he could find the most relevant](https://news.ycombinator.com/item?id=49804096) — observed / media-discussions — ⭐2
 - `+` [Calibrating Jev as a Code Reviewer](https://news.ycombinator.com/item?id=49803758) — observed / media-discussions — ⭐2
 - …另有 73 条新增
+
+## 2026-09-23T04:43:33+08:00
+- 收录总数 **759**；本 tick 新增 **70**
+- `+` [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) — inferred / agent-tooling — ⭐137
+- `+` [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) — inferred / other — ⭐100
+- `+` [phyous/tsai-sc](https://github.com/phyous/tsai-sc) — unverified / other — ⭐23
+- `+` [compozy/yoshi](https://github.com/compozy/yoshi) — inferred / agent-tooling — ⭐23
+- `+` [TannerMidd/specpi-jev-guard](https://github.com/TannerMidd/specpi-jev-guard) — inferred / other — ⭐9
+- `+` [Show HN: Will Jev pull the lever in the trolley problem?](https://news.ycombinator.com/item?id=49773756) — observed / media-discussions — ⭐9
+- `+` [I built the Jev architecture one year ago and open-sourced it](https://news.ycombinator.com/item?id=49806864) — observed / media-discussions — ⭐8
+- `+` [weitianxin/JevAny](https://github.com/weitianxin/JevAny) — inferred / agent-tooling — ⭐4
+- `+` [ARCJ137442/jev-2048](https://github.com/ARCJ137442/jev-2048) — inferred / evaluation — ⭐4
+- `+` [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) — inferred / agent-tooling — ⭐3
+- `+` [nourhelmi/pi-jev-compaction](https://github.com/nourhelmi/pi-jev-compaction) — inferred / other — ⭐3
+- `+` [Does an open-weight decision model beat a hosted one? Jev vs. Laya](https://news.ycombinator.com/item?id=49806080) — observed / media-discussions — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [kbitgood/jev-cdp](https://github.com/kbitgood/jev-cdp) — inferred / other — ⭐2
+- `+` [Playing with Jev for Daily Questions](https://news.ycombinator.com/item?id=49805970) — observed / media-discussions — ⭐2
+- `+` [X0EF/jev_projects](https://github.com/X0EF/jev_projects) — inferred / other — ⭐1
+- `+` [sable-inc/jev-linter-action](https://github.com/sable-inc/jev-linter-action) — inferred / other — ⭐1
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐1
+- `+` [shima78/jev-chess](https://github.com/shima78/jev-chess) — inferred / other — ⭐1
+- `+` [swang666/polymarket-jev](https://github.com/swang666/polymarket-jev) — inferred / other — ⭐1
+- `+` [Teylersf/WindowsJev](https://github.com/Teylersf/WindowsJev) — inferred / agent-tooling — ⭐1
+- `+` [JLegends/opencode-jev-compaction](https://github.com/JLegends/opencode-jev-compaction) — inferred / agent-tooling — ⭐1
+- `+` [jxzxl07/JevBar](https://github.com/jxzxl07/JevBar) — inferred / agent-tooling — ⭐1
+- `+` [owainlewis/jev-examples](https://github.com/owainlewis/jev-examples) — inferred / other — ⭐1
+- `+` [danmana/jev-paints](https://github.com/danmana/jev-paints) — inferred / other — ⭐0
+- …另有 45 条新增
