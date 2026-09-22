@@ -1287,3 +1287,32 @@
 - `+` [ZhangYiqun018/jev-dimabsa](https://github.com/ZhangYiqun018/jev-dimabsa) — inferred / evaluation — ⭐1
 - `+` [dperezcabrera/system-one-chess](https://github.com/dperezcabrera/system-one-chess) — observed / routing-guardrails — ⭐1
 - …另有 70 条新增
+
+## 2026-09-22T20:43:50+08:00
+- 收录总数 **739**；本 tick 新增 **80**
+- `+` [PromptEngineer48/laya-vs-jev-arena](https://github.com/PromptEngineer48/laya-vs-jev-arena) — inferred / agent-tooling — ⭐20
+- `+` [shitianfang/jev-use](https://github.com/shitianfang/jev-use) — inferred / agent-tooling — ⭐17
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐15
+- `+` [keeltrace/hermes-nerve](https://github.com/keeltrace/hermes-nerve) — unverified / agent-tooling — ⭐12
+- `+` [kerryrm/systemANE](https://github.com/kerryrm/systemANE) — unverified / other — ⭐8
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐8
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐7
+- `+` [ziozzang/hearim](https://github.com/ziozzang/hearim) — unverified / routing-guardrails — ⭐4
+- `+` [kiwi0719/jev-edge](https://github.com/kiwi0719/jev-edge) — inferred / routing-guardrails — ⭐4
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐3
+- `+` [9pings/notjev](https://github.com/9pings/notjev) — inferred / community-sdk — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [dhruvmehra/jevbench](https://github.com/dhruvmehra/jevbench) — unverified / evaluation — ⭐3
+- `+` [TypeSafe AI Jev vs. GPT-6 Astra](https://news.ycombinator.com/item?id=49798734) — observed / media-discussions — ⭐3
+- `+` [Analyzing Jev, a new AI model](https://news.ycombinator.com/item?id=49799641) — observed / media-discussions — ⭐2
+- `+` [Where Jev worked for us, and where it didn't](https://news.ycombinator.com/item?id=49799065) — observed / media-discussions — ⭐2
+- `+` [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) — observed / media-discussions — ⭐1
+- `+` [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) — observed / media-discussions — ⭐1
+- `+` [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) — inferred / agent-tooling — ⭐1
+- `+` [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) — inferred / media-discussions — ⭐1
+- `+` [igrejaborabora/lus222-jev-challenge](https://github.com/igrejaborabora/lus222-jev-challenge) — inferred / routing-guardrails — ⭐1
+- `+` [dannote/jev_nx](https://github.com/dannote/jev_nx) — inferred / other — ⭐1
+- `+` [smarthi/assembly-jev-router](https://github.com/smarthi/assembly-jev-router) — inferred / routing-guardrails — ⭐1
+- `+` [proshunsuke/jev-tab-order](https://github.com/proshunsuke/jev-tab-order) — inferred / other — ⭐1
+- `+` [Zboubkiller/jev-plays-sts2](https://github.com/Zboubkiller/jev-plays-sts2) — inferred / other — ⭐0
+- …另有 55 条新增
