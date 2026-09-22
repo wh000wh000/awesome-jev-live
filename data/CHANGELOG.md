@@ -1200,3 +1200,32 @@
 - `+` [RyanNg1403/jev-cli](https://github.com/RyanNg1403/jev-cli) — inferred / community-sdk — ⭐0
 - `+` [goodruizhan/pi-jev-control](https://github.com/goodruizhan/pi-jev-control) — inferred / agent-tooling — ⭐0
 - …另有 29 条新增
+
+## 2026-09-22T13:09:29+08:00
+- 收录总数 **747**；本 tick 新增 **82**
+- `+` [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) — inferred / apps-demos — ⭐158
+- `+` [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) — inferred / other — ⭐104
+- `+` [brainstormity/Jev-Moderation-Bot](https://github.com/brainstormity/Jev-Moderation-Bot) — inferred / routing-guardrails — ⭐41
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐17
+- `+` [frankda/jev-poly-crypto-demo](https://github.com/frankda/jev-poly-crypto-demo) — inferred / apps-demos — ⭐13
+- `+` [anpicasso/hermes-jev-approvals](https://github.com/anpicasso/hermes-jev-approvals) — inferred / agent-tooling — ⭐12
+- `+` [You can use any LLM just like JEV](https://news.ycombinator.com/item?id=49791782) — observed / media-discussions — ⭐10
+- `+` [ziqi-jin/agent-to-trust](https://github.com/ziqi-jin/agent-to-trust) — inferred / agent-tooling — ⭐7
+- `+` [jon-devlapaz/tink-route](https://github.com/jon-devlapaz/tink-route) — unverified / agent-tooling — ⭐4
+- `+` [poiuyjie/jev_project_context](https://github.com/poiuyjie/jev_project_context) — inferred / agent-tooling — ⭐4
+- `+` [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) — inferred / agent-tooling — ⭐4
+- `+` [Jev introduces a new shape of LLM](https://news.ycombinator.com/item?id=49796843) — observed / media-discussions — ⭐4
+- `+` [Six clones of Jev in 2 days](https://news.ycombinator.com/item?id=49796792) — observed / media-discussions — ⭐4
+- `+` [Write Without Spaces with Jev](https://news.ycombinator.com/item?id=49790936) — observed / media-discussions — ⭐4
+- `+` [24601/rh-guard](https://github.com/24601/rh-guard) — inferred / agent-tooling — ⭐3
+- `+` [bokuweb/omg](https://github.com/bokuweb/omg) — unverified / other — ⭐3
+- `+` [What Jev Means for the Future of Evals](https://news.ycombinator.com/item?id=49789909) — observed / media-discussions — ⭐3
+- `+` [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) — inferred / agent-tooling — ⭐2
+- `+` [Songokou1983/jev-mcp](https://github.com/Songokou1983/jev-mcp) — inferred / agent-tooling — ⭐2
+- `+` [sting8k/qwen-jev-like](https://github.com/sting8k/qwen-jev-like) — inferred / other — ⭐2
+- `+` [Waxmell114514/jev-compaction](https://github.com/Waxmell114514/jev-compaction) — inferred / agent-tooling — ⭐2
+- `+` [Mullet of Log Processing: Determinism in the Front, AI at the Back (Expanso/Jev)](https://news.ycombinator.com/item?id=49791429) — observed / media-discussions — ⭐2
+- `+` [draiagent/ai-to-agent-jev-mcp](https://github.com/draiagent/ai-to-agent-jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [himomohi/jev-skill-router](https://github.com/himomohi/jev-skill-router) — inferred / agent-tooling — ⭐1
+- `+` [kyledickey/jev-go](https://github.com/kyledickey/jev-go) — observed / community-sdk — ⭐1
+- …另有 57 条新增
