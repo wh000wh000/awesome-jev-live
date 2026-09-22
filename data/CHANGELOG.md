@@ -1142,3 +1142,32 @@
 - `+` [mrebbert/Jev-CustomerService-Demo](https://github.com/mrebbert/Jev-CustomerService-Demo) — observed / routing-guardrails — ⭐0
 - `+` [mbburabak/jev-safety-benchmark](https://github.com/mbburabak/jev-safety-benchmark) — inferred / routing-guardrails — ⭐0
 - …另有 55 条新增
+
+## 2026-09-22T08:25:50+08:00
+- 收录总数 **737**；本 tick 新增 **102**
+- `+` [savka777/jev-use](https://github.com/savka777/jev-use) — inferred / agent-tooling — ⭐84
+- `+` [Futureppo/typesafe_register](https://github.com/Futureppo/typesafe_register) — observed / other — ⭐84
+- `+` [blakestone-x/jev-mcp](https://github.com/blakestone-x/jev-mcp) — inferred / agent-tooling — ⭐17
+- `+` [khordoo/jev-reflex-autonomy-lab](https://github.com/khordoo/jev-reflex-autonomy-lab) — inferred / agent-tooling — ⭐13
+- `+` [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) — inferred / evaluation — ⭐8
+- `+` [ktaletsk/jevframe](https://github.com/ktaletsk/jevframe) — inferred / other — ⭐8
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐7
+- `+` [PerryLink/jevcore](https://github.com/PerryLink/jevcore) — inferred / agent-tooling — ⭐6
+- `+` [hawkymisc/typed-decision-bert](https://github.com/hawkymisc/typed-decision-bert) — unverified / other — ⭐6
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐6
+- `+` [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) — inferred / agent-tooling — ⭐5
+- `+` [nozomi-koborinai/jev-spec](https://github.com/nozomi-koborinai/jev-spec) — inferred / agent-tooling — ⭐4
+- `+` [Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI](https://news.ycombinator.com/item?id=49794590) — observed / media-discussions — ⭐4
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐3
+- `+` [rupeshpoojary9/awesome-open-system-one](https://github.com/rupeshpoojary9/awesome-open-system-one) — inferred / evaluation — ⭐3
+- `+` [codaaiteam/jev-ai](https://github.com/codaaiteam/jev-ai) — observed / other — ⭐3
+- `+` [etweisberg/jev-ui](https://github.com/etweisberg/jev-ui) — inferred / community-sdk — ⭐2
+- `+` [onmyway133/awesome-jev](https://github.com/onmyway133/awesome-jev) — inferred / media-discussions — ⭐2
+- `+` [Show HN: Jev Powered Obsidian Search](https://news.ycombinator.com/item?id=49795109) — observed / media-discussions — ⭐2
+- `+` [Jev is an honest game changer](https://news.ycombinator.com/item?id=49793779) — observed / media-discussions — ⭐2
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
+- `+` [luigivis/jev-sdk-java](https://github.com/luigivis/jev-sdk-java) — inferred / community-sdk — ⭐1
+- `+` [jev-ids/jev-ids](https://github.com/jev-ids/jev-ids) — observed / other — ⭐1
+- `+` [osrim/readwise-jev-classifier](https://github.com/osrim/readwise-jev-classifier) — inferred / routing-guardrails — ⭐1
+- `+` [jimmyliao/jev-storyboard-lab](https://github.com/jimmyliao/jev-storyboard-lab) — inferred / agent-tooling — ⭐1
+- …另有 77 条新增
