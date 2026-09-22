@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T04:43:33+08:00",
+ "generated_at": "2026-09-23T06:58:00+08:00",
  "source": "/Users/admin/Desktop/知识库/Jev-巡检",
  "available": true,
  "count": 52,
@@ -227,6 +227,18 @@
    "source_note": ""
   },
   {
+   "url": "https://news.ycombinator.com/item?id=49736660",
+   "title": "HN 争议：自称\"去年就开源了 jev 架构\"",
+   "kind_label": "观测",
+   "evidence": "observed",
+   "date": "2026-09-17",
+   "first_seen": "",
+   "seen_days": 2,
+   "point": "36 分的帖子，标题《Open-sourced jev architecture last year with model,paper and dataset》，评论同样情与批评并存。**对方论文与模型是否真的等价，尚未核实。**",
+   "impact": "待核实事项，已记入 CHANGELOG 待办",
+   "source_note": ""
+  },
+  {
    "url": "https://dev.classmethod.jp/en/articles/jev-for-llm-model-routing/",
    "title": "第三方独立实测：Classmethod / DevelopersIO",
    "kind_label": "观测",
@@ -236,18 +248,6 @@
    "seen_days": 1,
    "point": "40 次调用全成功、10/10 分类正确；median **0.643–0.674 s**；**$0.000025–0.000027/call**；**confidence 在 medium 档明显更低（0.57–0.67 vs 1.0）**——目前唯一独立观测到的校准行为。保留意见：官方 benchmark 里 Jev 76.0% 未明显超过 Luna 76.1% / DS v4 Flash 76.8%。",
    "impact": "校准证据——写入能力边界文件",
-   "source_note": ""
-  },
-  {
-   "url": "https://news.ycombinator.com/item?id=49736660",
-   "title": "HN 争议：自称\"去年就开源了 jev 架构\"",
-   "kind_label": "观测",
-   "evidence": "observed",
-   "date": "2026-09-17",
-   "first_seen": "2026-09-17",
-   "seen_days": 1,
-   "point": "36 分的帖子，标题《Open-sourced jev architecture last year with model,paper and dataset》，评论同样情与批评并存。**对方论文与模型是否真的等价，尚未核实。**",
-   "impact": "待核实事项，已记入 CHANGELOG 待办",
    "source_note": ""
   },
   {

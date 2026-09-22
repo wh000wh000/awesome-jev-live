@@ -1403,3 +1403,32 @@
 - `+` [owainlewis/jev-examples](https://github.com/owainlewis/jev-examples) — inferred / other — ⭐1
 - `+` [danmana/jev-paints](https://github.com/danmana/jev-paints) — inferred / other — ⭐0
 - …另有 45 条新增
+
+## 2026-09-23T06:58:00+08:00
+- 收录总数 **756**；本 tick 新增 **71**
+- `+` [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp) — unverified / agent-tooling — ⭐258
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐80
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐20
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — inferred / community-sdk — ⭐18
+- `+` [pst2154/Nemotron_Jev](https://github.com/pst2154/Nemotron_Jev) — inferred / other — ⭐12
+- `+` [oswarld/notion-skills](https://github.com/oswarld/notion-skills) — inferred / community-sdk — ⭐8
+- `+` [iamaamir/system-one](https://github.com/iamaamir/system-one) — inferred / agent-tooling — ⭐7
+- `+` [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — inferred / community-sdk — ⭐4
+- `+` [bhavikprit/instinct-ai](https://github.com/bhavikprit/instinct-ai) — unverified / agent-tooling — ⭐4
+- `+` [vercel-labs/jev-ai-sdk-form-router](https://github.com/vercel-labs/jev-ai-sdk-form-router) — inferred / community-sdk — ⭐4
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐4
+- `+` [jev-ids/jev-ids](https://github.com/jev-ids/jev-ids) — observed / other — ⭐3
+- `+` [keltokhy/jselect](https://github.com/keltokhy/jselect) — inferred / community-sdk — ⭐3
+- `+` [waddle-zoo/signal-weave](https://github.com/waddle-zoo/signal-weave) — unverified / other — ⭐3
+- `+` [markjaquith/typesafe-ai-playground](https://github.com/markjaquith/typesafe-ai-playground) — observed / apps-demos — ⭐2
+- `+` [Analyzing Jev Outcomes with a Validator](https://news.ycombinator.com/item?id=49808558) — observed / media-discussions — ⭐2
+- `+` [Jevlish: A JavaScript front end for Jev](https://news.ycombinator.com/item?id=49808535) — observed / media-discussions — ⭐2
+- `+` [Reverse Jev: Ending a Turn with a Choice](https://news.ycombinator.com/item?id=49807602) — observed / media-discussions — ⭐2
+- `+` [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) — inferred / agent-tooling — ⭐1
+- `+` [Madikhan33/jev_codex](https://github.com/Madikhan33/jev_codex) — inferred / agent-tooling — ⭐1
+- `+` [danielhirt/jev-lab](https://github.com/danielhirt/jev-lab) — inferred / routing-guardrails — ⭐1
+- `+` [Jabbslad/pi-jev-tools](https://github.com/Jabbslad/pi-jev-tools) — inferred / agent-tooling — ⭐1
+- `+` [TheWayWithin/jev-bench](https://github.com/TheWayWithin/jev-bench) — inferred / agent-tooling — ⭐1
+- `+` [ruslanlap/jev-gate](https://github.com/ruslanlap/jev-gate) — inferred / community-sdk — ⭐1
+- `+` [sebastianbennis/jev-system-one-reference](https://github.com/sebastianbennis/jev-system-one-reference) — inferred / agent-tooling — ⭐1
+- …另有 46 条新增
