@@ -1171,3 +1171,32 @@
 - `+` [osrim/readwise-jev-classifier](https://github.com/osrim/readwise-jev-classifier) — inferred / routing-guardrails — ⭐1
 - `+` [jimmyliao/jev-storyboard-lab](https://github.com/jimmyliao/jev-storyboard-lab) — inferred / agent-tooling — ⭐1
 - …另有 77 条新增
+
+## 2026-09-22T10:46:47+08:00
+- 收录总数 **737**；本 tick 新增 **54**
+- `+` [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — inferred / agent-tooling — ⭐1368
+- `+` [Zefan-Cai/Open-Jev](https://github.com/Zefan-Cai/Open-Jev) — inferred / other — ⭐99
+- `+` [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) — inferred / other — ⭐37
+- `+` [Argos1111/jev_local](https://github.com/Argos1111/jev_local) — inferred / other — ⭐20
+- `+` [mmastrac/djev](https://github.com/mmastrac/djev) — unverified / research-models — ⭐9
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐7
+- `+` [jagsan-cyber/reflex-gate](https://github.com/jagsan-cyber/reflex-gate) — unverified / routing-guardrails — ⭐6
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐4
+- `+` [glud123/jev-assist](https://github.com/glud123/jev-assist) — inferred / agent-tooling — ⭐3
+- `+` [Iron-LYK/OmniJev](https://github.com/Iron-LYK/OmniJev) — inferred / apps-demos — ⭐3
+- `+` [yangyu666/dsh-jev-prune](https://github.com/yangyu666/dsh-jev-prune) — inferred / research-models — ⭐3
+- `+` [kotoba-lang/typed-decisions](https://github.com/kotoba-lang/typed-decisions) — unverified / evaluation — ⭐3
+- `+` [qingshungLI/everything-about-jev](https://github.com/qingshungLI/everything-about-jev) — observed / other — ⭐3
+- `+` [ZephyrDeng/ego-jev](https://github.com/ZephyrDeng/ego-jev) — inferred / agent-tooling — ⭐3
+- `+` [Charlyhno-eng/jev-document-classification](https://github.com/Charlyhno-eng/jev-document-classification) — inferred / other — ⭐3
+- `+` [choxos/jevchess](https://github.com/choxos/jevchess) — observed / routing-guardrails — ⭐3
+- `+` [What Makes Jev Different from Other LLMs? A Simple Explanation](https://news.ycombinator.com/item?id=49796013) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev](https://news.ycombinator.com/item?id=49795171) — observed / media-discussions — ⭐2
+- `+` [1104480426-hash/jev-qq-assist](https://github.com/1104480426-hash/jev-qq-assist) — inferred / other — ⭐1
+- `+` [alitrack/jev-clone](https://github.com/alitrack/jev-clone) — inferred / evaluation — ⭐1
+- `+` [antTing/jev-accounts-hub](https://github.com/antTing/jev-accounts-hub) — inferred / routing-guardrails — ⭐1
+- `+` [baize7815/jev-mcp-open-source](https://github.com/baize7815/jev-mcp-open-source) — inferred / agent-tooling — ⭐1
+- `+` [Mrmimee/hermes-plugin-jev](https://github.com/Mrmimee/hermes-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [RyanNg1403/jev-cli](https://github.com/RyanNg1403/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [goodruizhan/pi-jev-control](https://github.com/goodruizhan/pi-jev-control) — inferred / agent-tooling — ⭐0
+- …另有 29 条新增
