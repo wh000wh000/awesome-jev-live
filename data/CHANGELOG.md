@@ -1229,3 +1229,32 @@
 - `+` [himomohi/jev-skill-router](https://github.com/himomohi/jev-skill-router) — inferred / agent-tooling — ⭐1
 - `+` [kyledickey/jev-go](https://github.com/kyledickey/jev-go) — observed / community-sdk — ⭐1
 - …另有 57 条新增
+
+## 2026-09-22T15:39:29+08:00
+- 收录总数 **741**；本 tick 新增 **86**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐4467
+- `+` [BeatAPI/awesome-jev](https://github.com/BeatAPI/awesome-jev) — inferred / community-sdk — ⭐41
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — unverified / other — ⭐17
+- `+` [collapseindex/jev-ultralightspeed](https://github.com/collapseindex/jev-ultralightspeed) — inferred / other — ⭐11
+- `+` [kavehmz/typesafe-playground](https://github.com/kavehmz/typesafe-playground) — unverified / routing-guardrails — ⭐11
+- `+` [iamtoomas/JevLint](https://github.com/iamtoomas/JevLint) — inferred / agent-tooling — ⭐11
+- `+` [devbackend/jevgo](https://github.com/devbackend/jevgo) — inferred / community-sdk — ⭐7
+- `+` [doronp/jevc](https://github.com/doronp/jevc) — unverified / community-sdk — ⭐6
+- `+` [cyberofficial/dsh-plugin-jev](https://github.com/cyberofficial/dsh-plugin-jev) — inferred / agent-tooling — ⭐5
+- `+` [ronadin2002/jev-cua](https://github.com/ronadin2002/jev-cua) — inferred / agent-tooling — ⭐5
+- `+` [Bald0Wang/jev-docs-zh](https://github.com/Bald0Wang/jev-docs-zh) — observed / other — ⭐4
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐4
+- `+` [ismaelsoilet/jev-harness](https://github.com/ismaelsoilet/jev-harness) — inferred / agent-tooling — ⭐3
+- `+` [rawwerks/one-system](https://github.com/rawwerks/one-system) — inferred / other — ⭐3
+- `+` [amithgc/local-jev](https://github.com/amithgc/local-jev) — inferred / research-models — ⭐3
+- `+` [jimmyliao/jev-storyboard-lab](https://github.com/jimmyliao/jev-storyboard-lab) — inferred / agent-tooling — ⭐2
+- `+` [jiangkoumo/ego-jev](https://github.com/jiangkoumo/ego-jev) — inferred / agent-tooling — ⭐2
+- `+` [waynesutton/ask-jev-ai](https://github.com/waynesutton/ask-jev-ai) — inferred / other — ⭐1
+- `+` [ChenYCL/jev-browser-skill](https://github.com/ChenYCL/jev-browser-skill) — observed / community-sdk — ⭐1
+- `+` [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) — inferred / agent-tooling — ⭐1
+- `+` [zaferayan/laya-vs-jev](https://github.com/zaferayan/laya-vs-jev) — inferred / research-models — ⭐1
+- `+` [maxlibin/jev-rubiks](https://github.com/maxlibin/jev-rubiks) — inferred / other — ⭐1
+- `+` [1104480426-hash/jev-wingman](https://github.com/1104480426-hash/jev-wingman) — inferred / evaluation — ⭐1
+- `+` [liuhongrui087-art/jev-routed-agent](https://github.com/liuhongrui087-art/jev-routed-agent) — inferred / agent-tooling — ⭐1
+- `+` [Cairn-ink/cairn-jev-lab](https://github.com/Cairn-ink/cairn-jev-lab) — inferred / agent-tooling — ⭐1
+- …另有 61 条新增
