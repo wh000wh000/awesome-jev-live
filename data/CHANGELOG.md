@@ -1461,3 +1461,32 @@
 - `+` [pc418/jev-calculator](https://github.com/pc418/jev-calculator) — inferred / other — ⭐0
 - `+` [Correa-Gui/jev-benchmark-demo](https://github.com/Correa-Gui/jev-benchmark-demo) — inferred / evaluation — ⭐0
 - …另有 36 条新增
+
+## 2026-09-23T11:40:29+08:00
+- 收录总数 **770**；本 tick 新增 **69**
+- `+` [BeatAPI/awesome-jev](https://github.com/BeatAPI/awesome-jev) — inferred / community-sdk — ⭐50
+- `+` [tumf/jev-cli](https://github.com/tumf/jev-cli) — inferred / community-sdk — ⭐12
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐9
+- `+` [rashedInt32/jev-mcp](https://github.com/rashedInt32/jev-mcp) — inferred / agent-tooling — ⭐7
+- `+` [collapseindex/dinostomp](https://github.com/collapseindex/dinostomp) — inferred / routing-guardrails — ⭐6
+- `+` [bladedevoff/stuntd](https://github.com/bladedevoff/stuntd) — inferred / community-sdk — ⭐6
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐6
+- `+` [lucioamor/lovable-skills](https://github.com/lucioamor/lovable-skills) — unverified / agent-tooling — ⭐6
+- `+` [tonyzdev/pijev](https://github.com/tonyzdev/pijev) — inferred / agent-tooling — ⭐4
+- `+` [Bald0Wang/jev-docs-zh](https://github.com/Bald0Wang/jev-docs-zh) — observed / other — ⭐4
+- `+` [Aimark-dai/jev-chat-windows-deepseek-jev](https://github.com/Aimark-dai/jev-chat-windows-deepseek-jev) — inferred / other — ⭐4
+- `+` [paulsmith/computer-use-jev](https://github.com/paulsmith/computer-use-jev) — inferred / apps-demos — ⭐4
+- `+` [adigulalkari/Jev_GC](https://github.com/adigulalkari/Jev_GC) — inferred / agent-tooling — ⭐3
+- `+` [JohnDotOwl/awesome-jev](https://github.com/JohnDotOwl/awesome-jev) — observed / media-discussions — ⭐1
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [bhcbhc/Jev-Rubik-Cube-Restoration](https://github.com/bhcbhc/Jev-Rubik-Cube-Restoration) — inferred / other — ⭐1
+- `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐1
+- `+` [CogFlux/opencode-jev-guard](https://github.com/CogFlux/opencode-jev-guard) — inferred / agent-tooling — ⭐1
+- `+` [darthblanc/tictacjev](https://github.com/darthblanc/tictacjev) — observed / apps-demos — ⭐1
+- `+` [dingw530/playwright-jev](https://github.com/dingw530/playwright-jev) — inferred / community-sdk — ⭐1
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- `+` [wustep/jev-playground](https://github.com/wustep/jev-playground) — observed / apps-demos — ⭐1
+- `+` [kw2828/OpenJev](https://github.com/kw2828/OpenJev) — inferred / research-models — ⭐1
+- `+` [Chuf-H/jev-tree](https://github.com/Chuf-H/jev-tree) — inferred / community-sdk — ⭐1
+- `+` [nexscope-ai/jev-amazon-keyword-checker](https://github.com/nexscope-ai/jev-amazon-keyword-checker) — inferred / evaluation — ⭐1
+- …另有 44 条新增
