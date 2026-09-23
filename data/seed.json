@@ -17,6 +17,7 @@
     "zhirschtritt/typesafe-go",
     "Butochnikov/laravel-typesafe-jev",
     "manifoldor/xtags",
+    "kylemclaren/jevql",
     "kylemclaren/jevsearch",
     "kylemclaren/jevpdf"
   ]
