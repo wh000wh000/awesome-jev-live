@@ -1548,3 +1548,32 @@
 - `+` [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) — inferred / agent-tooling — ⭐1
 - `+` [klauswg/jev-suite](https://github.com/klauswg/jev-suite) — inferred / research-models — ⭐1
 - …另有 86 条新增
+
+## 2026-09-23T19:50:48+08:00
+- 收录总数 **770**；本 tick 新增 **76**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐94
+- `+` [topherchris420/james_library](https://github.com/topherchris420/james_library) — inferred / community-sdk — ⭐74
+- `+` [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) — inferred / other — ⭐38
+- `+` [tshmieldev/sharp](https://github.com/tshmieldev/sharp) — inferred / routing-guardrails — ⭐30
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐24
+- `+` [agent-chaperone/agent-chaperone](https://github.com/agent-chaperone/agent-chaperone) — inferred / community-sdk — ⭐20
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — inferred / community-sdk — ⭐18
+- `+` [csskrtao/jev-to-answer](https://github.com/csskrtao/jev-to-answer) — inferred / other — ⭐17
+- `+` [zeeshan8281/slo-router](https://github.com/zeeshan8281/slo-router) — inferred / routing-guardrails — ⭐8
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐8
+- `+` [sqliteai/blink](https://github.com/sqliteai/blink) — observed / other — ⭐7
+- `+` [KiritoKing/midscene-jev-runner](https://github.com/KiritoKing/midscene-jev-runner) — inferred / community-sdk — ⭐6
+- `+` [Shashank-H/pi-jev-context-curator](https://github.com/Shashank-H/pi-jev-context-curator) — inferred / other — ⭐5
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐4
+- `+` [chris-wozniczek/jev-voice-control](https://github.com/chris-wozniczek/jev-voice-control) — observed / apps-demos — ⭐4
+- `+` [Gaurav-Gosain/jev-go](https://github.com/Gaurav-Gosain/jev-go) — inferred / community-sdk — ⭐4
+- `+` [gaborishka/jev-canvas](https://github.com/gaborishka/jev-canvas) — inferred / routing-guardrails — ⭐4
+- `+` [Trained KV cache bank turns any LLM into Jev like Model](https://news.ycombinator.com/item?id=49813610) — observed / media-discussions — ⭐3
+- `+` [Eurekaleo/awesome-jev](https://github.com/Eurekaleo/awesome-jev) — inferred / evaluation — ⭐2
+- `+` [yanglei070-ux/bili-hardcore-jev](https://github.com/yanglei070-ux/bili-hardcore-jev) — inferred / other — ⭐1
+- `+` [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) — inferred / media-discussions — ⭐1
+- `+` [tphakala/jev-mcp](https://github.com/tphakala/jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [taman-spirit/guardrail-chatbot-jev](https://github.com/taman-spirit/guardrail-chatbot-jev) — inferred / routing-guardrails — ⭐1
+- `+` [maxlibin/jev-toto](https://github.com/maxlibin/jev-toto) — inferred / other — ⭐1
+- `+` [Readyaddy/open_system_one](https://github.com/Readyaddy/open_system_one) — observed / other — ⭐1
+- …另有 51 条新增
