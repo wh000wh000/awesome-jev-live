@@ -1432,3 +1432,32 @@
 - `+` [ruslanlap/jev-gate](https://github.com/ruslanlap/jev-gate) — inferred / community-sdk — ⭐1
 - `+` [sebastianbennis/jev-system-one-reference](https://github.com/sebastianbennis/jev-system-one-reference) — inferred / agent-tooling — ⭐1
 - …另有 46 条新增
+
+## 2026-09-23T09:14:44+08:00
+- 收录总数 **766**；本 tick 新增 **61**
+- `+` [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) — inferred / community-sdk — ⭐110
+- `+` [Argos1111/jev_local](https://github.com/Argos1111/jev_local) — inferred / other — ⭐20
+- `+` [ronadin2002/jev-cua](https://github.com/ronadin2002/jev-cua) — inferred / agent-tooling — ⭐11
+- `+` [cyberofficial/dsh-plugin-jev](https://github.com/cyberofficial/dsh-plugin-jev) — inferred / agent-tooling — ⭐5
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐4
+- `+` [arnabgho/rlcd-lite](https://github.com/arnabgho/rlcd-lite) — unverified / evaluation — ⭐3
+- `+` [The Jagged Frontier of Jev 1.13](https://news.ycombinator.com/item?id=49809509) — observed / media-discussions — ⭐3
+- `+` [Alex314618-create/JevRev](https://github.com/Alex314618-create/JevRev) — inferred / agent-tooling — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [flazouh/ego-jev](https://github.com/flazouh/ego-jev) — inferred / apps-demos — ⭐1
+- `+` [d-date/swift-jev](https://github.com/d-date/swift-jev) — inferred / community-sdk — ⭐1
+- `+` [ZhangYiqun018/jev-dimabsa](https://github.com/ZhangYiqun018/jev-dimabsa) — inferred / evaluation — ⭐1
+- `+` [YidiDev/jev-benchmark](https://github.com/YidiDev/jev-benchmark) — inferred / agent-tooling — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- `+` [Barneyjm/decision-circuits](https://github.com/Barneyjm/decision-circuits) — observed / community-sdk — ⭐1
+- `+` [jackchen13755/dsh-jev-kit](https://github.com/jackchen13755/dsh-jev-kit) — inferred / agent-tooling — ⭐0
+- `+` [wssaidong/kong-jev-router](https://github.com/wssaidong/kong-jev-router) — inferred / agent-tooling — ⭐0
+- `+` [romeromarcelo/jev-retrieval](https://github.com/romeromarcelo/jev-retrieval) — inferred / community-sdk — ⭐0
+- `+` [AgoraIO-Community/convoai-jev-vad](https://github.com/AgoraIO-Community/convoai-jev-vad) — inferred / community-sdk — ⭐0
+- `+` [vamsi243/JEVChess](https://github.com/vamsi243/JEVChess) — observed / community-sdk — ⭐0
+- `+` [leecoder/jev-evaluation](https://github.com/leecoder/jev-evaluation) — inferred / evaluation — ⭐0
+- `+` [nadeem4/jev-demo](https://github.com/nadeem4/jev-demo) — inferred / agent-tooling — ⭐0
+- `+` [michaelpersonal/jev-trade-cc](https://github.com/michaelpersonal/jev-trade-cc) — observed / apps-demos — ⭐0
+- `+` [pc418/jev-calculator](https://github.com/pc418/jev-calculator) — inferred / other — ⭐0
+- `+` [Correa-Gui/jev-benchmark-demo](https://github.com/Correa-Gui/jev-benchmark-demo) — inferred / evaluation — ⭐0
+- …另有 36 条新增
