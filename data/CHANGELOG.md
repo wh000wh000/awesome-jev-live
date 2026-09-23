@@ -1490,3 +1490,32 @@
 - `+` [Chuf-H/jev-tree](https://github.com/Chuf-H/jev-tree) — inferred / community-sdk — ⭐1
 - `+` [nexscope-ai/jev-amazon-keyword-checker](https://github.com/nexscope-ai/jev-amazon-keyword-checker) — inferred / evaluation — ⭐1
 - …另有 44 条新增
+
+## 2026-09-23T14:39:49+08:00
+- 收录总数 **704**；本 tick 新增 **47**
+- `+` [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) — inferred / other — ⭐38
+- `+` [zwliJay/jev-forge](https://github.com/zwliJay/jev-forge) — inferred / evaluation — ⭐20
+- `+` [mejiasd3v/pi-jev-router](https://github.com/mejiasd3v/pi-jev-router) — inferred / routing-guardrails — ⭐13
+- `+` [PerryLink/jevcore](https://github.com/PerryLink/jevcore) — inferred / agent-tooling — ⭐12
+- `+` [jaibhasin/jev-yt-time-saver](https://github.com/jaibhasin/jev-yt-time-saver) — inferred / apps-demos — ⭐6
+- `+` [amithgc/local-jev](https://github.com/amithgc/local-jev) — inferred / research-models — ⭐4
+- `+` [1Panel-dev/laya-server](https://github.com/1Panel-dev/laya-server) — inferred / other — ⭐3
+- `+` [1104480426-hash/jev-wingman](https://github.com/1104480426-hash/jev-wingman) — inferred / evaluation — ⭐3
+- `+` [AkashPriyadarshii/jev-scout](https://github.com/AkashPriyadarshii/jev-scout) — inferred / community-sdk — ⭐2
+- `+` [harshithsunku/learn-jev-end-to-end](https://github.com/harshithsunku/learn-jev-end-to-end) — inferred / agent-tooling — ⭐2
+- `+` [juanlentino/jev-connector](https://github.com/juanlentino/jev-connector) — inferred / agent-tooling — ⭐2
+- `+` [GeekLinkDev/jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator) — inferred / community-sdk — ⭐1
+- `+` [Yifan-Lan/awesome-jev-robustness](https://github.com/Yifan-Lan/awesome-jev-robustness) — inferred / evaluation — ⭐1
+- `+` [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar) — inferred / evaluation — ⭐1
+- `+` [bl888m/jev-bot](https://github.com/bl888m/jev-bot) — inferred / research-models — ⭐1
+- `+` [justintout/systemone](https://github.com/justintout/systemone) — observed / other — ⭐0
+- `+` [anusornc/jev-decision-engine](https://github.com/anusornc/jev-decision-engine) — inferred / agent-tooling — ⭐0
+- `+` [omkarghugarkar007/system-one-model-finetuning](https://github.com/omkarghugarkar007/system-one-model-finetuning) — observed / routing-guardrails — ⭐0
+- `+` [aishwary-dongre/jev-xray](https://github.com/aishwary-dongre/jev-xray) — observed / evaluation — ⭐0
+- `+` [jevaidev/jev-project-classifier](https://github.com/jevaidev/jev-project-classifier) — observed / routing-guardrails — ⭐0
+- `+` [asp616848/better-jev-bench](https://github.com/asp616848/better-jev-bench) — observed / evaluation — ⭐0
+- `+` [slashdaemon/jev-expert](https://github.com/slashdaemon/jev-expert) — inferred / agent-tooling — ⭐0
+- `+` [dannyowelch/jev-skill-suggester](https://github.com/dannyowelch/jev-skill-suggester) — inferred / agent-tooling — ⭐0
+- `+` [DoGMaTiiC/hermes-jev](https://github.com/DoGMaTiiC/hermes-jev) — inferred / agent-tooling — ⭐0
+- `+` [wsmontes/michelin-jev-search](https://github.com/wsmontes/michelin-jev-search) — inferred / apps-demos — ⭐0
+- …另有 22 条新增
