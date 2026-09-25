@@ -1635,3 +1635,32 @@
 - `+` [kallurayaankit/jev-safety-gate](https://github.com/kallurayaankit/jev-safety-gate) — inferred / agent-tooling — ⭐0
 - `+` [nvnv19309/jev-citation-verifier-skill](https://github.com/nvnv19309/jev-citation-verifier-skill) — inferred / agent-tooling — ⭐0
 - …另有 27 条新增
+
+## 2026-09-26T02:39:08+08:00
+- 收录总数 **806**；本 tick 新增 **123**
+- `+` [feder-cr/jev](https://github.com/feder-cr/jev) — inferred / research-models — ⭐415
+- `+` [itsmostafa/system-one-connector](https://github.com/itsmostafa/system-one-connector) — unverified / agent-tooling — ⭐303
+- `+` [codejunkie99/keel](https://github.com/codejunkie99/keel) — unverified / other — ⭐181
+- `+` [topherchris420/james_library](https://github.com/topherchris420/james_library) — inferred / community-sdk — ⭐72
+- `+` [Jevmem – automatic project memory for Claude Code, built on Jev](https://news.ycombinator.com/item?id=49846391) — observed / media-discussions — ⭐52
+- `+` [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) — inferred / agent-tooling — ⭐33
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐28
+- `+` [bladedevoff/stuntd](https://github.com/bladedevoff/stuntd) — inferred / community-sdk — ⭐27
+- `+` [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) — inferred / community-sdk — ⭐27
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐26
+- `+` [6Mikao9/jev-native-agent-with-extended-options](https://github.com/6Mikao9/jev-native-agent-with-extended-options) — inferred / community-sdk — ⭐23
+- `+` [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) — inferred / agent-tooling — ⭐20
+- `+` [carldaws/hunch](https://github.com/carldaws/hunch) — inferred / community-sdk — ⭐16
+- `+` [AntonioCoppe/jev-harness](https://github.com/AntonioCoppe/jev-harness) — observed / community-sdk — ⭐15
+- `+` [doeixd/discern](https://github.com/doeixd/discern) — inferred / other — ⭐13
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐12
+- `+` [Jev vs. Kev: open-source Jev alternative tested side by side](https://news.ycombinator.com/item?id=49847306) — observed / media-discussions — ⭐12
+- `+` [Show HN: Doom or Bloom, map your AI worldview with Jev](https://news.ycombinator.com/item?id=49846953) — observed / media-discussions — ⭐10
+- `+` [ruban-24/switchboard](https://github.com/ruban-24/switchboard) — inferred / community-sdk — ⭐8
+- `+` [anessbelbati/jev-rerank-bench](https://github.com/anessbelbati/jev-rerank-bench) — inferred / evaluation — ⭐8
+- `+` [Nanako0129/stingray](https://github.com/Nanako0129/stingray) — unverified / agent-tooling — ⭐5
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐4
+- `+` [jinlio/mjbrain](https://github.com/jinlio/mjbrain) — inferred / other — ⭐4
+- `+` [shalevamin/jevii](https://github.com/shalevamin/jevii) — unverified / agent-tooling — ⭐4
+- `+` [neurono-ml/typed-lm](https://github.com/neurono-ml/typed-lm) — unverified / routing-guardrails — ⭐4
+- …另有 98 条新增
