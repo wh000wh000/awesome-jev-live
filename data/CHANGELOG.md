@@ -1577,3 +1577,32 @@
 - `+` [maxlibin/jev-toto](https://github.com/maxlibin/jev-toto) — inferred / other — ⭐1
 - `+` [Readyaddy/open_system_one](https://github.com/Readyaddy/open_system_one) — observed / other — ⭐1
 - …另有 51 条新增
+
+## 2026-09-25T17:05:04+08:00
+- 收录总数 **799**；本 tick 新增 **298**
+- `+` [YaoApp/yao](https://github.com/YaoApp/yao) — inferred / agent-tooling — ⭐8011
+- `+` [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) — inferred / research-models — ⭐4268
+- `+` [Alex314618-create/JevRev](https://github.com/Alex314618-create/JevRev) — inferred / agent-tooling — ⭐308
+- `+` [Liuziyu77/Valen](https://github.com/Liuziyu77/Valen) — observed / other — ⭐113
+- `+` [allebee/jevk5](https://github.com/allebee/jevk5) — inferred / evaluation — ⭐105
+- `+` [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) — inferred / agent-tooling — ⭐79
+- `+` [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) — inferred / community-sdk — ⭐78
+- `+` [What Is RLCD? The Secret Behind Jev](https://news.ycombinator.com/item?id=49829625) — observed / media-discussions — ⭐66
+- `+` [alvarobartt/sys1](https://github.com/alvarobartt/sys1) — inferred / other — ⭐42
+- `+` [klauswg/jev-guard](https://github.com/klauswg/jev-guard) — inferred / routing-guardrails — ⭐36
+- `+` [kiwi0719/jev-edge](https://github.com/kiwi0719/jev-edge) — inferred / routing-guardrails — ⭐35
+- `+` [OmniJev/PlayJev](https://github.com/OmniJev/PlayJev) — inferred / agent-tooling — ⭐34
+- `+` [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) — inferred / agent-tooling — ⭐33
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐29
+- `+` [bodepudimuneendra-netizen/laya-jev-GraphRAG](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) — observed / community-sdk — ⭐28
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐27
+- `+` [Jev Based Code Review](https://news.ycombinator.com/item?id=49840300) — observed / media-discussions — ⭐24
+- `+` [ollaya-dev/ollaya](https://github.com/ollaya-dev/ollaya) — inferred / routing-guardrails — ⭐21
+- `+` [chengyongru/fastjev](https://github.com/chengyongru/fastjev) — inferred / community-sdk — ⭐21
+- `+` [emnlmn/snap](https://github.com/emnlmn/snap) — observed / research-models — ⭐20
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐19
+- `+` [buberlo/jev-trader](https://github.com/buberlo/jev-trader) — inferred / evaluation — ⭐19
+- `+` [khordoo/jev-reflex-autonomy-lab](https://github.com/khordoo/jev-reflex-autonomy-lab) — inferred / agent-tooling — ⭐18
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐16
+- …另有 273 条新增
