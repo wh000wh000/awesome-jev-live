@@ -62,6 +62,7 @@
  "5f0ae7a7dfe91e0c": "Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API.",
  "5f103b02dc4d69ed": "A conversation co-pilot installed on your phone: understands the other person in QQ / X / Feishu, provides candidate replies, and fills them into the input box with one tap; whether to send is up to you. Non-intrusive, only reads the screen, no hooking and no package modification.",
  "61239247c83bdda5": "Fish-style zsh history autosuggestions ranked by Jev (TypeSafe)",
+ "649f3d14e910e902": "Chinese translation of the official documentation for the Jev model (TypeSafe AI) | Unofficial Chinese translation of the official Jev (TypeSafe AI) docs — https://docs.typesafe.ai",
  "6578f0cdd2d6b0ba": "X batch added to the snippet library",
  "66582b296271c33c": "Snake auto-played by TypeSafe's Jev model: one System One choice per tick, legal moves and facts generated in code",
  "6a910c2350ed6bd8": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",

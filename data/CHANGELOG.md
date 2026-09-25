@@ -1606,3 +1606,32 @@
 - `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
 - `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐16
 - …另有 273 条新增
+
+## 2026-09-25T20:17:00+08:00
+- 收录总数 **786**；本 tick 新增 **52**
+- `+` [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx) — inferred / research-models — ⭐64
+- `+` [altryne/jevify](https://github.com/altryne/jevify) — inferred / agent-tooling — ⭐33
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐15
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐8
+- `+` [Ryu0118/jev-sim-use](https://github.com/Ryu0118/jev-sim-use) — inferred / apps-demos — ⭐8
+- `+` [WiktorB2004/llama-index-jev](https://github.com/WiktorB2004/llama-index-jev) — inferred / routing-guardrails — ⭐7
+- `+` [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — observed / other — ⭐7
+- `+` [llm-learner/headroom](https://github.com/llm-learner/headroom) — inferred / agent-tooling — ⭐5
+- `+` [FazalAAli/jev-robotics-demo](https://github.com/FazalAAli/jev-robotics-demo) — inferred / agent-tooling — ⭐5
+- `+` [chaitin/Decis](https://github.com/chaitin/Decis) — inferred / research-models — ⭐3
+- `+` [danielnc/jev-browse](https://github.com/danielnc/jev-browse) — inferred / agent-tooling — ⭐2
+- `+` [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) — inferred / media-discussions — ⭐2
+- `+` [jaibhasin/jev-flappy-bird](https://github.com/jaibhasin/jev-flappy-bird) — inferred / apps-demos — ⭐2
+- `+` [Show HN: Herobrine – Minecraft buddies using jev](https://news.ycombinator.com/item?id=49843049) — observed / media-discussions — ⭐2
+- `+` [qualixar/jev-codex-workbench](https://github.com/qualixar/jev-codex-workbench) — inferred / agent-tooling — ⭐1
+- `+` [suffro/decguard](https://github.com/suffro/decguard) — observed / other — ⭐1
+- `+` [Bring-AI/jev-numeric](https://github.com/Bring-AI/jev-numeric) — inferred / research-models — ⭐1
+- `+` [6Mikao9/more-options-for-jev](https://github.com/6Mikao9/more-options-for-jev) — inferred / other — ⭐1
+- `+` [hrtaym1114-github/x-jev-gate](https://github.com/hrtaym1114-github/x-jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [oiupoyt/jev-8ball](https://github.com/oiupoyt/jev-8ball) — inferred / routing-guardrails — ⭐0
+- `+` [gauravkhuraana/jev-qa-demos](https://github.com/gauravkhuraana/jev-qa-demos) — inferred / routing-guardrails — ⭐0
+- `+` [WesleySmits/spark-jev-email-triage](https://github.com/WesleySmits/spark-jev-email-triage) — inferred / community-sdk — ⭐0
+- `+` [wangw0922/jev-mail](https://github.com/wangw0922/jev-mail) — inferred / other — ⭐0
+- `+` [kallurayaankit/jev-safety-gate](https://github.com/kallurayaankit/jev-safety-gate) — inferred / agent-tooling — ⭐0
+- `+` [nvnv19309/jev-citation-verifier-skill](https://github.com/nvnv19309/jev-citation-verifier-skill) — inferred / agent-tooling — ⭐0
+- …另有 27 条新增
