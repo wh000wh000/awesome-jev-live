@@ -1664,3 +1664,32 @@
 - `+` [shalevamin/jevii](https://github.com/shalevamin/jevii) — unverified / agent-tooling — ⭐4
 - `+` [neurono-ml/typed-lm](https://github.com/neurono-ml/typed-lm) — unverified / routing-guardrails — ⭐4
 - …另有 98 条新增
+
+## 2026-09-26T07:20:23+08:00
+- 收录总数 **815**；本 tick 新增 **81**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐135
+- `+` [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) — inferred / other — ⭐28
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — inferred / community-sdk — ⭐23
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐15
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐6
+- `+` [stilesja/jev-ivr](https://github.com/stilesja/jev-ivr) — inferred / other — ⭐6
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐6
+- `+` [Jev was built for agents, here's how we're using it in computer use instead](https://news.ycombinator.com/item?id=49849950) — observed / media-discussions — ⭐6
+- `+` [Arpit-Khandelwal/jev-linkedin-slop-filter](https://github.com/Arpit-Khandelwal/jev-linkedin-slop-filter) — inferred / routing-guardrails — ⭐5
+- `+` [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) — inferred / agent-tooling — ⭐5
+- `+` [Akramovic1/jev-pilot](https://github.com/Akramovic1/jev-pilot) — inferred / agent-tooling — ⭐4
+- `+` [keltokhy/jselect](https://github.com/keltokhy/jselect) — inferred / community-sdk — ⭐4
+- `+` [DelvisorLabs/Pyro](https://github.com/DelvisorLabs/Pyro) — observed / routing-guardrails — ⭐4
+- `+` [ickma2311/jev-baselines-eval](https://github.com/ickma2311/jev-baselines-eval) — inferred / evaluation — ⭐3
+- `+` [ArmanJR/Jev-Persian-Benchmark](https://github.com/ArmanJR/Jev-Persian-Benchmark) — inferred / evaluation — ⭐3
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐3
+- `+` [typakon4/jev-layer](https://github.com/typakon4/jev-layer) — inferred / community-sdk — ⭐3
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐3
+- `+` [diorrego/toolgate-experiment](https://github.com/diorrego/toolgate-experiment) — inferred / community-sdk — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐3
+- `+` [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) — inferred / agent-tooling — ⭐2
+- `+` [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734) — observed / media-discussions — ⭐2
+- `+` [Contrastive Language Models: A Fast, Generalizable System One Model](https://news.ycombinator.com/item?id=49848279) — observed / media-discussions — ⭐2
+- `+` [dsaad68/fuzzy-jev](https://github.com/dsaad68/fuzzy-jev) — inferred / community-sdk — ⭐1
+- `+` [coasty-ai/JevCode](https://github.com/coasty-ai/JevCode) — inferred / community-sdk — ⭐1
+- …另有 56 条新增
