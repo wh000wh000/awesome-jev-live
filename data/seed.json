@@ -16,6 +16,9 @@
     "dannote/jev",
     "zhirschtritt/typesafe-go",
     "Butochnikov/laravel-typesafe-jev",
-    "manifoldor/xtags"
+    "manifoldor/xtags",
+    "kylemclaren/jevql",
+    "kylemclaren/jevsearch",
+    "kylemclaren/jevpdf"
   ]
 }
