@@ -1780,3 +1780,32 @@
 - `+` [ccdepsilon/jev-browser-memory-assistant](https://github.com/ccdepsilon/jev-browser-memory-assistant) — inferred / apps-demos — ⭐1
 - `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐1
 - …另有 78 条新增
+
+## 2026-09-27T03:28:01+08:00
+- 收录总数 **820**；本 tick 新增 **64**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐86
+- `+` [kyegomez/open-jev](https://github.com/kyegomez/open-jev) — inferred / agent-tooling — ⭐36
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐6
+- `+` [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps) — inferred / other — ⭐6
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐6
+- `+` [dzhng/jevgrep](https://github.com/dzhng/jevgrep) — inferred / community-sdk — ⭐4
+- `+` [TypeSafeAI/clarity-judge](https://github.com/TypeSafeAI/clarity-judge) — official / official-sdk — ⭐3
+- `+` [Protocol-Lattice/harness-router](https://github.com/Protocol-Lattice/harness-router) — inferred / agent-tooling — ⭐3
+- `+` [azalio/doomLaya](https://github.com/azalio/doomLaya) — unverified / research-models — ⭐3
+- `+` [Show HN: A local alternative to Jev – 94% on Banking77](https://news.ycombinator.com/item?id=49858795) — observed / media-discussions — ⭐3
+- `+` [Is Jev calibrated? Tests on real data](https://news.ycombinator.com/item?id=49858564) — observed / media-discussions — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐2
+- `+` [Von, an Open-Source Jev Alternative](https://news.ycombinator.com/item?id=49858763) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev predicting your life choices](https://news.ycombinator.com/item?id=49858032) — observed / media-discussions — ⭐2
+- `+` [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734) — observed / media-discussions — ⭐2
+- `+` [kylehovance-ai/jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) — inferred / other — ⭐1
+- `+` [yelkhanyergali-sys/jev-guard](https://github.com/yelkhanyergali-sys/jev-guard) — inferred / other — ⭐1
+- `+` [JoasASantos/Raze](https://github.com/JoasASantos/Raze) — observed / agent-tooling — ⭐1
+- `+` [zandy700/Jev-Assistant](https://github.com/zandy700/Jev-Assistant) — inferred / other — ⭐1
+- `+` [PhilippElhaus/Codex-Jev](https://github.com/PhilippElhaus/Codex-Jev) — inferred / community-sdk — ⭐1
+- `+` [Ayushmaniar/jev-voice-computer-use](https://github.com/Ayushmaniar/jev-voice-computer-use) — inferred / apps-demos — ⭐1
+- `+` [TechyAditya/jev-browser-sidekick-mcp](https://github.com/TechyAditya/jev-browser-sidekick-mcp) — inferred / agent-tooling — ⭐0
+- `+` [vpicone/jev-lab](https://github.com/vpicone/jev-lab) — inferred / routing-guardrails — ⭐0
+- …另有 39 条新增
