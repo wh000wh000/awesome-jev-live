@@ -1693,3 +1693,32 @@
 - `+` [dsaad68/fuzzy-jev](https://github.com/dsaad68/fuzzy-jev) — inferred / community-sdk — ⭐1
 - `+` [coasty-ai/JevCode](https://github.com/coasty-ai/JevCode) — inferred / community-sdk — ⭐1
 - …另有 56 条新增
+
+## 2026-09-26T09:41:42+08:00
+- 收录总数 **815**；本 tick 新增 **35**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐28
+- `+` [rashedInt32/jev-mcp](https://github.com/rashedInt32/jev-mcp) — inferred / agent-tooling — ⭐8
+- `+` [ringzerosec/jev-runtime-security](https://github.com/ringzerosec/jev-runtime-security) — inferred / other — ⭐8
+- `+` [akivet/Mica-v0.1-4B](https://github.com/akivet/Mica-v0.1-4B) — inferred / other — ⭐6
+- `+` [khmuhtadin/n8n-nodes-jev-classification](https://github.com/khmuhtadin/n8n-nodes-jev-classification) — inferred / evaluation — ⭐4
+- `+` [cephalization/jev-triage](https://github.com/cephalization/jev-triage) — inferred / routing-guardrails — ⭐3
+- `+` [tamnd/kime](https://github.com/tamnd/kime) — unverified / agent-tooling — ⭐3
+- `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐2
+- `+` [Reflex – run a Jev-like decision model locally on a 16GB Nvidia GPU](https://news.ycombinator.com/item?id=49852130) — observed / media-discussions — ⭐2
+- `+` [Show HN: Tenjin – A Jev based x402 tool router for Claude Code](https://news.ycombinator.com/item?id=49851853) — observed / media-discussions — ⭐2
+- `+` [Jev Plays Pokémon Red (LIVE): an AI decision model plays the whole game [video]](https://news.ycombinator.com/item?id=49851584) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev.Store – A dedicated directory of useful things made on Jev](https://news.ycombinator.com/item?id=49850364) — observed / media-discussions — ⭐2
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / research-models — ⭐1
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [King4s/jev-loop](https://github.com/King4s/jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [abyakod/JEV_ADK](https://github.com/abyakod/JEV_ADK) — inferred / agent-tooling — ⭐0
+- `+` [aaddrick/building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [polaminggkub-debug/jev-watch](https://github.com/polaminggkub-debug/jev-watch) — inferred / community-sdk — ⭐0
+- `+` [tcheeric/jev-java](https://github.com/tcheeric/jev-java) — inferred / community-sdk — ⭐0
+- `+` [agugliotta/jev-kmp](https://github.com/agugliotta/jev-kmp) — inferred / community-sdk — ⭐0
+- `+` [Knight-Ops/burn-jev](https://github.com/Knight-Ops/burn-jev) — observed / other — ⭐0
+- `+` [L1vsun/JEV-Trading-BOT](https://github.com/L1vsun/JEV-Trading-BOT) — inferred / apps-demos — ⭐0
+- `+` [DeccansoftAITeam/jev-model](https://github.com/DeccansoftAITeam/jev-model) — inferred / apps-demos — ⭐0
+- `+` [xAndreiLi/pi-jev-wiki](https://github.com/xAndreiLi/pi-jev-wiki) — inferred / agent-tooling — ⭐0
+- `+` [wendyeq/dsh-jev-router](https://github.com/wendyeq/dsh-jev-router) — inferred / agent-tooling — ⭐0
+- …另有 10 条新增
