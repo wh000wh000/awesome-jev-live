@@ -1751,3 +1751,32 @@
 - `+` [It's a Jev's World](https://news.ycombinator.com/item?id=49853879) — observed / media-discussions — ⭐3
 - `+` [Show HN: I built a chatbot that can only reply in emoji, powered by Jev](https://news.ycombinator.com/item?id=49853574) — observed / media-discussions — ⭐3
 - …另有 73 条新增
+
+## 2026-09-27T00:54:08+08:00
+- 收录总数 **811**；本 tick 新增 **103**
+- `+` [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) — inferred / agent-tooling — ⭐191
+- `+` [mizchi/jev-playground](https://github.com/mizchi/jev-playground) — inferred / apps-demos — ⭐69
+- `+` [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) — inferred / agent-tooling — ⭐35
+- `+` [nexibeo/jev-cookbook](https://github.com/nexibeo/jev-cookbook) — inferred / community-sdk — ⭐28
+- `+` [9pings/notjev](https://github.com/9pings/notjev) — inferred / community-sdk — ⭐21
+- `+` [AIAnytime/jev-crash-course](https://github.com/AIAnytime/jev-crash-course) — inferred / apps-demos — ⭐8
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [jackie-cqz/dsh-jev-plugin](https://github.com/jackie-cqz/dsh-jev-plugin) — inferred / agent-tooling — ⭐7
+- `+` [chris-wozniczek/jev-voice-control](https://github.com/chris-wozniczek/jev-voice-control) — observed / apps-demos — ⭐5
+- `+` [luigivis/jev-sdk-java](https://github.com/luigivis/jev-sdk-java) — inferred / community-sdk — ⭐5
+- `+` [Turning GLM-5.3-Flash into a Jev-like decision model](https://news.ycombinator.com/item?id=49857656) — observed / media-discussions — ⭐5
+- `+` [AiPersonacademy/Awesome-jev-use](https://github.com/AiPersonacademy/Awesome-jev-use) — inferred / media-discussions — ⭐4
+- `+` [jiangkoumo/ego-decision-layer](https://github.com/jiangkoumo/ego-decision-layer) — inferred / community-sdk — ⭐4
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐4
+- `+` [ArmanJR/Jev-Persian-Benchmark](https://github.com/ArmanJR/Jev-Persian-Benchmark) — inferred / evaluation — ⭐3
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐3
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐3
+- `+` [robertogallea/laravel-judgment](https://github.com/robertogallea/laravel-judgment) — unverified / community-sdk — ⭐3
+- `+` [lgy1027/jevshield](https://github.com/lgy1027/jevshield) — inferred / agent-tooling — ⭐3
+- `+` [Typed-lm: a Rust jev open source alternative](https://news.ycombinator.com/item?id=49855980) — observed / media-discussions — ⭐3
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐2
+- `+` [Show HN: Ephemeral runner for JEV-style models](https://news.ycombinator.com/item?id=49857297) — observed / media-discussions — ⭐2
+- `+` [ARCJ137442/jev-switch](https://github.com/ARCJ137442/jev-switch) — inferred / routing-guardrails — ⭐1
+- `+` [ccdepsilon/jev-browser-memory-assistant](https://github.com/ccdepsilon/jev-browser-memory-assistant) — inferred / apps-demos — ⭐1
+- `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐1
+- …另有 78 条新增
