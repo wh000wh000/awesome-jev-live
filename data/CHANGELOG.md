@@ -1722,3 +1722,32 @@
 - `+` [xAndreiLi/pi-jev-wiki](https://github.com/xAndreiLi/pi-jev-wiki) — inferred / agent-tooling — ⭐0
 - `+` [wendyeq/dsh-jev-router](https://github.com/wendyeq/dsh-jev-router) — inferred / agent-tooling — ⭐0
 - …另有 10 条新增
+
+## 2026-09-26T18:18:59+08:00
+- 收录总数 **806**；本 tick 新增 **98**
+- `+` [socai-io/jev-social](https://github.com/socai-io/jev-social) — inferred / agent-tooling — ⭐87
+- `+` [A single function Jev-like wrapper for LLMs, including vision models](https://news.ycombinator.com/item?id=49853175) — observed / media-discussions — ⭐73
+- `+` [topherchris420/james_library](https://github.com/topherchris420/james_library) — inferred / community-sdk — ⭐72
+- `+` [shengjidaguai-china/goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) — inferred / other — ⭐48
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐26
+- `+` [6Mikao9/jev-native-agent-with-extended-options](https://github.com/6Mikao9/jev-native-agent-with-extended-options) — inferred / community-sdk — ⭐23
+- `+` [jesset/pi-verdict](https://github.com/jesset/pi-verdict) — inferred / agent-tooling — ⭐10
+- `+` [Ryu0118/jev-sim-use](https://github.com/Ryu0118/jev-sim-use) — inferred / apps-demos — ⭐8
+- `+` [Elue-dev/jev_elixir](https://github.com/Elue-dev/jev_elixir) — inferred / community-sdk — ⭐7
+- `+` [nexibeo/jev-browser-control](https://github.com/nexibeo/jev-browser-control) — inferred / community-sdk — ⭐5
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐5
+- `+` [llm-learner/headroom](https://github.com/llm-learner/headroom) — inferred / agent-tooling — ⭐5
+- `+` [chenrui333/jev-docs](https://github.com/chenrui333/jev-docs) — inferred / community-sdk — ⭐5
+- `+` [pCwOrM/werr](https://github.com/pCwOrM/werr) — inferred / agent-tooling — ⭐4
+- `+` [jiangkoumo/ego-jev](https://github.com/jiangkoumo/ego-jev) — inferred / agent-tooling — ⭐4
+- `+` [jinlio/mjbrain](https://github.com/jinlio/mjbrain) — inferred / other — ⭐4
+- `+` [unownone/jevsume](https://github.com/unownone/jevsume) — unverified / other — ⭐3
+- `+` [gitchw/LCT](https://github.com/gitchw/LCT) — inferred / agent-tooling — ⭐3
+- `+` [zhouzihao11/jev-dllm](https://github.com/zhouzihao11/jev-dllm) — inferred / other — ⭐3
+- `+` [suenot/codex-jev-router](https://github.com/suenot/codex-jev-router) — inferred / agent-tooling — ⭐3
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐3
+- `+` [HiepPP/hiep-paseo-plugin](https://github.com/HiepPP/hiep-paseo-plugin) — unverified / agent-tooling — ⭐3
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [It's a Jev's World](https://news.ycombinator.com/item?id=49853879) — observed / media-discussions — ⭐3
+- `+` [Show HN: I built a chatbot that can only reply in emoji, powered by Jev](https://news.ycombinator.com/item?id=49853574) — observed / media-discussions — ⭐3
+- …另有 73 条新增
