@@ -1809,3 +1809,32 @@
 - `+` [TechyAditya/jev-browser-sidekick-mcp](https://github.com/TechyAditya/jev-browser-sidekick-mcp) — inferred / agent-tooling — ⭐0
 - `+` [vpicone/jev-lab](https://github.com/vpicone/jev-lab) — inferred / routing-guardrails — ⭐0
 - …另有 39 条新增
+
+## 2026-09-27T05:43:12+08:00
+- 收录总数 **833**；本 tick 新增 **41**
+- `+` [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) — inferred / agent-tooling — ⭐202
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐33
+- `+` [nibzard/decision-model-benchmark](https://github.com/nibzard/decision-model-benchmark) — unverified / evaluation — ⭐9
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐6
+- `+` [Charlyhno-eng/jev-document-classification](https://github.com/Charlyhno-eng/jev-document-classification) — inferred / other — ⭐6
+- `+` [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — inferred / community-sdk — ⭐5
+- `+` [devjothish/laya-forge](https://github.com/devjothish/laya-forge) — inferred / agent-tooling — ⭐3
+- `+` [AgenticAPP-Web/Jev-Research-Index](https://github.com/AgenticAPP-Web/Jev-Research-Index) — inferred / research-models — ⭐2
+- `+` [You don't need Jev for good emoji search](https://news.ycombinator.com/item?id=49859335) — observed / media-discussions — ⭐2
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
+- `+` [8endit/CasaJev](https://github.com/8endit/CasaJev) — inferred / agent-tooling — ⭐1
+- `+` [robertn702/opencode-jev-router](https://github.com/robertn702/opencode-jev-router) — inferred / agent-tooling — ⭐1
+- `+` [MorganOnCode/jev-gram](https://github.com/MorganOnCode/jev-gram) — inferred / other — ⭐0
+- `+` [rudra72r/jev-guard](https://github.com/rudra72r/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [tanishkgovil/jev-elevator-dispatch](https://github.com/tanishkgovil/jev-elevator-dispatch) — inferred / media-discussions — ⭐0
+- `+` [garygentry/jev-poc](https://github.com/garygentry/jev-poc) — inferred / apps-demos — ⭐0
+- `+` [eortizs/jev-json-builder](https://github.com/eortizs/jev-json-builder) — inferred / agent-tooling — ⭐0
+- `+` [jpwinans/herdr-jev-auto-compaction](https://github.com/jpwinans/herdr-jev-auto-compaction) — inferred / agent-tooling — ⭐0
+- `+` [Tokol/DecisionServiceJev](https://github.com/Tokol/DecisionServiceJev) — inferred / agent-tooling — ⭐0
+- `+` [damian87x/jev-browser-use](https://github.com/damian87x/jev-browser-use) — inferred / agent-tooling — ⭐0
+- `+` [raiharsh88/jev-product-compliance](https://github.com/raiharsh88/jev-product-compliance) — inferred / routing-guardrails — ⭐0
+- `+` [lancejohnson/pi-jev-thinking](https://github.com/lancejohnson/pi-jev-thinking) — inferred / other — ⭐0
+- `+` [damian87x/jev-pi-skills](https://github.com/damian87x/jev-pi-skills) — inferred / agent-tooling — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [cdubiel08/jev-ercot](https://github.com/cdubiel08/jev-ercot) — inferred / apps-demos — ⭐0
+- …另有 16 条新增
