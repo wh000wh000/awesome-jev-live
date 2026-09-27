@@ -1954,3 +1954,32 @@
 - `+` [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) — inferred / agent-tooling — ⭐0
 - `+` [saibala2905/itr2-evidence-reasoning-jev](https://github.com/saibala2905/itr2-evidence-reasoning-jev) — inferred / other — ⭐0
 - …另有 18 条新增
+
+## 2026-09-27T21:15:28+08:00
+- 收录总数 **809**；本 tick 新增 **42**
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / media-discussions — ⭐131
+- `+` [EliaAlberti/jev-rules](https://github.com/EliaAlberti/jev-rules) — inferred / agent-tooling — ⭐55
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐34
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐10
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐8
+- `+` [rupeshpoojary9/awesome-open-system-one](https://github.com/rupeshpoojary9/awesome-open-system-one) — inferred / evaluation — ⭐8
+- `+` [Shashank-H/pi-jev-context-curator](https://github.com/Shashank-H/pi-jev-context-curator) — inferred / other — ⭐5
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [Manavarya09/verdict](https://github.com/Manavarya09/verdict) — inferred / routing-guardrails — ⭐3
+- `+` [Jev in your local browser in Go with WebGPU using Jeyzma](https://news.ycombinator.com/item?id=49866106) — observed / media-discussions — ⭐3
+- `+` [ourines/hermes-jev](https://github.com/ourines/hermes-jev) — inferred / agent-tooling — ⭐2
+- `+` [Oranquelui/astra-jev-harness](https://github.com/Oranquelui/astra-jev-harness) — inferred / community-sdk — ⭐2
+- `+` [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) — observed / media-discussions — ⭐1
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / research-models — ⭐1
+- `+` [imanshu03/jev-browser-use](https://github.com/imanshu03/jev-browser-use) — inferred / agent-tooling — ⭐0
+- `+` [FirasB9/jev-community-ops](https://github.com/FirasB9/jev-community-ops) — inferred / routing-guardrails — ⭐0
+- `+` [edddine4-source/jev-challenge-lab](https://github.com/edddine4-source/jev-challenge-lab) — inferred / other — ⭐0
+- `+` [juanfabrega/jev-quiz-pilot](https://github.com/juanfabrega/jev-quiz-pilot) — inferred / community-sdk — ⭐0
+- `+` [Ansh-Sonkusare/jev-compaction-harnesses](https://github.com/Ansh-Sonkusare/jev-compaction-harnesses) — inferred / agent-tooling — ⭐0
+- `+` [TareqAlhashash/jev-claude-codereviewer](https://github.com/TareqAlhashash/jev-claude-codereviewer) — observed / agent-tooling — ⭐0
+- `+` [ThomasRossi/fin-benchmark-jev](https://github.com/ThomasRossi/fin-benchmark-jev) — observed / evaluation — ⭐0
+- `+` [BillNDD/jev-bug-hunter](https://github.com/BillNDD/jev-bug-hunter) — inferred / other — ⭐0
+- `+` [breaker364/jev-rag-gate](https://github.com/breaker364/jev-rag-gate) — observed / routing-guardrails — ⭐0
+- `+` [Chetax/jev-ecommerce-reviews](https://github.com/Chetax/jev-ecommerce-reviews) — inferred / evaluation — ⭐0
+- `+` [Laaaaksh/jev-playground](https://github.com/Laaaaksh/jev-playground) — inferred / apps-demos — ⭐0
+- …另有 17 条新增
