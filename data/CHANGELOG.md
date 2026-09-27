@@ -1983,3 +1983,32 @@
 - `+` [Chetax/jev-ecommerce-reviews](https://github.com/Chetax/jev-ecommerce-reviews) — inferred / evaluation — ⭐0
 - `+` [Laaaaksh/jev-playground](https://github.com/Laaaaksh/jev-playground) — inferred / apps-demos — ⭐0
 - …另有 17 条新增
+
+## 2026-09-27T23:35:59+08:00
+- 收录总数 **811**；本 tick 新增 **51**
+- `+` [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) — inferred / agent-tooling — ⭐202
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐35
+- `+` [Abhinavexists/lev](https://github.com/Abhinavexists/lev) — inferred / other — ⭐23
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐17
+- `+` [vinibrsl/gut](https://github.com/vinibrsl/gut) — inferred / community-sdk — ⭐15
+- `+` [TrustifAI/typed_evals](https://github.com/TrustifAI/typed_evals) — observed / agent-tooling — ⭐12
+- `+` [jesset/pi-verdict](https://github.com/jesset/pi-verdict) — inferred / agent-tooling — ⭐10
+- `+` [erkamyaman/jev-enforce](https://github.com/erkamyaman/jev-enforce) — inferred / agent-tooling — ⭐9
+- `+` [reinhard-z/vision-jev](https://github.com/reinhard-z/vision-jev) — inferred / apps-demos — ⭐5
+- `+` [Li-Evan/awesome-jev](https://github.com/Li-Evan/awesome-jev) — observed / apps-demos — ⭐5
+- `+` [AstonyCat/jev-tab-grouper](https://github.com/AstonyCat/jev-tab-grouper) — inferred / community-sdk — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐3
+- `+` [oluies/jev-vs-spacy](https://github.com/oluies/jev-vs-spacy) — inferred / routing-guardrails — ⭐2
+- `+` [jevaidev/jev-ai-radar](https://github.com/jevaidev/jev-ai-radar) — inferred / apps-demos — ⭐2
+- `+` [Dj-Shortcut/rekordbox-jev](https://github.com/Dj-Shortcut/rekordbox-jev) — inferred / other — ⭐2
+- `+` [Show HN: Matching Jev on BANKING77 at a thousandth of the cost](https://news.ycombinator.com/item?id=49867086) — observed / media-discussions — ⭐2
+- `+` [Jev and the Return of AI/ML Engineering](https://news.ycombinator.com/item?id=49866629) — observed / media-discussions — ⭐2
+- `+` [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734) — observed / media-discussions — ⭐2
+- `+` [kartikanand73/jev-decision-gateway](https://github.com/kartikanand73/jev-decision-gateway) — inferred / routing-guardrails — ⭐1
+- `+` [OmniJev/OneJev](https://github.com/OmniJev/OneJev) — inferred / agent-tooling — ⭐1
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐1
+- `+` [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) — inferred / agent-tooling — ⭐0
+- `+` [tatsuya-tech77/umigame-jev](https://github.com/tatsuya-tech77/umigame-jev) — inferred / agent-tooling — ⭐0
+- `+` [starhn87/jev-utils](https://github.com/starhn87/jev-utils) — inferred / community-sdk — ⭐0
+- `+` [mkgraiitr/investment-scanner-agent-jev](https://github.com/mkgraiitr/investment-scanner-agent-jev) — observed / community-sdk — ⭐0
+- …另有 26 条新增
