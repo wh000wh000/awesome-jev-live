@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-819-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-815-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <b>Français</b> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Index en direct** · Dernière synchronisation: `2026-09-28T02:13:45+08:00` (UTC+8)
-> · Entrées: **819** · Nouvelles ce cycle: **60** · Langages d'implémentation: **24**
+> **Index en direct** · Dernière synchronisation: `2026-09-28T04:27:47+08:00` (UTC+8)
+> · Entrées: **815** · Nouvelles ce cycle: **47** · Langages d'implémentation: **25**
 
 <sub>Chaque entrée ci-dessous a été collectée, filtrée et revérifiée par le pipeline de ce dépôt. Les chiffres et les horodatages proviennent des sources, non d'un instantané rédigé à la main.</sub>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>🏛️ <a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b>
-<sub>⭐2267 · ✅ official</sub>
+<sub>⭐2274 · ✅ official</sub>
 <sub>Compétences d’agent pour construire avec les System One API de TypeSafe</sub>
 </td>
 <td width="50%" valign="top">
@@ -47,13 +47,13 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/gargpratyush--jev-router/361cf042aa7f2e59.png" width="100%" alt="john-rocky/coreai-kit">
 <b>🤖 <a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b>
-<sub>⭐444 · JavaScript · 🔎 inferred</sub>
+<sub>⭐445 · JavaScript · 🔎 inferred</sub>
 <sub>Acheminez votre tâche vers le modèle le moins cher de claude code avec jev-router</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/nandhakishorm--laya/e01e49f0d842b461.png" width="100%" alt="gargpratyush/jev-router">
 <b>🛡️ <a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b>
-<sub>⭐26534 · Python · 👁️ observed</sub>
+<sub>⭐26615 · Python · 👁️ observed</sub>
 <sub>Moteur de décision Système 1 non autorégressif. Décisions typées de choix, de score et oui/non sur n’importe quel texte en une seule passe avant, dans plus de 100…</sub>
 </td>
 </tr>
@@ -67,7 +67,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/da3528699bc28423.gif" width="100%" alt="ikermoel/open-alternative-jev">
 <b>🔬 <a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b>
-<sub>⭐2340 · Python · 🔎 inferred</sub>
+<sub>⭐2343 · Python · 🔎 inferred</sub>
 <sub>Une nano-réplique de Jev : décisions parallèles, candidats dynamiques et pipeline d’entraînement de bout en bout.</sub>
 </td>
 </tr>
@@ -91,14 +91,14 @@
 - [Qu'est-ce que Jev ?](#quest-ce-que-jev)
 - [Comment les entrées sont classées](#comment-les-entrées-sont-classées)
 - [SDK officiels et outils de développement](#sdk-officiels-et-outils-de-développement) — **6**
-- [Clients, SDK et adaptateurs communautaires](#clients-sdk-et-adaptateurs-communautaires) — **132**
-- [Outillage d'agents : MCP, hooks, portes de contrôle et agents de codage](#outillage-dagents--mcp-hooks-portes-de-contrôle-et-agents-de-codage) — **246**
-- [Routage, garde-fous et approbations](#routage-garde-fous-et-approbations) — **70**
-- [Évaluation, calibration et benchmarks](#évaluation-calibration-et-benchmarks) — **73**
-- [Reproductions ouvertes, poids et recherche sur l'architecture](#reproductions-ouvertes-poids-et-recherche-sur-larchitecture) — **47**
-- [Applications, jeux, robotique et démos interactives](#applications-jeux-robotique-et-démos-interactives) — **46**
-- [Articles, discussions et listes sœurs](#articles-discussions-et-listes-sœurs) — **105**
-- [Autres projets](#autres-projets) — **94**
+- [Clients, SDK et adaptateurs communautaires](#clients-sdk-et-adaptateurs-communautaires) — **130**
+- [Outillage d'agents : MCP, hooks, portes de contrôle et agents de codage](#outillage-dagents--mcp-hooks-portes-de-contrôle-et-agents-de-codage) — **248**
+- [Routage, garde-fous et approbations](#routage-garde-fous-et-approbations) — **71**
+- [Évaluation, calibration et benchmarks](#évaluation-calibration-et-benchmarks) — **76**
+- [Reproductions ouvertes, poids et recherche sur l'architecture](#reproductions-ouvertes-poids-et-recherche-sur-larchitecture) — **44**
+- [Applications, jeux, robotique et démos interactives](#applications-jeux-robotique-et-démos-interactives) — **50**
+- [Articles, discussions et listes sœurs](#articles-discussions-et-listes-sœurs) — **104**
+- [Autres projets](#autres-projets) — **86**
 - [Projets par langage d'implémentation](#projets-par-langage-dimplémentation)
 - [Comment cette liste reste à jour](#comment-cette-liste-reste-à-jour)
 
@@ -132,7 +132,7 @@ La plupart des listes de ce domaine affirment l'inclusion. Celle-ci dit ce qu'el
 Tout ce que publie TypeSafe. Commencez ici.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2267 · ✅ official · 15 天 · ⭐+12</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2274 · ✅ official · 15 天 · ⭐+7</summary>
 
 ##### 📝 Résumé
 
@@ -149,16 +149,16 @@ Compétences d’agent pour construire avec les System One API de TypeSafe
 
 ##### 📊 Données
 
-| Métrique            | Valeur         |
-| ------------------- | -------------- |
-| Étoiles             | **2267** (+12) |
-| Dernier push        | 2026-09-12     |
-| Première apparition | 2026-09-18     |
+| Métrique            | Valeur        |
+| ------------------- | ------------- |
+| Étoiles             | **2274** (+7) |
+| Dernier push        | 2026-09-12    |
+| Première apparition | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐311 · Python · ✅ official · 5 天 · ⭐+1</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐311 · Python · ✅ official · 5 天</summary>
 
 ##### 📝 Résumé
 
@@ -176,16 +176,16 @@ Remplacement direct de TypeSafeClient basé sur LLM APIs
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **311** (+1) |
-| Dernier push        | 2026-09-22   |
-| Première apparition | 2026-09-18   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **311**    |
+| Dernier push        | 2026-09-22 |
+| Première apparition | 2026-09-18 |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-js">typesafe-ai/typesafe-sdk-js</a></b> · ⭐247 · TypeScript · ✅ official · 11 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-js">typesafe-ai/typesafe-sdk-js</a></b> · ⭐247 · TypeScript · ✅ official · 12 天</summary>
 
 ##### 📝 Résumé
 
@@ -241,7 +241,7 @@ La bibliothèque officielle Python pour TypeSafe API
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/TypeSafeAI/jev-harness">TypeSafeAI/jev-harness</a></b> · ⭐20 · TypeScript · ✅ official · 0 天</summary>
+<summary>🏛️ <b><a href="https://github.com/TypeSafeAI/jev-harness">TypeSafeAI/jev-harness</a></b> · ⭐20 · TypeScript · ✅ official · 1 天</summary>
 
 ##### 📝 Résumé
 
@@ -299,7 +299,7 @@ Aucune description n'a été publiée en amont.
 Des clients typés pour l'endpoint System One, dans autant de langages que la communauté a eu le temps d'en traiter.
 
 <details>
-<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐144 · Jupyter · 👁️ observed · 9 天</summary>
+<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐145 · Jupyter · 👁️ observed · 9 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -315,11 +315,11 @@ System One Model de Typesafe.ai Jev parcourant un graphe Neo4j à l'aide d'un cl
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **144**    |
-| Dernier push        | 2026-09-18 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **145** (+1) |
+| Dernier push        | 2026-09-18   |
+| Première apparition | 2026-09-18   |
 
 </details>
 
@@ -448,7 +448,7 @@ Plus de 200 recettes Jev prêtes à l’emploi : petites décisions IA calibrée
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/ckaraca/awesome-jev">ckaraca/awesome-jev</a></b> · ⭐11 · Python · 👁️ observed · 0 天</summary>
+<summary>🧰 <b><a href="https://github.com/ckaraca/awesome-jev">ckaraca/awesome-jev</a></b> · ⭐12 · Python · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -464,11 +464,11 @@ Une liste organisée d’outils, d’intégrations et d’expériences construit
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **11**     |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-19 |
+| Métrique            | Valeur      |
+| ------------------- | ----------- |
+| Étoiles             | **12** (+1) |
+| Dernier push        | 2026-09-27  |
+| Première apparition | 2026-09-19  |
 
 🏷 `ai-agents` · `awesome` · `awesome-list` · `computer-use` · `jev` · `llm` · `system-one` · `typesafe`
 
@@ -651,41 +651,7 @@ Browser use & computer use for coding agents, powered by TypeSafe Jev: calibrate
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/abhisingh9696/jev">abhisingh9696/jev</a></b> · Python · 👁️ observed · 0 天</summary>
-
-##### 📝 Résumé
-
-Jev decision-gate skill for Hermes Agent — typesafe/jev-1.13 client
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                       |
-| --------- | -------------------------------------------- |
-| Catégorie | `Clients, SDK et adaptateurs communautaires` |
-| Preuve    | `observed`                                   |
-| Langage   | Python                                       |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **0**      |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-27 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/abhisingh9696/jev/main/comparison.png" width="100%" alt="abhisingh9696/jev screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
-
-<sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
-
-</details>
-
-<details>
-<summary>🧰 <b><a href="https://github.com/Bonzokoles/36_chambers">Bonzokoles/36_chambers</a></b> · Python · 👁️ observed · 2 天</summary>
+<summary>🧰 <b><a href="https://github.com/Bonzokoles/36_chambers">Bonzokoles/36_chambers</a></b> · Python · 👁️ observed · 3 天</summary>
 
 ##### 📝 Résumé
 
@@ -721,7 +687,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12229 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12233 · Python · 🔎 inferred · 1 天 · ⭐+4</summary>
 
 ##### 📝 Résumé
 
@@ -739,7 +705,7 @@ Système d’exploitation de trading IA open source, agents de trading et tradin
 
 | Métrique            | Valeur         |
 | ------------------- | -------------- |
-| Étoiles             | **12229** (+1) |
+| Étoiles             | **12233** (+4) |
 | Dernier push        | 2026-09-26     |
 | Première apparition | 2026-09-20     |
 
@@ -755,7 +721,7 @@ Système d’exploitation de trading IA open source, agents de trading et tradin
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐604 · TypeScript · 🔎 inferred · 0 天 · ⭐+85</summary>
+<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐668 · TypeScript · 🔎 inferred · 0 天 · ⭐+64</summary>
 
 ##### 📝 Résumé
 
@@ -773,7 +739,7 @@ Trouvez du code en demandant ce qu’il fait. Un CLI pour agents de codage qui u
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **604** (+85) |
+| Étoiles             | **668** (+64) |
 | Dernier push        | 2026-09-27    |
 | Première apparition | 2026-09-27    |
 
@@ -789,7 +755,7 @@ Trouvez du code en demandant ce qu’il fait. Un CLI pour agents de codage qui u
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/rokbenko/quackd">rokbenko/quackd</a></b> · ⭐241 · Python · 🔎 inferred · 1 天</summary>
+<summary>🧰 <b><a href="https://github.com/rokbenko/quackd">rokbenko/quackd</a></b> · ⭐241 · Python · 🔎 inferred · 2 天</summary>
 
 ##### 📝 Résumé
 
@@ -823,7 +789,7 @@ Un CLI pour tous vos robots. Connectez-les, commandez-les et laissez-les travail
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/supercorp-ai/supercov">supercorp-ai/supercov</a></b> · ⭐131 · Rust · 🔎 inferred · 0 天</summary>
+<summary>🧰 <b><a href="https://github.com/supercorp-ai/supercov">supercorp-ai/supercov</a></b> · ⭐132 · Rust · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -841,11 +807,11 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **131**    |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **132** (+1) |
+| Dernier push        | 2026-09-27   |
+| Première apparition | 2026-09-18   |
 
 🏷 `agent-skills` · `claude-code` · `code-coverage` · `code-quality` · `codex` · `coding-agents` · `coverage` · `gemini-cli-extension`
 
@@ -859,25 +825,57 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 </details>
 
 <details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 114</sub></summary>
+<summary>🧰 <b><a href="https://github.com/socai-io/jev-social">socai-io/jev-social</a></b> · ⭐99 · JavaScript · 🔎 inferred · 0 天 · ⭐+1</summary>
+
+##### 📝 Résumé
+
+Agent de recherche open-source en lecture seule sur les réseaux sociaux pour Instagram, TikTok et LinkedIn. Jev route des étapes bornées ; socai CLI local capture les preuves du navigateur.
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                       |
+| --------- | -------------------------------------------- |
+| Catégorie | `Clients, SDK et adaptateurs communautaires` |
+| Preuve    | `inferred`                                   |
+| Langage   | JavaScript                                   |
+
+##### 📊 Données
+
+| Métrique            | Valeur      |
+| ------------------- | ----------- |
+| Étoiles             | **99** (+1) |
+| Dernier push        | 2026-09-27  |
+| Première apparition | 2026-09-26  |
+
+🏷 `agent-skills` · `ai-agents` · `browser-agent` · `browser-automation` · `codex-skills` · `decision-model` · `deep-research` · `instagram`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/socai-io--jev-social/b95803491d0f55c3.png" width="100%" alt="socai-io/jev-social screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/socai-io--jev-social/0a9e1e30f2fa0829.gif" width="100%" alt="socai-io/jev-social animation"><br><sub>enregistrement animé</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>Plus dans cette catégorie</b> <sub>· 112</sub></summary>
 
 - [GitHub30/OpenJev](https://github.com/GitHub30/OpenJev) - Open-weight System One model (Jev-compatible): calibrated noul / choice / score…
 - [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) - A curated list of TypeSafe Jev resources, SDKs, agents, MCP servers…
 - [juangchuank-ops/jev2api](https://github.com/juangchuank-ops/jev2api) - TypeSafe Jev (typesafe.ai) 反向代理网关：原生 /v1/systemone 透传 + OpenAI 兼容层，含号池与控制台.
 - [systemonemodels/systemonemodels-sdk](https://github.com/systemonemodels/systemonemodels-sdk)
-- [glacer06/SysOne-Wrapper](https://github.com/glacer06/SysOne-Wrapper) - System One Model wrapper and management for realtime adjustment flexible usage.
+- [glacer06/bandwise](https://github.com/glacer06/bandwise) - System One Model wrapper and management for realtime adjustment flexible usage.
 - [mkgraiitr/investment-scanner-agent-jev](https://github.com/mkgraiitr/investment-scanner-agent-jev) - Educational example to learn Jev concepts (TypeSafe.ai) with an AI Agent.
 - [olivere/systemone](https://github.com/olivere/systemone) - Small, standard-library-only Go library for typed decisions with Jev and other…
-- [vibecodingelite-ai/cacador-de-anuncios](https://github.com/vibecodingelite-ai/cacador-de-anuncios) - Extensão do Chrome que analisa anúncios da Biblioteca de Anúncios da Meta com o…
 - [realZachi/pg-jev](https://github.com/realZachi/pg-jev) - Posez des questions en langage naturel à vos tables Postgres.
 - [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) - Créez des fonctions IA calibrées à partir de retours humains en utilisant Jev…
 - [juspay/neurolink](https://github.com/juspay/neurolink) - La couche de tuyauterie d.
 - [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, mais le motif est une description.
-- [socai-io/jev-social](https://github.com/socai-io/jev-social) - Agent de recherche open-source en lecture seule sur les réseaux sociaux pour…
 - [qkal/Canny](https://github.com/qkal/Canny) - Empêche les agents de codage IA d.
 - [Ying-Kai-Liao/jev-browser](https://github.com/Ying-Kai-Liao/jev-browser) - Automatisation de navigateur où un LLM planifie et Jev (System One Typesafe)…
-- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) - Triage d.
 - [AkashPriyadarshii/jev-curate](https://github.com/AkashPriyadarshii/jev-curate) - Filtreur de jeux de données synthétiques et de préentraînement à haut débit…
+- [fazlerocks/jevmail](https://github.com/fazlerocks/jevmail) - Triage d.
 - [AkashPriyadarshii/jev-seo](https://github.com/AkashPriyadarshii/jev-seo) - Kit SEO et GEO gratuit pour Rust, propulsé par TypeSafe Jev : audits à 58…
 - [yzfly/awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) - Liste sélectionnée en chinois de Jev / TypeSafe System One : ressources…
 - [aaddrick/building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev) - Compétence non officielle qui apprend aux agents de codage à construire avec le…
@@ -894,10 +892,11 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 - [Ray-Hughes/jevalyn](https://github.com/Ray-Hughes/jevalyn) - La couche de décision pour votre application Rails.
 - [evoke-build/evoke](https://github.com/evoke-build/evoke) - Logiciel, par réflexe. Dites-le, et le bon petit programme s.
 - [arjun988/Kev](https://github.com/arjun988/Kev) - Moteur de décision System One open source.
-- [vinibrsl/gut](https://github.com/vinibrsl/gut) - Utilisez le jugement de LLM dans le flux de contrôle habituel de Elixir.
+- [thusinh1969/BrighTO_Router](https://github.com/thusinh1969/BrighTO_Router) - Routeur BrighTO LLM : passerelle Rust LLM auto-hébergée, open source, gratuite…
+- [utk2103/jev-studio](https://github.com/utk2103/jev-studio) - si vous expérimentez avec jev, ce sera plus facile à partir d.
 - [ruban-24/switchboard](https://github.com/ruban-24/switchboard) - Un routeur de décisions open source et indépendant du modèle pour Claude Code…
-- [saibimajdi/typesafeai-dotnet-sdk](https://github.com/saibimajdi/typesafeai-dotnet-sdk) - SDK .NET communautaire pour le System One API TypeSafe AI — questions typées de…
 - [Elue-dev/jev_elixir](https://github.com/Elue-dev/jev_elixir) - jev_elixir est une petite interface idiomatique pour prendre des décisions…
+- [saibimajdi/typesafeai-dotnet-sdk](https://github.com/saibimajdi/typesafeai-dotnet-sdk) - SDK .NET communautaire pour le System One API TypeSafe AI — questions typées de…
 - [himomohi/aside-jev](https://github.com/himomohi/aside-jev) - Les agents Aside prennent leurs décisions avec TypeSafe Jev.
 - [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) - Passerelle de revue de code pour la CI et les agents de codage : pose TypeSafe…
 - [devbackend/jevgo](https://github.com/devbackend/jevgo) - Client Go non officiel pour le TypeSafe AI System One API (Jev) — questions…
@@ -905,19 +904,17 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 - [Olti1947/jev-java](https://github.com/Olti1947/jev-java) - Java SDK idiomatique pour le moteur de décision System One Jev TypeSafe AI.
 - [luigivis/jev-sdk-java](https://github.com/luigivis/jev-sdk-java) - Type-safe Java 21 client for the TypeSafe AI Jev (System One) decision API.
 - [Stumble/jev-go](https://github.com/Stumble/jev-go) - Go SDK communautaire pour TypeSafe AI Jev / System One.
-- [AkashPriyadarshii/jev-scout](https://github.com/AkashPriyadarshii/jev-scout) - Zero-hallucination open-source repo and crate scout powered by TypeSafe AI Jev…
-- [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) - Model and reasoning routing for Codex Desktop and CLI, with a Windows service…
 - [chenrui333/jev-docs](https://github.com/chenrui333/jev-docs) - Community-maintained history of Jev / TypeSafe System One APIs, SDKs, agent…
+- [haileyok/typesafe-client](https://github.com/haileyok/typesafe-client) - Unofficial Go and Rust clients for the TypeSafe AI System One API (Jev).
 - [mountainMath/JevR](https://github.com/mountainMath/JevR) - Client R pour le TypeSafe Jev System One API.
 - [nexibeo/jev-browser-control](https://github.com/nexibeo/jev-browser-control) - Let Claude code, chatgpt codex or control your own Chrome.
 - [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) - Compétence d.
 - [Butochnikov/laravel-typesafe-jev](https://github.com/Butochnikov/laravel-typesafe-jev) - Intégration Laravel non officielle pour TypeSafe Jev AI avec réponses typées…
 - [jiangkoumo/ego-decision-layer](https://github.com/jiangkoumo/ego-decision-layer) - Pluggable decision layer for the ego lite browser: one System One (Jev) call…
 - [AboveColin/jevclient](https://github.com/AboveColin/jevclient) - Client Python asynchrone pour TypeSafe Jev.
-- [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) - Local knowledge search with three modes: BM25 + Jev by default, agentic…
 - [ariel-frischer/jevkit](https://github.com/ariel-frischer/jevkit) - Fast Rust CLI for TypeSafe Jev: typed decisions, offline linting before you pay.
 - [AstonyCat/jev-tab-grouper](https://github.com/AstonyCat/jev-tab-grouper) - One-click AI tab grouping for Chrome — Jev typed decisions (~1s, whole window)…
-- [haileyok/typesafe-client](https://github.com/haileyok/typesafe-client) - Unofficial Go and Rust clients for the TypeSafe AI System One API (Jev).
+- [marcreichel/laya-php](https://github.com/marcreichel/laya-php) - Classify text in PHP without an LLM bill: typed decisions in 100+ languages…
 - [WXK-AI/jev-opus](https://github.com/WXK-AI/jev-opus) - Claude Opus 5.5 with the effort level re-decided every step by the TypeSafe Jev…
 - [zhirschtritt/typesafe-go](https://github.com/zhirschtritt/typesafe-go) - Go SDK idiomatique pour le TypeSafe AI API.
 - [itscloud0/codex-jev-native-router](https://github.com/itscloud0/codex-jev-native-router) - Experimental native Codex Desktop and CLI model routing with Jev and a…
@@ -925,6 +922,7 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 - [Oranquelui/astra-jev-harness](https://github.com/Oranquelui/astra-jev-harness) - Agent Skills for Codex Desktop and Claude Code, plus a Codex CLI harness.
 - [acidkill/JevCompass](https://github.com/acidkill/JevCompass) - Tool and skill suggestions for Codex Desktop and CLI, with local-first privacy…
 - [agugliotta/jev-kmp](https://github.com/agugliotta/jev-kmp) - TypeSafe Jev Kotlin Multiplatform (KMP) SDK for Android, iOS, and JVM.
+- [ajayk/jev-go-sdk](https://github.com/ajayk/jev-go-sdk) - Dependency-free Go client for TypeSafe AI.
 - [Bulato597-data/codex-jev-router](https://github.com/Bulato597-data/codex-jev-router) - Jev-assisted model and reasoning-effort routing for local Codex Desktop and CLI.
 - [chayan-bit/Jev-Frame](https://github.com/chayan-bit/Jev-Frame) - Typed, auditable Jev decisions for Python agents, with an optional shared…
 - [DejaAI2/JevNext](https://github.com/DejaAI2/JevNext) - Decision model on a Qwen3-0.6B backbone with LoRA: fused decision endpoint…
@@ -944,18 +942,19 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 - [Coding-Dev-Tools/jev-decision](https://github.com/Coding-Dev-Tools/jev-decision) - Zero-dependency System 1 decision engine, calibrated guardrails, and token…
 - [crazyooo/jev-router-desktop-adapter](https://github.com/crazyooo/jev-router-desktop-adapter) - Unofficial local Jev Router adapter for the Codex desktop app on macOS.
 - [f-lombardo/jev-php](https://github.com/f-lombardo/jev-php) - A PHP library to connect to TypeSafe JEV APIs.
-- [Jev-Engineering/jev-integration-evaluator](https://github.com/Jev-Engineering/jev-integration-evaluator) - Evidence-driven JEV integration analysis and evaluation toolkit.
 - [JingHao-Leon/awesome-jev-apps](https://github.com/JingHao-Leon/awesome-jev-apps) - Jev 优质应用与生态精选｜System One 决策模型：开源应用·SDK·平台集成·开源复刻·教程 | curated apps &amp; SDKs for…
+- [jt7991/jev-calculator](https://github.com/jt7991/jev-calculator) - Natural-language calculator with a shared TypeScript core, Svelte UI, Nitro…
 - [juanfabrega/jev-quiz-pilot](https://github.com/juanfabrega/jev-quiz-pilot) - Put Jev in the pilot.
+- [maxtrezzi/jev4s](https://github.com/maxtrezzi/jev4s) - Typed Scala client for Jev (TypeSafe AI). Unofficial.
 - [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) - Bake-off: Playwright CLI vs CLI+Jev vs Playwright MCP.
 - [polaminggkub-debug/jev-watch](https://github.com/polaminggkub-debug/jev-watch) - Watchdog for AI coding agents: stops Codex/OpenCode when they loop, stall or…
 - [prakash7474/JevShield](https://github.com/prakash7474/JevShield) - Hardened TypeScript SDK &amp; Desktop IDE for TypeSafe AI.
+- [pratyushkaware2/jev-stepwise-judge](https://github.com/pratyushkaware2/jev-stepwise-judge) - Stepwise Jev judge for coding agents: tracks knowledge, workspace and goal…
 - [SayamAlt/Smartphone-Reviews-Analysis-using-Jev-AI](https://github.com/SayamAlt/Smartphone-Reviews-Analysis-using-Jev-AI) - Turns raw smartphone reviews into per-topic star ratings.
 - [serpent7776/JevWantstoBeaMillionaire](https://github.com/serpent7776/JevWantstoBeaMillionaire) - Jev (or other agent) plays Who Wants to Be a Millionaire.
 - [Sidneeuncharged29/jev-visual](https://github.com/Sidneeuncharged29/jev-visual) - Run vision-language model inference on Apple Silicon with Qwen3.5-0.8B via MLX;
 - [sjungwon03/jev-langgraph-example](https://github.com/sjungwon03/jev-langgraph-example) - JEV: Proxmox MCP &amp; LangGraph Autonomous Infrastructure Platform.
 - [snevadalabs/jev-kmp](https://github.com/snevadalabs/jev-kmp) - Kotlin Multiplatform SDK for the TypeSafe / Jev System One API — typed…
-- [starhn87/jev-utils](https://github.com/starhn87/jev-utils) - Response validation, observation and evaluation utilities for the official…
 - [Talya1412/jev-harness](https://github.com/Talya1412/jev-harness) - TypeSafe Jev (System One) integrations for OMP, MCP, Claude Code, and Pi…
 - [UMEBOSHIISAN/bonsai-jev-completion-evidence](https://github.com/UMEBOSHIISAN/bonsai-jev-completion-evidence) - Mac mini Bonsai + Jev integration case study, with runnable offline completion…
 - [vincentlauriat/MailClassification.jev](https://github.com/vincentlauriat/MailClassification.jev) - Semantic classification of Outlook, Gmail and IMAP mailboxes with Jev…
@@ -967,7 +966,6 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 - [pithings/advocaat](https://github.com/pithings/advocaat) - Un petit client sûr du point de vue des types pour poser à l.
 - [giuliosmall/pg_typesafe](https://github.com/giuliosmall/pg_typesafe) - Extension PostgreSQL pré-alpha pour la classification catégorielle de TypeSafe…
 - [obie/ruby_decision_model](https://github.com/obie/ruby_decision_model) - Client Ruby pour des modèles de décision tels que Jev Typesafe.
-- [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) - Client de chat IA Android : prêt à discuter dès l.
 - [zhulinchng/jevper](https://github.com/zhulinchng/jevper) - Wrapper de classification en forme de Jev (TypeSafe System One) autour de…
 - [Das-rebel/a3m-router](https://github.com/Das-rebel/a3m-router) - ⚡ Routeur adaptatif LLM multi-modèles — plus de 80 fournisseurs, routage en un…
 - [gilljon/typesafe-ai-rs](https://github.com/gilljon/typesafe-ai-rs) - Rust SDK indépendant asynchrone et bloquant pour le TypeSafe AI System One API.
@@ -985,7 +983,7 @@ Couverture, sécurité et qualité du code pour les agents de programmation
 La catégorie qui croît le plus vite : des hooks, des serveurs MCP et des portes de contrôle qui placent une décision typée devant la prochaine action d'un agent.
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7011 · TypeScript · 🔎 inferred · 9 天 · ⭐+6</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7015 · TypeScript · 🔎 inferred · 9 天 · ⭐+4</summary>
 
 ##### 📝 Résumé
 
@@ -1005,14 +1003,14 @@ Plugin de code Claude qui remplace le résumé de compaction par Jev décisions 
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **7011** (+6) |
+| Étoiles             | **7015** (+4) |
 | Dernier push        | 2026-09-18    |
 | Première apparition | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐444 · JavaScript · 🔎 inferred · 8 天</summary>
+<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐445 · JavaScript · 🔎 inferred · 8 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -1030,11 +1028,11 @@ Acheminez votre tâche vers le modèle le moins cher de claude code avec jev-rou
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **444**    |
-| Dernier push        | 2026-09-19 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **445** (+1) |
+| Dernier push        | 2026-09-19   |
+| Première apparition | 2026-09-18   |
 
 ---
 
@@ -1075,7 +1073,7 @@ Routage par tour du modèle et du raisonnement pour Codex, piloté par Jev (Type
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/AbdelStark/awesome-typesafe-jev">AbdelStark/awesome-typesafe-jev</a></b> · ⭐531 · HTML · 👁️ observed · 0 天</summary>
+<summary>🤖 <b><a href="https://github.com/AbdelStark/awesome-typesafe-jev">AbdelStark/awesome-typesafe-jev</a></b> · ⭐532 · HTML · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -1091,11 +1089,11 @@ Awesome Jev : un guide pratique étayé par des sources sur le modèle System On
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **531**    |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-21 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **532** (+1) |
+| Dernier push        | 2026-09-27   |
+| Première apparition | 2026-09-21   |
 
 🏷 `agent-skills` · `ai-agents` · `awesome` · `awesome-jev` · `awesome-list` · `awesome-lists` · `curated-list` · `developer-tools`
 
@@ -1131,7 +1129,7 @@ Un répertoire de projets Jev étayé par des sources, avec un workflow de revue
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/valentynkit/awesome-jev-typesafe">valentynkit/awesome-jev-typesafe</a></b> · ⭐171 · JavaScript · 👁️ observed · 0 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/valentynkit/awesome-jev-typesafe">valentynkit/awesome-jev-typesafe</a></b> · ⭐171 · JavaScript · 👁️ observed · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -1147,18 +1145,18 @@ Décisions typées avec le Jev de TypeSafe, le premier modèle System One
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **171** (+1) |
-| Dernier push        | 2026-09-27   |
-| Première apparition | 2026-09-19   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **171**    |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-19 |
 
 🏷 `ai-agents` · `awesome` · `awesome-list` · `claude-code` · `directory` · `jev` · `llm-agents` · `system-one`
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/kraayenjon/awesome-jev">kraayenjon/awesome-jev</a></b> · ⭐151 · 👁️ observed · 0 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/kraayenjon/awesome-jev">kraayenjon/awesome-jev</a></b> · ⭐152 · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -1175,7 +1173,7 @@ Une liste organisée de cas d’utilisation, de projets, de SDKs et de ressource
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **151** (+1) |
+| Étoiles             | **152** (+1) |
 | Dernier push        | 2026-09-27   |
 | Première apparition | 2026-09-19   |
 
@@ -1210,7 +1208,7 @@ Une compétence pour écrire et améliorer des programmes qui appellent Jev, le 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/GhalebDweikat/winnow">GhalebDweikat/winnow</a></b> · ⭐93 · Python · 👁️ observed · 8 天</summary>
+<summary>🤖 <b><a href="https://github.com/GhalebDweikat/winnow">GhalebDweikat/winnow</a></b> · ⭐94 · Python · 👁️ observed · 8 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -1226,11 +1224,11 @@ Un tamis de contexte calibré pour Claude Code : chaque résultat d'outil est é
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **93**     |
-| Dernier push        | 2026-09-19 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur      |
+| ------------------- | ----------- |
+| Étoiles             | **94** (+1) |
+| Dernier push        | 2026-09-19  |
+| Première apparition | 2026-09-18  |
 
 🏷 `claude-code` · `claude-code-plugin` · `context-management` · `jev` · `llm-agents` · `typesafe`
 
@@ -1432,6 +1430,40 @@ Autonomous Pokemon Showdown battle agent powered by Jev AI (System One Model by 
 </details>
 
 <details>
+<summary>🤖 <b><a href="https://github.com/SciScend/system-one-categorizer-demo">SciScend/system-one-categorizer-demo</a></b> · Python · 👁️ observed · 0 天 · **NEW**</summary>
+
+##### 📝 Résumé
+
+Jev vs Laya on Bulgarian: two System One models suggest a category for each blog post. A local BgGPT names new topics.
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                                                         |
+| --------- | ------------------------------------------------------------------------------ |
+| Catégorie | `Outillage d&#x27;agents : MCP, hooks, portes de contrôle et agents de codage` |
+| Preuve    | `observed`                                                                     |
+| Langage   | Python                                                                         |
+
+##### 📊 Données
+
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **0**      |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-28 |
+
+🏷 `ai-agents` · `benchmark` · `bggpt` · `bulgarian` · `jev` · `laya` · `llm` · `model-comparison`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/sciscend--system-one-categorizer-demo/1b488a653539c82c.png" width="100%" alt="SciScend/system-one-categorizer-demo screenshot"></td>
+<td align="center" valign="top"><sub>aucun média publié</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🤖 <b><a href="https://github.com/TareqAlhashash/jev-claude-codereviewer">TareqAlhashash/jev-claude-codereviewer</a></b> · Java · 👁️ observed · 0 天</summary>
 
 ##### 📝 Résumé
@@ -1466,7 +1498,7 @@ AI code reviewer demo pairing Jev (typesafe.ai) instant triage with an optional 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐20759 · Python · 🔎 inferred · 2 天 · ⭐+22</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐20783 · Python · 🔎 inferred · 2 天 · ⭐+24</summary>
 
 ##### 📝 Résumé
 
@@ -1484,7 +1516,7 @@ Agent web le plus rapide et le moins cher
 
 | Métrique            | Valeur          |
 | ------------------- | --------------- |
-| Étoiles             | **20759** (+22) |
+| Étoiles             | **20783** (+24) |
 | Dernier push        | 2026-09-25      |
 | Première apparition | 2026-09-18      |
 
@@ -1498,43 +1530,7 @@ Agent web le plus rapide et le moins cher
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8034 · Go · 🔎 inferred · 0 天</summary>
-
-##### 📝 Résumé
-
-✨ Tous vos agents et espaces de travail au même endroit, sur tous vos appareils. Suivez les tâches sur un tableau, accessible depuis un ordinateur, un mobile, un navigateur ou API. Auto-hébergé.
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                                                         |
-| --------- | ------------------------------------------------------------------------------ |
-| Catégorie | `Outillage d&#x27;agents : MCP, hooks, portes de contrôle et agents de codage` |
-| Preuve    | `inferred`                                                                     |
-| Langage   | Go                                                                             |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **8034**   |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-25 |
-
-🏷 `agent-harness` · `agent-orchestration` · `agent-skills` · `agent-workspaces` · `ai-agents` · `ai-native` · `claude-code` · `coding-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://assets.yaoagents.com/en/kanban/09-kanban-daily-en-dark.png" width="100%" alt="YaoApp/yao screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
-
-<sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
-
-</details>
-
-<details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 228</sub></summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 230</sub></summary>
 
 - [BYK/jev-mcp](https://github.com/BYK/jev-mcp) - Serveur MCP axé sur l.
 - [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) - Verdict-based context compaction for DeepSeek Harness — replaces lossy LLM…
@@ -1551,10 +1547,10 @@ Agent web le plus rapide et le moins cher
 - [fabianboth/jevpipe](https://github.com/fabianboth/jevpipe) - Pipe anything into Jev, get typed decisions out.
 - [jms-dcksn/uipath-jev-guardrail-connector](https://github.com/jms-dcksn/uipath-jev-guardrail-connector) - Connecteur UiPath avec votre propre garde-fou, propulsé par le modèle TypeSafe…
 - [lucast4049/openjev](https://github.com/lucast4049/openjev) - Run fast, calibrated, typed decisions on open System One models with a…
-- [mani-aiml/jev-demos](https://github.com/mani-aiml/jev-demos) - Demos with Jev, TypeSafe.
 - [stern9/jev-bench](https://github.com/stern9/jev-bench) - Benchmark TypeSafe.
 - [Wany-i/jev-decision-layer](https://github.com/Wany-i/jev-decision-layer) - 把决策模型.
 - [xiaoyanng/yanng-laya-skill](https://github.com/xiaoyanng/yanng-laya-skill) - Unofficial agent skill for Claude Code, Codex and other agents: fast, local…
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Tous vos agents et espaces de travail au même endroit, sur tous vos…
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - 副驾对话助手，装在手机里：在 QQ / X / 飞书中读懂对方、给出候选回复、一键填入输入框，是否发送由你决定。非侵入式，仅读取屏幕，不 hook，不修改包.
 - [reticlehq/reticle](https://github.com/reticlehq/reticle) - Les agents IA peuvent générer du code, mais ont toujours du mal à comprendre ce…
 - [kerpopule/hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills) - Routage de modèles, mémoire, compaction, sélection de compétences, utilisation…
@@ -1569,8 +1565,8 @@ Agent web le plus rapide et le moins cher
 - [Heman10x-NGU/openJev-verdict-2.0](https://github.com/Heman10x-NGU/openJev-verdict-2.0) - Moteur de décision non autorégressif calibré de 151M de paramètres, surpassant…
 - [walidboulanouar/awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) - Liste géniale de cas d.
 - [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) - Un routeur léger propulsé par Jev pour les modèles, les outils et les…
-- [vinilana/jev-gateway](https://github.com/vinilana/jev-gateway) - Un moyen simple d.
 - [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) - Jev Moteur de décision DSH｜plugin de décision structurée pour Agent Harness.
+- [vinilana/jev-gateway](https://github.com/vinilana/jev-gateway) - Un moyen simple d.
 - [NiazMorshed2007/jev-review](https://github.com/NiazMorshed2007/jev-review) - Plugin MCP privilégiant le local pour la revue continue de la qualité…
 - [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) - Drone autonome utilisant uniquement une caméra dans MuJoCo, avec un petit…
 - [Amal-David/awesome-jev](https://github.com/Amal-David/awesome-jev) - Jev démonstrations, projets, SDKs et compétences, avec des liens vers les…
@@ -1582,8 +1578,8 @@ Agent web le plus rapide et le moins cher
 - [cookiespiggy/agentic-rl](https://github.com/cookiespiggy/agentic-rl) - Tutoriel Agentic RL en chinois pour débutants complets (33 chapitres) : des…
 - [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals) - Évaluations et garde-fous d.
 - [Bodila51/grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) - Connectez TypeSafe Jev à Grok Bot comme couche de décision économique…
-- [yikangy873-gif/jev-desktop](https://github.com/yikangy873-gif/jev-desktop) - Sélection d.
 - [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) - Compétence Claude Code : confiez les décisions en masse à Jev.
+- [yikangy873-gif/jev-desktop](https://github.com/yikangy873-gif/jev-desktop) - Sélection d.
 - [iamaamir/system-one](https://github.com/iamaamir/system-one) - Runtime System One neutre vis-à-vis des fournisseurs pour TypeScript et Pi.
 - [Nisaka520/JevIntent](https://github.com/Nisaka520/JevIntent) - 微信（plugin FkWeChat）: appuyez longuement sur un message pour analyser…
 - [TheoOliveira/pi-jev](https://github.com/TheoOliveira/pi-jev) - Routage sémantique des outils et décisions System One typées pour l.
@@ -1593,11 +1589,10 @@ Agent web le plus rapide et le moins cher
 - [shantanugoel/ask-jev-skill](https://github.com/shantanugoel/ask-jev-skill) - Compétence pour Hermes et d&#x27;autres agents, leur permettant d&#x27;interroger le jev…
 - [kyegomez/open-jev](https://github.com/kyegomez/open-jev) - une reconstruction open-source, à partir des premiers principes, des idées…
 - [samdotmak/jev-recall](https://github.com/samdotmak/jev-recall) - Récupérez selon la pertinence, pas la ressemblance : filtrez les souvenirs d.
-- [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) - Classez les compétences Pi Agent pour la tâche actuelle avec TypeSafe Jev.
 - [everyinfra/jev-radar](https://github.com/everyinfra/jev-radar) - 📡 Le plus complet au monde · Le suivi le plus complet au monde de l.
 - [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) - Outils de jugement typé pour les agents MCP.
-- [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) - Jev, le classifieur TypeSafe de type System One, comme outil dans Claude Code…
 - [jomatsu/pi-jev-auto-mode](https://github.com/jomatsu/pi-jev-auto-mode) - Mode automatique basé sur Jev (TypeSafe System One) pour l.
+- [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) - Jev, le classifieur TypeSafe de type System One, comme outil dans Claude Code…
 - [Zaious/jev-capability-atlas](https://github.com/Zaious/jev-capability-atlas) - Cartographie indépendante et fondée sur des preuves des situations où le Jev de…
 - [bgivenb/flick-computer-use](https://github.com/bgivenb/flick-computer-use) - Utilisation rapide du navigateur et de l.
 - [abhishek085/open-spark-jev](https://github.com/abhishek085/open-spark-jev) - Modèles de décision open-source et locaux inspirés de Jev et System One de…
@@ -1609,9 +1604,11 @@ Agent web le plus rapide et le moins cher
 - [jesset/pi-verdict](https://github.com/jesset/pi-verdict) - Une barrière d.
 - [daftAI2026/awesome-jev](https://github.com/daftAI2026/awesome-jev) - Projets TypeSafe Jev / System One GitHub sélectionnés, alternatives open source…
 - [erkamyaman/jev-enforce](https://github.com/erkamyaman/jev-enforce) - Plugin Claude Code qui fait suivre Claude par votre AGENTS.md : chaque réponse…
+- [ismaelsoilet/jev-harness](https://github.com/ismaelsoilet/jev-harness) - Harness de décision System One sans dépendance : 5 portes sémantiques…
 - [ranjan2829/AskJev](https://github.com/ranjan2829/AskJev) - AskJev — pilote automatique Jev pour n.
 - [ajensenwaud/hermes-jev-plugin](https://github.com/ajensenwaud/hermes-jev-plugin) - Outils de décision TypeSafe Jev (System One) pour Hermes Agent : jev_check /…
 - [inso1337/revl](https://github.com/inso1337/revl) - Langage pour une composabilité spatiotemporelle sûre et universelle.
+- [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) - Modèles de décision typés (noul / choice / score) entraînés par une boucle…
 - [zhangxaochen/dsh-jev](https://github.com/zhangxaochen/dsh-jev) - Suite de plugins Jev (modèle de décision System One) pour DeepSeek Harness (dsh).
 - [ziqi-jin/agent-to-trust](https://github.com/ziqi-jin/agent-to-trust) - Ne faites pas confiance à un agent. Testez-le.
 - [Alpha-Park/genpark-jev-system1-subconscious-decision-skill](https://github.com/Alpha-Park/genpark-jev-system1-subconscious-decision-skill) - Jev-inspired System-1 subconscious cognitive decision layer resolving typed…
@@ -1620,18 +1617,18 @@ Agent web le plus rapide et le moins cher
 - [alphaparkinc/genpark-jev-typed-state-action-router-mcp](https://github.com/alphaparkinc/genpark-jev-typed-state-action-router-mcp) - Native Model Context Protocol (MCP) server providing typed state-action schema…
 - [brianhong-dev/omo-jev-plugin](https://github.com/brianhong-dev/omo-jev-plugin) - Jev-powered decision support for OmO and senpi agents.
 - [lawrence3699/jev-style](https://github.com/lawrence3699/jev-style) - Small, calibrated decision models on your own machine: systemone-compatible…
-- [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) - Typed-decision models (noul / choice / score) trained by a self-improving loop…
+- [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) - The complete cookbook for Jev by TypeSafe AI — 120+ use cases, 10 runnable…
 - [rthomas24/jev-realtime-trading](https://github.com/rthomas24/jev-realtime-trading) - Agents de paper trading sur un flux en direct, décidés chaque seconde par Jev…
-- [FazalAAli/jev-robotics-demo](https://github.com/FazalAAli/jev-robotics-demo) - Jev (TypeSafe System One) vs Claude Opus 5 driving a simulated robot arm in…
 - [abhishekashokvkumar/jev-mcp-dispatcher](https://github.com/abhishekashokvkumar/jev-mcp-dispatcher) - Répartiteur d.
+- [eugeniughelbur/jev-engineering](https://github.com/eugeniughelbur/jev-engineering) - Jev use cases that ship. review-router: a GitHub Action that tells your AI code…
 - [noetion/dsh-jev](https://github.com/noetion/dsh-jev) - Bundle DSH qui enregistre jev_ask pour les réponses noul, choice et score de…
 - [pCwOrM/werr](https://github.com/pCwOrM/werr) - Zero-memory System-1 decision engine &amp; TypeSafe Jev wire-compatible runtime…
 - [Protocol-Lattice/harness-router](https://github.com/Protocol-Lattice/harness-router) - Fast decision routing for agent harnesses — native MCP with Jev for tool…
 - [simota/tenbin](https://github.com/simota/tenbin) - MCP server and agent skill for the TypeSafe AI System One API (Jev): decompose…
 - [bojansandhaus/jev-decisions-hermes](https://github.com/bojansandhaus/jev-decisions-hermes) - Jev Decisions Plugin for Hermes (and other AI Agents): tool risk reviews, human…
+- [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) - Smart Codex overlay featuring JEV-model-based routing, contextual optimization…
 - [ddbatista/jev-lab](https://github.com/ddbatista/jev-lab) - LLM-as-judge calibration for agent tool-call gating — measured, not asserted…
 - [deepansh-saxena/jev-guardrails](https://github.com/deepansh-saxena/jev-guardrails) - Comparing LLM-as-judge vs TypeSafe Jev for agent guardrails: same rules, same…
-- [jorgefspereira/opencode-auto-jev](https://github.com/jorgefspereira/opencode-auto-jev) - OpenCode plugin that adds an Auto (Jev) virtual model which routes each prompt…
 - [JustineDevs/meta-architect](https://github.com/JustineDevs/meta-architect) - Meta-Architect (MA) is a workflow layer that adds architecture, evidence, and…
 - [laguagu/jev-skills](https://github.com/laguagu/jev-skills) - Practical agent skills and examples for building with Jev.
 - [lgy1027/jevshield](https://github.com/lgy1027/jevshield) - Sub-100ms security gate for AI agent tool calls, powered by TypeSafe.
@@ -1643,15 +1640,16 @@ Agent web le plus rapide et le moins cher
 - [1aifanatic/jev-uipath-coded-agent](https://github.com/1aifanatic/jev-uipath-coded-agent) - FINS demo: a UiPath coded agent for AML alert triage where every decision is…
 - [aitofy-dev/jev-awesome-skills](https://github.com/aitofy-dev/jev-awesome-skills) - Open-source Jev skills for Claude Code, Codex, Cursor, and Grok.
 - [cnrai/openpave-jev](https://github.com/cnrai/openpave-jev) - PAVE skill for non-autoregressive decision models (Jev / Laya / TypeSafe)…
-- [eugeniughelbur/jev-engineering](https://github.com/eugeniughelbur/jev-engineering) - Jev use cases that ship. review-router: a GitHub Action that tells your AI code…
 - [Jessie-QingYu/jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) - Real-world Jev use cases, open-source projects, benchmarks and criticism — what…
 - [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) - Un agent codé UiPath avec un garde-fou personnalisé de détection des…
 - [omni-/ask-jev](https://github.com/omni-/ask-jev) - Utilisation de Jev, le modèle de type RLCD fourni par TypeSafe AI, pour évaluer…
 - [OmniJev/OneJev](https://github.com/OmniJev/OneJev) - 🚀🚀 A multimodal System One decision model that gives calibrated answers to…
+- [ourines/hermes-jev](https://github.com/ourines/hermes-jev) - Jev decision sidekick for Hermes Agent — TypeSafe and Cloudflare, explicit…
 - [robokrunch/awesome-jev](https://github.com/robokrunch/awesome-jev) - A curated list of resources for Jev — TypeSafe AI.
 - [wangzhezbz/jev-pilot](https://github.com/wangzhezbz/jev-pilot) - An all-in-one Jev plugin for Codex. Bringing automatic reasoning-effort…
 - [a742987/JevLens](https://github.com/a742987/JevLens) - Jev decision visualisation and debugging panel for coding agents.
 - [AnthonyDavidAdams/jev-search](https://github.com/AnthonyDavidAdams/jev-search) - Decision-model agentic search: fetch and parse deterministically, send only the…
+- [apetcu/oh-my-jev](https://github.com/apetcu/oh-my-jev) - Jev-powered tool-call gate, model router and latency telemetry for the oh-my-pi…
 - [cbruyndoncx/AskJev-MCP](https://github.com/cbruyndoncx/AskJev-MCP) - MCP server for TypeSafe.
 - [charetterat/awesome-jev-essentials](https://github.com/charetterat/awesome-jev-essentials) - The Jev projects actually worth your time — picked, compared, kept current.
 - [chayan-bit/jev-harness](https://github.com/chayan-bit/jev-harness) - Attach bounded, auditable Jev advisory, shadow judgments, and threshold…
@@ -1663,8 +1661,10 @@ Agent web le plus rapide et le moins cher
 - [jiawei686/jev-legal-clause-mcp](https://github.com/jiawei686/jev-legal-clause-mcp) - 合同条款风险点标注 MCP (Jev noul): 10 类风险概率 + 人工复审建议.
 - [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) - Measure what Jev can actually do before you build on it.
 - [King4s/Jev-AI-Skill](https://github.com/King4s/Jev-AI-Skill) - One AI skill for Claude Code, Codex and Hermes: goal-driven build loops, model…
+- [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) - A decision layer for agent control flow — yes/no, choice and rubric questions…
 - [luobosibing2/deepseek-harness-jev](https://github.com/luobosibing2/deepseek-harness-jev) - Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev as a System One…
 - [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) - A curated list of Jev / TypeSafe System One projects, SDKs, tutorials, and…
+- [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) - Paper trading real Polymarket and Kalshi markets with a fake $100k: can Jev +…
 - [mywwave/cursor-jev](https://github.com/mywwave/cursor-jev) - Cursor plugin that routes subagents with TypeSafe Jev and exposes Choice…
 - [pedroknigge/mcp_jev](https://github.com/pedroknigge/mcp_jev) - Serveur MCP ouvert pour exécuter localement les packs TypeSafe Jev (System One)…
 - [qualixar/jev-decision-layer](https://github.com/qualixar/jev-decision-layer) - Typed decision layer for coding agents — Claude Code, Codex, Antigravity…
@@ -1674,8 +1674,9 @@ Agent web le plus rapide et le moins cher
 - [sypherin/jev-trace-classifier](https://github.com/sypherin/jev-trace-classifier) - Application of TypeSafe Jev (noul judgment primitive) on the collusion.wiki…
 - [Teagar/jev-project-fit-review](https://github.com/Teagar/jev-project-fit-review) - Review independente sobre a adequação do Jev a produtos e desenvolvimento…
 - [themsquared/jev-benchmark](https://github.com/themsquared/jev-benchmark) - Reproducible benchmark for TypeSafe AI.
-- [Umbylicus/umby-jev-stack](https://github.com/Umbylicus/umby-jev-stack) - Portable agent skill: TypeSafe Jev as a cheap code-review classifier.
 - [VyetGokyra/jev-codex-factory](https://github.com/VyetGokyra/jev-codex-factory) - Route smarter. Code in parallel. Resume what breaks.
+- [5c0r/omp-jev-skills](https://github.com/5c0r/omp-jev-skills) - OMP-native Jev skill discovery through the configured Judge role.
+- [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) - Jev (TypeSafe)-backed decision layer for Orca Lab: judges what agents are about…
 - [abdullahaamuda-code/jev-decide](https://github.com/abdullahaamuda-code/jev-decide) - System One decision layer for browser automation: offload page-state judgments…
 - [abyakod/JEV_ADK](https://github.com/abyakod/JEV_ADK) - Agent Development Kit for System-One AI: Sub-100ms non-autoregressive decision…
 - [acoyfellow/jev-code-mode](https://github.com/acoyfellow/jev-code-mode) - Typed Jev judgments behind two MCP tools: search and execute.
@@ -1688,11 +1689,11 @@ Agent web le plus rapide et le moins cher
 - [ccrawford4/jev-plugin](https://github.com/ccrawford4/jev-plugin) - Jev Plugin for the Pi Harness to improve tool/mcp choice performance and speed.
 - [cdubiel08/jev-test-triage](https://github.com/cdubiel08/jev-test-triage) - Rank surviving mutants by whether a test is worth writing, with TypeSafe Jev…
 - [chuloontop4-code/jev-instance-review](https://github.com/chuloontop4-code/jev-instance-review) - Best Roblox Studio Instance Reviewer 2026: Typed Jev Criteria and Exact…
+- [Clementtang/jev-eval](https://github.com/Clementtang/jev-eval) - Stance test of TypeSafe Jev vs Claude on Taiwan sovereignty questions, in…
 - [confident-christmasfactor2015/jev-ultrafast-mcp](https://github.com/confident-christmasfactor2015/jev-ultrafast-mcp) - Delegate browser operations to an ultra-fast MCP server, executing full page…
 - [cwjechw98-lang/jev-gates](https://github.com/cwjechw98-lang/jev-gates) - Three gates for any coding agent: a deterministic approval gate before…
 - [damian87x/jev-claude-orchestrator](https://github.com/damian87x/jev-claude-orchestrator) - Jev-supervised madmax conductor for Claude Code: tiny slices, parallel subagent…
 - [darrenli6/jev-demo](https://github.com/darrenli6/jev-demo) - JEV Studio is a small Next.js evaluation lab for turning natural-language input…
-- [disler/ten-levels-of-jev](https://github.com/disler/ten-levels-of-jev) - Ten levels of Jev, from one smart if statement to a coding agent that reaches…
 - [Donatasramanauskas007/open-jev](https://github.com/Donatasramanauskas007/open-jev) - Score options in one pass with Gemma 3 4B on MLX or PyTorch, no decoding, for…
 - [drycool/jev-mcp](https://github.com/drycool/jev-mcp) - MCP server exposing the Jev router as agent tools: route a query, get the…
 - [drycool/jev-router](https://github.com/drycool/jev-router) - Ultra-low latency System-1 decision router for AI agents powered by Laya, FTS5…
@@ -1701,6 +1702,7 @@ Agent web le plus rapide et le moins cher
 - [ericwanderlust/jev-codex-router](https://github.com/ericwanderlust/jev-codex-router) - Auto (Jev) model routing designed for Codex GPT-6 Luna, Sol, and Astra.
 - [eSaadster/jev-effort-router](https://github.com/eSaadster/jev-effort-router) - Claude Code plugin: per-prompt reasoning-effort routing with TypeSafe Jev.
 - [Faizullah9181/jev-esketcher](https://github.com/Faizullah9181/jev-esketcher) - Generative painting canvas where Jev, TypeSafe.
+- [flower-of-the-bridges/opencode-jev-router-plugin](https://github.com/flower-of-the-bridges/opencode-jev-router-plugin) - Model routing for OpenCode powered by the JEV.
 - [frederico-kluser/jev-agent-skill](https://github.com/frederico-kluser/jev-agent-skill) - Decisões tipadas em milissegundos com o Jev (System One da TypeSafe) via…
 - [Gamedirection/JevAI-MCP](https://github.com/Gamedirection/JevAI-MCP) - Simple JevAI MCP to help your AI save tokens.
 - [gbesse/jev-proxy](https://github.com/gbesse/jev-proxy) - Policy firewall for MCP tool calls with one-time human approvals and JSONL…
@@ -1710,7 +1712,6 @@ Agent web le plus rapide et le moins cher
 - [Jamesjiwei19981027/Jev-router](https://github.com/Jamesjiwei19981027/Jev-router) - 为 Claude Code / Codex / Pi / Antigravity 接入 Jev 决策层：智能上下文压缩 + 能力路由.
 - [jjjjjjjjjjjjjjjjacob/jev-router](https://github.com/jjjjjjjjjjjjjjjjacob/jev-router) - Claude Code plugin + skills: Jev picks the effort level for every prompt and…
 - [JoaoClemer/jev-lab](https://github.com/JoaoClemer/jev-lab) - O Jev (TypeSafe AI) como guardrail em tempo real e como pré-avaliador de…
-- [JosephHardy91/jev_prd_check](https://github.com/JosephHardy91/jev_prd_check) - Uses Jev to check whether PRD requirements are met in a diff.
 - [Juniebentonitic2834/NanoJev](https://github.com/Juniebentonitic2834/NanoJev) - Build a 0.6B parallel decision model that turns states into probability…
 - [justinramos101/ask-jev](https://github.com/justinramos101/ask-jev) - An agent skill for structured decisions with Jev: choose options, score…
 - [kdcadmin/jev-decision-kit](https://github.com/kdcadmin/jev-decision-kit) - 一个只负责技能，MCP，skill，插件筛选的jev模型，也能管理技能，MCP，skill和插件.
@@ -1719,22 +1720,18 @@ Agent web le plus rapide et le moins cher
 - [leighefford/jev-kit](https://github.com/leighefford/jev-kit) - A growing kit of Jev-powered tools for Claude, ChatGPT, your browser and your…
 - [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) - Obsidian plugin: route incoming notes to the right folder using JEV.
 - [lwf225-source/jev-codex-router](https://github.com/lwf225-source/jev-codex-router) - Experimental TypeSafe Jev model routing for Codex Desktop: per-task model and…
-- [magnushi/kb-jev-test-app](https://github.com/magnushi/kb-jev-test-app) - Knowledge Base Lab — turn a topic or a few URLs into a real Sanity Knowledge…
 - [MDGChamomile/pi-jev](https://github.com/MDGChamomile/pi-jev) - Experimental consent-gated Jev routing and public-passage reranking for Pi.
-- [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) - Paper trading real Polymarket and Kalshi markets with a fake $100k: can Jev +…
-- [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) - Give your coding agent a second opinion on risky tool calls: TypeSafe.
 - [nik1tsyganov/jev-mcp](https://github.com/nik1tsyganov/jev-mcp) - MCP stdio servers for TypeSafe Jev typed judgments and a separate local…
 - [nomper/codex-jev](https://github.com/nomper/codex-jev) - Jev-powered selective context handoffs for Codex, with a GitHub Copilot…
+- [nun/jev-emoji](https://github.com/nun/jev-emoji) - Omarchy emoji picker. Type words and Jev ranks the matches.
 - [okjpg/jev-hermes-router](https://github.com/okjpg/jev-hermes-router) - Escolhe o modelo certo pra cada mensagem no Hermes, usando o Jev da TypeSafe.
+- [ozaki-taisuke/jev-kano](https://github.com/ozaki-taisuke/jev-kano) - #Jevカノ — 判断特化モデル Jev が本音を先に決め、LLM が言葉を書き、TTS が声を出すギャルゲー（β）.
 - [peptidehackers/jev-router](https://github.com/peptidehackers/jev-router) - Calibrated schema-typed decision heads with Wilson-certified act-or-escalate…
 - [pyck-ai/jev-mcp](https://github.com/pyck-ai/jev-mcp) - Jev.
 - [rajantripathi/fastgate-jev](https://github.com/rajantripathi/fastgate-jev) - Jev (TypeSafe AI) as a System One decision layer for a multilingual EN/UZ/RU…
 - [romannekrasovaillm/qwen-code-jev-gate](https://github.com/romannekrasovaillm/qwen-code-jev-gate) - Jev-class decision model as stage-0 gate in the Qwen Code permission flow…
-- [roshan-shaik-ml/fast-jev-opencode](https://github.com/roshan-shaik-ml/fast-jev-opencode) - OpenCode v1 + v2 plugin: prune stale tool calls and truncate bulky tool results…
-- [salomh46-rgb/jev-system-one-skill](https://github.com/salomh46-rgb/jev-system-one-skill) - Прекратите тратить 3 секунды на диалоговые вызовы LLM для принятия простых…
 - [Shalimov04/open-jev](https://github.com/Shalimov04/open-jev) - Distil a prompt into a small, fast, calibrated classifier.
 - [Simon-zj1/jev-exam](https://github.com/Simon-zj1/jev-exam) - 用 Jev（TypeSafe System One 决策模型）把上传的学习材料变成可自动判分的自助考试：逐得分点判定、置信门控、错题本与薄弱点.
-- [sisodias/jev-agent-skills](https://github.com/sisodias/jev-agent-skills) - Portable Jev skills for intent, completion, routing, Camofox browser loops and…
 - [sophia-phillipa/master-jev-hook](https://github.com/sophia-phillipa/master-jev-hook) - Hooks and MCP that make Claude Code, Claude Desktop and Codex delegate…
 - [suenot/codex-jev-router-benchmarks](https://github.com/suenot/codex-jev-router-benchmarks) - Reproducible benchmarks, reports, and traces for Codex Jev Router.
 - [taifoon-io/jev](https://github.com/taifoon-io/jev) - Grade an AI agent&#x27;s job with TypeSafe&#x27;s Jev: did it do the work as the task…
@@ -1743,6 +1740,7 @@ Agent web le plus rapide et le moins cher
 - [TimurHaryo/jev-toolkit](https://github.com/TimurHaryo/jev-toolkit) - Jev (TypeSafe AI) decisions in Claude Code hooks plus a benchmark harness.
 - [tmbmartell/jev-mcp](https://github.com/tmbmartell/jev-mcp) - Servidor MCP que expõe o Jev (TypeSafe System One) como ferramenta de…
 - [Tokol/DecisionServiceJev](https://github.com/Tokol/DecisionServiceJev) - Reusable UiPath decision-support service powered by TypeSafe AI Jev, providing…
+- [twilso24/jev_router](https://github.com/twilso24/jev_router) - Standalone TypeSafe Jev-based auto-routing for Agent Zero.
 - [vinaychawla-ops/jev-adk-guardrail-example](https://github.com/vinaychawla-ops/jev-adk-guardrail-example) - Jev (TypeSafe decision model) as a risk guardrail inside a Google ADK agent.
 - [yangzhou-chaofan/awesome-jev-prompt](https://github.com/yangzhou-chaofan/awesome-jev-prompt) - Dernières sélections des 100 meilleures présentations pour jev.
 - [yhdhappy/JEV-Model-Router](https://github.com/yhdhappy/JEV-Model-Router) - JEV Model Router: task-aware AI model routing for agent-driven development.
@@ -1774,7 +1772,7 @@ Agent web le plus rapide et le moins cher
 Le cas d'usage de forme production : envoyer chaque requête au modèle le moins cher qui peut réellement la traiter, et garder un contrôle déterministe sur le résultat.
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐26534 · Python · 👁️ observed · 1 天 · ⭐+91</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐26615 · Python · 👁️ observed · 0 天 · ⭐+81</summary>
 
 ##### 📝 Résumé
 
@@ -1794,8 +1792,8 @@ Moteur de décision Système 1 non autorégressif. Décisions typées de choix, 
 
 | Métrique            | Valeur          |
 | ------------------- | --------------- |
-| Étoiles             | **26534** (+91) |
-| Dernier push        | 2026-09-26      |
+| Étoiles             | **26615** (+81) |
+| Dernier push        | 2026-09-27      |
 | Première apparition | 2026-09-23      |
 
 🏷 `calibration` · `classification` · `decision-model` · `huggingface` · `jev` · `modernbert` · `multilingual` · `nlp`
@@ -1837,7 +1835,7 @@ Le harness System One pour les modèles System One. Exécutez Jev et d’autres 
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/Dicklesworthstone/skillranker">Dicklesworthstone/skillranker</a></b> · ⭐121 · Rust · 👁️ observed · 0 天</summary>
+<summary>🛡️ <b><a href="https://github.com/Dicklesworthstone/skillranker">Dicklesworthstone/skillranker</a></b> · ⭐122 · Rust · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -1855,11 +1853,11 @@ Rust CLI alimenté par Jev de TypeSafe.ai, qui classe les compétences d’agent
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **121**    |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **122** (+1) |
+| Dernier push        | 2026-09-27   |
+| Première apparition | 2026-09-18   |
 
 🏷 `agent-skills` · `ai-agents` · `asupersync` · `claude-code` · `cli` · `developer-tools` · `frankentui` · `jev`
 
@@ -2002,7 +2000,7 @@ Jev(TypeSafe AI System One Model) 스터디 — 타입화된 결정·RLCD·confi
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐632 · Rust · 🔎 inferred · 0 天 · ⭐+33</summary>
+<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐654 · Rust · 🔎 inferred · 0 天 · ⭐+22</summary>
 
 ##### 📝 Résumé
 
@@ -2020,7 +2018,7 @@ Exécutez localement des modèles de décision ouverts : téléchargez et servez
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **632** (+33) |
+| Étoiles             | **654** (+22) |
 | Dernier push        | 2026-09-27    |
 | Première apparition | 2026-09-25    |
 
@@ -2056,6 +2054,40 @@ Une adaptation axée sur le Bangla de Laya pour les décisions typées, la class
 </details>
 
 <details>
+<summary>🛡️ <b><a href="https://github.com/kiwi0719/jev-edge">kiwi0719/jev-edge</a></b> · ⭐37 · Lua · 🔎 inferred · 0 天 · ⭐+1</summary>
+
+##### 📝 Résumé
+
+Contrôle d’admission par jugements typés à la périphérie du trafic : filtre à trois couches contre l’injection de prompts et les abus pour nginx/OpenResty, propulsé par TypeSafe Jev. Ouverture en cas d’échec, mis en cache, rechargeable à chaud.
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                |
+| --------- | ------------------------------------- |
+| Catégorie | `Routage, garde-fous et approbations` |
+| Preuve    | `inferred`                            |
+| Langage   | Lua                                   |
+
+##### 📊 Données
+
+| Métrique            | Valeur      |
+| ------------------- | ----------- |
+| Étoiles             | **37** (+1) |
+| Dernier push        | 2026-09-27  |
+| Première apparition | 2026-09-28  |
+
+🏷 `api-gateway` · `ext-authz` · `jev` · `llm-security` · `lua` · `nginx` · `openresty` · `prompt-injection`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/kiwi0719--jev-edge/1960f8efc8d61697.webp" width="100%" alt="kiwi0719/jev-edge screenshot"></td>
+<td align="center" valign="top"><sub>aucun média publié</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🛡️ <b><a href="https://github.com/klauswg/jev-guard">klauswg/jev-guard</a></b> · ⭐37 · Java · 🔎 inferred · 5 天</summary>
 
 ##### 📝 Résumé
@@ -2077,40 +2109,6 @@ Passerelle de triage des risques en temps réel pour les dépôts et retraits su
 | Étoiles             | **37**     |
 | Dernier push        | 2026-09-22 |
 | Première apparition | 2026-09-25 |
-
-</details>
-
-<details>
-<summary>🛡️ <b><a href="https://github.com/kiwi0719/jev-edge">kiwi0719/jev-edge</a></b> · ⭐36 · Lua · 🔎 inferred · 0 天 · **NEW**</summary>
-
-##### 📝 Résumé
-
-Contrôle d’admission par jugements typés à la périphérie du trafic : filtre à trois couches contre l’injection de prompts et les abus pour nginx/OpenResty, propulsé par TypeSafe Jev. Ouverture en cas d’échec, mis en cache, rechargeable à chaud.
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                |
-| --------- | ------------------------------------- |
-| Catégorie | `Routage, garde-fous et approbations` |
-| Preuve    | `inferred`                            |
-| Langage   | Lua                                   |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **36**     |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-28 |
-
-🏷 `api-gateway` · `ext-authz` · `jev` · `llm-security` · `lua` · `nginx` · `openresty` · `prompt-injection`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/kiwi0719--jev-edge/1960f8efc8d61697.webp" width="100%" alt="kiwi0719/jev-edge screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
 
 </details>
 
@@ -2215,6 +2213,40 @@ Alternative Jev locale et open-source : une couche de décision System One avec 
 </details>
 
 <details>
+<summary>🛡️ <b><a href="https://github.com/umstek/zero-shot-ie-bench">umstek/zero-shot-ie-bench</a></b> · ⭐4 · Python · 🔎 inferred · 0 天 · **NEW**</summary>
+
+##### 📝 Résumé
+
+38 zero-shot information-extraction & classification systems across 23 families — extractors, classifiers, cross-encoder rerankers and typed-decision engines, local + hosted (OpenRouter) — demos, accuracy/latency/cost benchmarks, 9-language suite, web UI
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                |
+| --------- | ------------------------------------- |
+| Catégorie | `Routage, garde-fous et approbations` |
+| Preuve    | `inferred`                            |
+| Langage   | Python                                |
+
+##### 📊 Données
+
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **4**      |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-28 |
+
+🏷 `benchmark` · `decision-engine` · `gliner` · `information-extraction` · `jev` · `model-evaluation` · `multilingual` · `named-entity-recognition`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/umstek--zero-shot-ie-bench/4ea77934a7293b40.png" width="100%" alt="umstek/zero-shot-ie-bench screenshot"></td>
+<td align="center" valign="top"><sub>aucun média publié</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🛡️ <b><a href="https://github.com/oluies/jev-vs-spacy">oluies/jev-vs-spacy</a></b> · ⭐2 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Résumé
@@ -2279,41 +2311,7 @@ A fast, local-first gateway for aggregating and routing TypeSafe Jev model endpo
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/openwhat007/jev-rerank">openwhat007/jev-rerank</a></b> · ⭐1 · Python · 🔎 inferred · 1 天</summary>
-
-##### 📝 Résumé
-
-Relevance re-ranking for query/candidate lists, powered by TypeSafe's Jev Noul primitive. OpenRouter and TypeSafe direct API supported.
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                |
-| --------- | ------------------------------------- |
-| Catégorie | `Routage, garde-fous et approbations` |
-| Preuve    | `inferred`                            |
-| Langage   | Python                                |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **1**      |
-| Dernier push        | 2026-09-26 |
-| Première apparition | 2026-09-26 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/openwhat007/jev-rerank/main/assets/banner.png" width="100%" alt="openwhat007/jev-rerank screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
-
-<sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
-
-</details>
-
-<details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 52</sub></summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 53</sub></summary>
 
 - [bytelabs-oss/clash-jev](https://github.com/bytelabs-oss/clash-jev) - Un bot Clash Royale sans politique entraînée : Jev (TypeSafe System One) prend…
 - [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) - Moteur cognitif de décision auto-évolutif et alternative TypeSafe Jev.
@@ -2326,18 +2324,20 @@ Relevance re-ranking for query/candidate lists, powered by TypeSafe's Jev Noul p
 - [dishambha/jev-multimodel](https://github.com/dishambha/jev-multimodel) - A local multimodel AI assistant that intelligently routes queries to…
 - [igrejaborabora/lus222-jev-challenge](https://github.com/igrejaborabora/lus222-jev-challenge) - SAAM · JEV Decision Demo — drone FPV, três pilotos, Vercel AI Gateway.
 - [kartikanand73/jev-decision-gateway](https://github.com/kartikanand73/jev-decision-gateway) - Governed decision-model gateway: TypeSafe Jev vs GPT-6 Sol vs rules on 100…
+- [openwhat007/jev-rerank](https://github.com/openwhat007/jev-rerank) - Relevance re-ranking for query/candidate lists, powered by TypeSafe.
+- [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) - Independent benchmark of TypeSafe.
 - [abhishek085/JevControl](https://github.com/abhishek085/JevControl) - Benchmarking framework: System One (Jev) decision models vs System Two (LLM)…
+- [alevtelles/jev-demo-banking](https://github.com/alevtelles/jev-demo-banking) - Demo de triagem inteligente de atendimento de cartao de credito: em vez de uma…
 - [beese54/jev-ticket-triage](https://github.com/beese54/jev-ticket-triage) - Customer support ticket triage: TypeSafe Jev (System One) vs Together.ai LLMs…
-- [blowxian/jev-fanout-bench](https://github.com/blowxian/jev-fanout-bench) - Measured: asking TypeSafe Jev N questions in one call bills the state once.
 - [Blue-And-White/Grill-Jev](https://github.com/Blue-And-White/Grill-Jev) - Use when the user wants Jev-assisted task execution or delegates task decisions…
 - [delight0517/jev-token-saving-system](https://github.com/delight0517/jev-token-saving-system) - Jev-based local-first ChatGPT token-saving router, durable Aside Mac bridge…
 - [dirnbauer/typo3-webcon-jev](https://github.com/dirnbauer/typo3-webcon-jev) - Typed decisions from TypeSafe AI.
 - [dishambha/jev-train-station-assistant](https://github.com/dishambha/jev-train-station-assistant) - A simple Python train station assistant built with Jev that uses…
 - [dl013209-ai/hermes-ui-and-jev-suite](https://github.com/dl013209-ai/hermes-ui-and-jev-suite) - Hermes UI &amp; Jev Engine: Complete Suite.
 - [FirasB9/jev-community-ops](https://github.com/FirasB9/jev-community-ops) - Community triage for a developer community, built on TypeSafe.
+- [Francesco-Granozio/JevTickets](https://github.com/Francesco-Granozio/JevTickets) - AI-assisted support ticket triage with OpenJev, FastAPI, and React.
 - [gbesse/jev-bocc-impact](https://github.com/gbesse/jev-bocc-impact) - Map French collective-agreement changes to reviewable payroll and HR impacts…
 - [gbesse/jev-cada-desk](https://github.com/gbesse/jev-cada-desk) - Triage French public-document requests against sourced CADA precedents with…
-- [gbesse/jev-rappel-pro](https://github.com/gbesse/jev-rappel-pro) - Screen product catalogs against French RappelConso recalls with exact GTIN…
 - [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) - Apache NiFi processor for TypeSafe Jev semantic routing with uncertainty lane.
 - [gbesse/openproject-jev-triage](https://github.com/gbesse/openproject-jev-triage) - Jev completeness triage for OpenProject work packages.
 - [gbesse/redpanda-connect-jev](https://github.com/gbesse/redpanda-connect-jev) - Typed Jev decisions in Redpanda Connect pipelines.
@@ -2351,16 +2351,15 @@ Relevance re-ranking for query/candidate lists, powered by TypeSafe's Jev Noul p
 - [Loule95450/jev-free-router](https://github.com/Loule95450/jev-free-router) - Dynamic per-turn model router on free OpenCode Zen + Go models.
 - [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) - The Goodvibes platform with Jev integrated into the decision model for…
 - [morler/pi-jev-core](https://github.com/morler/pi-jev-core) - Minimal Jev judgment core for Pi and other TypeScript apps: noul/choice/score…
-- [navzar81-dev/TALK---A-Decision-Making-Model-Leveraging-Laya-and-Jev-](https://github.com/navzar81-dev/TALK---A-Decision-Making-Model-Leveraging-Laya-and-Jev-) - Talk — The instant voice-first AI decision maker.
+- [MRKups/jev-usecase-1](https://github.com/MRKups/jev-usecase-1) - IT helpdesk ticket generator and triage benchmark.
 - [petercr/jev-orchestrator](https://github.com/petercr/jev-orchestrator) - An mini node orchestrator that uses Jev to handle routing to different LLMs…
 - [punitkmryh/Jev-Routed-GenAI-Support-Desk](https://github.com/punitkmryh/Jev-Routed-GenAI-Support-Desk) - Jev decides, the LLM talks. Three of five routes never touch an LLM, so cost…
 - [RichardoMrMu/jev-mini](https://github.com/RichardoMrMu/jev-mini) - Put Jev.
-- [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) - Independent benchmark of TypeSafe.
 - [Soubhagyadev/MergeCalibr-Jev](https://github.com/Soubhagyadev/MergeCalibr-Jev) - AI powered pull request triage system using DeepSeek for code understanding and…
 - [soummyaanon/jev-vs-laya](https://github.com/soummyaanon/jev-vs-laya) - ⚔️ Open-source battleground for AI classifiers: TypeSafe Jev vs Laya on…
 - [suncirkles/jev-router](https://github.com/suncirkles/jev-router) - Decision-only coding-task model routing (JevRoute) with a separate evaluation…
 - [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) - Merged, deduplicated, daily-updated catalog of Jev / TypeSafe System One…
-- [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) - Data-driven preflight and evidence-aware review gates for DeepSeek Harness.
+- [ToyokoLabs/PaperJev](https://github.com/ToyokoLabs/PaperJev) - Retrieve, summarize and filter recent biology papers from PubMed.
 - [watthem/jev-signal-desk](https://github.com/watthem/jev-signal-desk) - Score posts from any RSS/Atom feed or stdin with Jev.
 - [wonghanz/jev-decisions](https://github.com/wonghanz/jev-decisions) - Typed decision layer for backend engineering: log triage, incident routing, PR…
 - [iammrduncan/typesafe-ai-benchmark](https://github.com/iammrduncan/typesafe-ai-benchmark) - Il s&#x27;agit d&#x27;une passerelle LLM qui imite la sortie structurée de typesafe ai.
@@ -2377,7 +2376,7 @@ Relevance re-ranking for query/candidate lists, powered by TypeSafe's Jev Noul p
 Comment savoir si les décisions sont bonnes. La calibration est la question ouverte de cet écosystème, et voici les projets qui la mesurent.
 
 <details>
-<summary>🧪 <b><a href="https://github.com/OmniJev/awesome-jev-gallery">OmniJev/awesome-jev-gallery</a></b> · ⭐464 · JavaScript · 👁️ observed · 0 天</summary>
+<summary>🧪 <b><a href="https://github.com/OmniJev/awesome-jev-gallery">OmniJev/awesome-jev-gallery</a></b> · ⭐465 · JavaScript · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -2393,11 +2392,11 @@ Comment savoir si les décisions sont bonnes. La calibration est la question ouv
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **464**    |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-20 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **465** (+1) |
+| Dernier push        | 2026-09-27   |
+| Première apparition | 2026-09-20   |
 
 🏷 `awesome` · `awesome-list` · `calibrated-probabilities` · `calibration` · `decision-models` · `jev` · `llm` · `llm-evaluation`
 
@@ -2707,7 +2706,7 @@ Census, evidence ledger, benchmark harness and results for the survey of System 
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐816 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐818 · Python · 🔎 inferred · 0 天 · ⭐+2</summary>
 
 ##### 📝 Résumé
 
@@ -2725,7 +2724,7 @@ Transformez n’importe quel LLM en modèle de décision de style Jev : décisio
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **816** (+1) |
+| Étoiles             | **818** (+2) |
 | Dernier push        | 2026-09-26   |
 | Première apparition | 2026-09-22   |
 
@@ -2741,7 +2740,7 @@ Transformez n’importe quel LLM en modèle de décision de style Jev : décisio
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐118 · Python · 🔎 inferred · 2 天 · ⭐+4</summary>
+<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐118 · Python · 🔎 inferred · 2 天</summary>
 
 ##### 📝 Résumé
 
@@ -2757,11 +2756,11 @@ JevK5 : alternative à poids ouverts à TypeSafe Jev. Décisions typées avec pr
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **118** (+4) |
-| Dernier push        | 2026-09-25   |
-| Première apparition | 2026-09-25   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **118**    |
+| Dernier push        | 2026-09-25 |
+| Première apparition | 2026-09-25 |
 
 🏷 `calibration` · `decision-model` · `jev` · `jev-alternative` · `jevbench` · `lora` · `qwen` · `system-one`
 
@@ -2775,7 +2774,7 @@ JevK5 : alternative à poids ouverts à TypeSafe Jev. Décisions typées avec pr
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/Heman10x-NGU/Verdict-open-jev">Heman10x-NGU/Verdict-open-jev</a></b> · ⭐105 · Python · 🔎 inferred · 7 天</summary>
+<summary>🧪 <b><a href="https://github.com/Heman10x-NGU/Verdict-open-jev">Heman10x-NGU/Verdict-open-jev</a></b> · ⭐107 · Python · 🔎 inferred · 7 天 · ⭐+2</summary>
 
 ##### 📝 Résumé
 
@@ -2791,11 +2790,11 @@ Moteur de décision non autorégressif basé sur ModernBERT (151M), avec incerti
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **105**    |
-| Dernier push        | 2026-09-20 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **107** (+2) |
+| Dernier push        | 2026-09-20   |
+| Première apparition | 2026-09-18   |
 
 🏷 `brier-score` · `calibration` · `decision-engine` · `edge-ai` · `gliclass` · `jev` · `modernbert` · `onnx`
 
@@ -2911,7 +2910,7 @@ Benchmarks et environnement d’essai pour le modèle Jev de TypeSafe (System On
 </details>
 
 <details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 55</sub></summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 58</sub></summary>
 
 - [buberlo/jev-trader](https://github.com/buberlo/jev-trader) - Système de tenue de marché 24 h/24, 7 j/7 autour des décisions Jev.
 - [cablehead/jev.nu](https://github.com/cablehead/jev.nu) - Module Nushell pour le TypeSafe System One API : décisions typées avec…
@@ -2933,12 +2932,13 @@ Benchmarks et environnement d’essai pour le modèle Jev de TypeSafe (System On
 - [kimjooyoon/gooo-jev-runtime](https://github.com/kimjooyoon/gooo-jev-runtime) - Go and .gooo runtime primitives for JEV calibration, provenance, and bounded…
 - [onlyoneaman/jev-eval](https://github.com/onlyoneaman/jev-eval) - Jev de TypeSafe face à gpt-5.4-mini et gpt-5.6-luna sur quatre jeux publics de…
 - [vasanthsreeram/myNameisJevToo](https://github.com/vasanthsreeram/myNameisJevToo) - Convert any causal LM into a Jev-style typed decision model — no training, no…
+- [vicfei/awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) - Question patterns, anti-patterns &amp; calibration notes for Jev (TypeSafe AI)…
 - [AHTOOOXA/jev-cyrillic-audit](https://github.com/AHTOOOXA/jev-cyrillic-audit) - Does TypeSafe.
 - [bhushankinge/jev-laya-classification-bench](https://github.com/bhushankinge/jev-laya-classification-bench) - Typed-decision models (Jev API, Laya 421M) vs Qwen3.5-35B on 12,000 real U.S.
 - [BowmanStephen/jev-stage-a-explainer](https://github.com/BowmanStephen/jev-stage-a-explainer) - Jev Stage A explainer — quiet Read-mode scorecard for the frozen 20-post…
+- [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) - Open-source Jev clone: a local System One decision model for fast, calibrated…
 - [Chetax/jev-ecommerce-reviews](https://github.com/Chetax/jev-ecommerce-reviews) - E-commerce review classification with TypeSafe.
 - [CondadosAI/jev-omni-eval](https://github.com/CondadosAI/jev-omni-eval) - What Jev-Omni.
-- [crman/Jev-AI-Output-Judge](https://github.com/crman/Jev-AI-Output-Judge) - Benchmarking Jev and LLMs for RAG answer evaluation and hallucination detection.
 - [dgabriel/cosmic-jev](https://github.com/dgabriel/cosmic-jev) - Should I do this? A deadpan verdict from real planetary positions, interpreted…
 - [fooSynaptic/jev-any-llm](https://github.com/fooSynaptic/jev-any-llm) - Wrap any instruct LLM into Jev-mode prediction — and make those decisions SUPER…
 - [Gabriel382/BioJev](https://github.com/Gabriel382/BioJev) - BioJev is a biomedical decision-model benchmark and adaptation framework built…
@@ -2949,6 +2949,7 @@ Benchmarks et environnement d’essai pour le modèle Jev de TypeSafe (System On
 - [JacobEGarcia/jev-explained](https://github.com/JacobEGarcia/jev-explained) - Jev, honestly - an autoplaying animated explainer: decision models…
 - [julianig72/JevESMO](https://github.com/julianig72/JevESMO) - Apoyo a la decision clinica oncologica: guias ESMO (43 tumores) + Jev System…
 - [jwgwalton/jev-calibration-testing](https://github.com/jwgwalton/jev-calibration-testing) - Testing the validity of the probabilities emitted by JEV.
+- [kanishka-namdeo/jev-rag](https://github.com/kanishka-namdeo/jev-rag) - Local-first hybrid RAG: traditional vs Jev-style (System One) pipelines over…
 - [laguagu/jev-rerank-bench](https://github.com/laguagu/jev-rerank-bench) - Benchmarks of TypeSafe Jev on Finnish text: reranking, code search without an…
 - [Mahad-007/jev-why](https://github.com/Mahad-007/jev-why) - Causal attribution and calibration for TypeSafe Jev decisions.
 - [model-collapse/jev-bench](https://github.com/model-collapse/jev-bench) - JevBench: an open, model-agnostic benchmark for typed decision models…
@@ -2957,12 +2958,13 @@ Benchmarks et environnement d’essai pour le modèle Jev de TypeSafe (System On
 - [open-factoryai/myJEV](https://github.com/open-factoryai/myJEV) - Turn any state into structured, calibrated decisions.
 - [patelvishwa112/jev-system-one-rlcd](https://github.com/patelvishwa112/jev-system-one-rlcd) - Jev System One AI &amp; RLCD Reproduction Engine: Sub-70ms Calibrated Decisions…
 - [pratikgorji/jev-guide](https://github.com/pratikgorji/jev-guide) - An illustrated guide to TypeSafe AI.
+- [PromptEngineer48/my-jev](https://github.com/PromptEngineer48/my-jev) - Build your own Jev-like System One classifier: fine-tune Qwen3.5-4B with…
 - [sudo-sagar/jev-calibration](https://github.com/sudo-sagar/jev-calibration) - Built an audit for independent evaluation harness for Jev.
 - [UpHash-Network/mini-jev](https://github.com/UpHash-Network/mini-jev) - Typed decisions from frozen local LLMs, with reproducible evaluation and…
-- [vicfei/awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) - Question patterns, anti-patterns &amp; calibration notes for Jev (TypeSafe AI)…
 - [viko-max/jev-decision-bench](https://github.com/viko-max/jev-decision-bench) - Jev vs DeepSeek closed-world decision benchmark: calibration, abstention…
 - [Mapika/decider](https://github.com/Mapika/decider) - Une famille de modèles de style System One affinés à partir de Qwen3.5, conçus…
 - [kyotofin/tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) - Classificateur de pages de documents fiscaux basé sur des décisions Jev.
+- [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) - JevBench v1 - un benchmark pour les modèles de décision typés de classe Jev…
 - [mithalouni/system-one-open](https://github.com/mithalouni/system-one-open) - Réplique open source du Jev de TypeSafe : décisions typées et calibrées en un…
 - [nibzard/decision-model-benchmark](https://github.com/nibzard/decision-model-benchmark) - Benchmark indépendant et reproductible : un modèle de décision (jev), huit LLMs…
 - [kotoba-lang/typed-decisions](https://github.com/kotoba-lang/typed-decisions) - Modèle de décision typée de forme Jev.
@@ -3005,7 +3007,7 @@ Un petit modèle de décision ouvert : état + questions typées -> probabilité
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2340 · Python · 🔎 inferred · 6 天 · ⭐+5</summary>
+<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2343 · Python · 🔎 inferred · 6 天 · ⭐+3</summary>
 
 ##### 📝 Résumé
 
@@ -3025,7 +3027,7 @@ Une nano-réplique de Jev : décisions parallèles, candidats dynamiques et pipe
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **2340** (+5) |
+| Étoiles             | **2343** (+3) |
 | Dernier push        | 2026-09-21    |
 | Première apparition | 2026-09-18    |
 
@@ -3073,7 +3075,7 @@ mini-Jev : à quoi ressemble une interface de décision typée de style Jev sur 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/PsiACE/dohnuts">PsiACE/dohnuts</a></b> · ⭐29 · Python · 👁️ observed · 5 天</summary>
+<summary>🔬 <b><a href="https://github.com/PsiACE/dohnuts">PsiACE/dohnuts</a></b> · ⭐29 · Python · 👁️ observed · 6 天</summary>
 
 ##### 📝 Résumé
 
@@ -3107,7 +3109,7 @@ Dohnuts construit de petits modèles multimodaux pour des décisions directes. -
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/emnlmn/snap">emnlmn/snap</a></b> · ⭐21 · Rust · 👁️ observed · 0 天 · **NEW**</summary>
+<summary>🔬 <b><a href="https://github.com/emnlmn/snap">emnlmn/snap</a></b> · ⭐21 · Rust · 👁️ observed · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -3143,7 +3145,7 @@ Décisions typées à partir d’un état non structuré : une seule passe avant
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/admin-aicapitalist/system_one">admin-aicapitalist/system_one</a></b> · Python · 👁️ observed · 0 天 · **NEW**</summary>
+<summary>🔬 <b><a href="https://github.com/admin-aicapitalist/system_one">admin-aicapitalist/system_one</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -3168,7 +3170,7 @@ Lab on researching System One models
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://huggingface.co/autotrust/JEV-27B">autotrust/JEV-27B</a></b> · model · 👁️ observed · 0 天</summary>
+<summary>🔬 <b><a href="https://huggingface.co/autotrust/JEV-27B">autotrust/JEV-27B</a></b> · model · 👁️ observed · 1 天</summary>
 
 ##### 📝 Résumé
 
@@ -3243,7 +3245,7 @@ Research runtime for System One models to explore and localize code through prog
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/BipinRajC/Jev-api-experiments">BipinRajC/Jev-api-experiments</a></b> · Python · 👁️ observed · 1 天</summary>
+<summary>🔬 <b><a href="https://github.com/BipinRajC/Jev-api-experiments">BipinRajC/Jev-api-experiments</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -3262,7 +3264,7 @@ Empirical experiments and API research for TypeSafe's Jev System One model train
 | Métrique            | Valeur     |
 | ------------------- | ---------- |
 | Étoiles             | **0**      |
-| Dernier push        | 2026-09-26 |
+| Dernier push        | 2026-09-27 |
 | Première apparition | 2026-09-22 |
 
 🏷 `api` · `experimental` · `jev` · `rlcd` · `typesafe-ai`
@@ -3319,7 +3321,7 @@ Aucune description n'a été publiée en amont.
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4440 · Python · 🔎 inferred · 3 天 · ⭐+5</summary>
+<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4446 · Python · 🔎 inferred · 4 天 · ⭐+6</summary>
 
 ##### 📝 Résumé
 
@@ -3337,7 +3339,7 @@ Des ifs sémantiques issus de modèles ouverts, sur une 3090 à la maison. Indé
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **4440** (+5) |
+| Étoiles             | **4446** (+6) |
 | Dernier push        | 2026-09-23    |
 | Première apparition | 2026-09-25    |
 
@@ -3351,7 +3353,7 @@ Des ifs sémantiques issus de modèles ouverts, sur une 3090 à la maison. Indé
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1053 · Python · 🔎 inferred · 0 天 · ⭐+29</summary>
+<summary>🔬 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1053 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -3367,11 +3369,11 @@ jevos est une alternative open source à Jev pour les décisions oui/non qui s�
 
 ##### 📊 Données
 
-| Métrique            | Valeur         |
-| ------------------- | -------------- |
-| Étoiles             | **1053** (+29) |
-| Dernier push        | 2026-09-27     |
-| Première apparition | 2026-09-26     |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **1053**   |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-26 |
 
 🏷 `binary-classification` · `classification` · `cpu-inference` · `decision-model` · `edge-ai` · `fastapi` · `gguf` · `jev`
 
@@ -3385,7 +3387,7 @@ jevos est une alternative open source à Jev pour les décisions oui/non qui s�
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐555 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐555 · Python · 🔎 inferred · 1 天</summary>
 
 ##### 📝 Résumé
 
@@ -3401,11 +3403,11 @@ Transformez n’importe quel modèle ouvert en point de terminaison de classific
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **555** (+1) |
-| Dernier push        | 2026-09-26   |
-| Première apparition | 2026-09-19   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **555**    |
+| Dernier push        | 2026-09-26 |
+| Première apparition | 2026-09-19 |
 
 ---
 
@@ -3455,7 +3457,7 @@ Point de terminaison API compatible avec Jev, basé sur des modèles ouverts (pr
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐239 · Python · 🔎 inferred · 5 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐239 · Python · 🔎 inferred · 5 天</summary>
 
 ##### 📝 Résumé
 
@@ -3471,11 +3473,11 @@ EmbodiedJev : atelier de travail sur les décisions de robots MuJoCo avec MiniCP
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **239** (+1) |
-| Dernier push        | 2026-09-22   |
-| Première apparition | 2026-09-20   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **239**    |
+| Dernier push        | 2026-09-22 |
+| Première apparition | 2026-09-20 |
 
 ---
 
@@ -3487,7 +3489,7 @@ EmbodiedJev : atelier de travail sur les décisions de robots MuJoCo avec MiniCP
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐56 · Python · 🔎 inferred · 0 天 · **NEW**</summary>
+<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐56 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -3519,9 +3521,8 @@ Service vLLM natif pour les modèles de décision Jev
 </details>
 
 <details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 29</sub></summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 26</sub></summary>
 
-- [mohitmail85/jev-playground](https://github.com/mohitmail85/jev-playground) - Side-by-side comparison of Jev.
 - [mradermacher/JEV-9B-GGUF](https://huggingface.co/mradermacher/JEV-9B-GGUF)
 - [shreyanbr/nev-lite-systemone](https://huggingface.co/shreyanbr/nev-lite-systemone)
 - [Solizardking/clawd-jev-trading-machine](https://github.com/Solizardking/clawd-jev-trading-machine) - clawd-JEV-trading machine: JEV-on-Solana paper trader.
@@ -3538,13 +3539,11 @@ Service vLLM natif pour les modèles de décision Jev
 - [AbdelStark/reachy-jev](https://github.com/AbdelStark/reachy-jev) - Typed Jev decision primitives for Reachy Mini applications.
 - [AnilDeshpande/jev-youtube-demo](https://github.com/AnilDeshpande/jev-youtube-demo) - Jev (TypeSafe) vs GPT-4o-mini: classifying YouTube comments with a Judgement…
 - [bkarak/jev-mac](https://github.com/bkarak/jev-mac) - Typed-decision engine (choice / score / noul) on Apple foundation models, after…
-- [chenbaiyujason/jev-cut](https://github.com/chenbaiyujason/jev-cut) - Music-driven anime editing with jev decision models, FreeCut, and reproducible…
-- [chengyixu/jev-clean](https://github.com/chengyixu/jev-clean) - Clean mysterious macOS System Data. Nexora.
 - [emilesilvis/jev-experiment](https://github.com/emilesilvis/jev-experiment) - Reproducible Jev and GPT-4o mini classification experiments, findings, and…
+- [gbesse/jev-crypto-lab](https://github.com/gbesse/jev-crypto-lab) - Read-only research prototypes for prediction-market contract logic, resolution…
 - [hamr-hub/z-jev](https://github.com/hamr-hub/z-jev) - Z-Jev: Jev-style non-autoregressive decision head (Choice/Score/Noul) on the…
 - [JevResearch/Jev-Research](https://github.com/JevResearch/Jev-Research) - Performance and architectural analysis of the new &quot;Jev&quot; model by TypeSafe AI.
 - [jkf87/jev-rlcd-replication](https://github.com/jkf87/jev-rlcd-replication) - Just Ask Jev (arXiv 2609.29429) 재현 — 저자 코드·데이터로 5개 벤치마크 1,155건 실행, AUROC 절대차…
-- [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) - Jev-style decision-model training reproduction on MiniCPM5-2B.
 - [luckberonne/mini-jev](https://github.com/luckberonne/mini-jev) - Clasificador de comandos de shell de una sola pasada.
 - [u007/minicpm5-jev](https://github.com/u007/minicpm5-jev) - MiniCPM5-2B-8bit as a Jev-compatible typed-decision service on Apple Silicon…
 - [apiplant/laya-rs](https://github.com/apiplant/laya-rs) - Réimplémentation Rust de Laya, un moteur de décision typée non autorégressif…
@@ -3560,7 +3559,7 @@ Service vLLM natif pour les modèles de décision Jev
 Jeux, robots, navigateurs et tableaux de bord. Les démos sont ce qui rend lisibles les affirmations sur la latence et le coût.
 
 <details>
-<summary>🎮 <b><a href="https://github.com/v-modal/awesome-jev-tools">v-modal/awesome-jev-tools</a></b> · ⭐726 · 👁️ observed · 3 天</summary>
+<summary>🎮 <b><a href="https://github.com/v-modal/awesome-jev-tools">v-modal/awesome-jev-tools</a></b> · ⭐727 · 👁️ observed · 3 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -3575,18 +3574,18 @@ Une liste organisée d’outils conçus pour Jev — le modèle System One de Ty
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **726**    |
-| Dernier push        | 2026-09-24 |
-| Première apparition | 2026-09-20 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **727** (+1) |
+| Dernier push        | 2026-09-24   |
+| Première apparition | 2026-09-20   |
 
 🏷 `awesome` · `awesome-list` · `awesome-lists` · `jev` · `llm` · `robotics` · `robotics-algorithms` · `robotics-control`
 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/zadescoxp/Jev-Trades">zadescoxp/Jev-Trades</a></b> · ⭐34 · Python · 👁️ observed · 1 天</summary>
+<summary>🎮 <b><a href="https://github.com/zadescoxp/Jev-Trades">zadescoxp/Jev-Trades</a></b> · ⭐34 · Python · 👁️ observed · 2 天</summary>
 
 ##### 📝 Résumé
 
@@ -3643,6 +3642,38 @@ Control your Mac by voice. Speech → Jev (TypeSafe AI System One model) typed d
 | Première apparition | 2026-09-27 |
 
 🏷 `computer-use` · `cua` · `jev` · `jev-ai` · `jev-api` · `jev-model` · `voice` · `voice-recognition`
+
+</details>
+
+<details>
+<summary>🎮 <b><a href="https://github.com/dfinke/Jev">dfinke/Jev</a></b> · ⭐5 · PowerShell · 👁️ observed · 0 天 · **NEW**</summary>
+
+##### 📝 Résumé
+
+PowerShell decisions with TypeSafe AI's Jev model: https://typesafe.ai/blog/introducing-system-one-models-and-jev
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                                |
+| --------- | ----------------------------------------------------- |
+| Catégorie | `Applications, jeux, robotique et démos interactives` |
+| Preuve    | `observed`                                            |
+| Langage   | PowerShell                                            |
+
+##### 📊 Données
+
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **5**      |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-28 |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/dfinke--jev/25271c0538eb4644.png" width="100%" alt="dfinke/Jev screenshot"></td>
+<td align="center" valign="top"><sub>aucun média publié</sub></td>
+</tr></table>
 
 </details>
 
@@ -3799,31 +3830,6 @@ Verified, screenshot-rich awesome list of projects built on Jev — TypeSafe AI'
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/aTh1ef/ateef-portfolio-typesafe">aTh1ef/ateef-portfolio-typesafe</a></b> · TypeScript · 👁️ observed · 0 天</summary>
-
-##### 📝 Résumé
-
-Ateef Hussain Sheikh portfolio, re-skinned in the monochrome typesafe.ai system UI. Same layout as ateef-portfolio, different skin.
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                                |
-| --------- | ----------------------------------------------------- |
-| Catégorie | `Applications, jeux, robotique et démos interactives` |
-| Preuve    | `observed`                                            |
-| Langage   | TypeScript                                            |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **0**      |
-| Dernier push        | 2026-09-27 |
-| Première apparition | 2026-09-27 |
-
-</details>
-
-<details>
 <summary>🎮 <b><a href="https://github.com/dannyowelch/jev-noul-vs-choice">dannyowelch/jev-noul-vs-choice</a></b> · TypeScript · 👁️ observed · 3 天</summary>
 
 ##### 📝 Résumé
@@ -3948,7 +3954,41 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐473 · TypeScript · 🔎 inferred · 6 天 · ⭐+1</summary>
+<summary>🎮 <b><a href="https://github.com/YV17labs/TokenShooter">YV17labs/TokenShooter</a></b> · JavaScript · 👁️ observed · 0 天 · **NEW**</summary>
+
+##### 📝 Résumé
+
+A Jev-like System One model in your browser: a small language model plays a first-person shooter on your GPU, one token per move. No server.
+
+##### 📌 Faits de base
+
+| Champ     | Valeur                                                |
+| --------- | ----------------------------------------------------- |
+| Catégorie | `Applications, jeux, robotique et démos interactives` |
+| Preuve    | `observed`                                            |
+| Langage   | JavaScript                                            |
+
+##### 📊 Données
+
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **0**      |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-28 |
+
+🏷 `fps` · `game-ai` · `in-browser` · `jev` · `jev-like` · `llm` · `local-ai` · `onnx`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/yv17labs--tokenshooter/d1af869eeb3728d0.webp" width="100%" alt="YV17labs/TokenShooter screenshot"></td>
+<td align="center" valign="top"><sub>aucun média publié</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐473 · TypeScript · 🔎 inferred · 7 天</summary>
 
 ##### 📝 Résumé
 
@@ -3964,11 +4004,11 @@ Recherchez sur le Web avec Jev de TypeSafe : sélection des sources, compréhens
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **473** (+1) |
-| Dernier push        | 2026-09-20   |
-| Première apparition | 2026-09-18   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **473**    |
+| Dernier push        | 2026-09-20 |
+| Première apparition | 2026-09-18 |
 
 ---
 
@@ -3980,7 +4020,7 @@ Recherchez sur le Web avec Jev de TypeSafe : sélection des sources, compréhens
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐287 · Python · 🔎 inferred · 6 天</summary>
+<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐289 · Python · 🔎 inferred · 6 天 · ⭐+2</summary>
 
 ##### 📝 Résumé
 
@@ -3996,11 +4036,11 @@ Une expérience éducative d’inférence visuelle semblable à Jev sur Apple Si
 
 ##### 📊 Données
 
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **287**    |
-| Dernier push        | 2026-09-21 |
-| Première apparition | 2026-09-18 |
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **289** (+2) |
+| Dernier push        | 2026-09-21   |
+| Première apparition | 2026-09-18   |
 
 ---
 
@@ -4012,7 +4052,7 @@ Une expérience éducative d’inférence visuelle semblable à Jev sur Apple Si
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐284 · JavaScript · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐284 · JavaScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Résumé
 
@@ -4028,11 +4068,11 @@ Utilisation du navigateur avec le modèle Jev de Typesafe
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **284** (+1) |
-| Dernier push        | 2026-09-26   |
-| Première apparition | 2026-09-18   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **284**    |
+| Dernier push        | 2026-09-27 |
+| Première apparition | 2026-09-18 |
 
 ---
 
@@ -4044,68 +4084,36 @@ Utilisation du navigateur avec le modèle Jev de Typesafe
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/aowang-ai/jev-trade">aowang-ai/jev-trade</a></b> · ⭐158 · TypeScript · 🔎 inferred · 6 天 · ⭐+1</summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 32</sub></summary>
 
-##### 📝 Résumé
-
-Trader Jev en direct sur Hyperliquid
-
-##### 📌 Faits de base
-
-| Champ     | Valeur                                                |
-| --------- | ----------------------------------------------------- |
-| Catégorie | `Applications, jeux, robotique et démos interactives` |
-| Preuve    | `inferred`                                            |
-| Langage   | TypeScript                                            |
-
-##### 📊 Données
-
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **158** (+1) |
-| Dernier push        | 2026-09-21   |
-| Première apparition | 2026-09-19   |
-
-🏷 `hyperliquid` · `jev` · `quantitative-finance` · `typesafe`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/aowang-ai/jev-trade/main/assets/desk.png" width="100%" alt="aowang-ai/jev-trade screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
-
-<sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
-
-</details>
-
-<details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 28</sub></summary>
-
+- [ganhammar/pricing-demo](https://github.com/ganhammar/pricing-demo) - Demo service for observe-ai, the companion to the blog post on running a System…
 - [HarleyBartles/sheg](https://github.com/HarleyBartles/sheg) - Use a system one model to run polls on simulated users.
 - [OuchengLiu/Jev-Game-Theory-Arena](https://github.com/OuchengLiu/Jev-Game-Theory-Arena) - Play poker, liar&#x27;s dice, prisoner&#x27;s dilemma and more against Jev, TypeSafe.
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - Une décision de trading IA à chaque bloc Monad. Jev sur Kuru MON-USDC.
 - [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) - Un catalogue vérifié, maintenu par la communauté, de 916 projets open source…
 - [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev)
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - Contrôlez un véritable navigateur à la voix.
+- [aowang-ai/jev-trade](https://github.com/aowang-ai/jev-trade) - Trader Jev en direct sur Hyperliquid.
 - [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) - Suggestions automatiques d.
 - [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) - Présentation et tests pratiques du modèle Jev : conversion du langage naturel…
 - [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) - Parlez à votre Mac. whisper.cpp local + un appel Jev (TypeSafe) par commande +…
 - [bilune/jev-design](https://github.com/bilune/jev-design) - Un modèle peut-il concevoir un tableau de bord ? Une console dont tout le…
-- [lykycy123/RoboJEV](https://github.com/lykycy123/RoboJEV) - Contrôle JEV en deux étapes d.
 - [emrickgarrett/OneVOneJev](https://github.com/emrickgarrett/OneVOneJev) - Arène quickscope 1v1 Jev — Three.js + TypeSafe System One.
-- [Ryu0118/jev-sim-use](https://github.com/Ryu0118/jev-sim-use) - 📱 Accédez à n.
 - [paulsmith/computer-use-jev](https://github.com/paulsmith/computer-use-jev) - macOS computer use driven by Jev (TypeSafe System One) as the decision maker.
-- [reinhard-z/vision-jev](https://github.com/reinhard-z/vision-jev) - An experiment with Jev, a fast classification model from TypeSafe, to see what…
 - [jevaidev/jev-ai-radar](https://github.com/jevaidev/jev-ai-radar) - Daily curated Jev AI projects, System One community models, and real-world use…
 - [PistachioAIHQ/jev-synergy-screening](https://github.com/PistachioAIHQ/jev-synergy-screening) - Démo de sélection d.
 - [cdubiel08/jev-ercot](https://github.com/cdubiel08/jev-ercot) - Texas retail electric plan shopper: Power to Choose corpus, Jev.
-- [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) - Snake autoplay powered by TypeSafe Jev (System One).
-- [AtticusG3/okx-jev-desk](https://github.com/AtticusG3/okx-jev-desk) - Multi-bot crypto trading desk. Jev (TypeSafe System One) as the brain…
 - [dnevado/jev-trader](https://github.com/dnevado/jev-trader) - Backtesting US stock strategies with pandas indicators, OpenAI fundamentals and…
+- [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) - Snake autoplay powered by TypeSafe Jev (System One).
+- [Adamya05/jev-echo](https://github.com/Adamya05/jev-echo) - Echo: an 87 KB copy of Jev for Snake. About 800× faster;
+- [AtticusG3/okx-jev-desk](https://github.com/AtticusG3/okx-jev-desk) - Multi-bot crypto trading desk. Jev (TypeSafe System One) as the brain…
 - [glennwiz/jev-discord-bot](https://github.com/glennwiz/jev-discord-bot) - Discord bot for TypeSafe.
+- [jemsbhai/pollard-jev](https://github.com/jemsbhai/pollard-jev) - Typed, governed offline robotics and IoT decisions with Pollard.
+- [LeeBooth269/tic-tac-toe-jev](https://github.com/LeeBooth269/tic-tac-toe-jev) - Self-playing Tic-Tac-Toe (Rust + browser) that shows its decision logic for…
 - [mikepapadim/jitllm-jev-demo](https://github.com/mikepapadim/jitllm-jev-demo) - System One + System Two on one GPU in pure Java: Jev-style decisions with…
 - [schalkneethling/jev-3000](https://github.com/schalkneethling/jev-3000) - Demo of TypeSafe.
+- [songxitao/browseros-jev](https://github.com/songxitao/browseros-jev) - Zero-dependency fast-loop decision bridge connecting BrowserOS Neo &amp; TypeSafe…
+- [surbhit20/jev-on-yt](https://github.com/surbhit20/jev-on-yt) - Using jev to skip to relevant parts of the video.
 - [wwwyo/jev-playground](https://github.com/wwwyo/jev-playground) - Playground for TypeSafe AI.
 - [yAntPower/jev-decision-lab](https://github.com/yAntPower/jev-decision-lab) - A self-hosted, bilingual playground for Jev.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - 🧹 Projet amusant : une extension Chrome qui pose à un petit modèle de décision…
@@ -4406,7 +4414,7 @@ preview 端点 `/preview/evaluation` → 稳定版 **`POST /v1/systemone`**；`p
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐1829 · Python · 👁️ observed · 0 天 · ⭐+8</summary>
+<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐1833 · Python · 👁️ observed · 0 天 · ⭐+4</summary>
 
 ##### 📝 Résumé
 
@@ -4424,7 +4432,7 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 
 | Métrique            | Valeur        |
 | ------------------- | ------------- |
-| Étoiles             | **1829** (+8) |
+| Étoiles             | **1833** (+4) |
 | Dernier push        | 2026-09-27    |
 | Première apparition | 2026-09-18    |
 
@@ -4433,7 +4441,7 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 </details>
 
 <details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 93</sub></summary>
+<summary><b>Plus dans cette catégorie</b> <sub>· 92</sub></summary>
 
 - [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) - Cas d.
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Une liste organisée et étayée par des sources de projets construits avec Jev…
@@ -4445,6 +4453,7 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 - [aliaihub/awesome-jev-usecases](https://github.com/aliaihub/awesome-jev-usecases) - Cas d.
 - [Jev and System One Models: Calibration Beats Accuracy](https://news.ycombinator.com/item?id=49839510)
 - [Contrastive Language Models: A Fast, Generalizable System One Model](https://news.ycombinator.com/item?id=49848279)
+- [I was impressed by Jev, please explain why I shouldn't be](https://news.ycombinator.com/item?id=49868483) - I&amp;#x27;m not a computer science guy, but I had a play with Jev and found it…
 - [Inventor of ChatGPT and RLHF Launches Typesafe.ai](https://news.ycombinator.com/item?id=49763045)
 - [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) - A curated projects built with Jev, TypeSafe.
 - [Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev](https://news.ycombinator.com/item?id=49789538) - Bonjour à tous. TypeSafe a publié Jev la semaine dernière, et cela m.
@@ -4455,16 +4464,14 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 - [Cua S1- A family of System One models](https://news.ycombinator.com/item?id=49758885)
 - [How Jev works: calibrated decision models](https://news.ycombinator.com/item?id=49868786)
 - [I Built a System One Model on a RTX 3070](https://news.ycombinator.com/item?id=49770066)
-- [I was impressed by Jev, please explain why I shouldn't be](https://news.ycombinator.com/item?id=49868483) - I&amp;#x27;m not a computer science guy, but I had a play with Jev and found it…
 - [Jev 1.13 Jaggedness](https://news.ycombinator.com/item?id=49784926)
-- [Jev and the Return of AI/ML Engineering](https://news.ycombinator.com/item?id=49866629)
 - [Jev is now available to everyone. No waitlist.](https://news.ycombinator.com/item?id=49780343)
 - [Show HN: A local alternative to Jev – 94% on Banking77](https://news.ycombinator.com/item?id=49858795) - I.
 - [Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev](https://news.ycombinator.com/item?id=49795171) - Can Jev optimise the size of compiled binaries better than clang -Oz? Turns out…
 - [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) - I built Knowledge Signal, an open-source prototype that turns study notes into…
-- [Show HN: Matching Jev on BANKING77 at a thousandth of the cost](https://news.ycombinator.com/item?id=49867086) - We developed an early vector embedding model at Lawrence Berkeley National Lab…
 - [The Jagged Frontier of Jev 1.13](https://news.ycombinator.com/item?id=49809509)
 - [Two techniques for working with System One models](https://news.ycombinator.com/item?id=49755005)
+- [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995)
 - [TypeSafe AI's Jev Is Not an LLM – and That May Be the Point](https://news.ycombinator.com/item?id=49761730)
 - [TypeSafe's Jev Can't See. I Made It Guess What I Drew Anyway](https://news.ycombinator.com/item?id=49768633)
 - [Using system-one models inside high-throughput data pipelines](https://news.ycombinator.com/item?id=49771931)
@@ -4474,15 +4481,16 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 - [Calibrating Jev as a Code Reviewer](https://news.ycombinator.com/item?id=49803758)
 - [Contrastive Language Model (CLM): An Ultra-Fast System One Model](https://news.ycombinator.com/item?id=49827145)
 - [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748)
+- [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734)
 - [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519) - Tried Jev when it came out last week and it&amp;#x27;s crazy fast.
 - [Replacing an agentic classification loop with Jev: 7x faster](https://news.ycombinator.com/item?id=49783806)
 - [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) - Projects built on Jev.
+- [Show HN: Chrome extension where Jev decides if each post/video/page is worth it](https://news.ycombinator.com/item?id=49868003)
 - [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) - Hey everyone! I wanted to try out a fun use case for Jev and had this idea…
 - [Show HN: Jev, Fly Me to the Moon](https://news.ycombinator.com/item?id=49769916) - J&#x27;ai créé Odyssey, un voyage basé sur un navigateur, de la Terre à l&#x27;orbite…
 - [Show HN: Jev-CLI – CLI wrapper for JEV typesafe AI model](https://news.ycombinator.com/item?id=49786725)
 - [Show HN: Sokit – a LangChain like harness for Jev (or other System 1 models)](https://news.ycombinator.com/item?id=49744527) - En toute transparence, il a été codé avec une IA, je ne prétends pas le…
 - [Show HN: Typesafe Java SDK (Unofficial)](https://news.ycombinator.com/item?id=49762324)
-- [The first (public) System One Model; Jev gives AI the properties of code](https://news.ycombinator.com/item?id=49729945)
 - [Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD](https://news.ycombinator.com/item?id=49734345)
 - [What you can build with TypeSafe AI Jev](https://news.ycombinator.com/item?id=49797360)
 - [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) - Open-source projects that provably call Jev, TypeSafe AI.
@@ -4523,7 +4531,6 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 - [首个上市公司级集成：\[Aurora Mobile（NASDAQ: JG）的 GPTBots.ai 集成 Jev\]()（09-22）→ *"two-layer AI architecture: one layer that thinks, one layer that…](https://markets.businessinsider.com/news/stocks/aurora-mobile-s-gptbots-ai-integrates-jev-two-layers-of-ai-one-enterprise-platform-1036563338)
 - [AnotiaWang/awesome-jev](https://github.com/AnotiaWang/awesome-jev) - Une liste organisée d.
 - [AppitStudio/awesome-jev](https://github.com/AppitStudio/awesome-jev) - Ressources Jev organisées et exemples exécutables pour les décisions IA typées.
-- [AiPersonacademy/Awesome-jev-use](https://github.com/AiPersonacademy/Awesome-jev-use) - A curated list of awesome Jev / TypeSafe System One applications, libraries…
 - [sontakey/awesome-jev](https://github.com/sontakey/awesome-jev) - Unofficial list of insanely useful TypeSafe AI Jev / System One projects.
 - [samTime101/Jev-emoji-reactor](https://github.com/samTime101/Jev-emoji-reactor) - integrated latest decision making model jev to classify emoji reading the…
 - [新的优先权主张（与 Laya 无关）：HN \`I built the Jev architecture one year ago and open-sourced it\`（2pts）→ \[r/LocalLLaMA 帖\]()；本轮只登记 URL 与主张，未读原文、不下判断，下一轮核实](https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/)
@@ -4536,7 +4543,7 @@ Une liste organisée de projets publics, d’intégrations et de discussions con
 ## Autres projets
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐7379 · Python · 👁️ observed · 0 天 · ⭐+20</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐7394 · Python · 👁️ observed · 0 天 · ⭐+15</summary>
 
 ##### 📝 Résumé
 
@@ -4556,7 +4563,7 @@ Famille de modèles de décision de type Jev, construits sur Qwen3.5/3.8, que vo
 
 | Métrique            | Valeur         |
 | ------------------- | -------------- |
-| Étoiles             | **7379** (+20) |
+| Étoiles             | **7394** (+15) |
 | Dernier push        | 2026-09-27     |
 | Première apparition | 2026-09-21     |
 
@@ -4572,7 +4579,7 @@ Famille de modèles de décision de type Jev, construits sur Qwen3.5/3.8, que vo
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Liuziyu77/Valen">Liuziyu77/Valen</a></b> · ⭐320 · Python · 👁️ observed · 2 天 · ⭐+9</summary>
+<summary>🧩 <b><a href="https://github.com/Liuziyu77/Valen">Liuziyu77/Valen</a></b> · ⭐326 · Python · 👁️ observed · 2 天 · ⭐+6</summary>
 
 ##### 📝 Résumé
 
@@ -4590,7 +4597,7 @@ Entraînez vous-même un modèle multimodal de type Jev. System One Model, déso
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **320** (+9) |
+| Étoiles             | **326** (+6) |
 | Dernier push        | 2026-09-25   |
 | Première apparition | 2026-09-25   |
 
@@ -4604,7 +4611,7 @@ Entraînez vous-même un modèle multimodal de type Jev. System One Model, déso
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐126 · Python · 👁️ observed · 5 天</summary>
+<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐126 · Python · 👁️ observed · 6 天</summary>
 
 ##### 📝 Résumé
 
@@ -4665,7 +4672,7 @@ OpenDecision est un moteur de décision sémantique open source, comme jev de ty
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Mushroom-Systems/lichen">Mushroom-Systems/lichen</a></b> · ⭐39 · Python · 👁️ observed · 2 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Mushroom-Systems/lichen">Mushroom-Systems/lichen</a></b> · ⭐39 · Python · 👁️ observed · 3 天</summary>
 
 ##### 📝 Résumé
 
@@ -4681,11 +4688,11 @@ Remplacement local compatible avec API pour Jev, le modèle System One de TypeSa
 
 ##### 📊 Données
 
-| Métrique            | Valeur      |
-| ------------------- | ----------- |
-| Étoiles             | **39** (+1) |
-| Dernier push        | 2026-09-24  |
-| Première apparition | 2026-09-25  |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **39**     |
+| Dernier push        | 2026-09-24 |
+| Première apparition | 2026-09-25 |
 
 </details>
 
@@ -4881,39 +4888,7 @@ A ChatGPT-style chat that generates replies one word at a time with TypeSafe's J
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/louteixeira/JevJudge">louteixeira/JevJudge</a></b> · Python · 👁️ observed · 0 天</summary>
-
-##### 📝 Résumé
-
-Small experiment comparing a System One model with a conventional LLM
-
-##### 📌 Faits de base
-
-| Champ     | Valeur           |
-| --------- | ---------------- |
-| Catégorie | `Autres projets` |
-| Preuve    | `observed`       |
-| Langage   | Python           |
-
-##### 📊 Données
-
-| Métrique            | Valeur     |
-| ------------------- | ---------- |
-| Étoiles             | **0**      |
-| Dernier push        | 2026-09-26 |
-| Première apparition | 2026-09-27 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/louteixeira--jevjudge/0d7186558b20b526.png" width="100%" alt="louteixeira/JevJudge screenshot"></td>
-<td align="center" valign="top"><sub>aucun média publié</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/TypeLLM/TypeLLM">TypeLLM/TypeLLM</a></b> · ⭐797 · Python · 🔎 inferred · 0 天 · ⭐+4</summary>
+<summary>🧩 <b><a href="https://github.com/TypeLLM/TypeLLM">TypeLLM/TypeLLM</a></b> · ⭐801 · Python · 🔎 inferred · 0 天 · ⭐+4</summary>
 
 ##### 📝 Résumé
 
@@ -4931,7 +4906,7 @@ TypeLLM : LLMs avec génération type-safe
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **797** (+4) |
+| Étoiles             | **801** (+4) |
 | Dernier push        | 2026-09-27   |
 | Première apparition | 2026-09-23   |
 
@@ -4947,7 +4922,7 @@ TypeLLM : LLMs avec génération type-safe
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐611 · Python · 🔎 inferred · 3 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐612 · Python · 🔎 inferred · 3 天 · ⭐+1</summary>
 
 ##### 📝 Résumé
 
@@ -4965,7 +4940,7 @@ JevChat-Windows : assistant de réponse affiché à côté de la fenêtre de dis
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **611** (+1) |
+| Étoiles             | **612** (+1) |
 | Dernier push        | 2026-09-24   |
 | Première apparition | 2026-09-22   |
 
@@ -5017,7 +4992,7 @@ Assistant en fenêtre flottante pour les discussions (macOS) : perception de l�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Zefan-Cai/Open-Jev">Zefan-Cai/Open-Jev</a></b> · ⭐346 · Python · 🔎 inferred · 4 天 · ⭐+2</summary>
+<summary>🧩 <b><a href="https://github.com/Zefan-Cai/Open-Jev">Zefan-Cai/Open-Jev</a></b> · ⭐348 · Python · 🔎 inferred · 4 天 · ⭐+2</summary>
 
 ##### 📝 Résumé
 
@@ -5035,7 +5010,7 @@ Aucune description n'a été publiée en amont.
 
 | Métrique            | Valeur       |
 | ------------------- | ------------ |
-| Étoiles             | **346** (+2) |
+| Étoiles             | **348** (+2) |
 | Dernier push        | 2026-09-23   |
 | Première apparition | 2026-09-22   |
 
@@ -5049,7 +5024,7 @@ Aucune description n'a été publiée en amont.
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐344 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐344 · Python · 🔎 inferred · 1 天</summary>
 
 ##### 📝 Résumé
 
@@ -5065,11 +5040,11 @@ Transformez les modèles de langage locaux en modèles de décision structurés 
 
 ##### 📊 Données
 
-| Métrique            | Valeur       |
-| ------------------- | ------------ |
-| Étoiles             | **344** (+1) |
-| Dernier push        | 2026-09-26   |
-| Première apparition | 2026-09-20   |
+| Métrique            | Valeur     |
+| ------------------- | ---------- |
+| Étoiles             | **344**    |
+| Dernier push        | 2026-09-26 |
+| Première apparition | 2026-09-20 |
 
 🏷 `jev` · `llm` · `mllm`
 
@@ -5083,11 +5058,44 @@ Transformez les modèles de langage locaux en modèles de décision structurés 
 </details>
 
 <details>
-<summary><b>Plus dans cette catégorie</b> <sub>· 76</sub></summary>
+<summary>🧩 <b><a href="https://github.com/TianyuCodings/JevHarness">TianyuCodings/JevHarness</a></b> · ⭐307 · Python · 🔎 inferred · 6 天 · ⭐+1</summary>
+
+##### 📝 Résumé
+
+Des bancs LLM conçus pour des tâches spécifiques, de type Jev, avec réflexion facultative sur les récompenses de trajectoires complètes et évolution GEPA.
+
+##### 📌 Faits de base
+
+| Champ     | Valeur           |
+| --------- | ---------------- |
+| Catégorie | `Autres projets` |
+| Preuve    | `inferred`       |
+| Langage   | Python           |
+
+##### 📊 Données
+
+| Métrique            | Valeur       |
+| ------------------- | ------------ |
+| Étoiles             | **307** (+1) |
+| Dernier push        | 2026-09-21   |
+| Première apparition | 2026-09-22   |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Image</th><th align="center" width="50%">🎬 Vidéo</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/TianyuCodings/JevHarness/main/docs/screenshots/pokemon-evolution.png" width="100%" alt="TianyuCodings/JevHarness screenshot"></td>
+<td align="center" valign="top"><a href="https://raw.githubusercontent.com/TianyuCodings/JevHarness/main/docs/media/pokemon-comparison.mp4"><img src="https://raw.githubusercontent.com/TianyuCodings/JevHarness/main/docs/screenshots/pokemon-evolution.png" width="100%" alt="TianyuCodings/JevHarness video"></a><br><sub><a href="https://raw.githubusercontent.com/TianyuCodings/JevHarness/main/docs/media/pokemon-comparison.mp4">Ouvrir la vidéo</a></sub></td>
+</tr></table>
+
+<sub>Ressource liée directement depuis le dépôt en amont, faute de licence de redistribution déclarée.</sub>
+
+</details>
+
+<details>
+<summary><b>Plus dans cette catégorie</b> <sub>· 68</sub></summary>
 
 - [justintout/systemone](https://github.com/justintout/systemone) - An unofficial Go module for interacting with Jev and other System One models.
 - [lab-emi/ChipLaya](https://github.com/lab-emi/ChipLaya) - ChipLaya: a typed decision model for analog circuit design.
-- [Lancer59/SystemOneModels](https://github.com/Lancer59/SystemOneModels) - Testing out System One Models.
 - [Macasacker/design-review](https://github.com/Macasacker/design-review) - design review tool for use by a systemone model.
 - [oneryalcin/hunch](https://github.com/oneryalcin/hunch) - dbt for judgments: declarative, tested, versioned semantic decisions powered by…
 - [pedruck/Identifying-Code-Smells-With-System-One-Models](https://github.com/pedruck/Identifying-Code-Smells-With-System-One-Models)
@@ -5097,7 +5105,6 @@ Transformez les modèles de langage locaux en modèles de décision structurés 
 - [yorshstudent-a11y/jevlike](https://github.com/yorshstudent-a11y/jevlike) - Train a compact model to pick one option from a changing list in a single pass…
 - [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu)
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments)
-- [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) - Des bancs LLM conçus pour des tâches spécifiques, de type Jev, avec réflexion…
 - [logan-markewich/jeff](https://github.com/logan-markewich/jeff) - Un remplacement direct auto-hébergé du jev de TypeSafe, propulsé par GliFormer.
 - [uehaj/jev-semgrep](https://github.com/uehaj/jev-semgrep) - grep par signification, entre plusieurs langues.
 - [f/jev-leftpad](https://github.com/f/jev-leftpad) - Complète les chaînes à gauche avec le Jev de TypeSafe AI. Pour des raisons.
@@ -5120,38 +5127,32 @@ Transformez les modèles de langage locaux en modèles de décision structurés 
 - [TanayPadar/gpt-vs-jev](https://github.com/TanayPadar/gpt-vs-jev) - Comparez le langage généré par GPT aux décisions structurées Noul de JEV sur la…
 - [XingQiPan/rwkv-jev](https://github.com/XingQiPan/rwkv-jev) - 基于 RWKV-7 (g1k-1b) 的 Jev 式零生成决策引擎：受限 softmax 直读概率分布，支持 noul/choice/score…
 - [asp616848/better-jev-for-all](https://github.com/asp616848/better-jev-for-all) - Open, self-hostable, faster System One decision model — API-compatible…
+- [kimjooyoon/gooo-jev-lab](https://github.com/kimjooyoon/gooo-jev-lab) - Experimental Go and .gooo JEV decision-evidence lab with fail-closed provenance…
 - [Lasimeri/Intel-Phi-Jev](https://github.com/Lasimeri/Intel-Phi-Jev) - XKEYSCORE for Jev: TypeSafe System One judgments (noul/choice/score) served…
 - [memorysaver/jev-atari-lab](https://github.com/memorysaver/jev-atari-lab) - Challenge Atari with Jev: structured decisions, value questions, and replayable…
 - [yelkhanyergali-sys/jev-guard](https://github.com/yelkhanyergali-sys/jev-guard) - PI Mono extension for Jev (TypeSafe AI): in-flight terminal pruning…
+- [5c0r/omp-jev-tool](https://github.com/5c0r/omp-jev-tool) - OMP-native Jev tool discovery through the configured Judge role.
 - [ai-freer/jev-feishu](https://github.com/ai-freer/jev-feishu) - macOS Feishu companion with TypeSafe Jev and local Ollama replies.
+- [betulsimsek/jev-decomposition-tr](https://github.com/betulsimsek/jev-decomposition-tr) - Does splitting a typed-decision question help? Jev vs Laya vs a local decoder…
 - [ByteDeskAI/bytedesk-jev](https://github.com/ByteDeskAI/bytedesk-jev) - Reusable Choice, Score and Noul AI decisions via a host-held Typesafe key (Jev).
-- [Charan-2004/Flying-Jev](https://github.com/Charan-2004/Flying-Jev) - Realistic 100-Fly Drosophila Sword Colosseum powered by 139k Biological…
-- [domini-code/jev-explicado](https://github.com/domini-code/jev-explicado) - Deja de parsear JSON: Jev responde decisiones, no párrafos.
 - [gbesse/druid-jev-enrichment](https://github.com/gbesse/druid-jev-enrichment) - Jev semantic enrichment before Apache Druid ingestion.
-- [gbesse/jev-avant-boamp](https://github.com/gbesse/jev-avant-boamp) - Detect reviewable procurement signals in French local deliberations before a…
 - [gbesse/jev-jurisprudence-shift](https://github.com/gbesse/jev-jurisprudence-shift) - Compare French court holdings and surface reviewable changes in jurisprudential…
-- [gbesse/jev-rerank-server](https://github.com/gbesse/jev-rerank-server) - Drop-in rerank API served by Jev: speaks the Cohere, Jina and Voyage rerank…
 - [gbesse/mautic-jev-intent](https://github.com/gbesse/mautic-jev-intent) - Jev intent classification for Mautic form submissions.
 - [iAziz786/omp-jev-decision](https://github.com/iAziz786/omp-jev-decision) - omp extension: a read-tier `decision` tool backed by TypeSafe System One (Jev)…
 - [Jithin-jith/Jev-AI-Model](https://github.com/Jithin-jith/Jev-AI-Model) - Hands-on repository for **Jev**, the groundbreaking &quot;System One&quot; model created…
 - [katya4oyu/jev-systemone-local](https://github.com/katya4oyu/jev-systemone-local) - Local System One-compatible decision server for Laya backends.
-- [kimjooyoon/gooo-jev-lab](https://github.com/kimjooyoon/gooo-jev-lab) - Experimental Go and .gooo JEV decision-evidence lab with fail-closed provenance…
-- [Kundhan73/jev-poker-tutor](https://github.com/Kundhan73/jev-poker-tutor) - No-Limit Hold&#x27;em tutor where TypeSafe AI&#x27;s Jev reads opponents and recommends…
 - [kurowashi/pi-jev](https://github.com/kurowashi/pi-jev) - Semantic checks for Pi file edits and new-file placement, powered by TypeSafe…
-- [lawrence3699/Jev-Style-0.8B-Decision-v3](https://github.com/lawrence3699/Jev-Style-0.8B-Decision-v3) - GitHub mirror of the chaoliangUNSW/Jev-Style-0.8B-Decision-v3 Hugging Face model.
 - [lbildzinkas/jobfit-jev](https://github.com/lbildzinkas/jobfit-jev) - Brave/Chromium extension that assesses your CV against the open LinkedIn job…
 - [LiLittleCat/jev-playlist-classify](https://github.com/LiLittleCat/jev-playlist-classify) - Classify large playlists by song language with TypeSafe AI.
-- [majoralok/InboxClassifierJev](https://github.com/majoralok/InboxClassifierJev) - Self-hosted Gmail organizer powered by TypeSafe Jev and LangChain.
 - [mhmhquiz/jev-x-highlighter](https://github.com/mhmhquiz/jev-x-highlighter) - X の興味あるツイートを Jev (TypeSafe AI) で判定して強調表示する Chrome 拡張.
-- [ORiONx888/JevSentinel](https://github.com/ORiONx888/JevSentinel) - Real-time token risk intelligence and early-warning protection engine for…
+- [namazso/windows-privacy-by-jev](https://github.com/namazso/windows-privacy-by-jev) - Windows 11 privacy and security settings as graded by Jev.
 - [pavankristipati/jev-field-notes](https://github.com/pavankristipati/jev-field-notes) - Hands-on lab testing Jev, a System One classification model: cost, latency, and…
+- [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) - TypeSafe Jev 오픈소스 구현을 매일 모아 한국어로 정리하는 레이더 (radar-index/1).
 - [Pradeeptalari14/tp-typesafe-jev](https://github.com/Pradeeptalari14/tp-typesafe-jev) - Developer Studio repository for TypeSafe Jev: System 1 AI Studio. Category: ai.
 - [saibala2905/itr2-evidence-reasoning-jev](https://github.com/saibala2905/itr2-evidence-reasoning-jev) - Exploring JEV/System One primitives for evidence-aware ITR-2 validation…
 - [ShivaniKumar1/Jev-Chess](https://github.com/ShivaniKumar1/Jev-Chess) - Jev Plays Chess Using DigitalOcean /v1/systemone Endpoint.
 - [Stephane-Dedu/jev-tactics](https://github.com/Stephane-Dedu/jev-tactics) - Perception par vision et decision tactique confiee a Jev (TypeSafe AI) sur un…
-- [tibor-src/jev-site](https://github.com/tibor-src/jev-site) - Classify a message with Jev: boolean, choice, or score, with a probability.
 - [Zeaulo/bit-jev](https://github.com/Zeaulo/bit-jev) - Kev-style structured decisions on BitNet with a native I2_S CPU path.
-- [zozo123/gemma-to-jev](https://github.com/zozo123/gemma-to-jev) - Gemma 3 4B as a Jev-style System One decision function: one forward pass…
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - L.
 - [receptron/laya](https://github.com/receptron/laya) - Exécutez Laya, le modèle de décision System-1 open-source compatible avec Jev…
 - [jerryjliu/docjev](https://github.com/jerryjliu/docjev) - Un classificateur/séparateur de documents très rapide utilisant Jev.
@@ -5174,26 +5175,27 @@ L'écosystème se concentre sur Python et TypeScript, mais des clients typés co
 | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Python     | 322     | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `bodepudimuneendra-netizen/laya-jev-GraphRAG` |
 | TypeScript | 141     | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/jev-harness`, `agencyenterprise/jev-recipes`                                   |
-| JavaScript | 98      | `clouatre-labs/decisions-judge-mcp`, `ChenYCL/jev-browser-skill`, `vibecodingelite-ai/cacador-de-anuncios`                |
-| Rust       | 26      | `supercorp-ai/supercov`, `AkashPriyadarshii/jev-curate`, `AkashPriyadarshii/jev-seo`                                      |
-| HTML       | 21      | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AkashPriyadarshii/jev-superpowers`                          |
-| Go         | 20      | `kisshan13/typesafe-ai-go`, `juangchuank-ops/jev2api`, `olivere/systemone`                                                |
+| JavaScript | 94      | `clouatre-labs/decisions-judge-mcp`, `ChenYCL/jev-browser-skill`, `socai-io/jev-social`                                   |
+| Rust       | 25      | `supercorp-ai/supercov`, `AkashPriyadarshii/jev-curate`, `AkashPriyadarshii/jev-seo`                                      |
+| Go         | 22      | `kisshan13/typesafe-ai-go`, `juangchuank-ops/jev2api`, `olivere/systemone`                                                |
+| HTML       | 22      | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AkashPriyadarshii/jev-superpowers`                          |
 | Java       | 11      | `Premo-Cloud/typesafe-sdk-java`, `danvega/jev-spring-boot-starter`, `Olti1947/jev-java`                                   |
 | C#         | 6       | `saibimajdi/typesafeai-dotnet-sdk`, `vincentlauriat/MailClassification.jev`, `ZeroAlloc-Net/ZeroAlloc.Jev`                |
-| PHP        | 5       | `Butochnikov/laravel-typesafe-jev`, `f-lombardo/jev-php`, `dirnbauer/typo3-webcon-jev`                                    |
-| Swift      | 5       | `john-rocky/coreai-kit`, `bkarak/jev-mac`, `chris-wozniczek/jev-voice-control`                                            |
-| Elixir     | 4       | `nshkrdotcom/typesafe_sdk`, `dannote/jev`, `vinibrsl/gut`                                                                 |
-| Kotlin     | 4       | `agugliotta/jev-kmp`, `snevadalabs/jev-kmp`, `MiaoWuNYA/rikkahub-sillytavern-android`                                     |
+| PHP        | 5       | `Butochnikov/laravel-typesafe-jev`, `marcreichel/laya-php`, `f-lombardo/jev-php`                                          |
+| Swift      | 4       | `john-rocky/coreai-kit`, `bkarak/jev-mac`, `chris-wozniczek/jev-voice-control`                                            |
 | C          | 3       | `giuliosmall/pg_typesafe`, `sqliteai/blink`, `artalis-io/jev-bush`                                                        |
+| Elixir     | 3       | `nshkrdotcom/typesafe_sdk`, `dannote/jev`, `Elue-dev/jev_elixir`                                                          |
 | Jupyter    | 3       | `jexp/neo4jev`, `GitHub30/OpenJev`, `bitnovus/jev-spam-eval`                                                              |
+| Kotlin     | 3       | `agugliotta/jev-kmp`, `snevadalabs/jev-kmp`, `jev-chat/jev-chat-jarvis`                                                   |
+| PowerShell | 3       | `BFLabsAI/bf-jev-deep-research`, `omni-/ask-jev`, `dfinke/Jev`                                                            |
 | Shell      | 3       | `realZachi/pg-jev`, `Bulato597-data/codex-jev-router`, `pavankristipati/jev-field-notes`                                  |
-| PowerShell | 2       | `BFLabsAI/bf-jev-deep-research`, `omni-/ask-jev`                                                                          |
 | Ruby       | 2       | `Ray-Hughes/jevalyn`, `obie/ruby_decision_model`                                                                          |
 | Astro      | 1       | `heyjunpenn/awesome-jev`                                                                                                  |
 | Haskell    | 1       | `getmissionctrl/hs-jev`                                                                                                   |
 | Lua        | 1       | `kiwi0719/jev-edge`                                                                                                       |
 | Nushell    | 1       | `cablehead/jev.nu`                                                                                                        |
 | R          | 1       | `mountainMath/JevR`                                                                                                       |
+| Scala      | 1       | `maxtrezzi/jev4s`                                                                                                         |
 | TeX        | 1       | `dnakhoa/jev-deferred-crispification`                                                                                     |
 | Vue        | 1       | `Didixdan/jev-games-poc`                                                                                                  |
 
@@ -5221,4 +5223,4 @@ Les corrections sont bienvenues et constituent le moyen le plus rapide d'amélio
 
 <sub>Projet communautaire indépendant. Non affilié à TypeSafe AI, ni approuvé, ni relu par elle. Le comportement du produit, les tarifs, les limites et les alias de modèles changent sans préavis ; vérifiez tout élément déterminant dans la documentation officielle. Les ressources restent la propriété de leurs projets d'origine et ne sont reproduites que lorsqu'une licence le permet.</sub>
 
-<sub>Généré par · `render.py` · 2026-09-28T02:13:45+08:00</sub>
+<sub>Généré par · `render.py` · 2026-09-28T04:27:47+08:00</sub>

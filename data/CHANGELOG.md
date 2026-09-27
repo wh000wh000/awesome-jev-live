@@ -2041,3 +2041,32 @@
 - `+` [ai-freer/jev-feishu](https://github.com/ai-freer/jev-feishu) — inferred / other — ⭐0
 - `+` [dnevado/jev-trader](https://github.com/dnevado/jev-trader) — inferred / apps-demos — ⭐0
 - …另有 35 条新增
+
+## 2026-09-28T04:18:28+08:00
+- 收录总数 **815**；本 tick 新增 **47**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐142
+- `+` [thusinh1969/BrighTO_Router](https://github.com/thusinh1969/BrighTO_Router) — inferred / community-sdk — ⭐17
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
+- `+` [ismaelsoilet/jev-harness](https://github.com/ismaelsoilet/jev-harness) — inferred / agent-tooling — ⭐9
+- `+` [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) — inferred / agent-tooling — ⭐6
+- `+` [dfinke/Jev](https://github.com/dfinke/Jev) — observed / apps-demos — ⭐5
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐4
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐3
+- `+` [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) — inferred / agent-tooling — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐3
+- `+` [ourines/hermes-jev](https://github.com/ourines/hermes-jev) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: Chrome extension where Jev decides if each post/video/page is worth it](https://news.ycombinator.com/item?id=49868003) — observed / media-discussions — ⭐2
+- `+` [Jev as a Primitive Feature of Ruby](https://news.ycombinator.com/item?id=49757734) — observed / media-discussions — ⭐2
+- `+` [ajayk/jev-go-sdk](https://github.com/ajayk/jev-go-sdk) — inferred / community-sdk — ⭐1
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐1
+- `+` [apetcu/oh-my-jev](https://github.com/apetcu/oh-my-jev) — inferred / agent-tooling — ⭐1
+- `+` [maxtrezzi/jev4s](https://github.com/maxtrezzi/jev4s) — inferred / community-sdk — ⭐0
+- `+` [songxitao/browseros-jev](https://github.com/songxitao/browseros-jev) — inferred / apps-demos — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [PromptEngineer48/my-jev](https://github.com/PromptEngineer48/my-jev) — inferred / evaluation — ⭐0
+- `+` [twilso24/jev_router](https://github.com/twilso24/jev_router) — inferred / agent-tooling — ⭐0
+- `+` [Clementtang/jev-eval](https://github.com/Clementtang/jev-eval) — inferred / agent-tooling — ⭐0
+- `+` [kanishka-namdeo/jev-rag](https://github.com/kanishka-namdeo/jev-rag) — inferred / evaluation — ⭐0
+- `+` [SciScend/system-one-categorizer-demo](https://github.com/SciScend/system-one-categorizer-demo) — observed / agent-tooling — ⭐0
+- …另有 22 条新增
