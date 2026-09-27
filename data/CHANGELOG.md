@@ -1896,3 +1896,32 @@
 - `+` [rajantripathi/fastgate-jev](https://github.com/rajantripathi/fastgate-jev) — inferred / agent-tooling — ⭐0
 - `+` [JakeTheRabbit/HA-Crop-Steering-Jev](https://github.com/JakeTheRabbit/HA-Crop-Steering-Jev) — inferred / routing-guardrails — ⭐0
 - …另有 55 条新增
+
+## 2026-09-27T16:42:35+08:00
+- 收录总数 **834**；本 tick 新增 **28**
+- `+` [Nasrallah-AL/jev-cli](https://github.com/Nasrallah-AL/jev-cli) — inferred / community-sdk — ⭐22
+- `+` [Ai-trainee/awesome-jev](https://github.com/Ai-trainee/awesome-jev) — inferred / agent-tooling — ⭐11
+- `+` [Arpit-Khandelwal/jev-linkedin-slop-filter](https://github.com/Arpit-Khandelwal/jev-linkedin-slop-filter) — inferred / routing-guardrails — ⭐6
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [Jev model free online with direct API](https://news.ycombinator.com/item?id=49864566) — observed / media-discussions — ⭐2
+- `+` [PhilippElhaus/Codex-Jev](https://github.com/PhilippElhaus/Codex-Jev) — inferred / community-sdk — ⭐1
+- `+` [Capitalofgeorgiapolitician1569/mobile-jev](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev) — inferred / agent-tooling — ⭐0
+- `+` [yorshstudent-a11y/jevlike](https://github.com/yorshstudent-a11y/jevlike) — observed / other — ⭐0
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐0
+- `+` [lwf225-source/jev-codex-router](https://github.com/lwf225-source/jev-codex-router) — inferred / agent-tooling — ⭐0
+- `+` [WesleySmits/spark-jev-email-triage](https://github.com/WesleySmits/spark-jev-email-triage) — inferred / community-sdk — ⭐0
+- `+` [damian87x/jev-browser-use](https://github.com/damian87x/jev-browser-use) — inferred / agent-tooling — ⭐0
+- `+` [alejandroerickson/jev-atlas](https://github.com/alejandroerickson/jev-atlas) — inferred / apps-demos — ⭐0
+- `+` [ZeroAlloc-Net/ZeroAlloc.Jev](https://github.com/ZeroAlloc-Net/ZeroAlloc.Jev) — inferred / community-sdk — ⭐0
+- `+` [mturac/awesome-jev-alternatives](https://github.com/mturac/awesome-jev-alternatives) — inferred / media-discussions — ⭐0
+- `+` [seawolf2357/darwin-27b-jev](https://github.com/seawolf2357/darwin-27b-jev) — inferred / other — ⭐0
+- `+` [navzar81-dev/TALK---A-Decision-Making-Model-Leveraging-Laya-and-Jev-](https://github.com/navzar81-dev/TALK---A-Decision-Making-Model-Leveraging-Laya-and-Jev-) — inferred / routing-guardrails — ⭐0
+- `+` [Zeaulo/bit-jev](https://github.com/Zeaulo/bit-jev) — inferred / other — ⭐0
+- `+` [kazuki-oshino/mobile-order-jev-experiment](https://github.com/kazuki-oshino/mobile-order-jev-experiment) — inferred / apps-demos — ⭐0
+- `+` [confident-christmasfactor2015/jev-ultrafast-mcp](https://github.com/confident-christmasfactor2015/jev-ultrafast-mcp) — inferred / agent-tooling — ⭐0
+- `+` [Begumcaliphate5/jev-reviewer](https://github.com/Begumcaliphate5/jev-reviewer) — inferred / community-sdk — ⭐0
+- `+` [ORiONx888/JevSentinel](https://github.com/ORiONx888/JevSentinel) — inferred / other — ⭐0
+- `+` [starhn87/jev-agent-optimizer](https://github.com/starhn87/jev-agent-optimizer) — inferred / agent-tooling — ⭐0
+- `+` [loserharsh/jev-by-harsh](https://github.com/loserharsh/jev-by-harsh) — inferred / research-models — ⭐0
+- `+` [Aether-254/jev-default-open](https://github.com/Aether-254/jev-default-open) — inferred / other — ⭐0
+- …另有 3 条新增
