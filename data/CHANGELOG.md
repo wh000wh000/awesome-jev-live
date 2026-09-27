@@ -1838,3 +1838,32 @@
 - `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
 - `+` [cdubiel08/jev-ercot](https://github.com/cdubiel08/jev-ercot) — inferred / apps-demos — ⭐0
 - …另有 16 条新增
+
+## 2026-09-27T08:01:29+08:00
+- 收录总数 **831**；本 tick 新增 **42**
+- `+` [altryne/jevify](https://github.com/altryne/jevify) — inferred / agent-tooling — ⭐34
+- `+` [KranzL/Jevflake](https://github.com/KranzL/Jevflake) — inferred / other — ⭐14
+- `+` [ziqi-jin/agent-to-trust](https://github.com/ziqi-jin/agent-to-trust) — inferred / agent-tooling — ⭐8
+- `+` [TheAdaply/jev-apply](https://github.com/TheAdaply/jev-apply) — inferred / agent-tooling — ⭐5
+- `+` [Jaluus/JevPertus](https://github.com/Jaluus/JevPertus) — inferred / other — ⭐5
+- `+` [ddbatista/jev-lab](https://github.com/ddbatista/jev-lab) — inferred / agent-tooling — ⭐3
+- `+` [eugeniughelbur/jev-engineering](https://github.com/eugeniughelbur/jev-engineering) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI](https://news.ycombinator.com/item?id=49861306) — observed / media-discussions — ⭐2
+- `+` [sprah/jev-monid-poc](https://github.com/sprah/jev-monid-poc) — inferred / other — ⭐1
+- `+` [creativoma/here-we-go-jev](https://github.com/creativoma/here-we-go-jev) — observed / routing-guardrails — ⭐1
+- `+` [pyck-ai/jev-mcp](https://github.com/pyck-ai/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [ivancasco/aidlc-plugin-jev](https://github.com/ivancasco/aidlc-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [cassiomc1/fast-jev-compaction-alt](https://github.com/cassiomc1/fast-jev-compaction-alt) — inferred / agent-tooling — ⭐0
+- `+` [criguex/jev-ci-triage](https://github.com/criguex/jev-ci-triage) — inferred / routing-guardrails — ⭐0
+- `+` [King4s/Jev-AI-Skill](https://github.com/King4s/Jev-AI-Skill) — inferred / agent-tooling — ⭐0
+- `+` [JevResearch/Jev-Research](https://github.com/JevResearch/Jev-Research) — inferred / research-models — ⭐0
+- `+` [Sayangenri/jev-adventure-game](https://github.com/Sayangenri/jev-adventure-game) — inferred / apps-demos — ⭐0
+- `+` [imanshu03/jev-browser-use](https://github.com/imanshu03/jev-browser-use) — inferred / agent-tooling — ⭐0
+- `+` [criguex/playwright-jev](https://github.com/criguex/playwright-jev) — inferred / other — ⭐0
+- `+` [MaxIvanyshen/pi-jev-context-filter](https://github.com/MaxIvanyshen/pi-jev-context-filter) — inferred / agent-tooling — ⭐0
+- `+` [tx-smitht/jev-focus-guard](https://github.com/tx-smitht/jev-focus-guard) — inferred / other — ⭐0
+- `+` [louteixeira/JevJudge](https://github.com/louteixeira/JevJudge) — observed / other — ⭐0
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐0
+- `+` [iDiagoValeta/jev-decision-gate](https://github.com/iDiagoValeta/jev-decision-gate) — inferred / agent-tooling — ⭐0
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐0
+- …另有 17 条新增
