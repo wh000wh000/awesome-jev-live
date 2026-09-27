@@ -1925,3 +1925,32 @@
 - `+` [loserharsh/jev-by-harsh](https://github.com/loserharsh/jev-by-harsh) — inferred / research-models — ⭐0
 - `+` [Aether-254/jev-default-open](https://github.com/Aether-254/jev-default-open) — inferred / other — ⭐0
 - …另有 3 条新增
+
+## 2026-09-27T18:57:58+08:00
+- 收录总数 **818**；本 tick 新增 **43**
+- `+` [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) — inferred / agent-tooling — ⭐147
+- `+` [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) — inferred / community-sdk — ⭐86
+- `+` [ruban-24/switchboard](https://github.com/ruban-24/switchboard) — inferred / community-sdk — ⭐11
+- `+` [thejorgg/omp-jev](https://github.com/thejorgg/omp-jev) — inferred / other — ⭐7
+- `+` [danielnc/jev-browse](https://github.com/danielnc/jev-browse) — inferred / agent-tooling — ⭐6
+- `+` [Nanako0129/stingray](https://github.com/Nanako0129/stingray) — unverified / agent-tooling — ⭐5
+- `+` [ra2web/jev-helper](https://github.com/ra2web/jev-helper) — inferred / other — ⭐5
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [laguagu/jev-skills](https://github.com/laguagu/jev-skills) — inferred / agent-tooling — ⭐3
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐3
+- `+` [azalio/doomLaya](https://github.com/azalio/doomLaya) — unverified / research-models — ⭐3
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐3
+- `+` [GLiNER2.5-Decide and Jev: a decision model you run, and one you call](https://news.ycombinator.com/item?id=49864950) — observed / media-discussions — ⭐3
+- `+` [Tomvox444/jev-zk-guard](https://github.com/Tomvox444/jev-zk-guard) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: Jev-windows-agent – Windows UI Automation back end for CUA agents](https://news.ycombinator.com/item?id=49865431) — observed / media-discussions — ⭐2
+- `+` [Show HN: Peekaboolean – image and jev-like typed questions in typed anwers out](https://news.ycombinator.com/item?id=49865111) — observed / media-discussions — ⭐2
+- `+` [kimjooyoon/gooo-jev-runtime](https://github.com/kimjooyoon/gooo-jev-runtime) — inferred / evaluation — ⭐1
+- `+` [FailproofAI/jev-buildathon](https://github.com/FailproofAI/jev-buildathon) — inferred / agent-tooling — ⭐1
+- `+` [syjlovecyf/jev-codex-benchmark](https://github.com/syjlovecyf/jev-codex-benchmark) — inferred / agent-tooling — ⭐1
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [keysersoft/jev-mcp-server](https://github.com/keysersoft/jev-mcp-server) — inferred / agent-tooling — ⭐0
+- `+` [zushicat/gliner2-api-jev-schema](https://github.com/zushicat/gliner2-api-jev-schema) — observed / other — ⭐0
+- `+` [damiensmith1/jev-gmail-filter](https://github.com/damiensmith1/jev-gmail-filter) — inferred / routing-guardrails — ⭐0
+- `+` [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) — inferred / agent-tooling — ⭐0
+- `+` [saibala2905/itr2-evidence-reasoning-jev](https://github.com/saibala2905/itr2-evidence-reasoning-jev) — inferred / other — ⭐0
+- …另有 18 条新增
