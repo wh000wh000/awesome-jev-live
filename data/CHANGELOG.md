@@ -2012,3 +2012,32 @@
 - `+` [starhn87/jev-utils](https://github.com/starhn87/jev-utils) — inferred / community-sdk — ⭐0
 - `+` [mkgraiitr/investment-scanner-agent-jev](https://github.com/mkgraiitr/investment-scanner-agent-jev) — observed / community-sdk — ⭐0
 - …另有 26 条新增
+
+## 2026-09-28T01:58:45+08:00
+- 收录总数 **819**；本 tick 新增 **60**
+- `+` [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) — inferred / research-models — ⭐56
+- `+` [lykycy123/RoboJEV](https://github.com/lykycy123/RoboJEV) — inferred / apps-demos — ⭐49
+- `+` [kiwi0719/jev-edge](https://github.com/kiwi0719/jev-edge) — inferred / routing-guardrails — ⭐36
+- `+` [emnlmn/snap](https://github.com/emnlmn/snap) — observed / research-models — ⭐21
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐19
+- `+` [Ryu0118/jev-sim-use](https://github.com/Ryu0118/jev-sim-use) — inferred / apps-demos — ⭐9
+- `+` [Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill](https://github.com/Alpha-Park/genpark-personal-agent-dual-cognition-orchestrator-skill) — unverified / agent-tooling — ⭐7
+- `+` [alphaparkinc/genpark-personal-agent-dual-cognition-orchestrator-skill](https://github.com/alphaparkinc/genpark-personal-agent-dual-cognition-orchestrator-skill) — unverified / agent-tooling — ⭐7
+- `+` [Alpha-Park/genpark-jev-system1-subconscious-decision-skill](https://github.com/Alpha-Park/genpark-jev-system1-subconscious-decision-skill) — inferred / agent-tooling — ⭐7
+- `+` [alphaparkinc/genpark-jev-system1-subconscious-decision-skill](https://github.com/alphaparkinc/genpark-jev-system1-subconscious-decision-skill) — inferred / agent-tooling — ⭐7
+- `+` [Alpha-Park/genpark-jev-typed-state-action-router-mcp](https://github.com/Alpha-Park/genpark-jev-typed-state-action-router-mcp) — inferred / agent-tooling — ⭐7
+- `+` [alphaparkinc/genpark-jev-typed-state-action-router-mcp](https://github.com/alphaparkinc/genpark-jev-typed-state-action-router-mcp) — inferred / agent-tooling — ⭐7
+- `+` [WXK-AI/jev-opus](https://github.com/WXK-AI/jev-opus) — inferred / community-sdk — ⭐3
+- `+` [Gerry9000/awesome-jev](https://github.com/Gerry9000/awesome-jev) — inferred / evaluation — ⭐3
+- `+` [haileyok/typesafe-client](https://github.com/haileyok/typesafe-client) — inferred / community-sdk — ⭐3
+- `+` [waddle-zoo/signal-weave](https://github.com/waddle-zoo/signal-weave) — unverified / other — ⭐3
+- `+` [How Jev works: calibrated decision models](https://news.ycombinator.com/item?id=49868786) — observed / media-discussions — ⭐3
+- `+` [I was impressed by Jev, please explain why I shouldn't be](https://news.ycombinator.com/item?id=49868483) — observed / media-discussions — ⭐3
+- `+` [luobosibing2/deepseek-harness-jev](https://github.com/luobosibing2/deepseek-harness-jev) — inferred / agent-tooling — ⭐1
+- `+` [yelkhanyergali-sys/jev-guard](https://github.com/yelkhanyergali-sys/jev-guard) — inferred / other — ⭐1
+- `+` [igrejaborabora/lus222-jev-challenge](https://github.com/igrejaborabora/lus222-jev-challenge) — inferred / routing-guardrails — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [memorysaver/jev-atari-lab](https://github.com/memorysaver/jev-atari-lab) — inferred / other — ⭐1
+- `+` [ai-freer/jev-feishu](https://github.com/ai-freer/jev-feishu) — inferred / other — ⭐0
+- `+` [dnevado/jev-trader](https://github.com/dnevado/jev-trader) — inferred / apps-demos — ⭐0
+- …另有 35 条新增
