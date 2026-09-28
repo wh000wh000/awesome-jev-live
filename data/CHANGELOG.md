@@ -2070,3 +2070,32 @@
 - `+` [kanishka-namdeo/jev-rag](https://github.com/kanishka-namdeo/jev-rag) — inferred / evaluation — ⭐0
 - `+` [SciScend/system-one-categorizer-demo](https://github.com/SciScend/system-one-categorizer-demo) — observed / agent-tooling — ⭐0
 - …另有 22 条新增
+
+## 2026-09-28T08:33:57+08:00
+- 收录总数 **806**；本 tick 新增 **61**
+- `+` [YUTA-fywoo/jev-gui-delegate](https://github.com/YUTA-fywoo/jev-gui-delegate) — inferred / agent-tooling — ⭐131
+- `+` [mattn/go-jev](https://github.com/mattn/go-jev) — inferred / community-sdk — ⭐38
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐36
+- `+` [oso95/x-scanner](https://github.com/oso95/x-scanner) — inferred / other — ⭐21
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐11
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐9
+- `+` [gtaras7/typesafe-jev](https://github.com/gtaras7/typesafe-jev) — inferred / routing-guardrails — ⭐8
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [Show HN: Jevdit – a social network moderated by Jev](https://news.ycombinator.com/item?id=49870654) — observed / media-discussions — ⭐7
+- `+` [Gaurav-Gosain/jev-go](https://github.com/Gaurav-Gosain/jev-go) — inferred / community-sdk — ⭐6
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / other — ⭐5
+- `+` [kataras/jev](https://github.com/kataras/jev) — inferred / community-sdk — ⭐5
+- `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐4
+- `+` [Rene-1: Open-weight classifier sets SOTA on Decision Index (+9 over Jev)](https://news.ycombinator.com/item?id=49871553) — observed / media-discussions — ⭐4
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐3
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐3
+- `+` [Show HN: Jev-Like Model Learns to Cook](https://news.ycombinator.com/item?id=49870984) — observed / media-discussions — ⭐2
+- `+` [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) — inferred / agent-tooling — ⭐1
+- `+` [FrancoisChastel/jev-router](https://github.com/FrancoisChastel/jev-router) — inferred / agent-tooling — ⭐1
+- `+` [jakeknowlton/jev.zig](https://github.com/jakeknowlton/jev.zig) — inferred / community-sdk — ⭐1
+- `+` [FZ2000/android-jev](https://github.com/FZ2000/android-jev) — inferred / agent-tooling — ⭐1
+- `+` [JoasASantos/Raze](https://github.com/JoasASantos/Raze) — observed / agent-tooling — ⭐1
+- `+` [G0-0000/pi-subagent-jev](https://github.com/G0-0000/pi-subagent-jev) — inferred / agent-tooling — ⭐1
+- `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
+- `+` [qualiteg/jev-typesafe-demo](https://github.com/qualiteg/jev-typesafe-demo) — inferred / evaluation — ⭐0
+- …另有 36 条新增
