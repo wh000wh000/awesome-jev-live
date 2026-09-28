@@ -2215,3 +2215,32 @@
 - `+` [fsodanogm2dev/opencode-jev-plugin](https://github.com/fsodanogm2dev/opencode-jev-plugin) — inferred / agent-tooling — ⭐0
 - `+` [bhavishy09/jev_learning](https://github.com/bhavishy09/jev_learning) — inferred / routing-guardrails — ⭐0
 - …另有 26 条新增
+
+## 2026-09-29T06:54:25+08:00
+- 收录总数 **835**；本 tick 新增 **33**
+- `+` [henryklunaris/hey-jev](https://github.com/henryklunaris/hey-jev) — inferred / other — ⭐39
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — inferred / community-sdk — ⭐25
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐8
+- `+` [keltokhy/jlink](https://github.com/keltokhy/jlink) — inferred / community-sdk — ⭐7
+- `+` [Akramovic1/jev-pilot](https://github.com/Akramovic1/jev-pilot) — inferred / agent-tooling — ⭐5
+- `+` [jon-devlapaz/tink-route](https://github.com/jon-devlapaz/tink-route) — unverified / agent-tooling — ⭐4
+- `+` [keltokhy/jselect](https://github.com/keltokhy/jselect) — inferred / community-sdk — ⭐4
+- `+` [actuallyrizzn/decision-systems-bakeoff](https://github.com/actuallyrizzn/decision-systems-bakeoff) — unverified / research-models — ⭐4
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [Can Jev Parse CSV?](https://news.ycombinator.com/item?id=49885054) — observed / media-discussions — ⭐2
+- `+` [paschyz/jev-ticket-moderator](https://github.com/paschyz/jev-ticket-moderator) — inferred / agent-tooling — ⭐1
+- `+` [inematds/jev](https://github.com/inematds/jev) — inferred / other — ⭐1
+- `+` [silex-ai-lab/jev-realtime-observability](https://github.com/silex-ai-lab/jev-realtime-observability) — inferred / agent-tooling — ⭐0
+- `+` [CodingAbdullah/jev-agent-chess](https://github.com/CodingAbdullah/jev-agent-chess) — observed / agent-tooling — ⭐0
+- `+` [CMaintz/jev-rerank](https://github.com/CMaintz/jev-rerank) — inferred / routing-guardrails — ⭐0
+- `+` [galinauskas/jev-harness](https://github.com/galinauskas/jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [auschoi96/jev-pi-token-reduction](https://github.com/auschoi96/jev-pi-token-reduction) — inferred / other — ⭐0
+- `+` [tak-bro/local-jev-bench](https://github.com/tak-bro/local-jev-bench) — inferred / evaluation — ⭐0
+- `+` [atmaneayoubdev/jev-mem](https://github.com/atmaneayoubdev/jev-mem) — inferred / agent-tooling — ⭐0
+- `+` [smgonthebeat/jev-overseas-progress](https://github.com/smgonthebeat/jev-overseas-progress) — inferred / other — ⭐0
+- `+` [Jev-Engineering/jev-integration-evaluator](https://github.com/Jev-Engineering/jev-integration-evaluator) — inferred / community-sdk — ⭐0
+- `+` [commonweavelabs-crypto/jev-triage](https://github.com/commonweavelabs-crypto/jev-triage) — inferred / routing-guardrails — ⭐0
+- `+` [mariobgsp/trading-jev](https://github.com/mariobgsp/trading-jev) — inferred / apps-demos — ⭐0
+- `+` [kkannan18/jev-invaders](https://github.com/kkannan18/jev-invaders) — inferred / other — ⭐0
+- `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
+- …另有 8 条新增
