@@ -2099,3 +2099,32 @@
 - `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
 - `+` [qualiteg/jev-typesafe-demo](https://github.com/qualiteg/jev-typesafe-demo) — inferred / evaluation — ⭐0
 - …另有 36 条新增
+
+## 2026-09-28T21:05:21+08:00
+- 收录总数 **841**；本 tick 新增 **164**
+- `+` [Introducing System One Models and Jev](https://news.ycombinator.com/item?id=49717558) — observed / media-discussions — ⭐1984
+- `+` [libingzheren/Jev-Mem](https://github.com/libingzheren/Jev-Mem) — inferred / agent-tooling — ⭐111
+- `+` [openqa-cn/jev-browser](https://github.com/openqa-cn/jev-browser) — inferred / agent-tooling — ⭐103
+- `+` [chy4pro/jev-for-chrome](https://github.com/chy4pro/jev-for-chrome) — inferred / agent-tooling — ⭐31
+- `+` [6Mikao9/jev-native-agent-with-extended-options](https://github.com/6Mikao9/jev-native-agent-with-extended-options) — inferred / community-sdk — ⭐23
+- `+` [jev-chat/jev-chat-jarvis-ios](https://github.com/jev-chat/jev-chat-jarvis-ios) — inferred / apps-demos — ⭐21
+- `+` [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar) — inferred / evaluation — ⭐21
+- `+` [zjunlp/JevLoop](https://github.com/zjunlp/JevLoop) — inferred / agent-tooling — ⭐20
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐18
+- `+` [brianhong-dev/omo-jev-plugin](https://github.com/brianhong-dev/omo-jev-plugin) — inferred / agent-tooling — ⭐17
+- `+` [jerryfane/omp-jev-compaction](https://github.com/jerryfane/omp-jev-compaction) — inferred / routing-guardrails — ⭐9
+- `+` [lexmount/jev-browser-bridge](https://github.com/lexmount/jev-browser-bridge) — inferred / apps-demos — ⭐9
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐9
+- `+` [rashedInt32/jev-mcp](https://github.com/rashedInt32/jev-mcp) — inferred / agent-tooling — ⭐8
+- `+` [ethan-ab/xscout-jev](https://github.com/ethan-ab/xscout-jev) — inferred / agent-tooling — ⭐8
+- `+` [ZhangYiqun018/jev-dimabsa](https://github.com/ZhangYiqun018/jev-dimabsa) — inferred / evaluation — ⭐7
+- `+` [doronp/jevc](https://github.com/doronp/jevc) — unverified / community-sdk — ⭐7
+- `+` [cobusgreyling/Jev](https://github.com/cobusgreyling/Jev) — inferred / evaluation — ⭐6
+- `+` [AkashPriyadarshii/jev-scout](https://github.com/AkashPriyadarshii/jev-scout) — inferred / community-sdk — ⭐6
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐5
+- `+` [Nainish-Rai/jev-frontend-qa](https://github.com/Nainish-Rai/jev-frontend-qa) — inferred / apps-demos — ⭐5
+- `+` [freepik-company/jev-mcp](https://github.com/freepik-company/jev-mcp) — inferred / community-sdk — ⭐4
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [buer2233/jev-ui-test](https://github.com/buer2233/jev-ui-test) — inferred / apps-demos — ⭐4
+- …另有 139 条新增
