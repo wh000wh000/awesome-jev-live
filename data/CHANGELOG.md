@@ -2186,3 +2186,32 @@
 - `+` [selinhazir/jev-llm-recommendations](https://github.com/selinhazir/jev-llm-recommendations) — inferred / routing-guardrails — ⭐0
 - `+` [damian87x/jev-browser-use](https://github.com/damian87x/jev-browser-use) — inferred / agent-tooling — ⭐0
 - …另有 24 条新增
+
+## 2026-09-29T04:38:22+08:00
+- 收录总数 **844**；本 tick 新增 **51**
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐65
+- `+` [leepokai/jev-guard](https://github.com/leepokai/jev-guard) — inferred / community-sdk — ⭐43
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐30
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐29
+- `+` [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — inferred / evaluation — ⭐23
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐5
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐4
+- `+` [YidiDev/jev-benchmark](https://github.com/YidiDev/jev-benchmark) — inferred / agent-tooling — ⭐3
+- `+` [jkudish/jev-agent-tools](https://github.com/jkudish/jev-agent-tools) — inferred / agent-tooling — ⭐3
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐3
+- `+` [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://news.ycombinator.com/item?id=49883844) — observed / media-discussions — ⭐3
+- `+` [Njengah/jev-cheatsheet](https://github.com/Njengah/jev-cheatsheet) — inferred / other — ⭐2
+- `+` [qualixar/jev-decision-layer](https://github.com/qualixar/jev-decision-layer) — inferred / agent-tooling — ⭐1
+- `+` [turenlabs/lisa](https://github.com/turenlabs/lisa) — observed / other — ⭐1
+- `+` [theaiautomators/jev-arena](https://github.com/theaiautomators/jev-arena) — inferred / agent-tooling — ⭐1
+- `+` [inematds/jev-open](https://github.com/inematds/jev-open) — inferred / other — ⭐1
+- `+` [joacotornello/jev-prompt-enhancer](https://github.com/joacotornello/jev-prompt-enhancer) — inferred / agent-tooling — ⭐1
+- `+` [kyu-softmatter/autofocus-jev](https://github.com/kyu-softmatter/autofocus-jev) — inferred / research-models — ⭐1
+- `+` [hanselhansel/jev-opportunity-atlas](https://github.com/hanselhansel/jev-opportunity-atlas) — inferred / evaluation — ⭐0
+- `+` [maxtrezzi/jev4s](https://github.com/maxtrezzi/jev4s) — inferred / community-sdk — ⭐0
+- `+` [WesleySmits/spark-jev-email-triage](https://github.com/WesleySmits/spark-jev-email-triage) — inferred / community-sdk — ⭐0
+- `+` [choas/jev-service-desk-demo](https://github.com/choas/jev-service-desk-demo) — inferred / routing-guardrails — ⭐0
+- `+` [fsodanogm2dev/opencode-jev-plugin](https://github.com/fsodanogm2dev/opencode-jev-plugin) — inferred / agent-tooling — ⭐0
+- `+` [bhavishy09/jev_learning](https://github.com/bhavishy09/jev_learning) — inferred / routing-guardrails — ⭐0
+- …另有 26 条新增
