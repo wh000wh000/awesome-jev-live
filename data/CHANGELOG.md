@@ -2157,3 +2157,32 @@
 - `+` [frodi-karlsson/onesie](https://github.com/frodi-karlsson/onesie) — observed / community-sdk — ⭐1
 - `+` [VyetGokyra/jev-codex-factory](https://github.com/VyetGokyra/jev-codex-factory) — inferred / agent-tooling — ⭐1
 - …另有 38 条新增
+
+## 2026-09-29T02:09:04+08:00
+- 收录总数 **842**；本 tick 新增 **49**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐162
+- `+` [christianmat/jev-pokemon](https://github.com/christianmat/jev-pokemon) — inferred / apps-demos — ⭐96
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐38
+- `+` [da-vinci-noob/pi-jev-model-router](https://github.com/da-vinci-noob/pi-jev-model-router) — inferred / routing-guardrails — ⭐8
+- `+` [lucioamor/lovable-skills](https://github.com/lucioamor/lovable-skills) — unverified / agent-tooling — ⭐6
+- `+` [TheAdaply/jev-apply](https://github.com/TheAdaply/jev-apply) — inferred / other — ⭐6
+- `+` [We swapped our LLMs for Jev. It's 39% cheaper](https://news.ycombinator.com/item?id=49881537) — observed / media-discussions — ⭐6
+- `+` [xafold/jev-router](https://github.com/xafold/jev-router) — inferred / agent-tooling — ⭐5
+- `+` [Jevgrep: A CLI for coding agents that uses Jev to discover relevant files](https://news.ycombinator.com/item?id=49880146) — observed / media-discussions — ⭐5
+- `+` [shivpratapsinghpanwar/edgefront_JEV](https://github.com/shivpratapsinghpanwar/edgefront_JEV) — inferred / evaluation — ⭐4
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐4
+- `+` [Jev and where a System One model fits in document processing](https://news.ycombinator.com/item?id=49881336) — observed / media-discussions — ⭐4
+- `+` [24601/rh-guard](https://github.com/24601/rh-guard) — inferred / agent-tooling — ⭐3
+- `+` [gazelle93/decision-models-under-pressure](https://github.com/gazelle93/decision-models-under-pressure) — inferred / routing-guardrails — ⭐3
+- `+` [psyb0t/decidealot](https://github.com/psyb0t/decidealot) — unverified / community-sdk — ⭐3
+- `+` [JEV based Effort-router picks Claude Code's reasoning effort for each prompt](https://news.ycombinator.com/item?id=49880075) — observed / media-discussions — ⭐2
+- `+` [jevplays-games/jev-factorio-agent](https://github.com/jevplays-games/jev-factorio-agent) — inferred / agent-tooling — ⭐1
+- `+` [jev-ai-desktop/Jev-AI-Desktop](https://github.com/jev-ai-desktop/Jev-AI-Desktop) — observed / agent-tooling — ⭐1
+- `+` [tapsin/jev-local](https://github.com/tapsin/jev-local) — inferred / agent-tooling — ⭐1
+- `+` [sunyasheng/JevDeepResearch](https://github.com/sunyasheng/JevDeepResearch) — inferred / agent-tooling — ⭐1
+- `+` [alexperettogithub/fast-jev-compaction-codex](https://github.com/alexperettogithub/fast-jev-compaction-codex) — inferred / agent-tooling — ⭐0
+- `+` [Vonage-Community/demo-video-javascript-jev-starter](https://github.com/Vonage-Community/demo-video-javascript-jev-starter) — inferred / agent-tooling — ⭐0
+- `+` [kofanlabs/jev-browser-chrome](https://github.com/kofanlabs/jev-browser-chrome) — inferred / agent-tooling — ⭐0
+- `+` [selinhazir/jev-llm-recommendations](https://github.com/selinhazir/jev-llm-recommendations) — inferred / routing-guardrails — ⭐0
+- `+` [damian87x/jev-browser-use](https://github.com/damian87x/jev-browser-use) — inferred / agent-tooling — ⭐0
+- …另有 24 条新增
