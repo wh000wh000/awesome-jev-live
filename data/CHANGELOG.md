@@ -2128,3 +2128,32 @@
 - `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
 - `+` [buer2233/jev-ui-test](https://github.com/buer2233/jev-ui-test) — inferred / apps-demos — ⭐4
 - …另有 139 条新增
+
+## 2026-09-28T23:45:53+08:00
+- 收录总数 **848**；本 tick 新增 **63**
+- `+` [kiwi0719/jev-edge](https://github.com/kiwi0719/jev-edge) — inferred / routing-guardrails — ⭐37
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐20
+- `+` [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) — inferred / agent-tooling — ⭐12
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐11
+- `+` [caizili999/jev-chat-windows](https://github.com/caizili999/jev-chat-windows) — inferred / agent-tooling — ⭐8
+- `+` [JiaQiSJTU/CanITrustU-Jev](https://github.com/JiaQiSJTU/CanITrustU-Jev) — inferred / other — ⭐6
+- `+` [cephalization/jev-triage](https://github.com/cephalization/jev-triage) — inferred / routing-guardrails — ⭐5
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐4
+- `+` [cooper667/jev-playwright](https://github.com/cooper667/jev-playwright) — inferred / agent-tooling — ⭐3
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐3
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐3
+- `+` [iamtalha-arshad/ex_typesafe_ai](https://github.com/iamtalha-arshad/ex_typesafe_ai) — unverified / community-sdk — ⭐3
+- `+` [Oranquelui/astra-jev-harness](https://github.com/Oranquelui/astra-jev-harness) — inferred / community-sdk — ⭐2
+- `+` [Gevva0 – a Jev like decision engine on Gemma 26B via direct logit scoring](https://news.ycombinator.com/item?id=49879676) — observed / media-discussions — ⭐2
+- `+` [Ask HN: JEV for K1 Tax Forms](https://news.ycombinator.com/item?id=49879648) — observed / media-discussions — ⭐2
+- `+` [Investigating Jev's architecture and how to scale it](https://news.ycombinator.com/item?id=49879637) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jeva.cpp – a llama.cpp fork with JEV-compatible API for all LLMs](https://news.ycombinator.com/item?id=49878572) — observed / media-discussions — ⭐2
+- `+` [Show HN: Decide – Jev decisions in the shell, scripts, and agent skills](https://news.ycombinator.com/item?id=49878492) — observed / media-discussions — ⭐2
+- `+` [How to Use Jev in Node.js](https://news.ycombinator.com/item?id=49877785) — observed / media-discussions — ⭐2
+- `+` [linc85824-lang/Jev-AI-Desktop](https://github.com/linc85824-lang/Jev-AI-Desktop) — inferred / other — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [EmiRoberti77/jev-py-integration](https://github.com/EmiRoberti77/jev-py-integration) — inferred / community-sdk — ⭐1
+- `+` [suffro/decguard](https://github.com/suffro/decguard) — observed / other — ⭐1
+- `+` [frodi-karlsson/onesie](https://github.com/frodi-karlsson/onesie) — observed / community-sdk — ⭐1
+- `+` [VyetGokyra/jev-codex-factory](https://github.com/VyetGokyra/jev-codex-factory) — inferred / agent-tooling — ⭐1
+- …另有 38 条新增
