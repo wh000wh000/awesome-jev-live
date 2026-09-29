@@ -2273,3 +2273,32 @@
 - `+` [DavidSilvaProg/laboratorio-jev-fatec](https://github.com/DavidSilvaProg/laboratorio-jev-fatec) — inferred / agent-tooling — ⭐0
 - `+` [mgd34msu/vibecheck-jev](https://github.com/mgd34msu/vibecheck-jev) — observed / community-sdk — ⭐0
 - …另有 2 条新增
+
+## 2026-09-29T11:29:19+08:00
+- 收录总数 **832**；本 tick 新增 **40**
+- `+` [luobosibing2/dsh-jev-plugin](https://github.com/luobosibing2/dsh-jev-plugin) — inferred / agent-tooling — ⭐17
+- `+` [christian-taillon/opencode-jev-compactor](https://github.com/christian-taillon/opencode-jev-compactor) — inferred / other — ⭐6
+- `+` [brnyxx/jev-ra](https://github.com/brnyxx/jev-ra) — inferred / community-sdk — ⭐5
+- `+` [abhishek085/JevControl](https://github.com/abhishek085/JevControl) — inferred / agent-tooling — ⭐4
+- `+` [brida-ai/reflex](https://github.com/brida-ai/reflex) — observed / agent-tooling — ⭐4
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐3
+- `+` [TypeSafe AI's Jev Is Not an LLM – and That May Be the Point](https://news.ycombinator.com/item?id=49761730) — observed / media-discussions — ⭐3
+- `+` [TypeSafe / Jev latency-focused demos built by Devin](https://news.ycombinator.com/item?id=49757995) — observed / media-discussions — ⭐3
+- `+` [DDnim/jev-vs-laya](https://github.com/DDnim/jev-vs-laya) — inferred / community-sdk — ⭐2
+- `+` [Classify 6700 pages for $1 with a Jev-compatible VLM API](https://news.ycombinator.com/item?id=49887163) — observed / media-discussions — ⭐2
+- `+` [sperictao/dsh-auto-review-jev](https://github.com/sperictao/dsh-auto-review-jev) — inferred / agent-tooling — ⭐1
+- `+` [initrd/himalaya-jev-mail-classify](https://github.com/initrd/himalaya-jev-mail-classify) — inferred / community-sdk — ⭐1
+- `+` [DDnim/jev-tweet-radar](https://github.com/DDnim/jev-tweet-radar) — observed / other — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [Constantine1916/jev-nasdaq-predictor](https://github.com/Constantine1916/jev-nasdaq-predictor) — inferred / other — ⭐0
+- `+` [aslesha96/jev-email-sorter](https://github.com/aslesha96/jev-email-sorter) — inferred / other — ⭐0
+- `+` [Madheshvivekanandan/jev-vs-cosine](https://github.com/Madheshvivekanandan/jev-vs-cosine) — inferred / routing-guardrails — ⭐0
+- `+` [drewpayment/jev-route](https://github.com/drewpayment/jev-route) — inferred / agent-tooling — ⭐0
+- `+` [ak--47/ak-jev](https://github.com/ak--47/ak-jev) — observed / community-sdk — ⭐0
+- `+` [pathcosmos/typesafeai-jev-case-manual](https://github.com/pathcosmos/typesafeai-jev-case-manual) — inferred / agent-tooling — ⭐0
+- `+` [undeemed/jev-mod](https://github.com/undeemed/jev-mod) — inferred / routing-guardrails — ⭐0
+- `+` [DDnim/jev-rag-bench](https://github.com/DDnim/jev-rag-bench) — inferred / routing-guardrails — ⭐0
+- `+` [admud/jev-experiments](https://github.com/admud/jev-experiments) — inferred / other — ⭐0
+- `+` [joshpocock/jev-vs-laya-inbox-test](https://github.com/joshpocock/jev-vs-laya-inbox-test) — inferred / agent-tooling — ⭐0
+- `+` [YuanTong-Wu/jev-screen](https://github.com/YuanTong-Wu/jev-screen) — inferred / agent-tooling — ⭐0
+- …另有 15 条新增
