@@ -2389,3 +2389,32 @@
 - `+` [jackchen13755/dsh-jev-kit](https://github.com/jackchen13755/dsh-jev-kit) — inferred / agent-tooling — ⭐0
 - `+` [AlesSystems/jev-lab](https://github.com/AlesSystems/jev-lab) — inferred / research-models — ⭐0
 - …另有 10 条新增
+
+## 2026-09-29T20:51:38+08:00
+- 收录总数 **810**；本 tick 新增 **34**
+- `+` [Jeeves. Reasoning improves Jev-like decision models](https://news.ycombinator.com/item?id=49891290) — observed / media-discussions — ⭐61
+- `+` [PostHog/jeeves](https://github.com/PostHog/jeeves) — unverified / other — ⭐53
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐24
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐22
+- `+` [nozomi-koborinai/jev-spec](https://github.com/nozomi-koborinai/jev-spec) — inferred / agent-tooling — ⭐11
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐9
+- `+` [kaustav1996/reflex](https://github.com/kaustav1996/reflex) — unverified / agent-tooling — ⭐4
+- `+` [r4ai/laya-web](https://github.com/r4ai/laya-web) — inferred / apps-demos — ⭐3
+- `+` [Language Models for Text Classification: From Bag-of-Words to Jev](https://news.ycombinator.com/item?id=49891203) — observed / media-discussions — ⭐3
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [Jev Civilizations](https://news.ycombinator.com/item?id=49890864) — observed / media-discussions — ⭐2
+- `+` [keta1930/what-the-jev](https://github.com/keta1930/what-the-jev) — inferred / evaluation — ⭐1
+- `+` [lexmount/WebJev](https://github.com/lexmount/WebJev) — inferred / evaluation — ⭐1
+- `+` [sunyasheng/JevDeepResearch](https://github.com/sunyasheng/JevDeepResearch) — inferred / agent-tooling — ⭐1
+- `+` [Sarim-MBZUAI/awesome-jev-security](https://github.com/Sarim-MBZUAI/awesome-jev-security) — observed / routing-guardrails — ⭐0
+- `+` [selinhazir/jev-llm-recommendations](https://github.com/selinhazir/jev-llm-recommendations) — inferred / routing-guardrails — ⭐0
+- `+` [Clementtang/jev-eval](https://github.com/Clementtang/jev-eval) — inferred / agent-tooling — ⭐0
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [wraithyy/ilmari-plugin-jev](https://github.com/wraithyy/ilmari-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [damian87x/jev-claude-orchestrator](https://github.com/damian87x/jev-claude-orchestrator) — inferred / agent-tooling — ⭐0
+- `+` [monkeyteamvip/jev-brain](https://github.com/monkeyteamvip/jev-brain) — inferred / other — ⭐0
+- `+` [rfoerthe/fast-cat](https://github.com/rfoerthe/fast-cat) — observed / apps-demos — ⭐0
+- `+` [SvirepyiBambr/pollinations-jev-jury](https://github.com/SvirepyiBambr/pollinations-jev-jury) — inferred / other — ⭐0
+- `+` [Yuchi-Wang02/jev-scope-challenge](https://github.com/Yuchi-Wang02/jev-scope-challenge) — inferred / research-models — ⭐0
+- `+` [brunocfalcao/astra-jev](https://github.com/brunocfalcao/astra-jev) — inferred / agent-tooling — ⭐0
+- …另有 9 条新增
