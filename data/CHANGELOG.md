@@ -2447,3 +2447,32 @@
 - `+` [JakeTheRabbit/HA-Crop-Steering-Jev](https://github.com/JakeTheRabbit/HA-Crop-Steering-Jev) — inferred / routing-guardrails — ⭐0
 - `+` [cogcloud-ai/cog-typesafe](https://github.com/cogcloud-ai/cog-typesafe) — observed / community-sdk — ⭐0
 - …另有 21 条新增
+
+## 2026-09-30T01:37:43+08:00
+- 收录总数 **831**；本 tick 新增 **70**
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐108
+- `+` [ciberjohn/Hermes-Skills](https://github.com/ciberjohn/Hermes-Skills) — unverified / agent-tooling — ⭐13
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐10
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐10
+- `+` [ali-master/usejev](https://github.com/ali-master/usejev) — inferred / apps-demos — ⭐7
+- `+` [Every model (incl. Jev) we tested inflates security finding severity](https://news.ycombinator.com/item?id=49894699) — observed / media-discussions — ⭐7
+- `+` [WXK-AI/jev-opus](https://github.com/WXK-AI/jev-opus) — inferred / community-sdk — ⭐5
+- `+` [glamboyosa/docket](https://github.com/glamboyosa/docket) — inferred / other — ⭐5
+- `+` [WebGrga/btc-jev-signal](https://github.com/WebGrga/btc-jev-signal) — inferred / other — ⭐4
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐4
+- `+` [qzqdz/jevtree](https://github.com/qzqdz/jevtree) — observed / other — ⭐4
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐4
+- `+` [eachann1024/pi-jev-reply](https://github.com/eachann1024/pi-jev-reply) — inferred / apps-demos — ⭐3
+- `+` [greghavens/jev-no-bullshit](https://github.com/greghavens/jev-no-bullshit) — inferred / agent-tooling — ⭐3
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐3
+- `+` [What if Jev spoke Arrow?](https://news.ycombinator.com/item?id=49895970) — observed / media-discussions — ⭐3
+- `+` [yctimlin/JevScout](https://github.com/yctimlin/JevScout) — inferred / agent-tooling — ⭐2
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐2
+- `+` [ourines/hermes-jev](https://github.com/ourines/hermes-jev) — inferred / agent-tooling — ⭐2
+- `+` [Mrchen116/jev-computer-use-skill](https://github.com/Mrchen116/jev-computer-use-skill) — inferred / agent-tooling — ⭐2
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐2
+- `+` [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748) — observed / media-discussions — ⭐2
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- …另有 45 条新增
