@@ -2418,3 +2418,32 @@
 - `+` [Yuchi-Wang02/jev-scope-challenge](https://github.com/Yuchi-Wang02/jev-scope-challenge) — inferred / research-models — ⭐0
 - `+` [brunocfalcao/astra-jev](https://github.com/brunocfalcao/astra-jev) — inferred / agent-tooling — ⭐0
 - …另有 9 条新增
+
+## 2026-09-29T23:08:49+08:00
+- 收录总数 **814**；本 tick 新增 **46**
+- `+` [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) — inferred / research-models — ⭐105
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐38
+- `+` [jerryfane/omp-jev-compaction](https://github.com/jerryfane/omp-jev-compaction) — inferred / routing-guardrails — ⭐9
+- `+` [doronp/jevc](https://github.com/doronp/jevc) — unverified / community-sdk — ⭐7
+- `+` [Mangaba-ai/brier](https://github.com/Mangaba-ai/brier) — unverified / research-models — ⭐4
+- `+` [tomerglick57/Jevstiller](https://github.com/tomerglick57/Jevstiller) — inferred / research-models — ⭐4
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [dperezcabrera/ai-chess-lab](https://github.com/dperezcabrera/ai-chess-lab) — observed / routing-guardrails — ⭐3
+- `+` [fini/warped-sys1-lab](https://github.com/fini/warped-sys1-lab) — unverified / community-sdk — ⭐3
+- `+` [Show HN: Sezwhere – Ask any document "where does it say that?" (built on Jev)](https://news.ycombinator.com/item?id=49894301) — observed / media-discussions — ⭐3
+- `+` [robertn702/opencode-jev-router](https://github.com/robertn702/opencode-jev-router) — inferred / agent-tooling — ⭐2
+- `+` [karozi/awesome-jev-resources](https://github.com/karozi/awesome-jev-resources) — observed / apps-demos — ⭐1
+- `+` [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) — observed / media-discussions — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [CMaintz/jev-guard](https://github.com/CMaintz/jev-guard) — observed / community-sdk — ⭐1
+- `+` [CMaintz/jev-triage](https://github.com/CMaintz/jev-triage) — observed / routing-guardrails — ⭐1
+- `+` [AgentBull/bongard](https://github.com/AgentBull/bongard) — observed / other — ⭐1
+- `+` [CMaintz/jev-sort](https://github.com/CMaintz/jev-sort) — observed / community-sdk — ⭐1
+- `+` [joshpocock/jev-vs-laya-inbox-test](https://github.com/joshpocock/jev-vs-laya-inbox-test) — inferred / agent-tooling — ⭐0
+- `+` [tuneyuki/jev-mart-demo](https://github.com/tuneyuki/jev-mart-demo) — inferred / apps-demos — ⭐0
+- `+` [donvito/jev-dev](https://github.com/donvito/jev-dev) — observed / apps-demos — ⭐0
+- `+` [ZhenningLang/jev-cases](https://github.com/ZhenningLang/jev-cases) — inferred / other — ⭐0
+- `+` [braydenabo/fndds-matcher-jev](https://github.com/braydenabo/fndds-matcher-jev) — inferred / evaluation — ⭐0
+- `+` [JakeTheRabbit/HA-Crop-Steering-Jev](https://github.com/JakeTheRabbit/HA-Crop-Steering-Jev) — inferred / routing-guardrails — ⭐0
+- `+` [cogcloud-ai/cog-typesafe](https://github.com/cogcloud-ai/cog-typesafe) — observed / community-sdk — ⭐0
+- …另有 21 条新增
