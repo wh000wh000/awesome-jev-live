@@ -2360,3 +2360,32 @@
 - `+` [yanjn1388/jev-bayes](https://github.com/yanjn1388/jev-bayes) — inferred / other — ⭐0
 - `+` [1009rishit/JEV-resume-shortlister](https://github.com/1009rishit/JEV-resume-shortlister) — inferred / community-sdk — ⭐0
 - …另有 20 条新增
+
+## 2026-09-29T18:36:39+08:00
+- 收录总数 **815**；本 tick 新增 **35**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — unverified / evaluation — ⭐175
+- `+` [alanhuangyoo/wev](https://github.com/alanhuangyoo/wev) — unverified / agent-tooling — ⭐18
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐11
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐6
+- `+` [org2AI/wald-4b](https://github.com/org2AI/wald-4b) — inferred / agent-tooling — ⭐5
+- `+` [LamplighterPaul/jev-piano](https://github.com/LamplighterPaul/jev-piano) — inferred / other — ⭐5
+- `+` [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) — inferred / agent-tooling — ⭐3
+- `+` [dr-dimitru/claude-jev-plugin](https://github.com/dr-dimitru/claude-jev-plugin) — inferred / agent-tooling — ⭐2
+- `+` [Chorylee7/JEV](https://github.com/Chorylee7/JEV) — inferred / routing-guardrails — ⭐2
+- `+` [Search engine for tech events built with Jev](https://news.ycombinator.com/item?id=49890037) — observed / media-discussions — ⭐2
+- `+` [bhanuprakashk90-tech/jev-agent-guardrail](https://github.com/bhanuprakashk90-tech/jev-agent-guardrail) — inferred / agent-tooling — ⭐1
+- `+` [ByteBell/jev-filter](https://github.com/ByteBell/jev-filter) — inferred / agent-tooling — ⭐1
+- `+` [RahulKumarsingh2001/Jev-systemOne-model](https://github.com/RahulKumarsingh2001/Jev-systemOne-model) — observed / other — ⭐1
+- `+` [truehannan/computer-jev](https://github.com/truehannan/computer-jev) — inferred / agent-tooling — ⭐1
+- `+` [SherseaHe/jev-ultrafast-skill](https://github.com/SherseaHe/jev-ultrafast-skill) — inferred / agent-tooling — ⭐1
+- `+` [Wachu2005/jev-alchemy](https://github.com/Wachu2005/jev-alchemy) — inferred / routing-guardrails — ⭐1
+- `+` [swrobuts/jev-Classifier](https://github.com/swrobuts/jev-Classifier) — inferred / other — ⭐0
+- `+` [lehorhe/radio-wnet-test-jev](https://github.com/lehorhe/radio-wnet-test-jev) — inferred / other — ⭐0
+- `+` [cwywing/ZCode-Jev](https://github.com/cwywing/ZCode-Jev) — inferred / agent-tooling — ⭐0
+- `+` [rajeshponna/camunda-jev-ai-decision-connector](https://github.com/rajeshponna/camunda-jev-ai-decision-connector) — inferred / other — ⭐0
+- `+` [CMaintz/jev-java](https://github.com/CMaintz/jev-java) — observed / community-sdk — ⭐0
+- `+` [ivanblagdan/jev-cli](https://github.com/ivanblagdan/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [CMaintz/jev-dotnet](https://github.com/CMaintz/jev-dotnet) — observed / community-sdk — ⭐0
+- `+` [jackchen13755/dsh-jev-kit](https://github.com/jackchen13755/dsh-jev-kit) — inferred / agent-tooling — ⭐0
+- `+` [AlesSystems/jev-lab](https://github.com/AlesSystems/jev-lab) — inferred / research-models — ⭐0
+- …另有 10 条新增
