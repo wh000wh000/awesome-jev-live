@@ -2302,3 +2302,32 @@
 - `+` [joshpocock/jev-vs-laya-inbox-test](https://github.com/joshpocock/jev-vs-laya-inbox-test) — inferred / agent-tooling — ⭐0
 - `+` [YuanTong-Wu/jev-screen](https://github.com/YuanTong-Wu/jev-screen) — inferred / agent-tooling — ⭐0
 - …另有 15 条新增
+
+## 2026-09-29T13:45:18+08:00
+- 收录总数 **827**；本 tick 新增 **37**
+- `+` [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) — inferred / other — ⭐173
+- `+` [shimo4228/jev-skill-router](https://github.com/shimo4228/jev-skill-router) — inferred / agent-tooling — ⭐7
+- `+` [Foadsf/jev-for-engineers](https://github.com/Foadsf/jev-for-engineers) — observed / routing-guardrails — ⭐6
+- `+` [vibe-with-me-tools/n8n-nodes-jev](https://github.com/vibe-with-me-tools/n8n-nodes-jev) — inferred / agent-tooling — ⭐5
+- `+` [GeekLinkDev/jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator) — inferred / community-sdk — ⭐5
+- `+` [BrendanH18/jev_fsd](https://github.com/BrendanH18/jev_fsd) — inferred / evaluation — ⭐3
+- `+` [tomek7667/cbjev](https://github.com/tomek7667/cbjev) — inferred / routing-guardrails — ⭐3
+- `+` [Njengah/jev-cheatsheet](https://github.com/Njengah/jev-cheatsheet) — inferred / other — ⭐2
+- `+` [Mrchen116/jev-computer-use-skill](https://github.com/Mrchen116/jev-computer-use-skill) — inferred / agent-tooling — ⭐2
+- `+` [lwf225-source/jev-codex-router](https://github.com/lwf225-source/jev-codex-router) — inferred / agent-tooling — ⭐0
+- `+` [Clawbuilders/cloudflare-web-qa-jev-agent](https://github.com/Clawbuilders/cloudflare-web-qa-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [sususu98/pi-jev-navigator](https://github.com/sususu98/pi-jev-navigator) — inferred / community-sdk — ⭐0
+- `+` [yasumorishima/jev-baseball](https://github.com/yasumorishima/jev-baseball) — inferred / other — ⭐0
+- `+` [bbarrosdavi/hermes-jev-decision](https://github.com/bbarrosdavi/hermes-jev-decision) — inferred / agent-tooling — ⭐0
+- `+` [FuturExplorator/awesome-jev-cases](https://github.com/FuturExplorator/awesome-jev-cases) — inferred / community-sdk — ⭐0
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐0
+- `+` [randilt/jev-guardrail-benchmark](https://github.com/randilt/jev-guardrail-benchmark) — inferred / routing-guardrails — ⭐0
+- `+` [tangwut/jev-alternative](https://github.com/tangwut/jev-alternative) — inferred / apps-demos — ⭐0
+- `+` [FahadArfin/Jev_Unreal](https://github.com/FahadArfin/Jev_Unreal) — inferred / agent-tooling — ⭐0
+- `+` [jonathanhecl/jev-chat-agent](https://github.com/jonathanhecl/jev-chat-agent) — inferred / agent-tooling — ⭐0
+- `+` [innercartography/jev-space-invaders](https://github.com/innercartography/jev-space-invaders) — inferred / other — ⭐0
+- `+` [kkannan18/jev-invaders](https://github.com/kkannan18/jev-invaders) — inferred / other — ⭐0
+- `+` [lichin1/jev-application](https://github.com/lichin1/jev-application) — inferred / other — ⭐0
+- `+` [7hemas7er/jev-hooks-action-test](https://github.com/7hemas7er/jev-hooks-action-test) — inferred / agent-tooling — ⭐0
+- `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
+- …另有 12 条新增
