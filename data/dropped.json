@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-29T06:54:25+08:00",
- "count": 1396,
+ "updated_at": "2026-09-29T09:07:33+08:00",
+ "count": 1409,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -132,7 +132,7 @@
    "description_chars": 21,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-22T04:01:28+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T18:43:20+08:00",
@@ -260,7 +260,7 @@
    "description_chars": 34,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-23T17:26:56+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T15:56:14+08:00",
@@ -407,7 +407,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T21:05:21+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-19T17:52:18+08:00",
@@ -664,6 +664,17 @@
    "first_dropped": "2026-09-20T21:08:19+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:AnthusAI/Few-Shot-Jev",
+   "name": "AnthusAI/Few-Shot-Jev",
+   "url": "https://github.com/AnthusAI/Few-Shot-Jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-23T19:50:48+08:00",
    "id": "gh:Araiseimitsu/jev-use",
    "name": "Araiseimitsu/jev-use",
@@ -844,6 +855,28 @@
    "last_seen_dropped": "2026-09-21T13:48:29+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:Beginner-666/JevCodex",
+   "name": "Beginner-666/JevCodex",
+   "url": "https://github.com/Beginner-666/JevCodex",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:Beliato/jev-verbose-couscous",
+   "name": "Beliato/jev-verbose-couscous",
+   "url": "https://github.com/Beliato/jev-verbose-couscous",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-26T09:41:42+08:00",
    "id": "gh:BellWoodpp/Jev-AI",
    "name": "BellWoodpp/Jev-AI",
@@ -979,6 +1012,17 @@
    "description_chars": 11,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T08:58:14+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:CatJuly/jev-voice-browser-zh",
+   "name": "CatJuly/jev-voice-browser-zh",
+   "url": "https://github.com/CatJuly/jev-voice-browser-zh",
+   "stars": 1,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-22T01:46:51+08:00",
@@ -1184,7 +1228,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-23T11:40:29+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-25T17:05:04+08:00",
@@ -1630,7 +1674,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T23:45:53+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-26T02:39:08+08:00",
@@ -2622,7 +2666,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-29T02:09:04+08:00"
+   "first_dropped": "2026-09-29T02:09:04+08:00",
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T14:56:29+08:00",
@@ -2668,6 +2713,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T18:43:20+08:00",
    "last_seen_dropped": "2026-09-21T23:20:24+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:MitsuharuNakamura/ivr-with-jev-twilio",
+   "name": "MitsuharuNakamura/ivr-with-jev-twilio",
+   "url": "https://github.com/MitsuharuNakamura/ivr-with-jev-twilio",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-23T02:15:21+08:00",
@@ -3136,7 +3192,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-25T20:17:00+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T21:01:36+08:00",
@@ -4328,7 +4384,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-29T06:54:25+08:00"
+   "first_dropped": "2026-09-29T06:54:25+08:00",
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-23T06:58:00+08:00",
@@ -4351,7 +4408,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00",
-   "last_seen_dropped": "2026-09-29T02:09:04+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-26T02:39:08+08:00",
@@ -4993,6 +5050,17 @@
    "last_seen_dropped": "2026-09-21T13:48:29+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:akhil-gautam/jev-snake",
+   "name": "akhil-gautam/jev-snake",
+   "url": "https://github.com/akhil-gautam/jev-snake",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-26T07:20:23+08:00",
    "id": "gh:akivet/Mica-v0.1-4B",
    "name": "akivet/Mica-v0.1-4B",
@@ -5402,7 +5470,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T21:01:36+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T23:20:24+08:00",
@@ -5743,7 +5811,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-25T17:05:04+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T18:46:16+08:00",
@@ -5801,6 +5869,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T15:56:14+08:00",
    "last_seen_dropped": "2026-09-20T23:32:35+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:bfalkowski/jev-experiments",
+   "name": "bfalkowski/jev-experiments",
+   "url": "https://github.com/bfalkowski/jev-experiments",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-19T12:48:37+08:00",
@@ -6208,7 +6287,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T14:19:19+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-28T04:18:28+08:00",
@@ -6661,7 +6740,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T21:08:19+08:00",
@@ -7307,6 +7386,17 @@
    "last_seen_dropped": "2026-09-28T01:58:45+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:eureka-pd/jev-omni-mcp",
+   "name": "eureka-pd/jev-omni-mcp",
+   "url": "https://github.com/eureka-pd/jev-omni-mcp",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-27T14:19:19+08:00",
    "id": "gh:f418me/jev-evaluations",
    "name": "f418me/jev-evaluations",
@@ -7558,7 +7648,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T02:39:08+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-25T20:17:00+08:00",
@@ -7592,7 +7682,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T18:18:59+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T08:58:14+08:00",
@@ -7761,6 +7851,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-22T10:46:47+08:00",
    "last_seen_dropped": "2026-09-25T20:17:00+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:gnol-123/JEV-RAG",
+   "name": "gnol-123/JEV-RAG",
+   "url": "https://github.com/gnol-123/JEV-RAG",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-29T02:09:04+08:00",
@@ -8170,7 +8271,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-25T17:05:04+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T02:57:58+08:00",
@@ -8659,7 +8760,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T02:39:08+08:00",
-   "last_seen_dropped": "2026-09-26T18:18:59+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-22T04:01:28+08:00",
@@ -8870,6 +8971,17 @@
    "last_seen_dropped": "2026-09-28T23:45:53+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:jessicasetyani/hermes-plugin-jev-suggest",
+   "name": "jessicasetyani/hermes-plugin-jev-suggest",
+   "url": "https://github.com/jessicasetyani/hermes-plugin-jev-suggest",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-21T23:20:24+08:00",
    "id": "gh:jev-ai/jev-agent-skill",
    "name": "jev-ai/jev-agent-skill",
@@ -9029,7 +9141,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T08:01:29+08:00",
-   "last_seen_dropped": "2026-09-28T08:33:57+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-22T18:12:24+08:00",
@@ -9383,7 +9495,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T21:15:28+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T15:37:07+08:00",
@@ -9430,7 +9542,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T23:32:35+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-28T01:58:45+08:00",
@@ -9465,7 +9577,7 @@
    "description_chars": 22,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T14:19:19+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-27T18:57:58+08:00",
@@ -9919,7 +10031,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T21:15:28+08:00",
-   "last_seen_dropped": "2026-09-29T04:38:22+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T15:56:14+08:00",
@@ -9987,7 +10099,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T08:58:14+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-28T08:33:57+08:00",
@@ -10636,7 +10748,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T02:39:08+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T15:56:14+08:00",
@@ -11235,7 +11347,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-27T08:01:29+08:00"
+   "first_dropped": "2026-09-27T08:01:29+08:00",
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-26T02:39:08+08:00",
@@ -11441,6 +11554,17 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00"
+  },
+  {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:nochangwon83-gif/jev",
+   "name": "nochangwon83-gif/jev",
+   "url": "https://github.com/nochangwon83-gif/jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-26T18:18:59+08:00",
@@ -11800,7 +11924,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-23T14:39:49+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T14:09:03+08:00",
@@ -11948,7 +12072,7 @@
    "description_chars": 32,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T18:18:59+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T07:26:43+08:00",
@@ -12089,6 +12213,17 @@
    "first_dropped": "2026-09-23T02:15:21+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:polyvariant/jev4s",
+   "name": "polyvariant/jev4s",
+   "url": "https://github.com/polyvariant/jev4s",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-19T12:48:37+08:00",
    "id": "gh:ponyo877/jev-realtime-brain-scanner",
    "name": "ponyo877/jev-realtime-brain-scanner",
@@ -12189,7 +12324,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-27T16:42:35+08:00"
+   "first_dropped": "2026-09-27T16:42:35+08:00",
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-23T17:26:56+08:00",
@@ -12397,7 +12533,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T07:20:23+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T15:56:14+08:00",
@@ -12669,7 +12805,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T03:28:01+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-23T19:50:48+08:00",
@@ -12693,7 +12829,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T08:01:29+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-20T07:26:43+08:00",
@@ -12738,7 +12874,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-29T02:09:04+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-26T02:39:08+08:00",
@@ -12897,7 +13033,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T08:58:14+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-22T15:39:29+08:00",
@@ -12988,7 +13124,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T00:54:08+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-22T20:43:50+08:00",
@@ -13192,7 +13328,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-23T09:14:44+08:00",
@@ -13938,7 +14074,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T07:26:43+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-21T15:47:44+08:00",
@@ -14796,6 +14932,17 @@
    "last_seen_dropped": "2026-09-19T20:06:43+08:00"
   },
   {
+   "at": "2026-09-29T09:07:33+08:00",
+   "id": "gh:vignesh865/doc-jev",
+   "name": "vignesh865/doc-jev",
+   "url": "https://github.com/vignesh865/doc-jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-09-29T09:07:33+08:00"
+  },
+  {
    "at": "2026-09-28T01:58:45+08:00",
    "id": "gh:vikrantjadhav09/JEV-AI-Model-Learning-",
    "name": "vikrantjadhav09/JEV-AI-Model-Learning-",
@@ -15453,7 +15600,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T21:05:21+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-27T16:42:35+08:00",
@@ -15488,7 +15635,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T04:18:28+08:00",
-   "last_seen_dropped": "2026-09-29T06:54:25+08:00"
+   "last_seen_dropped": "2026-09-29T09:07:33+08:00"
   },
   {
    "at": "2026-09-27T05:43:12+08:00",

@@ -2244,3 +2244,32 @@
 - `+` [kkannan18/jev-invaders](https://github.com/kkannan18/jev-invaders) — inferred / other — ⭐0
 - `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
 - …另有 8 条新增
+
+## 2026-09-29T09:07:33+08:00
+- 收录总数 **827**；本 tick 新增 **27**
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐21
+- `+` [emirbartu/jev-for-all](https://github.com/emirbartu/jev-for-all) — inferred / community-sdk — ⭐6
+- `+` [ntlm1686/Your-language-model-is-already-a-decision-model](https://github.com/ntlm1686/Your-language-model-is-already-a-decision-model) — unverified / evaluation — ⭐6
+- `+` [Kungie/gut](https://github.com/Kungie/gut) — inferred / research-models — ⭐4
+- `+` [ArmanJR/Jev-Persian-Benchmark](https://github.com/ArmanJR/Jev-Persian-Benchmark) — inferred / evaluation — ⭐3
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐3
+- `+` [AnthusAI/Jev-Flywheel](https://github.com/AnthusAI/Jev-Flywheel) — inferred / other — ⭐2
+- `+` [robertn702/opencode-jev-router](https://github.com/robertn702/opencode-jev-router) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: Jauvex 1.2, two-way voice chat harness for Claude+Codex+Grok+Jev](https://news.ycombinator.com/item?id=49886390) — observed / media-discussions — ⭐2
+- `+` [MrBrooks-code/jev-decide](https://github.com/MrBrooks-code/jev-decide) — inferred / agent-tooling — ⭐1
+- `+` [MrBrooks-code/jev-1.0](https://github.com/MrBrooks-code/jev-1.0) — observed / agent-tooling — ⭐1
+- `+` [ericwanderlust/jev-codex-router](https://github.com/ericwanderlust/jev-codex-router) — inferred / agent-tooling — ⭐1
+- `+` [greenlittleapple/jev-game-lab](https://github.com/greenlittleapple/jev-game-lab) — inferred / agent-tooling — ⭐0
+- `+` [jcbritton23/jev-mentalbench-study](https://github.com/jcbritton23/jev-mentalbench-study) — inferred / evaluation — ⭐0
+- `+` [davidalmeida90/jev-for-finance](https://github.com/davidalmeida90/jev-for-finance) — inferred / agent-tooling — ⭐0
+- `+` [choiyounggi/jev-gate](https://github.com/choiyounggi/jev-gate) — inferred / agent-tooling — ⭐0
+- `+` [biobitworks/jev-space-invaders](https://github.com/biobitworks/jev-space-invaders) — inferred / agent-tooling — ⭐0
+- `+` [tttaliesin/jev-context](https://github.com/tttaliesin/jev-context) — inferred / agent-tooling — ⭐0
+- `+` [hachiko85/jev-ja-lab](https://github.com/hachiko85/jev-ja-lab) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [yottayoshida/jev-intent-review](https://github.com/yottayoshida/jev-intent-review) — inferred / agent-tooling — ⭐0
+- `+` [0xcato-dev/jev-research-desk](https://github.com/0xcato-dev/jev-research-desk) — inferred / research-models — ⭐0
+- `+` [oozoofrog/jev-context-manager](https://github.com/oozoofrog/jev-context-manager) — inferred / agent-tooling — ⭐0
+- `+` [DavidSilvaProg/laboratorio-jev-fatec](https://github.com/DavidSilvaProg/laboratorio-jev-fatec) — inferred / agent-tooling — ⭐0
+- `+` [mgd34msu/vibecheck-jev](https://github.com/mgd34msu/vibecheck-jev) — observed / community-sdk — ⭐0
+- …另有 2 条新增
