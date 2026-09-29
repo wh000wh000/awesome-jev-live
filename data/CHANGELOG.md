@@ -2505,3 +2505,32 @@
 - `+` [filipemotta/jev-ops-harness](https://github.com/filipemotta/jev-ops-harness) — inferred / other — ⭐0
 - `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
 - …另有 14 条新增
+
+## 2026-09-30T06:13:01+08:00
+- 收录总数 **840**；本 tick 新增 **38**
+- `+` [Show HN: CUA-S1 – A System One Model for Computer Use](https://news.ycombinator.com/item?id=49767564) — observed / media-discussions — ⭐95
+- `+` [mattn/go-jev](https://github.com/mattn/go-jev) — inferred / community-sdk — ⭐40
+- `+` [henryklunaris/hey-jev](https://github.com/henryklunaris/hey-jev) — inferred / other — ⭐39
+- `+` [Das-rebel/a3m-router](https://github.com/Das-rebel/a3m-router) — unverified / community-sdk — ⭐17
+- `+` [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — inferred / community-sdk — ⭐6
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [oldmoldycake/jev_vampire_survivors](https://github.com/oldmoldycake/jev_vampire_survivors) — inferred / agent-tooling — ⭐5
+- `+` [dr-dimitru/claude-jev-plugin](https://github.com/dr-dimitru/claude-jev-plugin) — inferred / agent-tooling — ⭐2
+- `+` [Qevi-2B: A Jev-style finetuned model for image classification](https://news.ycombinator.com/item?id=49899737) — observed / media-discussions — ⭐2
+- `+` [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748) — observed / media-discussions — ⭐2
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [cjgunase/jev-scifact-eval](https://github.com/cjgunase/jev-scifact-eval) — inferred / evaluation — ⭐0
+- `+` [suprkco/jev-serp-opportunity-lab](https://github.com/suprkco/jev-serp-opportunity-lab) — inferred / routing-guardrails — ⭐0
+- `+` [Lucky-Level/jev-voice](https://github.com/Lucky-Level/jev-voice) — inferred / routing-guardrails — ⭐0
+- `+` [pasangimhana/fly-x-jev](https://github.com/pasangimhana/fly-x-jev) — inferred / other — ⭐0
+- `+` [ozanedge/jev-playground](https://github.com/ozanedge/jev-playground) — observed / apps-demos — ⭐0
+- `+` [JevResearch/Jev-Research](https://github.com/JevResearch/Jev-Research) — inferred / research-models — ⭐0
+- `+` [rogueprocess13/jev-ops-experiment](https://github.com/rogueprocess13/jev-ops-experiment) — inferred / evaluation — ⭐0
+- `+` [Zuhaib2004/jev-data-quality-triage](https://github.com/Zuhaib2004/jev-data-quality-triage) — inferred / community-sdk — ⭐0
+- `+` [zhu1j/JevAgentRuntime](https://github.com/zhu1j/JevAgentRuntime) — inferred / agent-tooling — ⭐0
+- `+` [alexmarianetti100-debug/jev-screener](https://github.com/alexmarianetti100-debug/jev-screener) — inferred / apps-demos — ⭐0
+- `+` [pkcoulon/jev-for-flutter](https://github.com/pkcoulon/jev-for-flutter) — inferred / agent-tooling — ⭐0
+- `+` [shotintoeternity/jev](https://github.com/shotintoeternity/jev) — inferred / other — ⭐0
+- `+` [polaminggkub-debug/jev-ai-coding-pulse](https://github.com/polaminggkub-debug/jev-ai-coding-pulse) — inferred / other — ⭐0
+- `+` [greghavens/jev-scope-control](https://github.com/greghavens/jev-scope-control) — inferred / agent-tooling — ⭐0
+- …另有 13 条新增
