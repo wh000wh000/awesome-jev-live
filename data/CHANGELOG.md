@@ -2331,3 +2331,32 @@
 - `+` [7hemas7er/jev-hooks-action-test](https://github.com/7hemas7er/jev-hooks-action-test) — inferred / agent-tooling — ⭐0
 - `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
 - …另有 12 条新增
+
+## 2026-09-29T16:05:04+08:00
+- 收录总数 **822**；本 tick 新增 **45**
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐52
+- `+` [buer2233/jev-ui-test](https://github.com/buer2233/jev-ui-test) — inferred / apps-demos — ⭐16
+- `+` [kavehmz/typesafe-playground](https://github.com/kavehmz/typesafe-playground) — unverified / routing-guardrails — ⭐14
+- `+` [ZephyrDeng/ego-jev](https://github.com/ZephyrDeng/ego-jev) — inferred / agent-tooling — ⭐11
+- `+` [lexmount/jev-browser-bridge](https://github.com/lexmount/jev-browser-bridge) — inferred / apps-demos — ⭐10
+- `+` [darwintechlab/openjev](https://github.com/darwintechlab/openjev) — unverified / agent-tooling — ⭐6
+- `+` [DreamBlooms/dohnuts.cpp](https://github.com/DreamBlooms/dohnuts.cpp) — observed / other — ⭐5
+- `+` [hgqimo/JevRanker](https://github.com/hgqimo/JevRanker) — inferred / community-sdk — ⭐5
+- `+` [hiroki-abe-58/sokudan](https://github.com/hiroki-abe-58/sokudan) — inferred / other — ⭐3
+- `+` [Show HN: Jev Decision Layer: Save Frontier Tokens on Closed Decisions](https://news.ycombinator.com/item?id=49888632) — observed / media-discussions — ⭐3
+- `+` [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) — inferred / research-models — ⭐2
+- `+` [lamhotsiagian/jev-model-labs](https://github.com/lamhotsiagian/jev-model-labs) — observed / other — ⭐1
+- `+` [naveenreddy61/jev-experiments](https://github.com/naveenreddy61/jev-experiments) — observed / other — ⭐1
+- `+` [KuzanJ/awesome-jev](https://github.com/KuzanJ/awesome-jev) — inferred / research-models — ⭐1
+- `+` [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) — inferred / agent-tooling — ⭐0
+- `+` [greenlittleapple/jev-spire-strategist](https://github.com/greenlittleapple/jev-spire-strategist) — inferred / agent-tooling — ⭐0
+- `+` [Lucas-Grilli/filtro-notizie-jev](https://github.com/Lucas-Grilli/filtro-notizie-jev) — inferred / routing-guardrails — ⭐0
+- `+` [tatsuya-tech77/umigame-jev](https://github.com/tatsuya-tech77/umigame-jev) — inferred / agent-tooling — ⭐0
+- `+` [freakymustard67/jev-rover](https://github.com/freakymustard67/jev-rover) — inferred / apps-demos — ⭐0
+- `+` [shamoniuniu/typesafe-jev-ui](https://github.com/shamoniuniu/typesafe-jev-ui) — inferred / apps-demos — ⭐0
+- `+` [manikanta9176/jev-dino-runner](https://github.com/manikanta9176/jev-dino-runner) — inferred / community-sdk — ⭐0
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐0
+- `+` [dbadea-heits/jev-claude-code-hooks](https://github.com/dbadea-heits/jev-claude-code-hooks) — inferred / agent-tooling — ⭐0
+- `+` [yanjn1388/jev-bayes](https://github.com/yanjn1388/jev-bayes) — inferred / other — ⭐0
+- `+` [1009rishit/JEV-resume-shortlister](https://github.com/1009rishit/JEV-resume-shortlister) — inferred / community-sdk — ⭐0
+- …另有 20 条新增
