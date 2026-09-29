@@ -2476,3 +2476,32 @@
 - `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
 - `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
 - …另有 45 条新增
+
+## 2026-09-30T03:59:42+08:00
+- 收录总数 **829**；本 tick 新增 **39**
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐8
+- `+` [Charlyhno-eng/jev-document-classification](https://github.com/Charlyhno-eng/jev-document-classification) — inferred / other — ⭐6
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐5
+- `+` [robertn702/opencode-jev-router](https://github.com/robertn702/opencode-jev-router) — inferred / agent-tooling — ⭐4
+- `+` [mingleiw/jev-oncall](https://github.com/mingleiw/jev-oncall) — inferred / routing-guardrails — ⭐2
+- `+` [OpenJev: An open-source, Jev-compatible System One decision engine](https://news.ycombinator.com/item?id=49898615) — observed / media-discussions — ⭐2
+- `+` [nautahakk/jev-pubmed-discovery](https://github.com/nautahakk/jev-pubmed-discovery) — inferred / research-models — ⭐1
+- `+` [buckmoon/jev-issue-router](https://github.com/buckmoon/jev-issue-router) — inferred / agent-tooling — ⭐1
+- `+` [therealbill/typesafe-go](https://github.com/therealbill/typesafe-go) — observed / community-sdk — ⭐0
+- `+` [venkateswarisudalai/jev-vs-llm](https://github.com/venkateswarisudalai/jev-vs-llm) — inferred / other — ⭐0
+- `+` [Cleobury/jev-harness](https://github.com/Cleobury/jev-harness) — inferred / apps-demos — ⭐0
+- `+` [jerryshao2012/typesafe_jev](https://github.com/jerryshao2012/typesafe_jev) — inferred / routing-guardrails — ⭐0
+- `+` [danielnguyen241/ego-jev](https://github.com/danielnguyen241/ego-jev) — inferred / agent-tooling — ⭐0
+- `+` [RomanXSad/jev-review-gate](https://github.com/RomanXSad/jev-review-gate) — inferred / routing-guardrails — ⭐0
+- `+` [rashedInt32/jev-gates](https://github.com/rashedInt32/jev-gates) — inferred / agent-tooling — ⭐0
+- `+` [NoorElAlfi/jev-werewolf](https://github.com/NoorElAlfi/jev-werewolf) — inferred / evaluation — ⭐0
+- `+` [Rcidshacker/jev-tools](https://github.com/Rcidshacker/jev-tools) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-jurisprudence-shift](https://github.com/gbesse/jev-jurisprudence-shift) — inferred / other — ⭐0
+- `+` [gbesse/jev-mistral-reflex](https://github.com/gbesse/jev-mistral-reflex) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-banc-francais](https://github.com/gbesse/jev-banc-francais) — inferred / evaluation — ⭐0
+- `+` [imendezval/JevResearch](https://github.com/imendezval/JevResearch) — inferred / routing-guardrails — ⭐0
+- `+` [brunocfalcao/astra-jev](https://github.com/brunocfalcao/astra-jev) — inferred / agent-tooling — ⭐0
+- `+` [Project1Dev/Jev-MCP](https://github.com/Project1Dev/Jev-MCP) — inferred / agent-tooling — ⭐0
+- `+` [filipemotta/jev-ops-harness](https://github.com/filipemotta/jev-ops-harness) — inferred / other — ⭐0
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+- …另有 14 条新增
