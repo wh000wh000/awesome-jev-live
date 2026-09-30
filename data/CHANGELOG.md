@@ -2563,3 +2563,32 @@
 - `+` [devchilll/jev-rubrics](https://github.com/devchilll/jev-rubrics) — inferred / evaluation — ⭐0
 - `+` [srirsatt/jev-uicheck-fast](https://github.com/srirsatt/jev-uicheck-fast) — inferred / apps-demos — ⭐0
 - …另有 9 条新增
+
+## 2026-09-30T10:44:38+08:00
+- 收录总数 **825**；本 tick 新增 **42**
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐46
+- `+` [NevaMind-AI/JevTown](https://github.com/NevaMind-AI/JevTown) — inferred / apps-demos — ⭐41
+- `+` [buer2233/jev-ui-test](https://github.com/buer2233/jev-ui-test) — inferred / apps-demos — ⭐22
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐17
+- `+` [caizili999/jev-chat-windows](https://github.com/caizili999/jev-chat-windows) — inferred / agent-tooling — ⭐9
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐6
+- `+` [SoMarkAI/mJev](https://github.com/SoMarkAI/mJev) — inferred / agent-tooling — ⭐5
+- `+` [FrancoisChastel/jev-router](https://github.com/FrancoisChastel/jev-router) — inferred / agent-tooling — ⭐3
+- `+` [ursuciprian/reflex](https://github.com/ursuciprian/reflex) — inferred / community-sdk — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [Jev-as-a-Judge: Accept When Confident, Escalate When Unsure](https://news.ycombinator.com/item?id=49903224) — observed / media-discussions — ⭐2
+- `+` [cgbarlow/jev-test](https://github.com/cgbarlow/jev-test) — inferred / routing-guardrails — ⭐1
+- `+` [PenglongHuang/jev-demo](https://github.com/PenglongHuang/jev-demo) — inferred / agent-tooling — ⭐1
+- `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐1
+- `+` [Hyper-AI-Lab/openclaw-jev](https://github.com/Hyper-AI-Lab/openclaw-jev) — inferred / community-sdk — ⭐1
+- `+` [Clawbuilders/cloudflare-web-qa-jev-agent](https://github.com/Clawbuilders/cloudflare-web-qa-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [FuturExplorator/awesome-jev-cases](https://github.com/FuturExplorator/awesome-jev-cases) — inferred / community-sdk — ⭐0
+- `+` [Guest453/pollinations-idea-judge](https://github.com/Guest453/pollinations-idea-judge) — observed / agent-tooling — ⭐0
+- `+` [Holychung/jev-browser-lab](https://github.com/Holychung/jev-browser-lab) — inferred / apps-demos — ⭐0
+- `+` [youkiti/titan-sr-jev-replication](https://github.com/youkiti/titan-sr-jev-replication) — inferred / agent-tooling — ⭐0
+- `+` [polidog/jev](https://github.com/polidog/jev) — inferred / community-sdk — ⭐0
+- `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
+- `+` [seongyeon1/dlm-jev](https://github.com/seongyeon1/dlm-jev) — inferred / evaluation — ⭐0
+- `+` [louis-szeto/open-jev-bridge](https://github.com/louis-szeto/open-jev-bridge) — inferred / agent-tooling — ⭐0
+- `+` [angribot/pi-jev](https://github.com/angribot/pi-jev) — inferred / other — ⭐0
+- …另有 17 条新增
