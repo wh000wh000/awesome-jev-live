@@ -2766,3 +2766,32 @@
 - `+` [Om22210564/CMMS-JEV](https://github.com/Om22210564/CMMS-JEV) — inferred / community-sdk — ⭐0
 - `+` [ShunL12324/jev-browser-use](https://github.com/ShunL12324/jev-browser-use) — inferred / agent-tooling — ⭐0
 - …另有 20 条新增
+
+## 2026-10-01T03:16:06+08:00
+- 收录总数 **805**；本 tick 新增 **77**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐18
+- `+` [tumf/jev-cli](https://github.com/tumf/jev-cli) — inferred / community-sdk — ⭐13
+- `+` [web3w/jev-trader](https://github.com/web3w/jev-trader) — inferred / apps-demos — ⭐4
+- `+` [TypeSafe's Jev Can't See. I Made It Guess What I Drew Anyway](https://news.ycombinator.com/item?id=49768633) — observed / media-discussions — ⭐3
+- `+` [abhishekmamdapure/jev-information-extraction](https://github.com/abhishekmamdapure/jev-information-extraction) — inferred / other — ⭐2
+- `+` [Jevstiller: Distill a repeated Jev classification task into a local model](https://news.ycombinator.com/item?id=49912763) — observed / media-discussions — ⭐2
+- `+` [Lichen – A local, BOY model system1 (Jev) server with image support](https://news.ycombinator.com/item?id=49911997) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev, Fly Me to the Moon](https://news.ycombinator.com/item?id=49769916) — observed / media-discussions — ⭐2
+- `+` [silex-ai-lab/jev-realtime-observability](https://github.com/silex-ai-lab/jev-realtime-observability) — inferred / agent-tooling — ⭐1
+- `+` [Charlie-Wang-03/jev-testbench](https://github.com/Charlie-Wang-03/jev-testbench) — inferred / agent-tooling — ⭐1
+- `+` [lodilorenzo/pi-jev-decisions](https://github.com/lodilorenzo/pi-jev-decisions) — inferred / routing-guardrails — ⭐1
+- `+` [ZJUCQR/DepthJev](https://github.com/ZJUCQR/DepthJev) — inferred / agent-tooling — ⭐1
+- `+` [iroy2000/langgraph-jev](https://github.com/iroy2000/langgraph-jev) — inferred / community-sdk — ⭐0
+- `+` [vardhantech123/All-About-JEV](https://github.com/vardhantech123/All-About-JEV) — observed / evaluation — ⭐0
+- `+` [xlennart/dsh-auto-review-jev](https://github.com/xlennart/dsh-auto-review-jev) — inferred / agent-tooling — ⭐0
+- `+` [BrendanH18/jev-lab](https://github.com/BrendanH18/jev-lab) — inferred / apps-demos — ⭐0
+- `+` [gaebalai/jev-playground](https://github.com/gaebalai/jev-playground) — inferred / official-sdk — ⭐0
+- `+` [donvito/jev-dev](https://github.com/donvito/jev-dev) — observed / apps-demos — ⭐0
+- `+` [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) — inferred / evaluation — ⭐0
+- `+` [aishwary-dongre/jev-xray](https://github.com/aishwary-dongre/jev-xray) — observed / evaluation — ⭐0
+- `+` [LuKks/like-jev](https://github.com/LuKks/like-jev) — inferred / other — ⭐0
+- `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
+- `+` [Yomiamy/jev-mobile-agent](https://github.com/Yomiamy/jev-mobile-agent) — inferred / agent-tooling — ⭐0
+- `+` [cyrusasco/JevCompact](https://github.com/cyrusasco/JevCompact) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-jurisprudence-shift](https://github.com/gbesse/jev-jurisprudence-shift) — inferred / other — ⭐0
+- …另有 52 条新增
