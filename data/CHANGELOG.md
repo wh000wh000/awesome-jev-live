@@ -2708,3 +2708,32 @@
 - `+` [thanhauco/chomp-game-agent-jev](https://github.com/thanhauco/chomp-game-agent-jev) — inferred / agent-tooling — ⭐0
 - `+` [1432647/sillytavern-jev-sentence-check](https://github.com/1432647/sillytavern-jev-sentence-check) — inferred / other — ⭐0
 - …另有 4 条新增
+
+## 2026-09-30T22:37:23+08:00
+- 收录总数 **793**；本 tick 新增 **51**
+- `+` [danvega/jev-spring-boot-starter](https://github.com/danvega/jev-spring-boot-starter) — inferred / community-sdk — ⭐40
+- `+` [9pings/notjev](https://github.com/9pings/notjev) — inferred / community-sdk — ⭐20
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐18
+- `+` [0x7067/claude-jev](https://github.com/0x7067/claude-jev) — inferred / agent-tooling — ⭐18
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐18
+- `+` [ali-master/usejev](https://github.com/ali-master/usejev) — inferred / apps-demos — ⭐8
+- `+` [choxos/jevchess](https://github.com/choxos/jevchess) — observed / routing-guardrails — ⭐6
+- `+` [kataras/jev](https://github.com/kataras/jev) — inferred / community-sdk — ⭐5
+- `+` [PromtEngineer/jev-harness](https://github.com/PromtEngineer/jev-harness) — observed / community-sdk — ⭐5
+- `+` [mountainMath/JevR](https://github.com/mountainMath/JevR) — inferred / community-sdk — ⭐5
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐4
+- `+` [adambkovacs/candidate-experience-benchmark](https://github.com/adambkovacs/candidate-experience-benchmark) — inferred / evaluation — ⭐3
+- `+` [rusharlabs/house-party-protocol](https://github.com/rusharlabs/house-party-protocol) — inferred / community-sdk — ⭐3
+- `+` [Ollama now supports Jev-like decision models all locally in 0.35](https://news.ycombinator.com/item?id=49908997) — observed / media-discussions — ⭐3
+- `+` [Show HN: AT0M – a Jev Like System One decision model in a single Rust binary](https://news.ycombinator.com/item?id=49907865) — observed / media-discussions — ⭐3
+- `+` [TypeSafe's Jev Can't See. I Made It Guess What I Drew Anyway](https://news.ycombinator.com/item?id=49768633) — observed / media-discussions — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [Reusable, testable decisions for agent orchestration with Jev](https://news.ycombinator.com/item?id=49908382) — observed / media-discussions — ⭐2
+- `+` [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748) — observed / media-discussions — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [CMaintz/jev-triage](https://github.com/CMaintz/jev-triage) — observed / routing-guardrails — ⭐1
+- `+` [xienda/dsh-jev-verify](https://github.com/xienda/dsh-jev-verify) — inferred / agent-tooling — ⭐1
+- `+` [Bulato597-data/codex-jev-router](https://github.com/Bulato597-data/codex-jev-router) — inferred / community-sdk — ⭐1
+- `+` [GitHub30/OpenJev](https://github.com/GitHub30/OpenJev) — observed / community-sdk — ⭐1
+- `+` [adyoi/jev-system-one-playground](https://github.com/adyoi/jev-system-one-playground) — inferred / evaluation — ⭐1
+- …另有 26 条新增
