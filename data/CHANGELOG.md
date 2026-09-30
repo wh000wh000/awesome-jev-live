@@ -2824,3 +2824,32 @@
 - `+` [greenlittleapple/jev-spire-strategist](https://github.com/greenlittleapple/jev-spire-strategist) — inferred / agent-tooling — ⭐0
 - `+` [ukashanoor/jev-dotnet](https://github.com/ukashanoor/jev-dotnet) — inferred / community-sdk — ⭐0
 - …另有 15 条新增
+
+## 2026-10-01T07:44:46+08:00
+- 收录总数 **803**；本 tick 新增 **37**
+- `+` [khimaros/verdict](https://github.com/khimaros/verdict) — unverified / evaluation — ⭐8
+- `+` [christian-taillon/opencode-jev-compactor](https://github.com/christian-taillon/opencode-jev-compactor) — inferred / other — ⭐7
+- `+` [shimo4228/jev-skill-router](https://github.com/shimo4228/jev-skill-router) — inferred / agent-tooling — ⭐6
+- `+` [pCwOrM/werr](https://github.com/pCwOrM/werr) — inferred / agent-tooling — ⭐4
+- `+` [trietphan/jev-claw](https://github.com/trietphan/jev-claw) — inferred / agent-tooling — ⭐4
+- `+` [Jev predicts every plate appearance of the 2026 MLB postseason](https://news.ycombinator.com/item?id=49914899) — observed / media-discussions — ⭐2
+- `+` [I made Jev to talk to us like an LLM (almost)](https://news.ycombinator.com/item?id=49912895) — observed / media-discussions — ⭐2
+- `+` [Hyper-AI-Lab/codex-jev](https://github.com/Hyper-AI-Lab/codex-jev) — inferred / agent-tooling — ⭐1
+- `+` [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) — inferred / community-sdk — ⭐1
+- `+` [acidkill/JevCompass](https://github.com/acidkill/JevCompass) — inferred / community-sdk — ⭐1
+- `+` [abhinavmunagala/jev-router-agent](https://github.com/abhinavmunagala/jev-router-agent) — inferred / agent-tooling — ⭐0
+- `+` [uguremrah/jev-experiments](https://github.com/uguremrah/jev-experiments) — observed / agent-tooling — ⭐0
+- `+` [deepansh-saxena/jev-voice-guardrail](https://github.com/deepansh-saxena/jev-voice-guardrail) — inferred / routing-guardrails — ⭐0
+- `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
+- `+` [SuperInstance/jev-harness](https://github.com/SuperInstance/jev-harness) — observed / community-sdk — ⭐0
+- `+` [kerryback/jev](https://github.com/kerryback/jev) — observed / apps-demos — ⭐0
+- `+` [zliv83/jevvy](https://github.com/zliv83/jevvy) — observed / community-sdk — ⭐0
+- `+` [aryap1804/fly-x-jev](https://github.com/aryap1804/fly-x-jev) — inferred / apps-demos — ⭐0
+- `+` [weiping/jev-claude-code](https://github.com/weiping/jev-claude-code) — inferred / agent-tooling — ⭐0
+- `+` [ZeroX-01/jev-atlas](https://github.com/ZeroX-01/jev-atlas) — inferred / agent-tooling — ⭐0
+- `+` [zarruk/jev-local-casanorte](https://github.com/zarruk/jev-local-casanorte) — inferred / apps-demos — ⭐0
+- `+` [pandore/jev-chat-gate](https://github.com/pandore/jev-chat-gate) — inferred / agent-tooling — ⭐0
+- `+` [devchilll/jev-rubrics](https://github.com/devchilll/jev-rubrics) — inferred / evaluation — ⭐0
+- `+` [danielkatz/jev-vs-llm](https://github.com/danielkatz/jev-vs-llm) — inferred / evaluation — ⭐0
+- `+` [mraad/lunar-ollama-jev](https://github.com/mraad/lunar-ollama-jev) — inferred / apps-demos — ⭐0
+- …另有 12 条新增
