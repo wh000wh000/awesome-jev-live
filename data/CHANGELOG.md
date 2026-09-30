@@ -2534,3 +2534,32 @@
 - `+` [polaminggkub-debug/jev-ai-coding-pulse](https://github.com/polaminggkub-debug/jev-ai-coding-pulse) — inferred / other — ⭐0
 - `+` [greghavens/jev-scope-control](https://github.com/greghavens/jev-scope-control) — inferred / agent-tooling — ⭐0
 - …另有 13 条新增
+
+## 2026-09-30T08:29:50+08:00
+- 收录总数 **846**；本 tick 新增 **34**
+- `+` [peterfriese/system-one-foundation-models](https://github.com/peterfriese/system-one-foundation-models) — unverified / other — ⭐55
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐38
+- `+` [brianhong-dev/omo-jev-plugin](https://github.com/brianhong-dev/omo-jev-plugin) — inferred / agent-tooling — ⭐23
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [simxnherrera/jevr](https://github.com/simxnherrera/jevr) — unverified / community-sdk — ⭐5
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐3
+- `+` [How to Get Started with Jev in Python – Real Python](https://news.ycombinator.com/item?id=49899736) — observed / media-discussions — ⭐2
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [paschyz/jev-ticket-moderator](https://github.com/paschyz/jev-ticket-moderator) — inferred / agent-tooling — ⭐1
+- `+` [aadhar-build/claude-code-jev-router](https://github.com/aadhar-build/claude-code-jev-router) — inferred / agent-tooling — ⭐1
+- `+` [uudam42/JevPilot](https://github.com/uudam42/JevPilot) — inferred / agent-tooling — ⭐1
+- `+` [tanishkgovil/jev-elevator-dispatch](https://github.com/tanishkgovil/jev-elevator-dispatch) — inferred / media-discussions — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [abhi1729/jev-gmail-labeler](https://github.com/abhi1729/jev-gmail-labeler) — inferred / other — ⭐0
+- `+` [SuperInstance/quilt-jev-toolkit](https://github.com/SuperInstance/quilt-jev-toolkit) — inferred / other — ⭐0
+- `+` [undeemed/jev-mod](https://github.com/undeemed/jev-mod) — inferred / routing-guardrails — ⭐0
+- `+` [yasumorishima/jev-baseball](https://github.com/yasumorishima/jev-baseball) — inferred / other — ⭐0
+- `+` [Atulmishra22/jev-lite](https://github.com/Atulmishra22/jev-lite) — inferred / evaluation — ⭐0
+- `+` [minanayernia/Jev_vs_Laya_decision_games](https://github.com/minanayernia/Jev_vs_Laya_decision_games) — inferred / research-models — ⭐0
+- `+` [yuhai-china/JEV-27B-DEMO](https://github.com/yuhai-china/JEV-27B-DEMO) — inferred / agent-tooling — ⭐0
+- `+` [iCarlosVega/Jev-Cascade](https://github.com/iCarlosVega/Jev-Cascade) — inferred / other — ⭐0
+- `+` [daraujo85/jev-claude-engine](https://github.com/daraujo85/jev-claude-engine) — inferred / agent-tooling — ⭐0
+- `+` [Algorythm-Canada/OpenJevSwift](https://github.com/Algorythm-Canada/OpenJevSwift) — inferred / research-models — ⭐0
+- `+` [devchilll/jev-rubrics](https://github.com/devchilll/jev-rubrics) — inferred / evaluation — ⭐0
+- `+` [srirsatt/jev-uicheck-fast](https://github.com/srirsatt/jev-uicheck-fast) — inferred / apps-demos — ⭐0
+- …另有 9 条新增
