@@ -2650,3 +2650,32 @@
 - `+` [peptidehackers/jev-router](https://github.com/peptidehackers/jev-router) — inferred / agent-tooling — ⭐0
 - `+` [DreamBlooms/ifReflex.cpp](https://github.com/DreamBlooms/ifReflex.cpp) — observed / other — ⭐0
 - …另有 9 条新增
+
+## 2026-09-30T17:49:46+08:00
+- 收录总数 **823**；本 tick 新增 **40**
+- `+` [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) — inferred / agent-tooling — ⭐136
+- `+` [prasanthj/duckdb-jev](https://github.com/prasanthj/duckdb-jev) — inferred / community-sdk — ⭐7
+- `+` [WebGrga/btc-jev-signal](https://github.com/WebGrga/btc-jev-signal) — inferred / other — ⭐5
+- `+` [cooper667/jev-playwright](https://github.com/cooper667/jev-playwright) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: I made Jev to talk](https://news.ycombinator.com/item?id=49905785) — observed / media-discussions — ⭐2
+- `+` [andrei10k/claude-jev-model-router](https://github.com/andrei10k/claude-jev-model-router) — inferred / agent-tooling — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [zilin6666LYNSUN/polli-jev](https://github.com/zilin6666LYNSUN/polli-jev) — inferred / other — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- `+` [arnonrodman/jev-tetris-workshop](https://github.com/arnonrodman/jev-tetris-workshop) — inferred / other — ⭐0
+- `+` [Clementtang/jev-eval](https://github.com/Clementtang/jev-eval) — inferred / agent-tooling — ⭐0
+- `+` [Capitalofgeorgiapolitician1569/mobile-jev](https://github.com/Capitalofgeorgiapolitician1569/mobile-jev) — inferred / agent-tooling — ⭐0
+- `+` [yorshstudent-a11y/jevlike](https://github.com/yorshstudent-a11y/jevlike) — observed / other — ⭐0
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐0
+- `+` [Peeps52/jev-offcycle](https://github.com/Peeps52/jev-offcycle) — inferred / routing-guardrails — ⭐0
+- `+` [AlesSystems/jev-lab](https://github.com/AlesSystems/jev-lab) — inferred / research-models — ⭐0
+- `+` [SuperInstance/typesafe-quilts](https://github.com/SuperInstance/typesafe-quilts) — observed / routing-guardrails — ⭐0
+- `+` [GabrielCoelhoCruz/jev-scanr](https://github.com/GabrielCoelhoCruz/jev-scanr) — inferred / community-sdk — ⭐0
+- `+` [kaleido-labo/system-one-model-gateway](https://github.com/kaleido-labo/system-one-model-gateway) — observed / routing-guardrails — ⭐0
+- `+` [MinJung-Go/Jev-Go](https://github.com/MinJung-Go/Jev-Go) — inferred / research-models — ⭐0
+- `+` [cyrusasco/JevCompact](https://github.com/cyrusasco/JevCompact) — inferred / agent-tooling — ⭐0
+- `+` [hihaluemen/-open-jev-qwen3.5-2b](https://github.com/hihaluemen/-open-jev-qwen3.5-2b) — inferred / evaluation — ⭐0
+- `+` [g33ky00/jev-decisions-app](https://github.com/g33ky00/jev-decisions-app) — inferred / apps-demos — ⭐0
+- `+` [lballaty/Alt-JEV-LABs](https://github.com/lballaty/Alt-JEV-LABs) — inferred / other — ⭐0
+- `+` [Computational-social-science/JevRSI](https://github.com/Computational-social-science/JevRSI) — inferred / research-models — ⭐0
+- …另有 15 条新增
