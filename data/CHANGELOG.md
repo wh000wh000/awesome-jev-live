@@ -2592,3 +2592,32 @@
 - `+` [louis-szeto/open-jev-bridge](https://github.com/louis-szeto/open-jev-bridge) — inferred / agent-tooling — ⭐0
 - `+` [angribot/pi-jev](https://github.com/angribot/pi-jev) — inferred / other — ⭐0
 - …另有 17 条新增
+
+## 2026-09-30T13:03:02+08:00
+- 收录总数 **842**；本 tick 新增 **55**
+- `+` [Show HN: CUA-S1 – A System One Model for Computer Use](https://news.ycombinator.com/item?id=49767564) — observed / media-discussions — ⭐95
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐58
+- `+` [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — inferred / evaluation — ⭐52
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐22
+- `+` [llmrix/llmrix-router](https://github.com/llmrix/llmrix-router) — inferred / community-sdk — ⭐10
+- `+` [ismaelsoilet/jev-harness](https://github.com/ismaelsoilet/jev-harness) — inferred / agent-tooling — ⭐9
+- `+` [QCJLchina/Jev-chat-assistant](https://github.com/QCJLchina/Jev-chat-assistant) — inferred / other — ⭐8
+- `+` [WXK-AI/jev-opus](https://github.com/WXK-AI/jev-opus) — inferred / community-sdk — ⭐5
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐4
+- `+` [skydiving94/klint](https://github.com/skydiving94/klint) — inferred / research-models — ⭐4
+- `+` [Using system-one models inside high-throughput data pipelines](https://news.ycombinator.com/item?id=49771931) — observed / media-discussions — ⭐3
+- `+` [I Built a System One Model on a RTX 3070](https://news.ycombinator.com/item?id=49770066) — observed / media-discussions — ⭐3
+- `+` [What is a System One model and why we need it?](https://news.ycombinator.com/item?id=49760138) — observed / media-discussions — ⭐3
+- `+` [Cua S1- A family of System One models](https://news.ycombinator.com/item?id=49758885) — observed / media-discussions — ⭐3
+- `+` [Two techniques for working with System One models](https://news.ycombinator.com/item?id=49755005) — observed / media-discussions — ⭐3
+- `+` [Jev Compares to Other Rerankers](https://news.ycombinator.com/item?id=49904383) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [Qevi-2B: A Jev-style finetuned model for image classification](https://news.ycombinator.com/item?id=49899737) — observed / media-discussions — ⭐2
+- `+` [How to Get Started with Jev in Python – Real Python](https://news.ycombinator.com/item?id=49899736) — observed / media-discussions — ⭐2
+- `+` [OpenJev: An open-source, Jev-compatible System One decision engine](https://news.ycombinator.com/item?id=49898615) — observed / media-discussions — ⭐2
+- `+` [Show HN: Sokit – a LangChain like harness for Jev (or other System 1 models)](https://news.ycombinator.com/item?id=49744527) — observed / media-discussions — ⭐2
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [philmui/system1](https://github.com/philmui/system1) — observed / other — ⭐1
+- `+` [yousan/openclaw-jev-trigger](https://github.com/yousan/openclaw-jev-trigger) — inferred / agent-tooling — ⭐0
+- `+` [yousan/openclaw-jev-leakguard](https://github.com/yousan/openclaw-jev-leakguard) — inferred / community-sdk — ⭐0
+- …另有 30 条新增
