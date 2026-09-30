@@ -2795,3 +2795,32 @@
 - `+` [cyrusasco/JevCompact](https://github.com/cyrusasco/JevCompact) — inferred / agent-tooling — ⭐0
 - `+` [gbesse/jev-jurisprudence-shift](https://github.com/gbesse/jev-jurisprudence-shift) — inferred / other — ⭐0
 - …另有 52 条新增
+
+## 2026-10-01T05:32:08+08:00
+- 收录总数 **800**；本 tick 新增 **40**
+- `+` [Akramovic1/jev-pilot](https://github.com/Akramovic1/jev-pilot) — inferred / agent-tooling — ⭐6
+- `+` [Charlyhno-eng/jev-document-classification](https://github.com/Charlyhno-eng/jev-document-classification) — inferred / other — ⭐6
+- `+` [jev-sec/jev-ids](https://github.com/jev-sec/jev-ids) — observed / other — ⭐5
+- `+` [erboland/jev-fund](https://github.com/erboland/jev-fund) — inferred / research-models — ⭐5
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [greghavens/jev-no-bullshit](https://github.com/greghavens/jev-no-bullshit) — inferred / agent-tooling — ⭐3
+- `+` [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: Halv cut AI agent cost by 57.1% using Jev](https://news.ycombinator.com/item?id=49913080) — observed / media-discussions — ⭐2
+- `+` [Show HN: Gatekeeper – Persuade a 34MB Jev-like model to let you into the castle](https://news.ycombinator.com/item?id=49912849) — observed / media-discussions — ⭐2
+- `+` [Show HN: Dbb1 radio – endless radio powered by Jev](https://news.ycombinator.com/item?id=49912424) — observed / media-discussions — ⭐2
+- `+` [kitoutou999/firefox-jev-mcp](https://github.com/kitoutou999/firefox-jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [braydenabo/fndds-matcher-jev](https://github.com/braydenabo/fndds-matcher-jev) — inferred / evaluation — ⭐1
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [jev-sec/jev-sec.github.io](https://github.com/jev-sec/jev-sec.github.io) — inferred / evaluation — ⭐1
+- `+` [gulbaki/jev-llm-guard](https://github.com/gulbaki/jev-llm-guard) — inferred / routing-guardrails — ⭐1
+- `+` [JWE24-code/moqi-jev-loop](https://github.com/JWE24-code/moqi-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [JWE24-code/dsh-jev-loop](https://github.com/JWE24-code/dsh-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [veermshah/jev-support-desk](https://github.com/veermshah/jev-support-desk) — inferred / routing-guardrails — ⭐0
+- `+` [alexzfe/jev-herdr](https://github.com/alexzfe/jev-herdr) — inferred / agent-tooling — ⭐0
+- `+` [weiping/jev-pi](https://github.com/weiping/jev-pi) — inferred / agent-tooling — ⭐0
+- `+` [MateusRogien/jev-focus](https://github.com/MateusRogien/jev-focus) — inferred / apps-demos — ⭐0
+- `+` [dolevhayut/resurface](https://github.com/dolevhayut/resurface) — observed / agent-tooling — ⭐0
+- `+` [Tlkh201313/fusion-jev](https://github.com/Tlkh201313/fusion-jev) — inferred / agent-tooling — ⭐0
+- `+` [greenlittleapple/jev-spire-strategist](https://github.com/greenlittleapple/jev-spire-strategist) — inferred / agent-tooling — ⭐0
+- `+` [ukashanoor/jev-dotnet](https://github.com/ukashanoor/jev-dotnet) — inferred / community-sdk — ⭐0
+- …另有 15 条新增
