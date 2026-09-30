@@ -2737,3 +2737,32 @@
 - `+` [GitHub30/OpenJev](https://github.com/GitHub30/OpenJev) — observed / community-sdk — ⭐1
 - `+` [adyoi/jev-system-one-playground](https://github.com/adyoi/jev-system-one-playground) — inferred / evaluation — ⭐1
 - …另有 26 条新增
+
+## 2026-10-01T00:58:20+08:00
+- 收录总数 **787**；本 tick 新增 **45**
+- `+` [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — inferred / evaluation — ⭐56
+- `+` [bladedevoff/stuntd](https://github.com/bladedevoff/stuntd) — inferred / community-sdk — ⭐39
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐11
+- `+` [Ryu0118/jev-sim-use](https://github.com/Ryu0118/jev-sim-use) — inferred / apps-demos — ⭐10
+- `+` [SoMarkAI/mJev](https://github.com/SoMarkAI/mJev) — inferred / agent-tooling — ⭐6
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐4
+- `+` [elbruno/ElBruno.AI.Jev](https://github.com/elbruno/ElBruno.AI.Jev) — inferred / community-sdk — ⭐3
+- `+` [cipherTing/sael](https://github.com/cipherTing/sael) — unverified / community-sdk — ⭐3
+- `+` [hotchpotch/bekko-system-one](https://github.com/hotchpotch/bekko-system-one) — unverified / research-models — ⭐3
+- `+` [onlyjq04/jev-agent-hooks](https://github.com/onlyjq04/jev-agent-hooks) — inferred / agent-tooling — ⭐2
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
+- `+` [AmooEbrahim/jev-answers](https://github.com/AmooEbrahim/jev-answers) — inferred / community-sdk — ⭐1
+- `+` [havietkok-sys/BizzJev](https://github.com/havietkok-sys/BizzJev) — inferred / routing-guardrails — ⭐1
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐1
+- `+` [CMaintz/jev-guard](https://github.com/CMaintz/jev-guard) — observed / community-sdk — ⭐1
+- `+` [diffpal/lintpal](https://github.com/diffpal/lintpal) — observed / community-sdk — ⭐1
+- `+` [paschyz/jev-ticket-moderator](https://github.com/paschyz/jev-ticket-moderator) — inferred / agent-tooling — ⭐1
+- `+` [ToyokoLabs/PaperJev](https://github.com/ToyokoLabs/PaperJev) — inferred / routing-guardrails — ⭐1
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [CMaintz/jev-sort](https://github.com/CMaintz/jev-sort) — observed / community-sdk — ⭐1
+- `+` [developer943/sales-pipeline-revival-jev](https://github.com/developer943/sales-pipeline-revival-jev) — inferred / routing-guardrails — ⭐0
+- `+` [mani-aiml/jev-demos](https://github.com/mani-aiml/jev-demos) — observed / agent-tooling — ⭐0
+- `+` [prasadkopanati/jev-classifier](https://github.com/prasadkopanati/jev-classifier) — observed / evaluation — ⭐0
+- `+` [Om22210564/CMMS-JEV](https://github.com/Om22210564/CMMS-JEV) — inferred / community-sdk — ⭐0
+- `+` [ShunL12324/jev-browser-use](https://github.com/ShunL12324/jev-browser-use) — inferred / agent-tooling — ⭐0
+- …另有 20 条新增
