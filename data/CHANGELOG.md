@@ -2621,3 +2621,32 @@
 - `+` [yousan/openclaw-jev-trigger](https://github.com/yousan/openclaw-jev-trigger) — inferred / agent-tooling — ⭐0
 - `+` [yousan/openclaw-jev-leakguard](https://github.com/yousan/openclaw-jev-leakguard) — inferred / community-sdk — ⭐0
 - …另有 30 条新增
+
+## 2026-09-30T15:30:07+08:00
+- 收录总数 **833**；本 tick 新增 **34**
+- `+` [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) — inferred / other — ⭐229
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / agent-tooling — ⭐137
+- `+` [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) — inferred / agent-tooling — ⭐64
+- `+` [NevaMind-AI/JevTown](https://github.com/NevaMind-AI/JevTown) — inferred / apps-demos — ⭐42
+- `+` [dark-hxx/jev-safety-gateway](https://github.com/dark-hxx/jev-safety-gateway) — inferred / routing-guardrails — ⭐13
+- `+` [caizili999/jev-chat-windows](https://github.com/caizili999/jev-chat-windows) — inferred / agent-tooling — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / other — ⭐6
+- `+` [SoundBlaster/SwiftJev](https://github.com/SoundBlaster/SwiftJev) — observed / other — ⭐6
+- `+` [laguagu/jev-skills](https://github.com/laguagu/jev-skills) — inferred / agent-tooling — ⭐3
+- `+` [lookski/openjev](https://github.com/lookski/openjev) — inferred / community-sdk — ⭐3
+- `+` [eachann1024/pi-jev-reply](https://github.com/eachann1024/pi-jev-reply) — inferred / apps-demos — ⭐3
+- `+` [JonesSteven/jev_civilization](https://github.com/JonesSteven/jev_civilization) — inferred / apps-demos — ⭐3
+- `+` [bokuweb/omg](https://github.com/bokuweb/omg) — unverified / other — ⭐3
+- `+` [TypeSafe's Jev Can't See. I Made It Guess What I Drew Anyway](https://news.ycombinator.com/item?id=49768633) — observed / media-discussions — ⭐3
+- `+` [How to classify, route, and score with Jev and AI SDK](https://news.ycombinator.com/item?id=49765748) — observed / media-discussions — ⭐2
+- `+` [sustentabilitas/axonal](https://github.com/sustentabilitas/axonal) — observed / other — ⭐1
+- `+` [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) — inferred / agent-tooling — ⭐1
+- `+` [statico/jev-nethack](https://github.com/statico/jev-nethack) — inferred / agent-tooling — ⭐0
+- `+` [saif27217/jev-hermes](https://github.com/saif27217/jev-hermes) — inferred / community-sdk — ⭐0
+- `+` [malmriv/jev-exception-handler](https://github.com/malmriv/jev-exception-handler) — inferred / apps-demos — ⭐0
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [lorenzofamiglini/calfram-bench](https://github.com/lorenzofamiglini/calfram-bench) — observed / evaluation — ⭐0
+- `+` [randilt/jev-guardrail-benchmark](https://github.com/randilt/jev-guardrail-benchmark) — inferred / routing-guardrails — ⭐0
+- `+` [peptidehackers/jev-router](https://github.com/peptidehackers/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [DreamBlooms/ifReflex.cpp](https://github.com/DreamBlooms/ifReflex.cpp) — observed / other — ⭐0
+- …另有 9 条新增
