@@ -2679,3 +2679,32 @@
 - `+` [lballaty/Alt-JEV-LABs](https://github.com/lballaty/Alt-JEV-LABs) — inferred / other — ⭐0
 - `+` [Computational-social-science/JevRSI](https://github.com/Computational-social-science/JevRSI) — inferred / research-models — ⭐0
 - …另有 15 条新增
+
+## 2026-09-30T20:11:10+08:00
+- 收录总数 **803**；本 tick 新增 **29**
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) — inferred / agent-tooling — ⭐7
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐6
+- `+` [AkashPriyadarshii/jev-git](https://github.com/AkashPriyadarshii/jev-git) — inferred / community-sdk — ⭐5
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐4
+- `+` [Jibril-Frej/jev-at-home](https://github.com/Jibril-Frej/jev-at-home) — inferred / other — ⭐1
+- `+` [celolopes/jev-dev-harness](https://github.com/celolopes/jev-dev-harness) — inferred / agent-tooling — ⭐0
+- `+` [Clawbuilders/cloudflare-web-qa-jev-agent](https://github.com/Clawbuilders/cloudflare-web-qa-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [blackopsrepl/omarchy-pr-jev-triage](https://github.com/blackopsrepl/omarchy-pr-jev-triage) — inferred / routing-guardrails — ⭐0
+- `+` [sunnynanavati/jev-bookshelf](https://github.com/sunnynanavati/jev-bookshelf) — inferred / apps-demos — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [zeno29/jev-desktop](https://github.com/zeno29/jev-desktop) — inferred / routing-guardrails — ⭐0
+- `+` [ZhenningLang/jev-cases](https://github.com/ZhenningLang/jev-cases) — inferred / other — ⭐0
+- `+` [dansya-arsana/jev-harness](https://github.com/dansya-arsana/jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [SystemSolution21/Jev_TypeSafe_AI](https://github.com/SystemSolution21/Jev_TypeSafe_AI) — inferred / other — ⭐0
+- `+` [zty2004/jev-xiangqi-lab](https://github.com/zty2004/jev-xiangqi-lab) — inferred / evaluation — ⭐0
+- `+` [taman-spirit/guardrail-rag-jev](https://github.com/taman-spirit/guardrail-rag-jev) — inferred / routing-guardrails — ⭐0
+- `+` [polaminggkub-debug/jev-ai-coding-pulse](https://github.com/polaminggkub-debug/jev-ai-coding-pulse) — inferred / other — ⭐0
+- `+` [tinzbo/Jev-Realtime-talk](https://github.com/tinzbo/Jev-Realtime-talk) — inferred / other — ⭐0
+- `+` [vitas/dsh-jev-subagent-dispatch](https://github.com/vitas/dsh-jev-subagent-dispatch) — inferred / agent-tooling — ⭐0
+- `+` [ZJU4EmbodiedAI/JevVLA](https://github.com/ZJU4EmbodiedAI/JevVLA) — inferred / other — ⭐0
+- `+` [rawtreedb/jev-pr-quality](https://github.com/rawtreedb/jev-pr-quality) — inferred / apps-demos — ⭐0
+- `+` [thanhauco/chomp-game-agent-jev](https://github.com/thanhauco/chomp-game-agent-jev) — inferred / agent-tooling — ⭐0
+- `+` [1432647/sillytavern-jev-sentence-check](https://github.com/1432647/sillytavern-jev-sentence-check) — inferred / other — ⭐0
+- …另有 4 条新增
