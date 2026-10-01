@@ -2853,3 +2853,32 @@
 - `+` [danielkatz/jev-vs-llm](https://github.com/danielkatz/jev-vs-llm) — inferred / evaluation — ⭐0
 - `+` [mraad/lunar-ollama-jev](https://github.com/mraad/lunar-ollama-jev) — inferred / apps-demos — ⭐0
 - …另有 12 条新增
+
+## 2026-10-01T09:58:39+08:00
+- 收录总数 **808**；本 tick 新增 **30**
+- `+` [emirbartu/jev-for-all](https://github.com/emirbartu/jev-for-all) — inferred / community-sdk — ⭐8
+- `+` [dereknguyen269/jev-harness](https://github.com/dereknguyen269/jev-harness) — inferred / other — ⭐6
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐6
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐4
+- `+` [nomadoor/ComfyUI-TypedDecision](https://github.com/nomadoor/ComfyUI-TypedDecision) — unverified / evaluation — ⭐4
+- `+` [BudEcosystem/Bud-Decision-Engine](https://github.com/BudEcosystem/Bud-Decision-Engine) — inferred / apps-demos — ⭐3
+- `+` [waddle-zoo/signal-weave](https://github.com/waddle-zoo/signal-weave) — unverified / other — ⭐3
+- `+` [stephenlb/system-one-model](https://github.com/stephenlb/system-one-model) — observed / research-models — ⭐3
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐3
+- `+` [qddegtya/qualm](https://github.com/qddegtya/qualm) — observed / routing-guardrails — ⭐2
+- `+` [rashedInt32/jev-gates](https://github.com/rashedInt32/jev-gates) — inferred / agent-tooling — ⭐0
+- `+` [fbadaro/hello-jev](https://github.com/fbadaro/hello-jev) — inferred / routing-guardrails — ⭐0
+- `+` [pochang6/jev-buzzword-rush](https://github.com/pochang6/jev-buzzword-rush) — inferred / agent-tooling — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [sunnynanavati/jev-bookshelf](https://github.com/sunnynanavati/jev-bookshelf) — inferred / apps-demos — ⭐0
+- `+` [luc-pimentel/system-one-code-review](https://github.com/luc-pimentel/system-one-code-review) — observed / other — ⭐0
+- `+` [dazreil/jev-npc-interaction-prototype](https://github.com/dazreil/jev-npc-interaction-prototype) — inferred / apps-demos — ⭐0
+- `+` [mumit/Jev-incident-triage-experiments](https://github.com/mumit/Jev-incident-triage-experiments) — inferred / routing-guardrails — ⭐0
+- `+` [johanfive/my-name-is-jev](https://github.com/johanfive/my-name-is-jev) — inferred / agent-tooling — ⭐0
+- `+` [MersivMedia/jev-rag-retrieval](https://github.com/MersivMedia/jev-rag-retrieval) — inferred / community-sdk — ⭐0
+- `+` [koojy/jev-plugins](https://github.com/koojy/jev-plugins) — inferred / agent-tooling — ⭐0
+- `+` [subhan22x/SearchShift-Jev](https://github.com/subhan22x/SearchShift-Jev) — inferred / routing-guardrails — ⭐0
+- `+` [eddiedunn/jev-feed-filter](https://github.com/eddiedunn/jev-feed-filter) — inferred / routing-guardrails — ⭐0
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐0
+- `+` [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) — inferred / apps-demos — ⭐0
+- …另有 5 条新增
