@@ -2882,3 +2882,30 @@
 - `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐0
 - `+` [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) — inferred / apps-demos — ⭐0
 - …另有 5 条新增
+
+## 2026-10-01T12:13:54+08:00
+- 收录总数 **807**；本 tick 新增 **24**
+- `+` [Nyarlathoteppppp/pi-heed](https://github.com/Nyarlathoteppppp/pi-heed) — inferred / agent-tooling — ⭐11
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [Jevotron: Multiple Jev integrations from the command line](https://news.ycombinator.com/item?id=49916865) — observed / media-discussions — ⭐4
+- `+` [silex-ai-lab/jev-runtime-observability](https://github.com/silex-ai-lab/jev-runtime-observability) — inferred / agent-tooling — ⭐2
+- `+` [adamwdff/jev-gate](https://github.com/adamwdff/jev-gate) — inferred / agent-tooling — ⭐1
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐1
+- `+` [bobbylite/jev-system-one-model-primitives](https://github.com/bobbylite/jev-system-one-model-primitives) — observed / apps-demos — ⭐0
+- `+` [demircigoksu/jev-netlify-mcp](https://github.com/demircigoksu/jev-netlify-mcp) — inferred / agent-tooling — ⭐0
+- `+` [thanhauco/jev-3d-game-engine](https://github.com/thanhauco/jev-3d-game-engine) — observed / apps-demos — ⭐0
+- `+` [hzqwe/pvz-jev](https://github.com/hzqwe/pvz-jev) — inferred / other — ⭐0
+- `+` [maskedwolf4/AIDataAgentwithJev](https://github.com/maskedwolf4/AIDataAgentwithJev) — inferred / agent-tooling — ⭐0
+- `+` [tamaker/openwebui-jev-style-decisions](https://github.com/tamaker/openwebui-jev-style-decisions) — inferred / agent-tooling — ⭐0
+- `+` [SafalFrom2050/jev-smart-home-lab](https://github.com/SafalFrom2050/jev-smart-home-lab) — inferred / apps-demos — ⭐0
+- `+` [planeon-ai/jev-xai](https://github.com/planeon-ai/jev-xai) — inferred / other — ⭐0
+- `+` [Nit-1997-work/when-to-use-jev](https://github.com/Nit-1997-work/when-to-use-jev) — inferred / evaluation — ⭐0
+- `+` [Ang-dot/bnb-agent-studio-jev-trading-terminal](https://github.com/Ang-dot/bnb-agent-studio-jev-trading-terminal) — inferred / agent-tooling — ⭐0
+- `+` [1432647/sillytavern-jev-sentence-check](https://github.com/1432647/sillytavern-jev-sentence-check) — inferred / other — ⭐0
+- `+` [ERA-Fathom/jev-coherence-bench](https://github.com/ERA-Fathom/jev-coherence-bench) — inferred / community-sdk — ⭐0
+- `+` [kkannan18/jev-invaders](https://github.com/kkannan18/jev-invaders) — inferred / other — ⭐0
+- `+` [ajbmachon/jev-remnants](https://github.com/ajbmachon/jev-remnants) — inferred / agent-tooling — ⭐0
+- `+` [tuanhung303/agy-jev-hooks](https://github.com/tuanhung303/agy-jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [ulf-/jev-marketing-skills](https://github.com/ulf-/jev-marketing-skills) — inferred / community-sdk — ⭐0
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
+- `+` [Prokope45/Haystack](https://github.com/Prokope45/Haystack) — observed / evaluation — ⭐0
