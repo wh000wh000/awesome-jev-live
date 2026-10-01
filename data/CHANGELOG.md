@@ -3022,3 +3022,32 @@
 - `+` [MarcosPTProenca/pi-jev-select](https://github.com/MarcosPTProenca/pi-jev-select) — inferred / other — ⭐0
 - `+` [haha145142/JevJarvis-liuhai-IOS](https://github.com/haha145142/JevJarvis-liuhai-IOS) — inferred / other — ⭐0
 - …另有 8 条新增
+
+## 2026-10-01T23:37:25+08:00
+- 收录总数 **811**；本 tick 新增 **33**
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐24
+- `+` [dagfinndybvig/Jev_Ontology](https://github.com/dagfinndybvig/Jev_Ontology) — inferred / other — ⭐11
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐9
+- `+` [Xiaooolong/vev](https://github.com/Xiaooolong/vev) — inferred / research-models — ⭐4
+- `+` [yangshun2005/laya-cn](https://github.com/yangshun2005/laya-cn) — unverified / research-models — ⭐3
+- `+` [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: Fast browser agent (using Jev) with deep reasoning as needed](https://news.ycombinator.com/item?id=49922799) — observed / media-discussions — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [rawtreedb/jev-pr-quality](https://github.com/rawtreedb/jev-pr-quality) — inferred / apps-demos — ⭐2
+- `+` [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) — inferred / agent-tooling — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [turenlabs/lisa](https://github.com/turenlabs/lisa) — observed / other — ⭐1
+- `+` [benmagnifico/DriveJev](https://github.com/benmagnifico/DriveJev) — inferred / apps-demos — ⭐1
+- `+` [Computational-social-science/JevRSI-06b-MPS](https://github.com/Computational-social-science/JevRSI-06b-MPS) — inferred / agent-tooling — ⭐1
+- `+` [Edwardslin007/jev-demo](https://github.com/Edwardslin007/jev-demo) — inferred / apps-demos — ⭐0
+- `+` [JWE24-code/moqi-jev-loop](https://github.com/JWE24-code/moqi-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [benreeve1984/jev-learn](https://github.com/benreeve1984/jev-learn) — inferred / research-models — ⭐0
+- `+` [aryamurthi/jev-credit-proxy-audit](https://github.com/aryamurthi/jev-credit-proxy-audit) — observed / other — ⭐0
+- `+` [RomanXSad/jev-review-gate](https://github.com/RomanXSad/jev-review-gate) — inferred / routing-guardrails — ⭐0
+- `+` [ia-automation/How-to-use-JEV](https://github.com/ia-automation/How-to-use-JEV) — inferred / agent-tooling — ⭐0
+- `+` [seulkikaang/jev-emoji](https://github.com/seulkikaang/jev-emoji) — inferred / other — ⭐0
+- `+` [Jiadalee/jev-vs-llm-tb-amr](https://github.com/Jiadalee/jev-vs-llm-tb-amr) — inferred / evaluation — ⭐0
+- `+` [harmoniqs/arJev](https://github.com/harmoniqs/arJev) — inferred / routing-guardrails — ⭐0
+- `+` [feD0s/jev-router-bench](https://github.com/feD0s/jev-router-bench) — inferred / routing-guardrails — ⭐0
+- `+` [lilyco-42/lyco-jev](https://github.com/lilyco-42/lyco-jev) — inferred / routing-guardrails — ⭐0
+- …另有 8 条新增
