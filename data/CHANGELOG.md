@@ -2909,3 +2909,29 @@
 - `+` [ulf-/jev-marketing-skills](https://github.com/ulf-/jev-marketing-skills) — inferred / community-sdk — ⭐0
 - `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
 - `+` [Prokope45/Haystack](https://github.com/Prokope45/Haystack) — observed / evaluation — ⭐0
+
+## 2026-10-01T14:25:40+08:00
+- 收录总数 **802**；本 tick 新增 **23**
+- `+` [CharlesFeng0314/JEV_sees](https://github.com/CharlesFeng0314/JEV_sees) — inferred / apps-demos — ⭐46
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐13
+- `+` [Nanako0129/stingray](https://github.com/Nanako0129/stingray) — unverified / agent-tooling — ⭐6
+- `+` [gauravkhuraana/jev-qa-demos](https://github.com/gauravkhuraana/jev-qa-demos) — inferred / routing-guardrails — ⭐3
+- `+` [Oranquelui/astra-jev-harness](https://github.com/Oranquelui/astra-jev-harness) — inferred / community-sdk — ⭐3
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐2
+- `+` [royalpinto007/jev-msw](https://github.com/royalpinto007/jev-msw) — inferred / research-models — ⭐1
+- `+` [shuenrui/all-jev-play](https://github.com/shuenrui/all-jev-play) — inferred / other — ⭐0
+- `+` [harsha89/jev-demo](https://github.com/harsha89/jev-demo) — inferred / apps-demos — ⭐0
+- `+` [entscheidung-bot/jev-security-posture](https://github.com/entscheidung-bot/jev-security-posture) — inferred / research-models — ⭐0
+- `+` [Lucas-Grilli/filtro-notizie-jev](https://github.com/Lucas-Grilli/filtro-notizie-jev) — inferred / routing-guardrails — ⭐0
+- `+` [hdjekuue/awesome-jev](https://github.com/hdjekuue/awesome-jev) — inferred / agent-tooling — ⭐0
+- `+` [SrPio/jev-role-game](https://github.com/SrPio/jev-role-game) — inferred / routing-guardrails — ⭐0
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐0
+- `+` [mertkayacs/jevoss](https://github.com/mertkayacs/jevoss) — observed / evaluation — ⭐0
+- `+` [moshui963/jev-webcontrol](https://github.com/moshui963/jev-webcontrol) — inferred / other — ⭐0
+- `+` [ferdinandl007/vl-jev-modal](https://github.com/ferdinandl007/vl-jev-modal) — inferred / research-models — ⭐0
+- `+` [oruponu/jev-pick](https://github.com/oruponu/jev-pick) — inferred / apps-demos — ⭐0
+- `+` [rachit6105/jev-lite](https://github.com/rachit6105/jev-lite) — inferred / other — ⭐0
+- `+` [SleepinWei/Jev-LongSeq](https://github.com/SleepinWei/Jev-LongSeq) — inferred / agent-tooling — ⭐0
+- `+` [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) — inferred / apps-demos — ⭐0
+- `+` [magnushi/kb-jev-test-app](https://github.com/magnushi/kb-jev-test-app) — inferred / agent-tooling — ⭐0
+- `+` [guiritaro19/what-beats-jev](https://github.com/guiritaro19/what-beats-jev) — inferred / apps-demos — ⭐0
