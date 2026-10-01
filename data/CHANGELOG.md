@@ -2935,3 +2935,32 @@
 - `+` [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) — inferred / apps-demos — ⭐0
 - `+` [magnushi/kb-jev-test-app](https://github.com/magnushi/kb-jev-test-app) — inferred / agent-tooling — ⭐0
 - `+` [guiritaro19/what-beats-jev](https://github.com/guiritaro19/what-beats-jev) — inferred / apps-demos — ⭐0
+
+## 2026-10-01T16:38:39+08:00
+- 收录总数 **810**；本 tick 新增 **43**
+- `+` [chy4pro/jev-for-chrome](https://github.com/chy4pro/jev-for-chrome) — inferred / agent-tooling — ⭐35
+- `+` [imMamdouhaboammar/get-fable](https://github.com/imMamdouhaboammar/get-fable) — inferred / agent-tooling — ⭐7
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / other — ⭐6
+- `+` [eulogik/nirnay](https://github.com/eulogik/nirnay) — inferred / routing-guardrails — ⭐5
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐3
+- `+` [f-lombardo/jev-php](https://github.com/f-lombardo/jev-php) — inferred / community-sdk — ⭐2
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐1
+- `+` [DDnim/jev-tweet-radar](https://github.com/DDnim/jev-tweet-radar) — observed / other — ⭐1
+- `+` [Jibril-Frej/jev-at-home](https://github.com/Jibril-Frej/jev-at-home) — inferred / other — ⭐1
+- `+` [gulbaki/jev-llm-guard](https://github.com/gulbaki/jev-llm-guard) — inferred / routing-guardrails — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [sustentabilitas/axonal](https://github.com/sustentabilitas/axonal) — observed / other — ⭐1
+- `+` [philmui/system1](https://github.com/philmui/system1) — observed / other — ⭐1
+- `+` [blowxian/jev-fanout-bench](https://github.com/blowxian/jev-fanout-bench) — inferred / routing-guardrails — ⭐0
+- `+` [addy01-sys/dsh-jev-manager](https://github.com/addy01-sys/dsh-jev-manager) — inferred / agent-tooling — ⭐0
+- `+` [jevplays-games/jev-tic-tac-toe](https://github.com/jevplays-games/jev-tic-tac-toe) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-sudoku-analytics](https://github.com/jevplays-games/jev-sudoku-analytics) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-minesweeper](https://github.com/jevplays-games/jev-minesweeper) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-mastermind](https://github.com/jevplays-games/jev-mastermind) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-dots-and-boxes](https://github.com/jevplays-games/jev-dots-and-boxes) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-connect-four](https://github.com/jevplays-games/jev-connect-four) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-checkers-analytics](https://github.com/jevplays-games/jev-checkers-analytics) — inferred / apps-demos — ⭐0
+- `+` [arnonrodman/jev-tetris-workshop](https://github.com/arnonrodman/jev-tetris-workshop) — inferred / other — ⭐0
+- `+` [fsans/pacman-jev](https://github.com/fsans/pacman-jev) — inferred / apps-demos — ⭐0
+- `+` [AlesSystems/jev-lab](https://github.com/AlesSystems/jev-lab) — inferred / research-models — ⭐0
+- …另有 18 条新增
