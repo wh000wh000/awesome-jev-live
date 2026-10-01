@@ -2964,3 +2964,32 @@
 - `+` [fsans/pacman-jev](https://github.com/fsans/pacman-jev) — inferred / apps-demos — ⭐0
 - `+` [AlesSystems/jev-lab](https://github.com/AlesSystems/jev-lab) — inferred / research-models — ⭐0
 - …另有 18 条新增
+
+## 2026-10-01T18:54:31+08:00
+- 收录总数 **805**；本 tick 新增 **26**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐44
+- `+` [emnlmn/snap](https://github.com/emnlmn/snap) — observed / research-models — ⭐22
+- `+` [Sarim-MBZUAI/awesome-jev-security](https://github.com/Sarim-MBZUAI/awesome-jev-security) — observed / routing-guardrails — ⭐5
+- `+` [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) — unverified / apps-demos — ⭐5
+- `+` [TheCoder30ec4/model_router_python](https://github.com/TheCoder30ec4/model_router_python) — unverified / routing-guardrails — ⭐5
+- `+` [CMaintz/jev-guard](https://github.com/CMaintz/jev-guard) — observed / community-sdk — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [CMaintz/jev-sort](https://github.com/CMaintz/jev-sort) — observed / community-sdk — ⭐1
+- `+` [taifoon-io/jev](https://github.com/taifoon-io/jev) — inferred / agent-tooling — ⭐0
+- `+` [saimahmedqazi/typesafe-jev-playground](https://github.com/saimahmedqazi/typesafe-jev-playground) — observed / apps-demos — ⭐0
+- `+` [iamjonatha/jev-book-tags](https://github.com/iamjonatha/jev-book-tags) — inferred / agent-tooling — ⭐0
+- `+` [Mfrostbutter/jev-n8n-patterns](https://github.com/Mfrostbutter/jev-n8n-patterns) — inferred / agent-tooling — ⭐0
+- `+` [JevResearch/Jev-Research](https://github.com/JevResearch/Jev-Research) — inferred / research-models — ⭐0
+- `+` [Applied-AI-Research-Lab/JEV-System-One-Model-in-Business-Intent-Classification](https://github.com/Applied-AI-Research-Lab/JEV-System-One-Model-in-Business-Intent-Classification) — observed / evaluation — ⭐0
+- `+` [zty2004/jev-xiangqi-lab](https://github.com/zty2004/jev-xiangqi-lab) — inferred / evaluation — ⭐0
+- `+` [jstdlee/jev-photos](https://github.com/jstdlee/jev-photos) — inferred / apps-demos — ⭐0
+- `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
+- `+` [Fayegram-AI/jev-adapter](https://github.com/Fayegram-AI/jev-adapter) — inferred / community-sdk — ⭐0
+- `+` [ngallodev-software/jev-decision-support](https://github.com/ngallodev-software/jev-decision-support) — inferred / agent-tooling — ⭐0
+- `+` [smha1012/jev-torch](https://github.com/smha1012/jev-torch) — inferred / evaluation — ⭐0
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐0
+- `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
+- `+` [dgr8akki/jev-shared](https://github.com/dgr8akki/jev-shared) — inferred / apps-demos — ⭐0
+- `+` [PhiDung-hub/jev-input-standardizer](https://github.com/PhiDung-hub/jev-input-standardizer) — inferred / agent-tooling — ⭐0
+- `+` [PhiDung-hub/jev-context-compaction](https://github.com/PhiDung-hub/jev-context-compaction) — inferred / agent-tooling — ⭐0
+- …另有 1 条新增

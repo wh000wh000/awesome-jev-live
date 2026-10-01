@@ -239,6 +239,7 @@
  "cacfcedbc7d02ca0": "Dohnuts 构建用于直接决策的小型多模态模型。-> System One 模型",
  "cb21af9e37827e94": "一系列从 Qwen3.5 微调而来的 System One 风格模型，专为通过校准概率进行一次性类型化决策而设计。",
  "cc00d387b48183fb": "由 TypeSafe Jev System One 模型支持的 UiPath 自带防护栏连接器：以自然语言描述的代理策略，以经过校准的概率强制执行。",
+ "cc0f2e409312e5d8": "从非结构化状态中获得类型化决策：一次前向传递，零生成文本。本地、确定性、兼容 Jev。不隶属于 typesafe.ai。",
  "cd0a0f3e36795e2b": "Jev 用例、项目、SDKs 和资源的精选列表。Jev 是 TypeSafe AI 的 System One 模型，用于在软件中进行快速、类型化决策——Choice、Score 和 Noul，并带有校准概率。",
  "ce7d9bad85238e0d": "使用 Jev 和 GEPA 根据人工反馈构建经过校准的 AI Functions。",
  "d02071845fcad685": "使用 TypeSafe Jev 构建的分阶段代码审查工作流和本地仪表板。",
