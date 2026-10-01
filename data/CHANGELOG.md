@@ -3051,3 +3051,32 @@
 - `+` [feD0s/jev-router-bench](https://github.com/feD0s/jev-router-bench) — inferred / routing-guardrails — ⭐0
 - `+` [lilyco-42/lyco-jev](https://github.com/lilyco-42/lyco-jev) — inferred / routing-guardrails — ⭐0
 - …另有 8 条新增
+
+## 2026-10-02T01:56:42+08:00
+- 收录总数 **799**；本 tick 新增 **41**
+- `+` [shengjidaguai-china/goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) — inferred / other — ⭐241
+- `+` [lukstei/slop-grader](https://github.com/lukstei/slop-grader) — inferred / community-sdk — ⭐31
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐22
+- `+` [jesset/pi-verdict](https://github.com/jesset/pi-verdict) — inferred / agent-tooling — ⭐11
+- `+` [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) — inferred / agent-tooling — ⭐3
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [CompleteTech-LLC-AI-Research/systemone-compiler](https://github.com/CompleteTech-LLC-AI-Research/systemone-compiler) — inferred / evaluation — ⭐3
+- `+` [AgentBull/bongard](https://github.com/AgentBull/bongard) — observed / other — ⭐3
+- `+` [Show HN: Gutsy, a 0.8B Jev-compatible decision model that runs on your CPU](https://news.ycombinator.com/item?id=49923223) — observed / media-discussions — ⭐3
+- `+` [TrickJev – Change Jev's mind one word or sentence at a time](https://news.ycombinator.com/item?id=49924000) — observed / media-discussions — ⭐2
+- `+` [timjonez/jev-gate](https://github.com/timjonez/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [abdulsalam-create/jev-prism](https://github.com/abdulsalam-create/jev-prism) — inferred / apps-demos — ⭐0
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / agent-tooling — ⭐0
+- `+` [manhua-man/jev-pilot-reflex](https://github.com/manhua-man/jev-pilot-reflex) — inferred / routing-guardrails — ⭐0
+- `+` [quinnjr/scaramucci-jev](https://github.com/quinnjr/scaramucci-jev) — inferred / community-sdk — ⭐0
+- `+` [disbitski/jev-squad-lab](https://github.com/disbitski/jev-squad-lab) — inferred / other — ⭐0
+- `+` [Optimizer077/jev-learning-course](https://github.com/Optimizer077/jev-learning-course) — inferred / evaluation — ⭐0
+- `+` [ThreeLightStudio/jev-laya-local-daemon](https://github.com/ThreeLightStudio/jev-laya-local-daemon) — inferred / evaluation — ⭐0
+- `+` [LoganGeffen/jev-agent-desk](https://github.com/LoganGeffen/jev-agent-desk) — inferred / agent-tooling — ⭐0
+- `+` [jstdlee/jev-aquarium](https://github.com/jstdlee/jev-aquarium) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-anr-overlap](https://github.com/gbesse/jev-anr-overlap) — inferred / other — ⭐0
+- `+` [gbesse/jev-fibre-readiness](https://github.com/gbesse/jev-fibre-readiness) — inferred / other — ⭐0
+- `+` [gbesse/jev-essms-proof](https://github.com/gbesse/jev-essms-proof) — inferred / other — ⭐0
+- `+` [gbesse/jev-insersup-claim-check](https://github.com/gbesse/jev-insersup-claim-check) — inferred / other — ⭐0
+- `+` [gbesse/jev-parcoursup-expectations](https://github.com/gbesse/jev-parcoursup-expectations) — inferred / other — ⭐0
+- …另有 16 条新增
