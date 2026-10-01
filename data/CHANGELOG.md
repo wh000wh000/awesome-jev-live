@@ -3080,3 +3080,32 @@
 - `+` [gbesse/jev-insersup-claim-check](https://github.com/gbesse/jev-insersup-claim-check) — inferred / other — ⭐0
 - `+` [gbesse/jev-parcoursup-expectations](https://github.com/gbesse/jev-parcoursup-expectations) — inferred / other — ⭐0
 - …另有 16 条新增
+
+## 2026-10-02T04:15:09+08:00
+- 收录总数 **813**；本 tick 新增 **39**
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐113
+- `+` [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) — inferred / agent-tooling — ⭐104
+- `+` [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — inferred / evaluation — ⭐61
+- `+` [leepokai/jev-guard](https://github.com/leepokai/jev-guard) — inferred / community-sdk — ⭐50
+- `+` [pinecone-io/cultivar](https://github.com/pinecone-io/cultivar) — inferred / community-sdk — ⭐42
+- `+` [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) — observed / agent-tooling — ⭐30
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐19
+- `+` [caiovicentino/jev-risk-check-provider](https://github.com/caiovicentino/jev-risk-check-provider) — inferred / agent-tooling — ⭐9
+- `+` [justhalfbit/dsh-plugin-jev-effort-selector](https://github.com/justhalfbit/dsh-plugin-jev-effort-selector) — inferred / agent-tooling — ⭐7
+- `+` [kouhxp/gutsy](https://github.com/kouhxp/gutsy) — inferred / agent-tooling — ⭐7
+- `+` [chenrui333/jev-docs](https://github.com/chenrui333/jev-docs) — inferred / community-sdk — ⭐5
+- `+` [newuser7171/jev-gamepilot](https://github.com/newuser7171/jev-gamepilot) — inferred / apps-demos — ⭐5
+- `+` [Jev-Engineering/TypeWright](https://github.com/Jev-Engineering/TypeWright) — inferred / evaluation — ⭐4
+- `+` [ismaildasci/evidence-referee](https://github.com/ismaildasci/evidence-referee) — inferred / agent-tooling — ⭐3
+- `+` [SamuelSacco/jev-exploration](https://github.com/SamuelSacco/jev-exploration) — inferred / apps-demos — ⭐3
+- `+` [zie1ony/jev-talks](https://github.com/zie1ony/jev-talks) — inferred / agent-tooling — ⭐3
+- `+` [vintasoftware/medplum-provider-jev](https://github.com/vintasoftware/medplum-provider-jev) — inferred / community-sdk — ⭐2
+- `+` [Amazon releases its own Jev clone as decision models flood the web](https://news.ycombinator.com/item?id=49925103) — observed / media-discussions — ⭐2
+- `+` [EU/Jev – First System One Model Hosted in the EU](https://news.ycombinator.com/item?id=49924685) — observed / media-discussions — ⭐2
+- `+` [A MySQL plugin that filters rows by meaning (built on TypeSafe Jev)](https://news.ycombinator.com/item?id=49774592) — observed / media-discussions — ⭐2
+- `+` [A deep dive into Jev, TypeSafe's System One model](https://news.ycombinator.com/item?id=49774157) — observed / media-discussions — ⭐2
+- `+` [chrishan17/claude-jev-mod](https://github.com/chrishan17/claude-jev-mod) — inferred / agent-tooling — ⭐1
+- `+` [Jibril-Frej/jev-at-home](https://github.com/Jibril-Frej/jev-at-home) — inferred / other — ⭐1
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐1
+- `+` [nicolas-found42/awesome-typesafe-jev](https://github.com/nicolas-found42/awesome-typesafe-jev) — inferred / apps-demos — ⭐0
+- …另有 14 条新增
