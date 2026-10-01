@@ -3109,3 +3109,32 @@
 - `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐1
 - `+` [nicolas-found42/awesome-typesafe-jev](https://github.com/nicolas-found42/awesome-typesafe-jev) — inferred / apps-demos — ⭐0
 - …另有 14 条新增
+
+## 2026-10-02T06:33:51+08:00
+- 收录总数 **828**；本 tick 新增 **43**
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐13
+- `+` [overbit/fast-jev-compaction-opencode](https://github.com/overbit/fast-jev-compaction-opencode) — inferred / agent-tooling — ⭐11
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐7
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐6
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐5
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐3
+- `+` [mrkpatchaa/github-star-classifier-jev](https://github.com/mrkpatchaa/github-star-classifier-jev) — inferred / other — ⭐1
+- `+` [dsaad68/fuzzy-jev](https://github.com/dsaad68/fuzzy-jev) — inferred / community-sdk — ⭐1
+- `+` [jfelipeff/l4-jev-workflows](https://github.com/jfelipeff/l4-jev-workflows) — inferred / agent-tooling — ⭐0
+- `+` [shoemoney/jev-the-spire2](https://github.com/shoemoney/jev-the-spire2) — inferred / agent-tooling — ⭐0
+- `+` [santolucito/jev-sudoku](https://github.com/santolucito/jev-sudoku) — inferred / other — ⭐0
+- `+` [tbmsindemnify/paperclip-jev](https://github.com/tbmsindemnify/paperclip-jev) — inferred / routing-guardrails — ⭐0
+- `+` [ForestMars/Jev-router](https://github.com/ForestMars/Jev-router) — inferred / routing-guardrails — ⭐0
+- `+` [OniReimu/6G-JEV](https://github.com/OniReimu/6G-JEV) — inferred / evaluation — ⭐0
+- `+` [abdwhb-png/cliproxy-jev-provider](https://github.com/abdwhb-png/cliproxy-jev-provider) — inferred / routing-guardrails — ⭐0
+- `+` [DunnyBunny1/jev-computer-use](https://github.com/DunnyBunny1/jev-computer-use) — inferred / agent-tooling — ⭐0
+- `+` [jinshendan/jev-scout](https://github.com/jinshendan/jev-scout) — inferred / agent-tooling — ⭐0
+- `+` [Aniket388/JEV-vs-General-LLMs---Real-Time-Dino-Latency-Benchmark](https://github.com/Aniket388/JEV-vs-General-LLMs---Real-Time-Dino-Latency-Benchmark) — inferred / evaluation — ⭐0
+- `+` [SuperInstance/jev-net-worker](https://github.com/SuperInstance/jev-net-worker) — inferred / other — ⭐0
+- `+` [arun-karunanithi/what-jev-thinks](https://github.com/arun-karunanithi/what-jev-thinks) — inferred / other — ⭐0
+- `+` [MersivMedia/jev-rag-retrieval](https://github.com/MersivMedia/jev-rag-retrieval) — inferred / community-sdk — ⭐0
+- `+` [SuperInstance/jev-net](https://github.com/SuperInstance/jev-net) — inferred / research-models — ⭐0
+- `+` [rainday/your-cto-jev](https://github.com/rainday/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/jev-datagouv-schema-drift](https://github.com/gbesse/jev-datagouv-schema-drift) — inferred / other — ⭐0
+- `+` [gbesse/jev-medicament-doc-shift](https://github.com/gbesse/jev-medicament-doc-shift) — inferred / other — ⭐0
+- …另有 18 条新增
