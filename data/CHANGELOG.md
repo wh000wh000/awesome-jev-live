@@ -2993,3 +2993,32 @@
 - `+` [PhiDung-hub/jev-input-standardizer](https://github.com/PhiDung-hub/jev-input-standardizer) — inferred / agent-tooling — ⭐0
 - `+` [PhiDung-hub/jev-context-compaction](https://github.com/PhiDung-hub/jev-context-compaction) — inferred / agent-tooling — ⭐0
 - …另有 1 条新增
+
+## 2026-10-01T21:12:04+08:00
+- 收录总数 **806**；本 tick 新增 **33**
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐186
+- `+` [zhengxuyu/litjev](https://github.com/zhengxuyu/litjev) — unverified / other — ⭐45
+- `+` [Trystan-SA/laya-candle](https://github.com/Trystan-SA/laya-candle) — unverified / routing-guardrails — ⭐10
+- `+` [backant-io/jevelry](https://github.com/backant-io/jevelry) — inferred / agent-tooling — ⭐7
+- `+` [vij-sameerb5/JevX](https://github.com/vij-sameerb5/JevX) — inferred / agent-tooling — ⭐6
+- `+` [kaustav1996/reflex](https://github.com/kaustav1996/reflex) — unverified / agent-tooling — ⭐5
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐5
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) — inferred / evaluation — ⭐3
+- `+` [G0-0000/pi-subagent-jev](https://github.com/G0-0000/pi-subagent-jev) — inferred / agent-tooling — ⭐1
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [Dento77384/QuantVault-Jev](https://github.com/Dento77384/QuantVault-Jev) — inferred / research-models — ⭐0
+- `+` [bitranox/btx-skill-jev](https://github.com/bitranox/btx-skill-jev) — inferred / agent-tooling — ⭐0
+- `+` [AkashNaickar/jev-email-classifier](https://github.com/AkashNaickar/jev-email-classifier) — inferred / apps-demos — ⭐0
+- `+` [ryyyzer/jev-supervisor](https://github.com/ryyyzer/jev-supervisor) — inferred / other — ⭐0
+- `+` [dgr8akki/jev-voice](https://github.com/dgr8akki/jev-voice) — inferred / apps-demos — ⭐0
+- `+` [nvkudva/olla-jev](https://github.com/nvkudva/olla-jev) — inferred / other — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [HiveScaleSystems/jev-guard](https://github.com/HiveScaleSystems/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [jkf87/jev-handson](https://github.com/jkf87/jev-handson) — inferred / agent-tooling — ⭐0
+- `+` [jinshendan/jev-scout](https://github.com/jinshendan/jev-scout) — inferred / agent-tooling — ⭐0
+- `+` [tamaker/openwebui-jev-style-decisions](https://github.com/tamaker/openwebui-jev-style-decisions) — inferred / agent-tooling — ⭐0
+- `+` [MarcosPTProenca/pi-jev-select](https://github.com/MarcosPTProenca/pi-jev-select) — inferred / other — ⭐0
+- `+` [haha145142/JevJarvis-liuhai-IOS](https://github.com/haha145142/JevJarvis-liuhai-IOS) — inferred / other — ⭐0
+- …另有 8 条新增
