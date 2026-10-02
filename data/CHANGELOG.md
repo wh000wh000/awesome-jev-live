@@ -3249,3 +3249,32 @@
 - `+` [Vansh0508/jev-voice](https://github.com/Vansh0508/jev-voice) — inferred / apps-demos — ⭐0
 - `+` [procoder-net/jev-triage-gmail](https://github.com/procoder-net/jev-triage-gmail) — inferred / routing-guardrails — ⭐0
 - …另有 7 条新增
+
+## 2026-10-02T17:53:12+08:00
+- 收录总数 **822**；本 tick 新增 **36**
+- `+` [IAmUnbounded/save-token-jev-clean](https://github.com/IAmUnbounded/save-token-jev-clean) — inferred / other — ⭐79
+- `+` [karanb192/jev-architect](https://github.com/karanb192/jev-architect) — inferred / agent-tooling — ⭐7
+- `+` [everafterlabs/jes](https://github.com/everafterlabs/jes) — unverified / agent-tooling — ⭐4
+- `+` [adambkovacs/candidate-experience-benchmark](https://github.com/adambkovacs/candidate-experience-benchmark) — inferred / evaluation — ⭐3
+- `+` [dperezcabrera/ai-chess-lab](https://github.com/dperezcabrera/ai-chess-lab) — observed / routing-guardrails — ⭐3
+- `+` [CodyQin/zh-decision-bench](https://github.com/CodyQin/zh-decision-bench) — inferred / evaluation — ⭐3
+- `+` [sable-inc/jev-linter-action](https://github.com/sable-inc/jev-linter-action) — inferred / other — ⭐1
+- `+` [kunobi-ninja/kunobi-jev](https://github.com/kunobi-ninja/kunobi-jev) — inferred / community-sdk — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / community-sdk — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-context-fabric](https://github.com/CompleteTech-LLC-AI-Research/jev-context-fabric) — inferred / agent-tooling — ⭐1
+- `+` [jipika/dsh-jev-grep](https://github.com/jipika/dsh-jev-grep) — inferred / agent-tooling — ⭐0
+- `+` [danekkalivoda/jev-skill](https://github.com/danekkalivoda/jev-skill) — inferred / agent-tooling — ⭐0
+- `+` [donvito/jev-dev](https://github.com/donvito/jev-dev) — observed / apps-demos — ⭐0
+- `+` [dylanler/blind-earth-clef-jev](https://github.com/dylanler/blind-earth-clef-jev) — inferred / other — ⭐0
+- `+` [Cleobury/jev-harness](https://github.com/Cleobury/jev-harness) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-2048-arcade](https://github.com/jevplays-games/jev-2048-arcade) — inferred / community-sdk — ⭐0
+- `+` [jevplays-games/jev-checkers-analytics](https://github.com/jevplays-games/jev-checkers-analytics) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-connect-four](https://github.com/jevplays-games/jev-connect-four) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-dots-and-boxes](https://github.com/jevplays-games/jev-dots-and-boxes) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-mastermind](https://github.com/jevplays-games/jev-mastermind) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-minesweeper](https://github.com/jevplays-games/jev-minesweeper) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-sudoku-analytics](https://github.com/jevplays-games/jev-sudoku-analytics) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-tic-tac-toe](https://github.com/jevplays-games/jev-tic-tac-toe) — inferred / apps-demos — ⭐0
+- `+` [hiouchiy/open-jev-on-databricks](https://github.com/hiouchiy/open-jev-on-databricks) — inferred / other — ⭐0
+- `+` [maanik-chandela/Jev-decision-control](https://github.com/maanik-chandela/Jev-decision-control) — inferred / evaluation — ⭐0
+- …另有 11 条新增
