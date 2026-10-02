@@ -3307,3 +3307,32 @@
 - `+` [shotintoeternity/jev](https://github.com/shotintoeternity/jev) — inferred / other — ⭐0
 - `+` [THIAGONOMA/jev-gate](https://github.com/THIAGONOMA/jev-gate) — inferred / agent-tooling — ⭐0
 - …另有 3 条新增
+
+## 2026-10-02T22:30:40+08:00
+- 收录总数 **807**；本 tick 新增 **35**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐202
+- `+` [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) — observed / community-sdk — ⭐116
+- `+` [Protocol-Lattice/GoEventBus](https://github.com/Protocol-Lattice/GoEventBus) — inferred / community-sdk — ⭐72
+- `+` [gtaras7/typesafe-jev](https://github.com/gtaras7/typesafe-jev) — inferred / routing-guardrails — ⭐9
+- `+` [benmagnifico/DriveJev](https://github.com/benmagnifico/DriveJev) — inferred / other — ⭐9
+- `+` [QCJLchina/Jev-chat-assistant](https://github.com/QCJLchina/Jev-chat-assistant) — inferred / other — ⭐8
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐7
+- `+` [mukiwu/jev-search-mcp](https://github.com/mukiwu/jev-search-mcp) — inferred / community-sdk — ⭐6
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐4
+- `+` [Can Jev be trusted when it is confident? Half a million API calls say not always](https://news.ycombinator.com/item?id=49933643) — observed / media-discussions — ⭐4
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [Jev Decision Layer: Save Frontier Tokens on Closed Decisions](https://news.ycombinator.com/item?id=49933772) — observed / media-discussions — ⭐2
+- `+` [Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers](https://news.ycombinator.com/item?id=49933476) — observed / media-discussions — ⭐2
+- `+` [A MySQL plugin that filters rows by meaning (built on TypeSafe Jev)](https://news.ycombinator.com/item?id=49774592) — observed / media-discussions — ⭐2
+- `+` [A deep dive into Jev, TypeSafe's System One model](https://news.ycombinator.com/item?id=49774157) — observed / media-discussions — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [nedzen/jev-terminal-browser-driver](https://github.com/nedzen/jev-terminal-browser-driver) — inferred / agent-tooling — ⭐1
+- `+` [QI-seven33/dsh-jev-mode](https://github.com/QI-seven33/dsh-jev-mode) — inferred / agent-tooling — ⭐1
+- `+` [edoproch/compact-jev](https://github.com/edoproch/compact-jev) — inferred / agent-tooling — ⭐1
+- `+` [PavDev3/PokeJev](https://github.com/PavDev3/PokeJev) — observed / apps-demos — ⭐0
+- `+` [thegreystone/jmc-jev-mcp](https://github.com/thegreystone/jmc-jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [yasumorishima/jev-baseball](https://github.com/yasumorishima/jev-baseball) — inferred / other — ⭐0
+- `+` [dansya-arsana/Muse-JevUltraFast](https://github.com/dansya-arsana/Muse-JevUltraFast) — inferred / apps-demos — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- …另有 10 条新增
