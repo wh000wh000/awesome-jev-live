@@ -3167,3 +3167,27 @@
 - `+` [harlanljones/jev-roster-shapes](https://github.com/harlanljones/jev-roster-shapes) — inferred / research-models — ⭐0
 - `+` [Jev-Engineering/jev-integration-evaluator](https://github.com/Jev-Engineering/jev-integration-evaluator) — inferred / community-sdk — ⭐0
 - …另有 4 条新增
+
+## 2026-10-02T11:01:44+08:00
+- 收录总数 **833**；本 tick 新增 **21**
+- `+` [AnotiaWang/awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) — inferred / agent-tooling — ⭐597
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐46
+- `+` [a3165458/ai-trading](https://github.com/a3165458/ai-trading) — unverified / apps-demos — ⭐14
+- `+` [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) — inferred / agent-tooling — ⭐3
+- `+` [zhouzihao11/jev-dllm](https://github.com/zhouzihao11/jev-dllm) — inferred / other — ⭐3
+- `+` [Hoyant-Su/JevSpawn](https://github.com/Hoyant-Su/JevSpawn) — inferred / agent-tooling — ⭐1
+- `+` [pozapas/awesome-system-one-models](https://github.com/pozapas/awesome-system-one-models) — observed / evaluation — ⭐1
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐0
+- `+` [tusharck/jev-vs-strands-decider](https://github.com/tusharck/jev-vs-strands-decider) — inferred / evaluation — ⭐0
+- `+` [sid-anand/semantic-pursuit-jev-demo](https://github.com/sid-anand/semantic-pursuit-jev-demo) — inferred / apps-demos — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+- `+` [kkwelfare/jev-prose-features](https://github.com/kkwelfare/jev-prose-features) — inferred / media-discussions — ⭐0
+- `+` [VectifyAI/jev-doc-search](https://github.com/VectifyAI/jev-doc-search) — inferred / apps-demos — ⭐0
+- `+` [AlienXc137/Support-Ticket-Ai-Agent-with-RAG-Guardrails-and-Jev](https://github.com/AlienXc137/Support-Ticket-Ai-Agent-with-RAG-Guardrails-and-Jev) — inferred / agent-tooling — ⭐0
+- `+` [lu18lol/jev-chat-windows-cn](https://github.com/lu18lol/jev-chat-windows-cn) — inferred / other — ⭐0
+- `+` [jashshah999/gtsam-jev](https://github.com/jashshah999/gtsam-jev) — inferred / other — ⭐0
+- `+` [emeffinsteve-org/jev-email-triage-public](https://github.com/emeffinsteve-org/jev-email-triage-public) — inferred / routing-guardrails — ⭐0
+- `+` [raxITlabs/jev-as-a-guardrails](https://github.com/raxITlabs/jev-as-a-guardrails) — inferred / routing-guardrails — ⭐0
+- `+` [Ang-dot/bnb-agent-studio-jev-trading-terminal](https://github.com/Ang-dot/bnb-agent-studio-jev-trading-terminal) — inferred / agent-tooling — ⭐0
+- `+` [yjsplay2002/jev-router-dashboard](https://github.com/yjsplay2002/jev-router-dashboard) — inferred / routing-guardrails — ⭐0
