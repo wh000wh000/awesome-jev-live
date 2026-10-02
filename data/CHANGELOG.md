@@ -3138,3 +3138,32 @@
 - `+` [gbesse/jev-datagouv-schema-drift](https://github.com/gbesse/jev-datagouv-schema-drift) — inferred / other — ⭐0
 - `+` [gbesse/jev-medicament-doc-shift](https://github.com/gbesse/jev-medicament-doc-shift) — inferred / other — ⭐0
 - …另有 18 条新增
+
+## 2026-10-02T08:48:03+08:00
+- 收录总数 **839**；本 tick 新增 **29**
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐26
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐15
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐14
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐6
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [OpenAI has a LOT of work to do if they think Luna can compete with Jev](https://news.ycombinator.com/item?id=49927854) — observed / media-discussions — ⭐4
+- `+` [A MySQL plugin that filters rows by meaning (built on TypeSafe Jev)](https://news.ycombinator.com/item?id=49774592) — observed / media-discussions — ⭐2
+- `+` [A deep dive into Jev, TypeSafe's System One model](https://news.ycombinator.com/item?id=49774157) — observed / media-discussions — ⭐2
+- `+` [havietkok-sys/BizzJev](https://github.com/havietkok-sys/BizzJev) — inferred / routing-guardrails — ⭐1
+- `+` [deepansh-saxena/jev-voice-guardrail](https://github.com/deepansh-saxena/jev-voice-guardrail) — inferred / routing-guardrails — ⭐0
+- `+` [yasumorishima/jev-baseball](https://github.com/yasumorishima/jev-baseball) — inferred / other — ⭐0
+- `+` [deadczarvc-labs/jev-watch](https://github.com/deadczarvc-labs/jev-watch) — inferred / agent-tooling — ⭐0
+- `+` [jevplays-games/jev-guess-who](https://github.com/jevplays-games/jev-guess-who) — inferred / apps-demos — ⭐0
+- `+` [quonfig/jev-with-style](https://github.com/quonfig/jev-with-style) — inferred / other — ⭐0
+- `+` [sunnynanavati/jev-bookshelf](https://github.com/sunnynanavati/jev-bookshelf) — inferred / apps-demos — ⭐0
+- `+` [SuperInstance/quilt-jev-toolkit](https://github.com/SuperInstance/quilt-jev-toolkit) — inferred / other — ⭐0
+- `+` [ZeroX-01/jev-atlas](https://github.com/ZeroX-01/jev-atlas) — inferred / agent-tooling — ⭐0
+- `+` [OniReimu/Edge-Computing-JEV](https://github.com/OniReimu/Edge-Computing-JEV) — inferred / evaluation — ⭐0
+- `+` [KidIkaros/mamba-jev](https://github.com/KidIkaros/mamba-jev) — inferred / other — ⭐0
+- `+` [flaviovl/jev-youtube](https://github.com/flaviovl/jev-youtube) — inferred / apps-demos — ⭐0
+- `+` [mahajanparth/JEV_SMARTROBOTCONTROL](https://github.com/mahajanparth/JEV_SMARTROBOTCONTROL) — inferred / apps-demos — ⭐0
+- `+` [haxudev/jev-benchmark](https://github.com/haxudev/jev-benchmark) — inferred / evaluation — ⭐0
+- `+` [derinworks/penr-oz-jev-syslog-analyzer](https://github.com/derinworks/penr-oz-jev-syslog-analyzer) — inferred / routing-guardrails — ⭐0
+- `+` [harlanljones/jev-roster-shapes](https://github.com/harlanljones/jev-roster-shapes) — inferred / research-models — ⭐0
+- `+` [Jev-Engineering/jev-integration-evaluator](https://github.com/Jev-Engineering/jev-integration-evaluator) — inferred / community-sdk — ⭐0
+- …另有 4 条新增
