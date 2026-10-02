@@ -3191,3 +3191,32 @@
 - `+` [raxITlabs/jev-as-a-guardrails](https://github.com/raxITlabs/jev-as-a-guardrails) — inferred / routing-guardrails — ⭐0
 - `+` [Ang-dot/bnb-agent-studio-jev-trading-terminal](https://github.com/Ang-dot/bnb-agent-studio-jev-trading-terminal) — inferred / agent-tooling — ⭐0
 - `+` [yjsplay2002/jev-router-dashboard](https://github.com/yjsplay2002/jev-router-dashboard) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-02T13:19:18+08:00
+- 收录总数 **833**；本 tick 新增 **31**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐6697
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐113
+- `+` [CharlesFeng0314/JEV_sees](https://github.com/CharlesFeng0314/JEV_sees) — inferred / apps-demos — ⭐101
+- `+` [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) — inferred / agent-tooling — ⭐74
+- `+` [leepokai/jev-guard](https://github.com/leepokai/jev-guard) — inferred / community-sdk — ⭐51
+- `+` [buluoray/JevOnly](https://github.com/buluoray/JevOnly) — inferred / agent-tooling — ⭐5
+- `+` [stefanwebb/meta-awesome-jev](https://github.com/stefanwebb/meta-awesome-jev) — inferred / media-discussions — ⭐5
+- `+` [Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev](https://news.ycombinator.com/item?id=49795171) — observed / media-discussions — ⭐3
+- `+` [Using system-one models inside high-throughput data pipelines](https://news.ycombinator.com/item?id=49771931) — observed / media-discussions — ⭐3
+- `+` [jkf87/jev-handson](https://github.com/jkf87/jev-handson) — inferred / agent-tooling — ⭐2
+- `+` [Amazon releases its own Jev clone as decision models flood the web](https://news.ycombinator.com/item?id=49925103) — observed / media-discussions — ⭐2
+- `+` [A deep dive into Jev, TypeSafe's System One model](https://news.ycombinator.com/item?id=49774157) — observed / media-discussions — ⭐2
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [sususu98/pi-jev-navigator](https://github.com/sususu98/pi-jev-navigator) — inferred / community-sdk — ⭐0
+- `+` [JevResearch/Jev-Research](https://github.com/JevResearch/Jev-Research) — inferred / research-models — ⭐0
+- `+` [brookcs3/jev--system-one-for-claude](https://github.com/brookcs3/jev--system-one-for-claude) — observed / agent-tooling — ⭐0
+- `+` [kimanhdev1999/jev-devops-agent-template](https://github.com/kimanhdev1999/jev-devops-agent-template) — inferred / agent-tooling — ⭐0
+- `+` [vijaybhanu/jev-vs-llm-decisions](https://github.com/vijaybhanu/jev-vs-llm-decisions) — inferred / agent-tooling — ⭐0
+- `+` [leongj/jev-demo](https://github.com/leongj/jev-demo) — inferred / apps-demos — ⭐0
+- `+` [kenotron-ms/jev-repl](https://github.com/kenotron-ms/jev-repl) — inferred / other — ⭐0
+- `+` [arun-karunanithi/what-jev-thinks](https://github.com/arun-karunanithi/what-jev-thinks) — inferred / other — ⭐0
+- `+` [cth9191/jev-compaction-plus](https://github.com/cth9191/jev-compaction-plus) — inferred / agent-tooling — ⭐0
+- `+` [MageMusti/JevOnOllama](https://github.com/MageMusti/JevOnOllama) — inferred / research-models — ⭐0
+- `+` [KalvinHarrisCS/Jev-Hospital-Bed-Prototype](https://github.com/KalvinHarrisCS/Jev-Hospital-Bed-Prototype) — inferred / apps-demos — ⭐0
+- …另有 6 条新增
