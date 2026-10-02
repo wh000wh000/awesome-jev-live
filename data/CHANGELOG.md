@@ -3278,3 +3278,32 @@
 - `+` [hiouchiy/open-jev-on-databricks](https://github.com/hiouchiy/open-jev-on-databricks) — inferred / other — ⭐0
 - `+` [maanik-chandela/Jev-decision-control](https://github.com/maanik-chandela/Jev-decision-control) — inferred / evaluation — ⭐0
 - …另有 11 条新增
+
+## 2026-10-02T20:10:28+08:00
+- 收录总数 **817**；本 tick 新增 **28**
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐12
+- `+` [jackie-cqz/dsh-jev-plugin](https://github.com/jackie-cqz/dsh-jev-plugin) — inferred / agent-tooling — ⭐8
+- `+` [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) — unverified / apps-demos — ⭐7
+- `+` [n23eos/jev-skills](https://github.com/n23eos/jev-skills) — inferred / agent-tooling — ⭐5
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐4
+- `+` [cipherTing/sael](https://github.com/cipherTing/sael) — unverified / community-sdk — ⭐3
+- `+` [Jev for Vulnerability and Attack Surface Analysis](https://news.ycombinator.com/item?id=49932239) — observed / media-discussions — ⭐2
+- `+` [SihanLv/AudioJev-Inference](https://github.com/SihanLv/AudioJev-Inference) — inferred / community-sdk — ⭐1
+- `+` [NomenAK/jev-tools](https://github.com/NomenAK/jev-tools) — inferred / agent-tooling — ⭐1
+- `+` [AyushGupta235/cvlm](https://github.com/AyushGupta235/cvlm) — observed / apps-demos — ⭐1
+- `+` [yamnor/jev-in-education](https://github.com/yamnor/jev-in-education) — inferred / media-discussions — ⭐0
+- `+` [Patric-1613/jev-literature-reranking-evaluation](https://github.com/Patric-1613/jev-literature-reranking-evaluation) — inferred / evaluation — ⭐0
+- `+` [Axiumine/jev-claude-code](https://github.com/Axiumine/jev-claude-code) — inferred / community-sdk — ⭐0
+- `+` [striges88-bit/jev-codex-experiment](https://github.com/striges88-bit/jev-codex-experiment) — inferred / community-sdk — ⭐0
+- `+` [yuhai-china/JEV-27B-DEMO](https://github.com/yuhai-china/JEV-27B-DEMO) — inferred / agent-tooling — ⭐0
+- `+` [withabdul/gemini-jev](https://github.com/withabdul/gemini-jev) — inferred / evaluation — ⭐0
+- `+` [jstdlee/jev-photos](https://github.com/jstdlee/jev-photos) — inferred / apps-demos — ⭐0
+- `+` [Shailly0502/JevTrace](https://github.com/Shailly0502/JevTrace) — inferred / other — ⭐0
+- `+` [alexdoandev/jev-laya-dsh](https://github.com/alexdoandev/jev-laya-dsh) — inferred / agent-tooling — ⭐0
+- `+` [justbehaz/JevInbox](https://github.com/justbehaz/JevInbox) — inferred / other — ⭐0
+- `+` [jupiutrera/jev-vs-deepseek](https://github.com/jupiutrera/jev-vs-deepseek) — inferred / apps-demos — ⭐0
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐0
+- `+` [franciscocarloserra/jev-attack-surface-analysis](https://github.com/franciscocarloserra/jev-attack-surface-analysis) — inferred / other — ⭐0
+- `+` [shotintoeternity/jev](https://github.com/shotintoeternity/jev) — inferred / other — ⭐0
+- `+` [THIAGONOMA/jev-gate](https://github.com/THIAGONOMA/jev-gate) — inferred / agent-tooling — ⭐0
+- …另有 3 条新增
