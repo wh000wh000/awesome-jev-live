@@ -3336,3 +3336,32 @@
 - `+` [dansya-arsana/Muse-JevUltraFast](https://github.com/dansya-arsana/Muse-JevUltraFast) — inferred / apps-demos — ⭐0
 - `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
 - …另有 10 条新增
+
+## 2026-10-03T00:55:25+08:00
+- 收录总数 **867**；本 tick 新增 **117**
+- `+` [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — inferred / other — ⭐89
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐66
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐22
+- `+` [Tech-Byte-Frontier/jevgate](https://github.com/Tech-Byte-Frontier/jevgate) — inferred / community-sdk — ⭐9
+- `+` [khimaros/verdict](https://github.com/khimaros/verdict) — unverified / evaluation — ⭐9
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐4
+- `+` [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) — inferred / agent-tooling — ⭐4
+- `+` [prateekmedia/ly](https://github.com/prateekmedia/ly) — inferred / other — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [nshkrdotcom/system_one_sdk](https://github.com/nshkrdotcom/system_one_sdk) — inferred / community-sdk — ⭐3
+- `+` [lexingtonhibiki/judgekit](https://github.com/lexingtonhibiki/judgekit) — inferred / community-sdk — ⭐3
+- `+` [Jev Is Poorly Calibrated](https://news.ycombinator.com/item?id=49934399) — observed / media-discussions — ⭐3
+- `+` [silex-ai-lab/jev-runtime-observability](https://github.com/silex-ai-lab/jev-runtime-observability) — inferred / agent-tooling — ⭐2
+- `+` [Why are people excited about Jev?](https://news.ycombinator.com/item?id=49935181) — observed / media-discussions — ⭐2
+- `+` [Jev Plays Manic Miner](https://news.ycombinator.com/item?id=49934041) — observed / media-discussions — ⭐2
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- `+` [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) — inferred / routing-guardrails — ⭐1
+- `+` [xiaohuaxi/jev-study](https://github.com/xiaohuaxi/jev-study) — inferred / community-sdk — ⭐0
+- `+` [RichieLoco/JevGate](https://github.com/RichieLoco/JevGate) — inferred / routing-guardrails — ⭐0
+- `+` [kyan001/dsh-jev-thinking](https://github.com/kyan001/dsh-jev-thinking) — inferred / other — ⭐0
+- `+` [seulkikaang/jev-emoji-claude-lesson](https://github.com/seulkikaang/jev-emoji-claude-lesson) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/spark-jev](https://github.com/gbesse/spark-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/metabase-jev](https://github.com/gbesse/metabase-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
+- …另有 92 条新增
