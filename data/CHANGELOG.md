@@ -3220,3 +3220,32 @@
 - `+` [MageMusti/JevOnOllama](https://github.com/MageMusti/JevOnOllama) — inferred / research-models — ⭐0
 - `+` [KalvinHarrisCS/Jev-Hospital-Bed-Prototype](https://github.com/KalvinHarrisCS/Jev-Hospital-Bed-Prototype) — inferred / apps-demos — ⭐0
 - …另有 6 条新增
+
+## 2026-10-02T15:38:19+08:00
+- 收录总数 **826**；本 tick 新增 **32**
+- `+` [emnlmn/snap](https://github.com/emnlmn/snap) — observed / research-models — ⭐22
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / other — ⭐6
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐5
+- `+` [VBS2004/jevcut](https://github.com/VBS2004/jevcut) — unverified / community-sdk — ⭐4
+- `+` [sahajamit/jev-lens](https://github.com/sahajamit/jev-lens) — inferred / other — ⭐4
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐4
+- `+` [pinkroosterai/SystemOneSharp](https://github.com/pinkroosterai/SystemOneSharp) — inferred / community-sdk — ⭐3
+- `+` [Show HN: Realtime eBay Filtering with Jev](https://news.ycombinator.com/item?id=49930615) — observed / media-discussions — ⭐2
+- `+` [arish096/awesome-jev-use-cases](https://github.com/arish096/awesome-jev-use-cases) — inferred / apps-demos — ⭐1
+- `+` [TinyPandaGame/JevLaya-GameTest](https://github.com/TinyPandaGame/JevLaya-GameTest) — inferred / community-sdk — ⭐1
+- `+` [moshui963/jev-webcontrol](https://github.com/moshui963/jev-webcontrol) — inferred / other — ⭐1
+- `+` [PhilippElhaus/Codex-Jev](https://github.com/PhilippElhaus/Codex-Jev) — inferred / community-sdk — ⭐1
+- `+` [lab-emi/ChipLaya](https://github.com/lab-emi/ChipLaya) — observed / other — ⭐1
+- `+` [VBS2004/jev-questions-skill](https://github.com/VBS2004/jev-questions-skill) — inferred / agent-tooling — ⭐0
+- `+` [seulkikaang/jev-emoji](https://github.com/seulkikaang/jev-emoji) — inferred / other — ⭐0
+- `+` [heiwa4126/jev-bun1](https://github.com/heiwa4126/jev-bun1) — inferred / community-sdk — ⭐0
+- `+` [machlin-commits/jevpoc](https://github.com/machlin-commits/jevpoc) — observed / other — ⭐0
+- `+` [dagfinndybvig/miu-jev](https://github.com/dagfinndybvig/miu-jev) — inferred / apps-demos — ⭐0
+- `+` [nyasalohiya/jev-decision-model-experiment](https://github.com/nyasalohiya/jev-decision-model-experiment) — inferred / evaluation — ⭐0
+- `+` [mumit/Jev-incident-triage-experiments](https://github.com/mumit/Jev-incident-triage-experiments) — inferred / routing-guardrails — ⭐0
+- `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
+- `+` [lilyco-42/lyco-jev](https://github.com/lilyco-42/lyco-jev) — inferred / routing-guardrails — ⭐0
+- `+` [SleepinWei/Jev-LongSeq](https://github.com/SleepinWei/Jev-LongSeq) — inferred / agent-tooling — ⭐0
+- `+` [Vansh0508/jev-voice](https://github.com/Vansh0508/jev-voice) — inferred / apps-demos — ⭐0
+- `+` [procoder-net/jev-triage-gmail](https://github.com/procoder-net/jev-triage-gmail) — inferred / routing-guardrails — ⭐0
+- …另有 7 条新增
