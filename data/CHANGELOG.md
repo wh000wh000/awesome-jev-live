@@ -3452,3 +3452,23 @@
 - `+` [carrtesy/EXAONE-JEV](https://github.com/carrtesy/EXAONE-JEV) — inferred / research-models — ⭐0
 - `+` [Rimcat-JA/jev-telegram-bot](https://github.com/Rimcat-JA/jev-telegram-bot) — inferred / apps-demos — ⭐0
 - …另有 6 条新增
+
+## 2026-10-04T01:06:48+08:00
+- 收录总数 **797**；本次更新新增 **17**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐6
+- `+` [fr0ziii/pi-jfiles](https://github.com/fr0ziii/pi-jfiles) — unverified / apps-demos — ⭐5
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐5
+- `+` [imaddde867/jev-position-test](https://github.com/imaddde867/jev-position-test) — inferred / other — ⭐3
+- `+` [Better Call Jev](https://news.ycombinator.com/item?id=49945642) — observed / media-discussions — ⭐3
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [Zakariakhchiche/copilot-studio-jev](https://github.com/Zakariakhchiche/copilot-studio-jev) — inferred / agent-tooling — ⭐0
+- `+` [plurp911/jev-cli](https://github.com/plurp911/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [sophia-phillipa/master-jev-hook](https://github.com/sophia-phillipa/master-jev-hook) — inferred / agent-tooling — ⭐0
+- `+` [Merth1470/jev-research-mcp](https://github.com/Merth1470/jev-research-mcp) — inferred / agent-tooling — ⭐0
+- `+` [illescasDaniel/jev-mem](https://github.com/illescasDaniel/jev-mem) — inferred / community-sdk — ⭐0
+- `+` [FlameInTheDark/go-decide](https://github.com/FlameInTheDark/go-decide) — observed / community-sdk — ⭐0
+- `+` [shaoyinzi654-source/jev-research-site](https://github.com/shaoyinzi654-source/jev-research-site) — inferred / research-models — ⭐0
+- `+` [Begumcaliphate5/jev-reviewer](https://github.com/Begumcaliphate5/jev-reviewer) — inferred / community-sdk — ⭐0
+- `+` [KalvinHarrisCS/Jev-Hospital-Bed-Prototype](https://github.com/KalvinHarrisCS/Jev-Hospital-Bed-Prototype) — inferred / apps-demos — ⭐0
+- `+` [dovstern/jev-ultrafast-computer-use](https://github.com/dovstern/jev-ultrafast-computer-use) — inferred / agent-tooling — ⭐0
+- `+` [karthik-bommineni/tool-routing-experiment-with-jev](https://github.com/karthik-bommineni/tool-routing-experiment-with-jev) — inferred / agent-tooling — ⭐0
