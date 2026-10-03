@@ -3365,3 +3365,32 @@
 - `+` [gbesse/metabase-jev](https://github.com/gbesse/metabase-jev) — inferred / community-sdk — ⭐0
 - `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
 - …另有 92 条新增
+
+## 2026-10-03T18:21:44+08:00
+- 收录总数 **786**；本 tick 新增 **97**
+- `+` [mohit67890/imajev](https://github.com/mohit67890/imajev) — unverified / evaluation — ⭐252
+- `+` [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) — inferred / research-models — ⭐229
+- `+` [Jwuthri/SelfJev](https://github.com/Jwuthri/SelfJev) — inferred / evaluation — ⭐63
+- `+` [shitianfang/jev-use](https://github.com/shitianfang/jev-use) — inferred / agent-tooling — ⭐43
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐41
+- `+` [keltokhy/jsort](https://github.com/keltokhy/jsort) — inferred / community-sdk — ⭐25
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐21
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [QiqianFu/Qev](https://github.com/QiqianFu/Qev) — unverified / other — ⭐14
+- `+` [stefafafan/jev](https://github.com/stefafafan/jev) — inferred / community-sdk — ⭐13
+- `+` [bl888m/jev-bot](https://github.com/bl888m/jev-bot) — inferred / research-models — ⭐11
+- `+` [madisonrickert/jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate) — inferred / agent-tooling — ⭐10
+- `+` [lucasmartins-ai/lcc](https://github.com/lucasmartins-ai/lcc) — inferred / community-sdk — ⭐9
+- `+` [epergaboni/jevseo](https://github.com/epergaboni/jevseo) — unverified / other — ⭐7
+- `+` [c9r-dev/plugins](https://github.com/c9r-dev/plugins) — unverified / agent-tooling — ⭐6
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐6
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — unverified / agent-tooling — ⭐6
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐5
+- `+` [artalis-io/jev-bush](https://github.com/artalis-io/jev-bush) — inferred / other — ⭐4
+- `+` [DelvisorLabs/Pyro](https://github.com/DelvisorLabs/Pyro) — observed / routing-guardrails — ⭐4
+- `+` [botassembly/thinkthen](https://github.com/botassembly/thinkthen) — inferred / other — ⭐4
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [ariel-frischer/jevkit](https://github.com/ariel-frischer/jevkit) — inferred / community-sdk — ⭐3
+- `+` [jkf87/jev-handson](https://github.com/jkf87/jev-handson) — inferred / agent-tooling — ⭐3
+- `+` [mmornati/system-one-router](https://github.com/mmornati/system-one-router) — unverified / community-sdk — ⭐3
+- …另有 72 条新增
