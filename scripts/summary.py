@@ -41,7 +41,7 @@ def main() -> int:
     out.append("| Metric | Value |")
     out.append("| --- | --- |")
     out.append(f"| Entries | **{stats['total']}** |")
-    out.append(f"| New this tick | {stats['new_this_tick']} |")
+    out.append(f"| Added in the latest update | {stats['new_this_tick']} |")
     out.append(f"| Repositories | {stats.get('repos', 0)} |")
     out.append(f"| Open models | {stats.get('models', 0)} |")
     out.append(f"| Discussions | {stats.get('discussions', 0)} |")
@@ -86,7 +86,7 @@ def main() -> int:
     entries = entries_doc.get("entries", [])
     fresh = [e for e in entries if e.get("is_new")]
     if fresh:
-        out.append("**New this tick**")
+        out.append("**Added in the latest update**")
         out.append("")
         for e in sorted(fresh, key=lambda x: -int(x.get("stars") or 0))[:15]:
             out.append(f"- [{e['name']}]({e['url']}) — ⭐{e.get('stars', 0)} "

@@ -187,7 +187,7 @@ PAGE = """<!doctype html>
     <div class="bar">
       <span><span class="pulse"></span>Last sync <b id="sync">__STAMP__</b></span>
       <span>Entries <b id="total">__TOTAL__</b></span>
-      <span>New this tick <b id="new">__NEW__</b></span>
+      <span>Added in the latest update <b id="new">__NEW__</b></span>
       <span>Editions <b>20</b></span>
     </div>
   </div>

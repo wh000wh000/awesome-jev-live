@@ -524,7 +524,13 @@ def render_card(e: dict, media: dict, t: dict, idx: int) -> str:
 
     # Topics are the project's own tags, so they add scannable, factual detail
     # without inventing a description the maintainer never wrote.
-    topics = [x for x in (e.get("topics") or []) if x and x not in ("submission",)]
+    # `submission` is our own marker; `collection` and the log's evidence
+    # notation are our vocabulary, not the project's. The grade already appears
+    # in the summary line, in the reader's own language.
+    INTERNAL_TAGS = ("submission", "collection")
+    topics = [x for x in (e.get("topics") or [])
+              if x and x not in INTERNAL_TAGS and "·" not in x
+              and x not in ("观测", "官方", "未证实", "推断")]
     if topics:
         out.append("🏷 " + " · ".join(f"`{esc(x)}`" for x in topics[:8]))
         out.append("")
@@ -755,7 +761,6 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
         title = t["categories"].get(cat, cat)
         toc.append(f"- [{title}](#{gh_slug(title)}) — **{n}**")
     toc.append(f"- [{labels['by_language']}](#{gh_slug(labels['by_language'])})")
-    toc.append(f"- [{labels['how_it_works']}](#{gh_slug(labels['how_it_works'])})")
     # "Contributing" is deliberately absent: the manifest wants it out of the
     # table of contents, and awesome-lint enforces that.
     L.extend(toc)
@@ -855,18 +860,9 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append(f"<sub>{labels['language_note']}</sub>")
     L.append("")
 
-    # how it stays current
-    L.append(f'## {esc(labels["how_it_works"])}')
-    L.append("")
-    L.append(t["pipeline_intro"])
-    L.append("")
-    pipe = asset_prefix + "assets/readme/pipeline.svg"
-    if (ROOT / "assets/readme/pipeline.svg").exists():
-        L.append(f'<img src="{esc(pipe)}" width="100%" alt="{esc(labels["how_it_works"])}">')
-        L.append("")
-    if t.get("pipeline_bullets"):
-        L.extend(bullets_as_table(t["pipeline_bullets"]))
-        L.append("")
+    # How this list is produced is deliberately not described here. The
+    # section that used to sit at this point named every stage of our pipeline
+    # and drew it as a diagram in all twenty editions.
 
     # contributing / footer
     L.append(f'## {esc(labels["contributing"])}')
@@ -877,7 +873,9 @@ def render_language(lang: str, t: dict, entries: list[dict], stats: dict,
     L.append("")
     L.append(f"<sub>{t['disclaimer']}</sub>")
     L.append("")
-    L.append(f"<sub>{labels['generated']} · `render.py` · {STAMP}</sub>")
+    # No generator name here: that is how this repository is run, and how the
+    # repository is run is not the reader's business.
+    L.append(f"<sub>{labels['generated']} · {STAMP}</sub>")
     L.append("")
     return "\n".join(L)
 

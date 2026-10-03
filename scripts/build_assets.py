@@ -9,7 +9,6 @@ published asset.
 
 Published artifacts
   assets/readme/hero.png         composed hero (the only thing the README loads)
-  assets/readme/pipeline.svg     pure-vector diagram of the update pipeline
 
 Editable sources kept alongside, never loaded by the README
   assets/readme/sources/hero.subject.png   raw generated subject, no text in it
@@ -244,100 +243,6 @@ def build_hero_svg() -> Path:
 
 
 # --------------------------------------------------------------------------
-def build_pipeline_svg() -> Path:
-    """
-    Pure-vector pipeline diagram. Deterministic, so it is published as SVG and
-    stays crisp at any width without shipping another raster.
-    """
-    p = PALETTE
-    w, h = 2400, 430            # shallow strip, consistent with the hero
-    stages = [
-        ("collect.py", "GitHub search, official org,\ncode search, HN, HuggingFace", p["primary"]),
-        ("curate.py", "two-signal relevance,\nfour-level evidence grading", "#7DD3FC"),
-        ("media.py", "licence-aware images,\ncontent-addressed cache", p["accent"]),
-        ("render.py", "20 language editions\nfrom one template", "#C4B5FD"),
-        ("audit.py", "URL, media and anchor\ngates must pass", "#F87171"),
-        ("commit", "only when something\nactually changed", "#4ADE80"),
-    ]
-    gap = 26
-    box_w = (w - 130 * 2 - gap * (len(stages) - 1)) / len(stages)
-    box_h = 152
-    top = 158
-
-    parts = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
-        f'viewBox="0 0 {w} {h}">',
-        f'<rect width="{w}" height="{h}" fill="{p["bg"]}"/>',
-    ]
-    # faint grid
-    for gx in range(0, w, 60):
-        parts.append(f'<line x1="{gx}" y1="0" x2="{gx}" y2="{h}" '
-                     f'stroke="{p["line"]}" stroke-width="1" opacity="0.35"/>')
-    for gy in range(0, h, 60):
-        parts.append(f'<line x1="0" y1="{gy}" x2="{w}" y2="{gy}" '
-                     f'stroke="{p["line"]}" stroke-width="1" opacity="0.35"/>')
-
-    parts.append(
-        f'<text x="130" y="82" font-family="{FONT_STACK}" font-size="38" '
-        f'font-weight="700" fill="{p["fg"]}">How this list stays current</text>'
-    )
-    parts.append(
-        f'<text x="130" y="122" font-family="{FONT_STACK}" font-size="24" '
-        f'fill="{p["muted"]}">A scheduled pipeline, not a human. '
-        f'Deterministic curation means two runs on the same input are byte-identical.</text>'
-    )
-
-    for i, (name, desc, colour) in enumerate(stages):
-        bx = 130 + i * (box_w + gap)
-        parts.append(
-            f'<rect x="{bx:.1f}" y="{top}" width="{box_w:.1f}" height="{box_h}" rx="14" '
-            f'fill="#0E141B" stroke="{colour}" stroke-width="2" stroke-opacity="0.55"/>'
-        )
-        parts.append(
-            f'<rect x="{bx:.1f}" y="{top}" width="{box_w:.1f}" height="5" rx="2.5" fill="{colour}"/>'
-        )
-        parts.append(
-            f'<text x="{bx + 22:.1f}" y="{top + 52}" font-family="{MONO_STACK}" '
-            f'font-size="28" font-weight="700" fill="{p["fg"]}">{esc(name)}</text>'
-        )
-        for j, line in enumerate(desc.split("\n")):
-            parts.append(
-                f'<text x="{bx + 22:.1f}" y="{top + 92 + j * 27}" '
-                f'font-family="{FONT_STACK}" font-size="19" fill="{p["muted"]}">'
-                f'{esc(line)}</text>'
-            )
-        if i < len(stages) - 1:
-            ax = bx + box_w + 4
-            parts.append(
-                f'<path d="M {ax:.1f} {top + box_h / 2 - 8} L {ax + gap - 9:.1f} '
-                f'{top + box_h / 2} L {ax:.1f} {top + box_h / 2 + 8} Z" '
-                f'fill="{p["muted"]}" opacity="0.75"/>'
-            )
-
-    # cadence
-    cy = top + box_h + 58
-    parts.append(
-        f'<rect x="130" y="{cy - 25}" width="322" height="50" rx="25" '
-        f'fill="#0E141B" stroke="{p["primary"]}" stroke-width="2"/>'
-    )
-    parts.append(f'<circle cx="166" cy="{cy + 1}" r="9" fill="{p["primary"]}"/>')
-    parts.append(
-        f'<text x="190" y="{cy + 10}" font-family="{FONT_STACK}" font-size="25" '
-        f'font-weight="600" fill="{p["fg"]}">every 2 hours</text>'
-    )
-    parts.append(
-        f'<text x="492" y="{cy + 10}" font-family="{FONT_STACK}" font-size="23" '
-        f'fill="{p["muted"]}">cron 0 */2 * * * &#183; commits only when the data changed</text>'
-    )
-    parts.append('</svg>')
-
-    ASSETS.mkdir(parents=True, exist_ok=True)
-    path = ASSETS / "pipeline.svg"
-    path.write_text("\n".join(parts) + "\n")
-    return path
-
-
-# --------------------------------------------------------------------------
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--generate", action="store_true",
@@ -371,7 +276,6 @@ def main() -> int:
     else:
         return 1
 
-    pipe = build_pipeline_svg()
     print(f"   wrote {pipe.relative_to(ROOT)} ({pipe.stat().st_size / 1024:.0f} KB)")
     return 0
 

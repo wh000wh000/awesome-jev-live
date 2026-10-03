@@ -188,8 +188,11 @@ def post(base: str, api_key: str, model: str, system: str, user: str) -> str | N
         except urllib.error.HTTPError as exc:
             body = exc.read().decode("utf-8", "replace")[:200]
             print(f"    !! HTTP {exc.code}: {body}", file=sys.stderr)
-            if exc.code in (429, 500, 502, 503):
-                time.sleep(4 * (attempt + 1))
+            # 401 and 403 were transient on this router: 57 batches were
+            # discarded as permanently unauthorised while the same key
+            # authenticated fine minutes later. Retrying costs one call.
+            if exc.code in (401, 403, 408, 425, 429, 500, 502, 503, 504):
+                time.sleep(5 * (attempt + 1))
                 continue
             return None
         except Exception as exc:  # noqa: BLE001
@@ -331,7 +334,14 @@ def _main() -> int:
     # are willing to spend calls on (for adding).
     referenced: set[str] = set()
     for e in doc.get("entries", []):
-        for field in ("summary", "notes"):
+        # `name` counts for a record authored in another language, because its
+        # title is translated too. Leaving it out made every title translation
+        # look unreferenced: it was pruned as stale and re-translated on the
+        # next run, for ever, one wasted call every tick.
+        fields = ["summary", "notes"]
+        if (e.get("source_lang") or "en") != "en":
+            fields.append("name")
+        for field in fields:
             text = (e.get(field) or "").strip()
             if len(text) >= 8:
                 referenced.add(key(text))

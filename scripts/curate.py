@@ -641,7 +641,8 @@ def build_knowledge_entries(items: list[dict], taken: set[str]) -> list[dict]:
             "forks": 0,
             "created_at": it.get("date") or "",
             "pushed_at": it.get("date") or "",
-            "topics": ["collection", it.get("kind_label") or ""],
+            # No topics: the log's own labels are internal evidence notation.
+            "topics": [],
             # The collection log is written in Chinese, so its records are a
             # non-English source. Every edition -- English included -- needs a
             # translation lookup for them.
@@ -945,13 +946,13 @@ def main() -> int:
     if not log_path.exists():
         log_path.write_text(
             "# CHANGELOG — awesome-jev-live\n\n"
-            "> Append-only ledger. Written by `scripts/curate.py` on every tick.\n"
+            "> Append-only record of what changed, and when.\n"
             "> Historical lines are never rewritten; corrections are added as new lines.\n\n"
         )
-    # only log ticks that actually changed something
+    # only record a run that actually changed something
     if new_entries or not prev_path.exists():
         lines = [f"\n## {STAMP}\n"]
-        lines.append(f"- 收录总数 **{len(merged)}**；本 tick 新增 **{len(new_entries)}**\n")
+        lines.append(f"- 收录总数 **{len(merged)}**；本次更新新增 **{len(new_entries)}**\n")
         for e in sorted(new_entries, key=lambda x: -int(x.get("stars") or 0))[:25]:
             lines.append(
                 f"- `+` [{e['name']}]({e['url']}) — {e.get('evidence')} / "
