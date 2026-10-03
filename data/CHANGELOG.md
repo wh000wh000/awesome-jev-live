@@ -3423,3 +3423,32 @@
 - `+` [chapter42/jev-brand-check](https://github.com/chapter42/jev-brand-check) — inferred / apps-demos — ⭐0
 - `+` [gmalbert/jev_ui](https://github.com/gmalbert/jev_ui) — inferred / apps-demos — ⭐0
 - …另有 11 条新增
+
+## 2026-10-03T23:44:29+08:00
+- 收录总数 **801**；本 tick 新增 **31**
+- `+` [VectifyAI/jev-doc-search](https://github.com/VectifyAI/jev-doc-search) — inferred / apps-demos — ⭐82
+- `+` [evoke-build/evoke](https://github.com/evoke-build/evoke) — inferred / community-sdk — ⭐22
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐14
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐12
+- `+` [caio-moliveira/workshop-jev](https://github.com/caio-moliveira/workshop-jev) — inferred / other — ⭐10
+- `+` [Sur-Cai/macos-computer-use-kit](https://github.com/Sur-Cai/macos-computer-use-kit) — observed / community-sdk — ⭐5
+- `+` [carlosedm10/agi-jev-containment](https://github.com/carlosedm10/agi-jev-containment) — inferred / community-sdk — ⭐4
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐4
+- `+` [SamuelSacco/jev-exploration](https://github.com/SamuelSacco/jev-exploration) — inferred / apps-demos — ⭐3
+- `+` [This is how Jev makes your AI assistant faster, and Judge Jev](https://news.ycombinator.com/item?id=49944224) — observed / media-discussions — ⭐2
+- `+` [thezem/jev-one](https://github.com/thezem/jev-one) — inferred / other — ⭐1
+- `+` [YYTbit/metajev](https://github.com/YYTbit/metajev) — observed / routing-guardrails — ⭐1
+- `+` [YYTbit/dsh-plugin-jev-compaction](https://github.com/YYTbit/dsh-plugin-jev-compaction) — inferred / agent-tooling — ⭐1
+- `+` [YYTbit/dsh-plugin-jev-router](https://github.com/YYTbit/dsh-plugin-jev-router) — inferred / agent-tooling — ⭐1
+- `+` [armandodollia/ha-jev-voice-pipeline](https://github.com/armandodollia/ha-jev-voice-pipeline) — inferred / apps-demos — ⭐1
+- `+` [rmax-ai/jev-vs-clef](https://github.com/rmax-ai/jev-vs-clef) — inferred / evaluation — ⭐0
+- `+` [kyan001/DSH-Jev-Thinking](https://github.com/kyan001/DSH-Jev-Thinking) — inferred / agent-tooling — ⭐0
+- `+` [kimanhdev1999/jev-devops-agent-template](https://github.com/kimanhdev1999/jev-devops-agent-template) — inferred / agent-tooling — ⭐0
+- `+` [ctaxnagomi/kd-jev-mcp](https://github.com/ctaxnagomi/kd-jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [MSadegh-Eft/DriveOne](https://github.com/MSadegh-Eft/DriveOne) — observed / other — ⭐0
+- `+` [j-ameswong/tag-matching-jev](https://github.com/j-ameswong/tag-matching-jev) — inferred / other — ⭐0
+- `+` [CodeAlchemyML/jev-dungeon](https://github.com/CodeAlchemyML/jev-dungeon) — inferred / apps-demos — ⭐0
+- `+` [cyrusasco/JevCompact](https://github.com/cyrusasco/JevCompact) — inferred / agent-tooling — ⭐0
+- `+` [carrtesy/EXAONE-JEV](https://github.com/carrtesy/EXAONE-JEV) — inferred / research-models — ⭐0
+- `+` [Rimcat-JA/jev-telegram-bot](https://github.com/Rimcat-JA/jev-telegram-bot) — inferred / apps-demos — ⭐0
+- …另有 6 条新增
