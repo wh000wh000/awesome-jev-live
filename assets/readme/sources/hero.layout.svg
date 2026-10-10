@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="520" viewBox="0 0 2400 520">
+<defs>
+  <linearGradient id="seam" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#0B0F14" stop-opacity="1"/>
+    <stop offset="55%"  stop-color="#0B0F14" stop-opacity="0.72"/>
+    <stop offset="100%" stop-color="#0B0F14" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#14B8A6" stop-opacity="0.95"/>
+    <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#14B8A6" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#14B8A6" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="2400" height="520" fill="#0B0F14"/>
+<line x1="0" y1="0" x2="0" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="60" y1="0" x2="60" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="120" y1="0" x2="120" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="180" y1="0" x2="180" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="240" y1="0" x2="240" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="300" y1="0" x2="300" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="360" y1="0" x2="360" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="420" y1="0" x2="420" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="480" y1="0" x2="480" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="540" y1="0" x2="540" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="600" y1="0" x2="600" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="660" y1="0" x2="660" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="720" y1="0" x2="720" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="780" y1="0" x2="780" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="840" y1="0" x2="840" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="900" y1="0" x2="900" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="960" y1="0" x2="960" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1020" y1="0" x2="1020" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1080" y1="0" x2="1080" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1140" y1="0" x2="1140" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1200" y1="0" x2="1200" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1260" y1="0" x2="1260" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1320" y1="0" x2="1320" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1380" y1="0" x2="1380" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1440" y1="0" x2="1440" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1500" y1="0" x2="1500" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1560" y1="0" x2="1560" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1620" y1="0" x2="1620" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1680" y1="0" x2="1680" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1740" y1="0" x2="1740" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1800" y1="0" x2="1800" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1860" y1="0" x2="1860" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1920" y1="0" x2="1920" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="1980" y1="0" x2="1980" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2040" y1="0" x2="2040" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2100" y1="0" x2="2100" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2160" y1="0" x2="2160" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2220" y1="0" x2="2220" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2280" y1="0" x2="2280" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="2340" y1="0" x2="2340" y2="520" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="0" x2="2400" y2="0" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="60" x2="2400" y2="60" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="120" x2="2400" y2="120" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="180" x2="2400" y2="180" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="240" x2="2400" y2="240" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="300" x2="2400" y2="300" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="360" x2="2400" y2="360" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="420" x2="2400" y2="420" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<line x1="0" y1="480" x2="2400" y2="480" stroke="#1F2A36" stroke-width="1" opacity="0.30"/>
+<clipPath id="subj"><rect x="1120" y="0" width="1280" height="520"/></clipPath>
+<g clip-path="url(#subj)"><image x="1120" y="0" width="1100" height="520" xlink:href="hero.subject.png" preserveAspectRatio="xMidYMid slice"/></g>
+<rect x="780" y="0" width="680" height="520" fill="url(#seam)"/>
+<rect x="1120" y="0" width="1280" height="520" fill="url(#glow)"/>
+<text x="140" y="126" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="23" font-weight="600" letter-spacing="5.5" fill="#14B8A6">EVIDENCE-GRADED INDEX &#183; REBUILT EVERY TWO HOURS</text>
+<rect x="140" y="148" width="430" height="3" fill="url(#rule)"/>
+<text x="140" y="248" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="86" font-weight="700" letter-spacing="-2.5" fill="#FFFFFF">Awesome Jev Live</text>
+<text x="140" y="303" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="27" fill="#8B98A5">The Jev / System One ecosystem, filtered twice an hour.</text>
+<rect x="140" y="336" width="880" height="58" rx="10" fill="#0E141B" fill-opacity="0.9" stroke="#1F2A36" stroke-width="1.6"/>
+<text x="164" y="374" font-family="'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="23" fill="#E6EDF3">state + typed questions &#8594; decisions + probabilities</text>
+<circle cx="148" cy="446" r="8" fill="#14B8A6"/>
+<text x="166" y="455" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="24" font-weight="500" fill="#8B98A5">official</text>
+<circle cx="294" cy="446" r="8" fill="#7DD3FC"/>
+<text x="312" y="455" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="24" font-weight="500" fill="#8B98A5">observed</text>
+<circle cx="440" cy="446" r="8" fill="#F0A93B"/>
+<text x="458" y="455" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="24" font-weight="500" fill="#8B98A5">inferred</text>
+<circle cx="586" cy="446" r="8" fill="#8B98A5"/>
+<text x="604" y="455" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', sans-serif" font-size="24" font-weight="500" fill="#8B98A5">unverified</text>
+</svg>

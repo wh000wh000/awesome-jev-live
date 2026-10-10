@@ -1,0 +1,71 @@
+{
+  "_comment": [
+    "Hand-curated submissions: ecosystem artifacts that are not repositories.",
+    "A social post, a demo, a write-up with its own recording. Same pipeline,",
+    "same grading, but the media comes from the post rather than a README.",
+    "",
+    "Why this file exists: some of the most interesting Jev work appears as a",
+    "post with a screen recording days before it becomes a repository, and some",
+    "never becomes one at all. A source list built only from repository search",
+    "is structurally blind to it.",
+    "",
+    "Fields:",
+    "  id            stable identity, '<platform>:<handle>/<post id>'",
+    "  media.video   candidate URLs, best-last; media.py picks the largest under",
+    "                the resolution cap and transcodes it to a GIF",
+    "  media.poster  a still for the card, used when no GIF can be produced",
+    "  project_url   the upstream project this post is about, when the author",
+    "                links one. Rendered as a prominent guide link.",
+    "  replies_url   where that link was found, so the claim stays checkable"
+  ],
+  "submissions": [
+    {
+      "id": "x:tspy/2100864234523685146",
+      "kind": "post",
+      "platform": "x",
+      "url": "https://x.com/tspy/status/2100864234523685146",
+      "title": {
+        "en": "Xtags — X intent labeller",
+        "zh-CN": "Xtags — X 帖子意图标注插件"
+      },
+      "author": "yishan",
+      "author_handle": "tspy",
+      "author_url": "https://x.com/tspy",
+      "posted_at": "2026-09-18T08:27:20.000Z",
+      "summary": {
+        "en": "Xtags: a Chrome extension that labels each post in an X timeline with what it is trying to get from you — inducement, provocation, promotion, machine-generated, persuasion, entertainment, information — drawn as a tag plus a probability right after the timestamp. A side panel reports session counts (seen, judged, correct) and cumulative token cost. The author reports near-instant responses and usable accuracy before any tuning.",
+        "zh-CN": "Xtags：一个 Chrome 插件，在 X 时间线上给每条帖子标出「它想让你干什么」——诱导、挑拨、推销、机器生成、说服、娱乐、告知——以「标签 + 概率」的形式画在时间戳之后。右侧面板汇报本次会话的统计（总计 / 跳过 / 看过 / 判定 / 对了 / 失败）与累计 Token 花费。作者称几乎秒级响应，且在未细调的情况下分类已相当准。"
+      },
+      "category": "apps-demos",
+      "tier": "community",
+      "evidence": "observed",
+      "notes": {
+        "en": "Worth reading as a latency argument rather than an accuracy one: labelling a timeline only works if the decision costs less than the scroll, which is the constraint a generative model cannot meet.",
+        "zh-CN": "它的价值不在准确率而在延迟论证：要让「滚动时逐条标注」成立，单次判断必须比滚动本身更便宜——这正是生成式模型无法满足的约束。"
+      },
+      "metrics": {
+        "views": 9873,
+        "likes": 24,
+        "replies": 11,
+        "reposts": 3,
+        "bookmarks": 21
+      },
+      "media": {
+        "poster": "https://pbs.twimg.com/amplify_video_thumb/2100858340331200512/img/7LtKeTJP8N4q4Q7u?format=jpg&name=large",
+        "video": [
+          "https://video.twimg.com/amplify_video/2100858340331200512/vid/avc1/466x270/dKFOYgKmgS44ouVB.mp4",
+          "https://video.twimg.com/amplify_video/2100858340331200512/vid/avc1/620x360/Vb4o-fb2uoym1NIA.mp4",
+          "https://video.twimg.com/amplify_video/2100858340331200512/vid/avc1/1242x720/ex2FF5-TerVxo9xX.mp4"
+        ],
+        "max_width": 1242
+      },
+      "project_url": "https://github.com/manifoldor/xtags",
+      "project_label": {
+        "en": "Original project (manifoldor/xtags)",
+        "zh-CN": "原项目（manifoldor/xtags）"
+      },
+      "replies_url": "https://x.com/tspy/status/2100864234523685146",
+      "source_note": "Submitted by the maintainer 2026-09-18. Project link and updated metrics read from the author's own reply in the thread on 2026-09-19."
+    }
+  ]
+}

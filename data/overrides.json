@@ -1,0 +1,96 @@
+{
+  "_comment": [
+    "Human layer. Overrides win over the collector, but they can never delete an",
+    "entry the collector keeps finding: use `exclude` for that, which is",
+    "deliberate and shows up in the diff.",
+    "",
+    "Keys: featured (pinned and marked), category, tier, evidence, summary,",
+    "notes (a short 'reusable engineering decision'), media, exclude (list of ids)."
+  ],
+  "exclude": [],
+
+  "entries": {
+    "gh:typesafe-ai/skills": {
+      "featured": true,
+      "notes": "The vendor's own agent skills. Because it is updated continuously, it is the closest thing to a specification of how TypeSafe intends Jev to be driven from an agent."
+    },
+    "gh:typesafe-ai/typesafe-sdk-python": {
+      "featured": true,
+      "notes": "Synchronous and asynchronous clients. The fastest path from an API key to a typed decision, and the reference the community clients are compared against."
+    },
+    "gh:typesafe-ai/typesafe-sdk-js": {
+      "featured": true,
+      "notes": "TypeScript client where the answer type is inferred from the question you asked, so a mismatched return type is a compile error rather than a runtime surprise."
+    },
+    "gh:typesafe-ai/system-one-adapter-python": {
+      "featured": true,
+      "notes": "Drop-in replacement that backs the same interface with an ordinary LLM provider. This is the honest way to A/B a typed decision against a prompt, on your own data, before committing to either."
+    },
+    "gh:tamaratran/fast-jev-compaction": {
+      "featured": true,
+      "category": "agent-tooling",
+      "notes": "Replaces a coding agent's context-compaction summary with a typed decision. A clean example of swapping one LLM call in an existing pipeline rather than rebuilding the pipeline."
+    },
+    "gh:TianyuCodings/NanoJev": {
+      "featured": true,
+      "category": "research-models",
+      "notes": "A small replica of the parallel-decision shape. Useful for reading the architecture without the vendor stack, and it is how several claims about the interface first became checkable."
+    },
+    "gh:gargpratyush/jev-router": {
+      "featured": true,
+      "notes": "Routes each turn to the cheapest model that can handle it. The canonical cost-reduction use case for a System One model."
+    },
+    "gh:0xNatoshi/jev-codex-router": {
+      "featured": true,
+      "notes": "Per-turn model and reasoning-effort routing for a coding agent, driven by typed decisions."
+    },
+    "gh:kshetrajna12/reflex": {
+      "featured": true,
+      "category": "research-models",
+      "evidence": "observed",
+      "notes": "An open decision model with the same state-plus-typed-question interface. Worth reading as a shape reference even if you never run it."
+    },
+    "gh:NiazMorshed2007/jev-review": {
+      "notes": "Local-first MCP plugin for continuous code review. Representative of the fastest-growing category in this list: a typed decision placed in front of an agent's next action."
+    },
+    "gh:jkudish/jev-mcp": {
+      "notes": "An early proof of concept for exposing Jev over MCP, which is how most non-Python toolchains reach it."
+    },
+    "gh:dbreunig/building-with-jev-skill": {
+      "notes": "A skill for writing programs that call Jev, rather than a program that calls Jev. The distinction matters: it encodes the design rules, not one implementation of them."
+    },
+    "gh:DevMortimer/pi-warden": {
+      "notes": "Guardrails that steer an agent before it acts. Demonstrates the gate pattern, where the decision is cheap enough to run on every step."
+    },
+    "gh:Dicklesworthstone/skillranker": {
+      "category": "routing-guardrails",
+      "notes": "Ranks agent skills with a typed decision. A useful model for any 'choose among N candidates' problem that was previously a prompt."
+    },
+    "gh:bnsd55/jevmlx": {
+      "notes": "Parallel constrained decisions on Apple Silicon via MLX. Local execution removes the per-call cost argument entirely."
+    },
+    "gh:iammrduncan/typesafe-ai-benchmark": {
+      "notes": "A gateway that mimics the System One interface, which is what makes side-by-side benchmarking possible without rewriting the caller."
+    },
+    "gh:supercorp-ai/supercov": {
+      "notes": "Code quality and coverage verdicts produced as typed decisions rather than prose, so the result can gate a pipeline directly."
+    },
+    "gh:r-ms/mini-jev": {
+      "featured": true,
+      "category": "research-models",
+      "notes": "The most useful independent reproduction to read: it shows the read-the-logits mechanism working, and it also warns explicitly that the share it reads out is not a calibrated probability. That warning is the single most important caveat in this ecosystem."
+    },
+    "gh:ekzhang/openjev-sglang": {
+      "notes": "A Jev-compatible endpoint served from open models, so the interface can be exercised without the hosted API."
+    },
+    "gh:moritzkremb/jev-voice-browser": {
+      "notes": "Voice-driven browser control where the intent check is a typed decision. Shows the latency budget a gate needs to be worth running."
+    },
+    "gh:gamesonrblx/Jevbridge": {
+      "notes": "Bridges the typed-decision layer to the agent protocols other tools already speak."
+    },
+    "gh:yusukebe/hono-jev-router": {
+      "notes": "Semantic HTTP routing for Hono. A rare example of a typed decision used for infrastructure rather than for AI plumbing."
+    }
+  }
+}
