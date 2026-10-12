@@ -4115,3 +4115,32 @@
 - `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐101
 - `+` [kyegomez/open-jev](https://github.com/kyegomez/open-jev) — inferred / agent-tooling — ⭐100
 - …另有 337 条新增
+
+## 2026-10-12T15:24:33+08:00
+- 收录总数 **835**；本次更新新增 **28**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐75
+- `+` [Jev and System One Models: Calibration Beats Accuracy](https://news.ycombinator.com/item?id=49839510) — observed / media-discussions — ⭐13
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐7
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [ziozzang/hearim](https://github.com/ziozzang/hearim) — unverified / routing-guardrails — ⭐5
+- `+` [Jev vs. Claude as blind headline judge: six gates before either touches a trade](https://news.ycombinator.com/item?id=50035460) — observed / media-discussions — ⭐5
+- `+` [xartifact/x-herald](https://github.com/xartifact/x-herald) — unverified / routing-guardrails — ⭐4
+- `+` [Jev: System One Models for Prod, Not God – With Diogo Almeida, CEO, TypeSafe AI](https://news.ycombinator.com/item?id=49794590) — observed / media-discussions — ⭐4
+- `+` [mpuig/system-one](https://github.com/mpuig/system-one) — inferred / evaluation — ⭐3
+- `+` [Using Jev in Domain Abuse Review: A Workflow Design](https://news.ycombinator.com/item?id=50035784) — observed / media-discussions — ⭐3
+- `+` [Show HN: Jevopt: Making intelligent compiler optimisation decisions with Jev](https://news.ycombinator.com/item?id=49795171) — observed / media-discussions — ⭐3
+- `+` [itsadrianxv/jev-quant](https://github.com/itsadrianxv/jev-quant) — inferred / research-models — ⭐2
+- `+` [Show HN: A newsletter powered by Jev](https://news.ycombinator.com/item?id=50042345) — observed / media-discussions — ⭐2
+- `+` [Contrastive Language Model (CLM): An Ultra-Fast System One Model](https://news.ycombinator.com/item?id=49827145) — observed / media-discussions — ⭐2
+- `+` [KevinYu1580/jev-cc-model-router](https://github.com/KevinYu1580/jev-cc-model-router) — inferred / agent-tooling — ⭐1
+- `+` [souta-lab/minecraft-jev-agent](https://github.com/souta-lab/minecraft-jev-agent) — inferred / agent-tooling — ⭐1
+- `+` [wnoronha/systemone-racer](https://github.com/wnoronha/systemone-racer) — observed / other — ⭐1
+- `+` [hrtaym1114-github/x-jev-gate](https://github.com/hrtaym1114-github/x-jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [xing89qs/jev-module-evaluation-20261012-mv4ud4f8](https://github.com/xing89qs/jev-module-evaluation-20261012-mv4ud4f8) — inferred / evaluation — ⭐0
+- `+` [Fayegram-AI/jev-adapter](https://github.com/Fayegram-AI/jev-adapter) — inferred / community-sdk — ⭐0
+- `+` [a946835640-sys/jev-chat-jarvis-tipa](https://github.com/a946835640-sys/jev-chat-jarvis-tipa) — inferred / other — ⭐0
+- `+` [VikashKumar1424/Jev_NewsClassifcation_App](https://github.com/VikashKumar1424/Jev_NewsClassifcation_App) — inferred / apps-demos — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
+- `+` [harmoniqs/arJev](https://github.com/harmoniqs/arJev) — inferred / routing-guardrails — ⭐0
+- …另有 3 条新增
