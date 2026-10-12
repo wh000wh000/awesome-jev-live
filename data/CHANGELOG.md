@@ -4144,3 +4144,27 @@
 - `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
 - `+` [harmoniqs/arJev](https://github.com/harmoniqs/arJev) — inferred / routing-guardrails — ⭐0
 - …另有 3 条新增
+
+## 2026-10-12T17:33:42+08:00
+- 收录总数 **821**；本次更新新增 **21**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐2990
+- `+` [FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev) — inferred / research-models — ⭐294
+- `+` [socai-io/jev-social](https://github.com/socai-io/jev-social) — inferred / community-sdk — ⭐165
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐50
+- `+` [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar) — inferred / evaluation — ⭐30
+- `+` [gauravkhuraana/jev-qa-demos](https://github.com/gauravkhuraana/jev-qa-demos) — inferred / routing-guardrails — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [Lasimeri/Intel-Phi-Jev](https://github.com/Lasimeri/Intel-Phi-Jev) — inferred / other — ⭐1
+- `+` [ZulfiFazhar/system-one](https://github.com/ZulfiFazhar/system-one) — observed / other — ⭐1
+- `+` [cocodedk/jev-bench](https://github.com/cocodedk/jev-bench) — inferred / evaluation — ⭐1
+- `+` [Yibo-Wen/Pev](https://github.com/Yibo-Wen/Pev) — observed / other — ⭐1
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐0
+- `+` [gbonnet65923/jev-decision-hub](https://github.com/gbonnet65923/jev-decision-hub) — inferred / community-sdk — ⭐0
+- `+` [Markonick/jev-bakeoff](https://github.com/Markonick/jev-bakeoff) — inferred / community-sdk — ⭐0
+- `+` [yorshstudent-a11y/jevlike](https://github.com/yorshstudent-a11y/jevlike) — observed / other — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [adeerkhan/PlanJev](https://github.com/adeerkhan/PlanJev) — inferred / other — ⭐0
+- `+` [Eastereggfreereed793/jev-libero](https://github.com/Eastereggfreereed793/jev-libero) — inferred / evaluation — ⭐0
+- `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / other — ⭐0
+- `+` [Sanjith0/jevTesting](https://github.com/Sanjith0/jevTesting) — inferred / other — ⭐0
+- `+` [Begumcaliphate5/jev-reviewer](https://github.com/Begumcaliphate5/jev-reviewer) — inferred / community-sdk — ⭐0
