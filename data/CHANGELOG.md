@@ -4268,3 +4268,25 @@
 - `+` [LIDR-academy/jev-dev-demo](https://github.com/LIDR-academy/jev-dev-demo) — inferred / routing-guardrails — ⭐0
 - `+` [suranjaychandra/jev-state](https://github.com/suranjaychandra/jev-state) — inferred / evaluation — ⭐0
 - …另有 9 条新增
+
+## 2026-10-13T06:19:32+08:00
+- 收录总数 **813**；本次更新新增 **19**
+- `+` [inanna-malick/jev-dsl](https://github.com/inanna-malick/jev-dsl) — inferred / agent-tooling — ⭐8
+- `+` [joch/jevman](https://github.com/joch/jevman) — inferred / apps-demos — ⭐7
+- `+` [The Jagged Frontier of Jev 1.13](https://news.ycombinator.com/item?id=49809509) — observed / media-discussions — ⭐3
+- `+` [Using Jev to make your agents write the code and design the app the way you do](https://news.ycombinator.com/item?id=50063649) — observed / media-discussions — ⭐2
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519) — observed / media-discussions — ⭐2
+- `+` [frederico-kluser/jev-agent-skill](https://github.com/frederico-kluser/jev-agent-skill) — inferred / agent-tooling — ⭐1
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [schalkneethling/jev-3000](https://github.com/schalkneethling/jev-3000) — inferred / apps-demos — ⭐0
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐0
+- `+` [sujalkanere/jev-creator-decoder](https://github.com/sujalkanere/jev-creator-decoder) — inferred / other — ⭐0
+- `+` [lancejohnson/pi-jev-thinking](https://github.com/lancejohnson/pi-jev-thinking) — inferred / other — ⭐0
+- `+` [fabric-runtime/jev-fabric](https://github.com/fabric-runtime/jev-fabric) — inferred / community-sdk — ⭐0
+- `+` [rickysullivan/typesafe-tutorial](https://github.com/rickysullivan/typesafe-tutorial) — observed / other — ⭐0
+- `+` [Suryals/llm-as-decision-model](https://github.com/Suryals/llm-as-decision-model) — observed / other — ⭐0
+- `+` [warsang/jev-web](https://github.com/warsang/jev-web) — inferred / evaluation — ⭐0
+- `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
+- `+` [Juan-GuevaraBusta/hft-jev](https://github.com/Juan-GuevaraBusta/hft-jev) — inferred / apps-demos — ⭐0
+- `+` [HarleyBartles/sheg](https://github.com/HarleyBartles/sheg) — observed / apps-demos — ⭐0
