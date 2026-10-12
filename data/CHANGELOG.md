@@ -4168,3 +4168,22 @@
 - `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / other — ⭐0
 - `+` [Sanjith0/jevTesting](https://github.com/Sanjith0/jevTesting) — inferred / other — ⭐0
 - `+` [Begumcaliphate5/jev-reviewer](https://github.com/Begumcaliphate5/jev-reviewer) — inferred / community-sdk — ⭐0
+
+## 2026-10-12T19:42:05+08:00
+- 收录总数 **816**；本次更新新增 **16**
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐70
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐27
+- `+` [5ak3t/ej](https://github.com/5ak3t/ej) — inferred / evaluation — ⭐3
+- `+` [meddle-connect/jev-fault-diagnosis-poc](https://github.com/meddle-connect/jev-fault-diagnosis-poc) — inferred / other — ⭐3
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [reeschan/pbi-orchestration-jev](https://github.com/reeschan/pbi-orchestration-jev) — inferred / agent-tooling — ⭐1
+- `+` [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) — inferred / agent-tooling — ⭐0
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [TLatAccenture/graphs-and-jev](https://github.com/TLatAccenture/graphs-and-jev) — inferred / community-sdk — ⭐0
+- `+` [aajing/jev-examples](https://github.com/aajing/jev-examples) — inferred / agent-tooling — ⭐0
+- `+` [Jose-Sabater/jev-fighter](https://github.com/Jose-Sabater/jev-fighter) — inferred / evaluation — ⭐0
+- `+` [kdubois/quarkus-langchain4j-jev-laya](https://github.com/kdubois/quarkus-langchain4j-jev-laya) — inferred / agent-tooling — ⭐0
+- `+` [kkwelfare/jev-route-screening-public](https://github.com/kkwelfare/jev-route-screening-public) — inferred / agent-tooling — ⭐0
+- `+` [USHIKUNDESUYO/jev-kaikei-free](https://github.com/USHIKUNDESUYO/jev-kaikei-free) — inferred / other — ⭐0
+- `+` [Mr-Banan0/Jev-Resume-Filler-Chinese](https://github.com/Mr-Banan0/Jev-Resume-Filler-Chinese) — inferred / other — ⭐0
+- `+` [kkwelfare/jev-prose-features](https://github.com/kkwelfare/jev-prose-features) — inferred / agent-tooling — ⭐0
