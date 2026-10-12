@@ -4239,3 +4239,32 @@
 - `+` [y8bin/rag-jev](https://github.com/y8bin/rag-jev) — inferred / evaluation — ⭐0
 - `+` [Leipengpeng/JEV-Heart-Mentor](https://github.com/Leipengpeng/JEV-Heart-Mentor) — inferred / research-models — ⭐0
 - `+` [cloud-f1/jev-agent-kit](https://github.com/cloud-f1/jev-agent-kit) — inferred / community-sdk — ⭐0
+
+## 2026-10-13T04:11:21+08:00
+- 收录总数 **809**；本次更新新增 **34**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐103
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐100
+- `+` [chuloontop4-code/jev-instance-review](https://github.com/chuloontop4-code/jev-instance-review) — inferred / agent-tooling — ⭐70
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [NodarDavituri/fast-compact](https://github.com/NodarDavituri/fast-compact) — inferred / agent-tooling — ⭐6
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐5
+- `+` [Last-Humans-Coding-Under-White-Nights/arkui-sem](https://github.com/Last-Humans-Coding-Under-White-Nights/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [Hesene/MM-JevBench](https://github.com/Hesene/MM-JevBench) — inferred / agent-tooling — ⭐1
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [makhatib/jev-lab](https://github.com/makhatib/jev-lab) — inferred / agent-tooling — ⭐0
+- `+` [kprzybys/snap-vs-jev-swe](https://github.com/kprzybys/snap-vs-jev-swe) — inferred / evaluation — ⭐0
+- `+` [mcgalleg/grokbot-jev-jobs](https://github.com/mcgalleg/grokbot-jev-jobs) — inferred / routing-guardrails — ⭐0
+- `+` [srsergi0/jev-adb](https://github.com/srsergi0/jev-adb) — inferred / agent-tooling — ⭐0
+- `+` [FLX-20/crossy-road-jev](https://github.com/FLX-20/crossy-road-jev) — inferred / apps-demos — ⭐0
+- `+` [Pradeeptalari14/tp-typesafe-jev](https://github.com/Pradeeptalari14/tp-typesafe-jev) — inferred / other — ⭐0
+- `+` [olivere/systemone](https://github.com/olivere/systemone) — observed / community-sdk — ⭐0
+- `+` [archaeus-ai/laya-self-train-prime](https://github.com/archaeus-ai/laya-self-train-prime) — observed / agent-tooling — ⭐0
+- `+` [egarim/decision-1-vs-jev](https://github.com/egarim/decision-1-vs-jev) — inferred / community-sdk — ⭐0
+- `+` [SimonZhan-code/SafetyJev](https://github.com/SimonZhan-code/SafetyJev) — inferred / agent-tooling — ⭐0
+- `+` [brzewVCE/pi-jev-thinking-router](https://github.com/brzewVCE/pi-jev-thinking-router) — inferred / routing-guardrails — ⭐0
+- `+` [Es00bac/JevReader](https://github.com/Es00bac/JevReader) — inferred / agent-tooling — ⭐0
+- `+` [siso-os/jev-agent-skills](https://github.com/siso-os/jev-agent-skills) — inferred / agent-tooling — ⭐0
+- `+` [LIDR-academy/jev-dev-demo](https://github.com/LIDR-academy/jev-dev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [suranjaychandra/jev-state](https://github.com/suranjaychandra/jev-state) — inferred / evaluation — ⭐0
+- …另有 9 条新增
