@@ -4216,3 +4216,26 @@
 - `+` [lu-harr/jev_aus_risk](https://github.com/lu-harr/jev_aus_risk) — inferred / other — ⭐0
 - `+` [BrickerP/jev-plays-pokemon-red](https://github.com/BrickerP/jev-plays-pokemon-red) — inferred / agent-tooling — ⭐0
 - …另有 2 条新增
+
+## 2026-10-12T23:57:31+08:00
+- 收录总数 **813**；本次更新新增 **20**
+- `+` [apolinario/decision-index](https://github.com/apolinario/decision-index) — unverified / evaluation — ⭐44
+- `+` [jev-sec/jev-ids](https://github.com/jev-sec/jev-ids) — observed / other — ⭐19
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — unverified / agent-tooling — ⭐7
+- `+` [jkf87/jev-handson](https://github.com/jkf87/jev-handson) — inferred / agent-tooling — ⭐6
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [akitaonrails/jev-docs-benchmarks](https://github.com/akitaonrails/jev-docs-benchmarks) — inferred / evaluation — ⭐4
+- `+` [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) — inferred / agent-tooling — ⭐3
+- `+` [dharmeshgurnani/CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) — observed / routing-guardrails — ⭐3
+- `+` [jev-sec/jev-sec.github.io](https://github.com/jev-sec/jev-sec.github.io) — inferred / evaluation — ⭐2
+- `+` [ARCJ137442/jev-switch](https://github.com/ARCJ137442/jev-switch) — inferred / routing-guardrails — ⭐1
+- `+` [jkkelley/coq-jev-herdr-plugin](https://github.com/jkkelley/coq-jev-herdr-plugin) — inferred / agent-tooling — ⭐1
+- `+` [vicfei/jev-rag-zh-benchmark](https://github.com/vicfei/jev-rag-zh-benchmark) — inferred / evaluation — ⭐0
+- `+` [Shreetej/jev-open-bench](https://github.com/Shreetej/jev-open-bench) — inferred / evaluation — ⭐0
+- `+` [ghosthat-studio/keeping-an-npc-on-quest](https://github.com/ghosthat-studio/keeping-an-npc-on-quest) — observed / routing-guardrails — ⭐0
+- `+` [KSonny4/modernbert-jev](https://github.com/KSonny4/modernbert-jev) — inferred / research-models — ⭐0
+- `+` [CallMeHFK/jev-kernel](https://github.com/CallMeHFK/jev-kernel) — inferred / agent-tooling — ⭐0
+- `+` [y8bin/rag-jev](https://github.com/y8bin/rag-jev) — inferred / evaluation — ⭐0
+- `+` [Leipengpeng/JEV-Heart-Mentor](https://github.com/Leipengpeng/JEV-Heart-Mentor) — inferred / research-models — ⭐0
+- `+` [cloud-f1/jev-agent-kit](https://github.com/cloud-f1/jev-agent-kit) — inferred / community-sdk — ⭐0
