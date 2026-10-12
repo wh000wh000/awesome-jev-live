@@ -4086,3 +4086,32 @@
 - `+` [AkashPriyadarshii/jev-git](https://github.com/AkashPriyadarshii/jev-git) — inferred / community-sdk — ⭐4
 - `+` [jon-devlapaz/tink-route](https://github.com/jon-devlapaz/tink-route) — unverified / agent-tooling — ⭐4
 - …另有 85 条新增
+
+## 2026-10-12T13:01:56+08:00
+- 收录总数 **826**；本次更新新增 **362**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐6876
+- `+` [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) — inferred / agent-tooling — ⭐471
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐443
+- `+` [FBddcz/embodied-jev](https://github.com/FBddcz/embodied-jev) — inferred / research-models — ⭐293
+- `+` [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) — inferred / agent-tooling — ⭐268
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — inferred / evaluation — ⭐256
+- `+` [fatwang2/awesome-jev](https://github.com/fatwang2/awesome-jev) — inferred / agent-tooling — ⭐225
+- `+` [jmagly/aiwg](https://github.com/jmagly/aiwg) — inferred / agent-tooling — ⭐223
+- `+` [aowang-ai/jev-trade](https://github.com/aowang-ai/jev-trade) — inferred / apps-demos — ⭐206
+- `+` [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) — inferred / agent-tooling — ⭐163
+- `+` [tamaratran/jev-pruner](https://github.com/tamaratran/jev-pruner) — inferred / agent-tooling — ⭐161
+- `+` [allebee/jevk5](https://github.com/allebee/jevk5) — inferred / evaluation — ⭐148
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐138
+- `+` [Futureppo/typesafe_register](https://github.com/Futureppo/typesafe_register) — observed / other — ⭐131
+- `+` [qkal/Canny](https://github.com/qkal/Canny) — inferred / community-sdk — ⭐122
+- `+` [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) — inferred / agent-tooling — ⭐122
+- `+` [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) — inferred / apps-demos — ⭐121
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐120
+- `+` [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) — inferred / apps-demos — ⭐119
+- `+` [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) — observed / community-sdk — ⭐117
+- `+` [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) — inferred / apps-demos — ⭐115
+- `+` [BudEcosystem/Bud-Decision-Studio](https://github.com/BudEcosystem/Bud-Decision-Studio) — inferred / apps-demos — ⭐108
+- `+` [Bodila51/grok-bot-jev](https://github.com/Bodila51/grok-bot-jev) — inferred / agent-tooling — ⭐104
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐101
+- `+` [kyegomez/open-jev](https://github.com/kyegomez/open-jev) — inferred / agent-tooling — ⭐100
+- …另有 337 条新增
