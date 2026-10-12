@@ -4187,3 +4187,32 @@
 - `+` [USHIKUNDESUYO/jev-kaikei-free](https://github.com/USHIKUNDESUYO/jev-kaikei-free) — inferred / other — ⭐0
 - `+` [Mr-Banan0/Jev-Resume-Filler-Chinese](https://github.com/Mr-Banan0/Jev-Resume-Filler-Chinese) — inferred / other — ⭐0
 - `+` [kkwelfare/jev-prose-features](https://github.com/kkwelfare/jev-prose-features) — inferred / agent-tooling — ⭐0
+
+## 2026-10-12T21:49:47+08:00
+- 收录总数 **819**；本次更新新增 **27**
+- `+` [akivet/Mica](https://github.com/akivet/Mica) — inferred / agent-tooling — ⭐36
+- `+` [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) — inferred / research-models — ⭐18
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐16
+- `+` [KiritoKing/midscene-jev-runner](https://github.com/KiritoKing/midscene-jev-runner) — inferred / community-sdk — ⭐11
+- `+` [lucioamor/lovable-skills](https://github.com/lucioamor/lovable-skills) — unverified / agent-tooling — ⭐6
+- `+` [Ideny42/jev-keyboard](https://github.com/Ideny42/jev-keyboard) — inferred / other — ⭐4
+- `+` [VictorYXL/GraphDecisionBench](https://github.com/VictorYXL/GraphDecisionBench) — unverified / community-sdk — ⭐3
+- `+` [The Jagged Frontier of Jev 1.13](https://news.ycombinator.com/item?id=49809509) — observed / media-discussions — ⭐3
+- `+` [mtxcjnb/Jev-like_snake_playground](https://github.com/mtxcjnb/Jev-like_snake_playground) — inferred / apps-demos — ⭐2
+- `+` [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519) — observed / media-discussions — ⭐2
+- `+` [Calibrating Jev as a Code Reviewer](https://news.ycombinator.com/item?id=49803758) — observed / media-discussions — ⭐2
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [bobbydeveaux/jev-lgtm](https://github.com/bobbydeveaux/jev-lgtm) — inferred / other — ⭐0
+- `+` [AlanECE/jev-arena](https://github.com/AlanECE/jev-arena) — inferred / agent-tooling — ⭐0
+- `+` [aclemen1/jev](https://github.com/aclemen1/jev) — inferred / community-sdk — ⭐0
+- `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐0
+- `+` [RobGruhl/jev-learnings](https://github.com/RobGruhl/jev-learnings) — inferred / evaluation — ⭐0
+- `+` [mike8470/jev-style](https://github.com/mike8470/jev-style) — inferred / agent-tooling — ⭐0
+- `+` [oozoofrog/jev-native](https://github.com/oozoofrog/jev-native) — inferred / agent-tooling — ⭐0
+- `+` [Mandalorian007/pi-thunder-jev](https://github.com/Mandalorian007/pi-thunder-jev) — inferred / other — ⭐0
+- `+` [Y-B-1/fast-jev-compaction-plus](https://github.com/Y-B-1/fast-jev-compaction-plus) — inferred / agent-tooling — ⭐0
+- `+` [RcyuH/Jev_brainrot](https://github.com/RcyuH/Jev_brainrot) — inferred / agent-tooling — ⭐0
+- `+` [SK2674/jev-ultrafast](https://github.com/SK2674/jev-ultrafast) — inferred / apps-demos — ⭐0
+- `+` [lu-harr/jev_aus_risk](https://github.com/lu-harr/jev_aus_risk) — inferred / other — ⭐0
+- `+` [BrickerP/jev-plays-pokemon-red](https://github.com/BrickerP/jev-plays-pokemon-red) — inferred / agent-tooling — ⭐0
+- …另有 2 条新增
