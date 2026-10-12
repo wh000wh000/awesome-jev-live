@@ -569,6 +569,7 @@
  "b050b23a0ce4c681": "**[DEFINITION-CHANGE]** أُعيدت كتابة B5، وجدول الأرقام الرئيسية، والقاعدة 3 في SKILL.md، والبند 6 عند الإطلاق، والبند 6 في حدود القابلية للتطبيق——كانت هذه المكتبة تسجل «عدم اليقين» سابقًا بوصفه خطرًا، أما الآن فقد عُدّل ذلك إلى الحل الرسمي: إدارته باستخدام abstention",
  "b05ec82e21d63aea": "اطرح أسئلة Jev المكتوبة النوع من shell: إجابات noul والاختيار والدرجة كأرقام، لا كنص نثري",
  "b0abf92c349a3733": "مشاريع مفتوحة المصدر تستدعي Jev وSystem One نموذج TypeSafe AI بشكل يمكن إثباته. يرتبط كل إدخال بسطر الشيفرة الذي يثبت ذلك. تُحدّث يوميًا.",
+ "b0b49ea9b0c79abd": "Jev كود التدريب للمحاضرة الخاصة (المحاضرات 1~3): TypeSafe أمثلة على المهارات والخطافات والموجّهات والاستخدام لربط Jev بـ Claude Code·Codex·OpenClaw",
  "b1390825c63c8287": "hearim (헤아림) — بوابة متعددة الخلفيات متوافقة مع Jev لـ System One في Go",
  "b1b8b9d0adf091a7": "The MCP Tool Shed: مقالة فكرية من Accenture حول الترحيل والتحديث الوكيليين، تُقدَّم بواسطة خدمة Rust على Cloud Run",
  "b230c7596178405c": "*\"Teach your coding agent to try Jev before it writes another regex, and to write down what happened.\"* وهو يجعل coding agent **يجرب Jev أولًا** عندما يكتشف أن خطوة ما هي **حكم محدود النطاق** (classify/tag/triage/size/rank/route/filter/verify/match/gate)، ثم يسجل هذه المحاولة (**سواء اعتُمدت أم لا**) في **دليل lab** لإعادة استخدامها في المشروع التالي. يدعم Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Pi / Hermes.",

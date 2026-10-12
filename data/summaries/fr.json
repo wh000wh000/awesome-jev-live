@@ -13,6 +13,7 @@
  "023d2763deea3e44": "`npx -y skills@latest add typesafe-ai/skills -s typesafe-ai -g -a '*' --copy -y` → installation dans `~/.agents/skills/typesafe-ai/`（fichier unique SKILL.md, 149 lignes / 10 KB, couvre 79 agents）. Évaluation de sécurité : Gen=Safe, Socket=0 alerts, Snyk=Low Risk. Le seul échec est Eve（ne prend pas en charge l’installation globale, sans impact）.",
  "024ef7ac410fcc15": "Environnement local de TypeSafe System One (Jev) : composez des questions Choice/Noul/Score dans le navigateur, appelez le API en direct et récupérez de vraies questions du benchmark arXiv 2609.37647 (hors ligne)",
  "0258052e6dc326e9": "Une liste organisée de projets publics, d’intégrations et de discussions construits sur Jev — le modèle System One de TypeSafe AI pour les décisions typées.",
+ "02cda76a9133024e": "Assistant décisionnel conversationnel local : MiniCPM analyse et formule, tandis qu’un modèle de type JEV évalue les options. Prend en charge les cartes d’accompagnement 微信, la recherche dans l’historique et les démonstrations hors ligne.",
  "034d3492dcb73215": "Pipeline de reproduction pour la calibration conditionnelle au routage dans les workflows NLP OpenJev",
  "034f9ca44c0bfb1c": "Mesure indépendante tierce : intégration en production Vercel (preuve industrielle la plus importante)",
  "0382ec04d3537ed9": "Alternative Jev locale et open-source : une couche de décision System One avec une confiance calibrée de manière prouvable (ECE 0.170→0.071). Décisions typées, fonctionne hors ligne, aucune clé API, aucune liste d’attente.",
