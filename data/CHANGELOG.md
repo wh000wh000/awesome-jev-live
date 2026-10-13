@@ -4532,3 +4532,23 @@
 - `+` [johnyoonh/jev-ground](https://github.com/johnyoonh/jev-ground) — inferred / agent-tooling — ⭐0
 - `+` [tjorourke/mail-triage-jev](https://github.com/tjorourke/mail-triage-jev) — inferred / routing-guardrails — ⭐0
 - …另有 2 条新增
+
+## 2026-10-14T07:54:14+08:00
+- 收录总数 **799**；本次更新新增 **17**
+- `+` [apolinario/decision-index](https://github.com/apolinario/decision-index) — unverified / evaluation — ⭐50
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐10
+- `+` [wonseokjung/connect-tycoon](https://github.com/wonseokjung/connect-tycoon) — inferred / apps-demos — ⭐7
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐7
+- `+` [ItsOdeLeo/MLX-ZeroEffort-Decider](https://github.com/ItsOdeLeo/MLX-ZeroEffort-Decider) — inferred / routing-guardrails — ⭐4
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [Analytics206/JEV-Arcade](https://github.com/Analytics206/JEV-Arcade) — inferred / agent-tooling — ⭐0
+- `+` [7n1m4/jev](https://github.com/7n1m4/jev) — inferred / agent-tooling — ⭐0
+- `+` [KonglingDaDa/zh-ste100-jev-skill](https://github.com/KonglingDaDa/zh-ste100-jev-skill) — inferred / agent-tooling — ⭐0
+- `+` [95pctai/jev-search-eval-report](https://github.com/95pctai/jev-search-eval-report) — inferred / evaluation — ⭐0
+- `+` [gbesse/jev-screen](https://github.com/gbesse/jev-screen) — inferred / apps-demos — ⭐0
+- `+` [danielrapi/JevVsLLM](https://github.com/danielrapi/JevVsLLM) — inferred / other — ⭐0
+- `+` [iethree/jev-s-code](https://github.com/iethree/jev-s-code) — inferred / other — ⭐0
+- `+` [gbesse/jev-carbone-factor-fit](https://github.com/gbesse/jev-carbone-factor-fit) — inferred / other — ⭐0
+- `+` [gbesse/jev-pii](https://github.com/gbesse/jev-pii) — inferred / other — ⭐0
+- `+` [SimonZhan-code/SafetyJev](https://github.com/SimonZhan-code/SafetyJev) — inferred / agent-tooling — ⭐0
+- `+` [surafel-kindu/system-one-models-game-test](https://github.com/surafel-kindu/system-one-models-game-test) — observed / apps-demos — ⭐0
