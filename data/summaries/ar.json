@@ -157,6 +157,7 @@
  "31d037aa6a749c44": "صنع النموذج الأفقي مفتوح المصدر لـ Jev باستخدام RLCD، وهو يتجاوز جميع معايير Jev",
  "32117d927a26626b": "أحكام جودة الشيفرة والتغطية الناتجة كقرارات مُنمّطة بدلًا من النثر، بحيث يمكن للنتيجة التحكم مباشرةً في خط أنابيب.",
  "322562bcc8b3ff67": "onesie هو CLI بنمط Unix لاستخدام نماذج System One في مسارات shell النصية والبرامج النصية وسير العمل الوكيلي:  https:&#x2F;&#x2F;github.com&#x2F;frodi-karlsson&#x2F;onesie      echo &#x27;EVERYTHING IS DOWN, CALL ME NOW&#x27; | onesie &#x27;does this convey urgency&#x27; -r\n  # 0.99",
+ "32663e581018b47c": "لغة DSL متعددة المنصات من Kotlin وعميل لنموذج TypeSafe's Jev",
  "328a4379bcd53ca8": "تحكّم في متصفح حقيقي بالصوت. يقرّر Jev (TypeSafe System One) النية + الهدف في نحو 300 مللي ثانية لكل كلمة منطوقة؛ وينفّذ Playwright — غالبًا قبل أن تنهي الجملة.",
  "32b39d6cbcc4a27a": "تجاوز النظام البيئي عتبة جديدة: ظهور خادم مفتوح المصدر متوافق مع Jev-HTTP-API",
  "32e7f5b20a192100": ".NET 10 SDK للقرارات: اختر وScore وقيّم باستخدام Microsoft Foundry (Microsoft-Decision-1)، ونماذج Ollama System One المحلية الأصلية، وTypeSafe AI Jev. API واحد، واحتمالات بدلًا من فقرات.",
