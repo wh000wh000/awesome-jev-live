@@ -4503,3 +4503,32 @@
 - `+` [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) — inferred / agent-tooling — ⭐1
 - `+` [jfelipeff/l4-jev-workflows](https://github.com/jfelipeff/l4-jev-workflows) — inferred / agent-tooling — ⭐0
 - …另有 38 条新增
+
+## 2026-10-14T05:46:51+08:00
+- 收录总数 **796**；本次更新新增 **27**
+- `+` [tacticocc/Jevbridge](https://github.com/tacticocc/Jevbridge) — inferred / community-sdk — ⭐47
+- `+` [qs-lll/twitter-jev-guard](https://github.com/qs-lll/twitter-jev-guard) — inferred / other — ⭐9
+- `+` [glamboyosa/docket](https://github.com/glamboyosa/docket) — inferred / other — ⭐7
+- `+` [ajanm007/jevrag](https://github.com/ajanm007/jevrag) — inferred / routing-guardrails — ⭐6
+- `+` [luigivis/jev-sdk-java](https://github.com/luigivis/jev-sdk-java) — inferred / community-sdk — ⭐6
+- `+` [ArmanJR/Jev-Persian-Benchmark](https://github.com/ArmanJR/Jev-Persian-Benchmark) — inferred / evaluation — ⭐4
+- `+` [ItsOdeLeo/JEV-MLX](https://github.com/ItsOdeLeo/JEV-MLX) — inferred / routing-guardrails — ⭐4
+- `+` [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) — inferred / routing-guardrails — ⭐1
+- `+` [milan6190/jev-orchestrator](https://github.com/milan6190/jev-orchestrator) — observed / agent-tooling — ⭐0
+- `+` [gbesse/jev-workflow](https://github.com/gbesse/jev-workflow) — inferred / agent-tooling — ⭐0
+- `+` [Sandesh-S-Dalvi/playwright-jev-testing](https://github.com/Sandesh-S-Dalvi/playwright-jev-testing) — inferred / other — ⭐0
+- `+` [evan-py-chen/jev-survey](https://github.com/evan-py-chen/jev-survey) — observed / research-models — ⭐0
+- `+` [MichelePolo/jev-mcp](https://github.com/MichelePolo/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [jeffersonpojunior/JEV_Humanoid](https://github.com/jeffersonpojunior/JEV_Humanoid) — inferred / apps-demos — ⭐0
+- `+` [stube123890-hue/jev-decision-lab](https://github.com/stube123890-hue/jev-decision-lab) — inferred / other — ⭐0
+- `+` [zazencodes/jev-intro-to-decision-models](https://github.com/zazencodes/jev-intro-to-decision-models) — inferred / other — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [teraus111/jev-trading](https://github.com/teraus111/jev-trading) — inferred / apps-demos — ⭐0
+- `+` [danielwipert/jev.sorter](https://github.com/danielwipert/jev.sorter) — inferred / other — ⭐0
+- `+` [LoganGeffen/jev-agent-desk](https://github.com/LoganGeffen/jev-agent-desk) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-codebook](https://github.com/gbesse/jev-codebook) — inferred / evaluation — ⭐0
+- `+` [kkaminsk/Kimi-JevCompact](https://github.com/kkaminsk/Kimi-JevCompact) — inferred / community-sdk — ⭐0
+- `+` [gbesse/jev-rerank-server](https://github.com/gbesse/jev-rerank-server) — inferred / other — ⭐0
+- `+` [johnyoonh/jev-ground](https://github.com/johnyoonh/jev-ground) — inferred / agent-tooling — ⭐0
+- `+` [tjorourke/mail-triage-jev](https://github.com/tjorourke/mail-triage-jev) — inferred / routing-guardrails — ⭐0
+- …另有 2 条新增
