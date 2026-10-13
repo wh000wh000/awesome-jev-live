@@ -60,6 +60,7 @@
  "0e93f1477de32b46": "Un article officiel du blog LangChain explique « pourquoi la catégorie des garde-fous pour agents connaît une explosion » — Sydney Runkle & Hunter Lovell)",
  "1009c4a7beed957b": "Noul -> Primitiva para saber si es si o no",
  "1031f79529a031ce": "Quatre outils de qualité décisionnelle sur Jev (TypeSafe System One) : Jev répond aux questions structurées, tandis que le code déterministe garde le dernier mot.",
+ "104edb6585b1cf53": "Des décisions de style Jev tenant compte de la couverture sur des ensembles d’actions générés par diffusion",
  "10fedd2ce0146779": "Un modèle de décision qui renvoie des réponses calibrées aux questions oui/non, à choix, de score et multi-étiquettes.",
  "1199a22d550cc124": "Harnais de cas d’utilisation TypeSafe Jev (System One) en production avec logique de décision à seuil de confiance",
  "12203af501ef6cc2": "Décisions IA locales en une ligne. Choix/noul/score étalonnés à partir de modèles ouverts. Aucune clé API, aucun cloud. Téléchargement automatique des modèles. ARM64 natif/Linux ou solution de repli Docker.",
