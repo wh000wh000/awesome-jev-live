@@ -4439,3 +4439,27 @@
 - `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
 - `+` [senna-lang/jev-repro](https://github.com/senna-lang/jev-repro) — inferred / research-models — ⭐0
 - `+` [Ryenhails/Jev-reranker](https://github.com/Ryenhails/Jev-reranker) — inferred / apps-demos — ⭐0
+
+## 2026-10-13T23:23:16+08:00
+- 收录总数 **807**；本次更新新增 **21**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [yanng981/awesome-system-one](https://github.com/yanng981/awesome-system-one) — inferred / media-discussions — ⭐5
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) — observed / media-discussions — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [mrkpatchaa/github-star-classifier-jev](https://github.com/mrkpatchaa/github-star-classifier-jev) — inferred / other — ⭐1
+- `+` [jkkelley/coq-jev-herdr-plugin](https://github.com/jkkelley/coq-jev-herdr-plugin) — inferred / agent-tooling — ⭐1
+- `+` [zacharytgray/jev-context-filter-harness](https://github.com/zacharytgray/jev-context-filter-harness) — inferred / agent-tooling — ⭐0
+- `+` [jcarlosrodicio/subq-vs-jev](https://github.com/jcarlosrodicio/subq-vs-jev) — inferred / research-models — ⭐0
+- `+` [RobGruhl/jev-learnings](https://github.com/RobGruhl/jev-learnings) — inferred / media-discussions — ⭐0
+- `+` [krisitown/local-jev-api](https://github.com/krisitown/local-jev-api) — inferred / evaluation — ⭐0
+- `+` [HKUST-KnowComp/Jev-ToM](https://github.com/HKUST-KnowComp/Jev-ToM) — inferred / evaluation — ⭐0
+- `+` [Jono717/jev-trader](https://github.com/Jono717/jev-trader) — inferred / research-models — ⭐0
+- `+` [neeraj1bh/jev.py](https://github.com/neeraj1bh/jev.py) — inferred / other — ⭐0
+- `+` [Juan-GuevaraBusta/hft-jev](https://github.com/Juan-GuevaraBusta/hft-jev) — inferred / apps-demos — ⭐0
+- `+` [DAXZEIT/Pi-JEV-VCC-memory-relevance](https://github.com/DAXZEIT/Pi-JEV-VCC-memory-relevance) — inferred / agent-tooling — ⭐0
+- `+` [CiroVilmer/jev-agent-router](https://github.com/CiroVilmer/jev-agent-router) — inferred / agent-tooling — ⭐0
+- `+` [NeilSinclair/jev-style-llm-pilot](https://github.com/NeilSinclair/jev-style-llm-pilot) — inferred / other — ⭐0
+- `+` [DGoettlich/social-jev](https://github.com/DGoettlich/social-jev) — inferred / other — ⭐0
+- `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
+- `+` [sunilmehta-si/jev-inference-router](https://github.com/sunilmehta-si/jev-inference-router) — inferred / routing-guardrails — ⭐0
