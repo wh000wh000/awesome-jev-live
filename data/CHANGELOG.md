@@ -4290,3 +4290,16 @@
 - `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
 - `+` [Juan-GuevaraBusta/hft-jev](https://github.com/Juan-GuevaraBusta/hft-jev) — inferred / apps-demos — ⭐0
 - `+` [HarleyBartles/sheg](https://github.com/HarleyBartles/sheg) — observed / apps-demos — ⭐0
+
+## 2026-10-13T08:27:04+08:00
+- 收录总数 **741**；本次更新新增 **10**
+- `+` [Qew7/jev-feels](https://github.com/Qew7/jev-feels) — inferred / community-sdk — ⭐20
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐12
+- `+` [jkudish/jev-agent-tools](https://github.com/jkudish/jev-agent-tools) — inferred / agent-tooling — ⭐6
+- `+` [Kelly-Leeee/AgentNetwork-jev](https://github.com/Kelly-Leeee/AgentNetwork-jev) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: 20 Questions with Jev](https://news.ycombinator.com/item?id=50063259) — observed / media-discussions — ⭐2
+- `+` [CodelyTV/system_one-course](https://github.com/CodelyTV/system_one-course) — observed / other — ⭐1
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [sabrina-fan/fast-jev-compaction](https://github.com/sabrina-fan/fast-jev-compaction) — inferred / community-sdk — ⭐0
+- `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [AshwathSingh/jev-balancer](https://github.com/AshwathSingh/jev-balancer) — inferred / other — ⭐0
