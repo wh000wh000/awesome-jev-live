@@ -4368,3 +4368,23 @@
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
 - `+` [GitHubxyhhhh/jev-lab-support](https://github.com/GitHubxyhhhh/jev-lab-support) — inferred / other — ⭐0
 - `+` [mumit/Jev-public-operations-experiments](https://github.com/mumit/Jev-public-operations-experiments) — inferred / evaluation — ⭐0
+
+## 2026-10-13T16:58:14+08:00
+- 收录总数 **743**；本次更新新增 **17**
+- `+` [YongLD/Multi-UAV-JEV](https://github.com/YongLD/Multi-UAV-JEV) — inferred / apps-demos — ⭐15
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐7
+- `+` [Kungie/gut](https://github.com/Kungie/gut) — inferred / research-models — ⭐6
+- `+` [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) — inferred / agent-tooling — ⭐3
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐3
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [frederikvonsperling/sanity-plugin-jev-fields](https://github.com/frederikvonsperling/sanity-plugin-jev-fields) — inferred / agent-tooling — ⭐1
+- `+` [ForestMars/Will-It-Jev](https://github.com/ForestMars/Will-It-Jev) — inferred / routing-guardrails — ⭐1
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) — inferred / agent-tooling — ⭐1
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [chanchanpin-official/jev-resume-autofill](https://github.com/chanchanpin-official/jev-resume-autofill) — inferred / agent-tooling — ⭐0
+- `+` [Tauhmax/frozenlake-jev](https://github.com/Tauhmax/frozenlake-jev) — inferred / evaluation — ⭐0
+- `+` [ahwlsqja/clickhouse-jev](https://github.com/ahwlsqja/clickhouse-jev) — inferred / community-sdk — ⭐0
+- `+` [senna-lang/jev-repro](https://github.com/senna-lang/jev-repro) — inferred / research-models — ⭐0
+- `+` [Ryoseiimai/screen-jev](https://github.com/Ryoseiimai/screen-jev) — inferred / agent-tooling — ⭐0
+- `+` [shd8/web4kit-starter](https://github.com/shd8/web4kit-starter) — observed / other — ⭐0
