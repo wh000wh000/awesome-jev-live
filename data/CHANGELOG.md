@@ -4352,3 +4352,19 @@
 - `+` [JuneYaooo/jev-healthcare-lab](https://github.com/JuneYaooo/jev-healthcare-lab) — inferred / evaluation — ⭐0
 - `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
 - `+` [Tauhmax/frozenlake-jev](https://github.com/Tauhmax/frozenlake-jev) — inferred / evaluation — ⭐0
+
+## 2026-10-13T14:50:11+08:00
+- 收录总数 **816**；本次更新新增 **13**
+- `+` [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) — inferred / agent-tooling — ⭐91
+- `+` [Ordo-Engine/Ordo](https://github.com/Ordo-Engine/Ordo) — inferred / agent-tooling — ⭐38
+- `+` [sqliteai/blink](https://github.com/sqliteai/blink) — observed / other — ⭐21
+- `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐4
+- `+` [zamax14/Laya-Finetune](https://github.com/zamax14/Laya-Finetune) — inferred / evaluation — ⭐3
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [rahulbansalc6414/jev-as-a-guardrail](https://github.com/rahulbansalc6414/jev-as-a-guardrail) — inferred / agent-tooling — ⭐0
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [GrainSack/jev-seminar-assets](https://github.com/GrainSack/jev-seminar-assets) — inferred / other — ⭐0
+- `+` [bill9924/jev](https://github.com/bill9924/jev) — inferred / other — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [GitHubxyhhhh/jev-lab-support](https://github.com/GitHubxyhhhh/jev-lab-support) — inferred / other — ⭐0
+- `+` [mumit/Jev-public-operations-experiments](https://github.com/mumit/Jev-public-operations-experiments) — inferred / evaluation — ⭐0
