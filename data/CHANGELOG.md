@@ -4474,3 +4474,32 @@
 - `+` [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) — inferred / agent-tooling — ⭐1
 - `+` [PanikParty/System1Doom](https://github.com/PanikParty/System1Doom) — observed / research-models — ⭐0
 - `+` [nyattoh/jev-mcp](https://github.com/nyattoh/jev-mcp) — inferred / agent-tooling — ⭐0
+
+## 2026-10-14T03:37:52+08:00
+- 收录总数 **797**；本次更新新增 **63**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐275
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐95
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [LIDR-academy/jev-demo](https://github.com/LIDR-academy/jev-demo) — inferred / agent-tooling — ⭐15
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐6
+- `+` [Amine-LG/IntentSQL](https://github.com/Amine-LG/IntentSQL) — inferred / community-sdk — ⭐4
+- `+` [CodyQin/zh-decision-bench](https://github.com/CodyQin/zh-decision-bench) — inferred / evaluation — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [ronitgupta138/local-jev](https://github.com/ronitgupta138/local-jev) — inferred / other — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [Show HN: Hev is a Jev-compatible API, answered by humans](https://news.ycombinator.com/item?id=50075774) — observed / media-discussions — ⭐2
+- `+` [ojusave/beat-jev](https://github.com/ojusave/beat-jev) — inferred / community-sdk — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [mrkpatchaa/github-star-classifier-jev](https://github.com/mrkpatchaa/github-star-classifier-jev) — inferred / other — ⭐1
+- `+` [frederikvonsperling/sanity-plugin-jev-fields](https://github.com/frederikvonsperling/sanity-plugin-jev-fields) — inferred / agent-tooling — ⭐1
+- `+` [inikhildubey/llm-router](https://github.com/inikhildubey/llm-router) — observed / routing-guardrails — ⭐1
+- `+` [Hesene/MM-JevBench](https://github.com/Hesene/MM-JevBench) — inferred / agent-tooling — ⭐1
+- `+` [adenzhou1350/jev-decision-teaching](https://github.com/adenzhou1350/jev-decision-teaching) — inferred / other — ⭐1
+- `+` [jkkelley/coq-jev-herdr-plugin](https://github.com/jkkelley/coq-jev-herdr-plugin) — inferred / agent-tooling — ⭐1
+- `+` [gloria112/JevHarness](https://github.com/gloria112/JevHarness) — inferred / community-sdk — ⭐1
+- `+` [armandodollia/ha-jev-voice-pipeline](https://github.com/armandodollia/ha-jev-voice-pipeline) — inferred / apps-demos — ⭐1
+- `+` [samuelyossef/jev-openfast](https://github.com/samuelyossef/jev-openfast) — inferred / agent-tooling — ⭐1
+- `+` [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) — inferred / agent-tooling — ⭐1
+- `+` [jfelipeff/l4-jev-workflows](https://github.com/jfelipeff/l4-jev-workflows) — inferred / agent-tooling — ⭐0
+- …另有 38 条新增
