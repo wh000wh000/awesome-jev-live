@@ -4332,3 +4332,23 @@
 - `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐1
 - `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐1
 - …另有 59 条新增
+
+## 2026-10-13T12:43:11+08:00
+- 收录总数 **812**；本次更新新增 **17**
+- `+` [Nyarlathoteppppp/pi-heed](https://github.com/Nyarlathoteppppp/pi-heed) — inferred / agent-tooling — ⭐12
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [getainode/jebadiah](https://github.com/getainode/jebadiah) — inferred / evaluation — ⭐7
+- `+` [brightshore/jev-net](https://github.com/brightshore/jev-net) — inferred / community-sdk — ⭐3
+- `+` [Engid/question-kit](https://github.com/Engid/question-kit) — observed / other — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
+- `+` [yinjs/claude-jev](https://github.com/yinjs/claude-jev) — inferred / agent-tooling — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [amatelic/jev](https://github.com/amatelic/jev) — inferred / evaluation — ⭐0
+- `+` [shawnsmothers/Jev-Demo-App](https://github.com/shawnsmothers/Jev-Demo-App) — inferred / routing-guardrails — ⭐0
+- `+` [LIDR-academy/jev-demo](https://github.com/LIDR-academy/jev-demo) — inferred / agent-tooling — ⭐0
+- `+` [monkey1sai/codex-jev-integration](https://github.com/monkey1sai/codex-jev-integration) — inferred / community-sdk — ⭐0
+- `+` [JuneYaooo/jev-healthcare-lab](https://github.com/JuneYaooo/jev-healthcare-lab) — inferred / evaluation — ⭐0
+- `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
+- `+` [Tauhmax/frozenlake-jev](https://github.com/Tauhmax/frozenlake-jev) — inferred / evaluation — ⭐0
