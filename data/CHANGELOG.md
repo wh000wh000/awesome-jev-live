@@ -4303,3 +4303,32 @@
 - `+` [sabrina-fan/fast-jev-compaction](https://github.com/sabrina-fan/fast-jev-compaction) — inferred / community-sdk — ⭐0
 - `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
 - `+` [AshwathSingh/jev-balancer](https://github.com/AshwathSingh/jev-balancer) — inferred / other — ⭐0
+
+## 2026-10-13T10:33:25+08:00
+- 收录总数 **811**；本次更新新增 **84**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐274
+- `+` [CharlesFeng0314/JEV_sees](https://github.com/CharlesFeng0314/JEV_sees) — inferred / apps-demos — ⭐140
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐120
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐50
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [RiskAverseTech/toolgate](https://github.com/RiskAverseTech/toolgate) — unverified / agent-tooling — ⭐25
+- `+` [ringzerosec/jev-runtime-security](https://github.com/ringzerosec/jev-runtime-security) — inferred / agent-tooling — ⭐11
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐10
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐10
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐6
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [adityajha2005/decisionkit](https://github.com/adityajha2005/decisionkit) — inferred / community-sdk — ⭐4
+- `+` [zhouzihao11/jev-dllm](https://github.com/zhouzihao11/jev-dllm) — inferred / other — ⭐3
+- `+` [gauravkhuraana/jev-qa-demos](https://github.com/gauravkhuraana/jev-qa-demos) — inferred / routing-guardrails — ⭐3
+- `+` [bojansandhaus/jev-decisions-hermes](https://github.com/bojansandhaus/jev-decisions-hermes) — inferred / agent-tooling — ⭐3
+- `+` [The Jagged Frontier of Jev 1.13](https://news.ycombinator.com/item?id=49809509) — observed / media-discussions — ⭐3
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519) — observed / media-discussions — ⭐2
+- `+` [Jev27B/JEV-27B-Desktop](https://github.com/Jev27B/JEV-27B-Desktop) — observed / agent-tooling — ⭐1
+- `+` [jev-ai-desktop/Jev-AI-Desktop](https://github.com/jev-ai-desktop/Jev-AI-Desktop) — observed / agent-tooling — ⭐1
+- `+` [Solizardking/clawd-jev-trading-machine](https://github.com/Solizardking/clawd-jev-trading-machine) — observed / research-models — ⭐1
+- `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐1
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐1
+- …另有 59 条新增
