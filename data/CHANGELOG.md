@@ -4417,3 +4417,25 @@
 - `+` [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) — inferred / community-sdk — ⭐6
 - `+` [brida-ai/reflexbench](https://github.com/brida-ai/reflexbench) — observed / evaluation — ⭐6
 - …另有 73 条新增
+
+## 2026-10-13T21:15:35+08:00
+- 收录总数 **811**；本次更新新增 **19**
+- `+` [GuSheng107/helpme-Jev](https://github.com/GuSheng107/helpme-Jev) — inferred / other — ⭐8
+- `+` [Jev handed our LLM the wrong page a tenth as often as our embeddings](https://news.ycombinator.com/item?id=50070393) — observed / media-discussions — ⭐7
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐6
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐5
+- `+` [adambkovacs/candidate-experience-benchmark](https://github.com/adambkovacs/candidate-experience-benchmark) — inferred / evaluation — ⭐4
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐3
+- `+` [Show HN: Vaguely Right, a Jev-based daily game – submit a clue to hit the target](https://news.ycombinator.com/item?id=50071000) — observed / media-discussions — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [adenzhou1350/jev-decision-teaching](https://github.com/adenzhou1350/jev-decision-teaching) — inferred / other — ⭐1
+- `+` [andreban/jev-classify-knn-comparison](https://github.com/andreban/jev-classify-knn-comparison) — inferred / evaluation — ⭐0
+- `+` [danielrapi/JevVsLLM](https://github.com/danielrapi/JevVsLLM) — inferred / other — ⭐0
+- `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / other — ⭐0
+- `+` [AyushChauhan9389/fast-jev-compaction](https://github.com/AyushChauhan9389/fast-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [GrainSack/jev-seminar-assets](https://github.com/GrainSack/jev-seminar-assets) — inferred / other — ⭐0
+- `+` [juwoong/jev-para](https://github.com/juwoong/jev-para) — inferred / other — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [senna-lang/jev-repro](https://github.com/senna-lang/jev-repro) — inferred / research-models — ⭐0
+- `+` [Ryenhails/Jev-reranker](https://github.com/Ryenhails/Jev-reranker) — inferred / apps-demos — ⭐0
