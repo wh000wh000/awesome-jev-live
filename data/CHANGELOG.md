@@ -4463,3 +4463,14 @@
 - `+` [DGoettlich/social-jev](https://github.com/DGoettlich/social-jev) — inferred / other — ⭐0
 - `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
 - `+` [sunilmehta-si/jev-inference-router](https://github.com/sunilmehta-si/jev-inference-router) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-14T01:31:20+08:00
+- 收录总数 **744**；本次更新新增 **8**
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) — inferred / agent-tooling — ⭐2
+- `+` [0xjba/jev-swap](https://github.com/0xjba/jev-swap) — inferred / other — ⭐2
+- `+` [Afloat16/jev-mcp](https://github.com/Afloat16/jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [nanoDBA/jev-agent-kit](https://github.com/nanoDBA/jev-agent-kit) — inferred / agent-tooling — ⭐1
+- `+` [PanikParty/System1Doom](https://github.com/PanikParty/System1Doom) — observed / research-models — ⭐0
+- `+` [nyattoh/jev-mcp](https://github.com/nyattoh/jev-mcp) — inferred / agent-tooling — ⭐0
