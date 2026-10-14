@@ -498,6 +498,7 @@
  "99a8bd5d213caf17": "Dopo la pubblicazione di @typesafeai alle 11:17am del giorno del lancio, alle 5:43pm il CEO ha segnalato il furto, alle 5:54pm è stato confermato il phishing e alle 11:49pm è stato recuperato（\"JEV LIVES\"）.",
  "99e2c62e080b7115": "Tutto ciò che serve per eseguire TypeSafe Jev con Claude Code: protezione delle chiamate agli strumenti, protezione del livello, ricerca nei file, agente browser, revisione, belay, compattazione e installer.",
  "9a72735b793c979f": "Riordinamento per rilevanza di elenchi di query/candidati, basato sulla primitiva Jev Noul di TypeSafe. Sono supportati OpenRouter e API diretto TypeSafe.",
+ "9aab330a6337119a": "Elaborazione batch dei dati con Jev (il modello decisionale di TypeSafe AI): pipeline di annotazione con instradamento basato sul livello di confidenza, funzioni SQL semantiche in DuckDB e confronto con LLM in termini di velocità, costi e accuratezza per il matching delle entità, il matching delle tabelle e la classificazione del testo.",
  "9b3bb311b6b57db4": "Notebook creati mentre si imparava il modello System One Jev di TypeSafe AI",
  "9b4f1f980dbe852f": "Un client .NET 10 ed esempi eseguibili per System One decision API di Ollama, con scelta strutturata, probabilità sì/no e output di scoring.",
  "9b9b93c9b1296a5f": "Sistema di trading in C++ che sfrutta TypeSafe Jev, connesso a SimNow e Binance per il paper trading",
