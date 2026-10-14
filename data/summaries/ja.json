@@ -498,6 +498,7 @@
  "99a8bd5d213caf17": "@typesafeaiが公開日に11:17amに投稿した後、5:43pmにCEOから盗難が報告され、5:54pmにフィッシングと確認、11:49pmに奪回（「JEV LIVES」）。",
  "99e2c62e080b7115": "Claude Code で TypeSafe の Jev を実行するために必要なすべて: ツール呼び出しガード、ティアガード、ファイル検索、ブラウザーエージェント、レビュー、belay、コンパクション、インストーラー。",
  "9a72735b793c979f": "TypeSafeのJev Noulプリミティブを利用した、クエリ／候補リストの関連性再ランキング。OpenRouterおよびTypeSafeの直接APIに対応。",
+ "9aab330a6337119a": "Jev（TypeSafe AIの意思決定モデル）を使ったバッチデータ処理：信頼度に基づく振り分けを備えたアノテーションパイプライン、DuckDB内のセマンティックSQL関数、およびエンティティマッチング、テーブルマッチング、テキスト分類におけるLLMとの速度・コスト・精度の比較。",
  "9b3bb311b6b57db4": "TypeSafe AI の System One model Jev を学習中に作成した Notebooks",
  "9b4f1f980dbe852f": "Ollama の System One 判断 API 向け .NET 10 クライアントと実行可能な例。構造化された選択、yes/no 確率、スコアリング出力に対応。",
  "9b9b93c9b1296a5f": "SimNowおよびBinanceに接続してペーパートレーディングを行う、TypeSafe Jevを活用したC++取引システム",
