@@ -4563,3 +4563,24 @@
 - `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
 - `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-10-14T12:10:53+08:00
+- 收录总数 **799**；本次更新新增 **18**
+- `+` [Ordo-Engine/Ordo](https://github.com/Ordo-Engine/Ordo) — inferred / agent-tooling — ⭐38
+- `+` [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) — observed / apps-demos — ⭐4
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [Jevify skill – Gets your existing agents running on Jev](https://news.ycombinator.com/item?id=49812519) — observed / media-discussions — ⭐2
+- `+` [zhu1j/JevAgentRuntime](https://github.com/zhu1j/JevAgentRuntime) — inferred / agent-tooling — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [Aj1905/jev-voice-browser](https://github.com/Aj1905/jev-voice-browser) — inferred / apps-demos — ⭐0
+- `+` [paulbruffett/jev-demo](https://github.com/paulbruffett/jev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [matthelam/seo-jev-analyzer](https://github.com/matthelam/seo-jev-analyzer) — inferred / evaluation — ⭐0
+- `+` [Dreydrey9000/jev-relay](https://github.com/Dreydrey9000/jev-relay) — inferred / agent-tooling — ⭐0
+- `+` [GrainSack/jev-seminar-assets](https://github.com/GrainSack/jev-seminar-assets) — inferred / other — ⭐0
+- `+` [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) — inferred / agent-tooling — ⭐0
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐0
+- `+` [minitru/jev-intent-benchmark](https://github.com/minitru/jev-intent-benchmark) — inferred / agent-tooling — ⭐0
+- `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
+- `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
+- `+` [wuchengwei1996/jev-zh-tw-eval](https://github.com/wuchengwei1996/jev-zh-tw-eval) — inferred / agent-tooling — ⭐0
