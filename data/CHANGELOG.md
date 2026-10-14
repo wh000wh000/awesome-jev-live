@@ -4676,3 +4676,27 @@
 - `+` [GorOhanyan/jev-offload-mcp](https://github.com/GorOhanyan/jev-offload-mcp) — inferred / agent-tooling — ⭐0
 - `+` [rumple/jev-snake](https://github.com/rumple/jev-snake) — inferred / apps-demos — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+
+## 2026-10-15T00:57:16+08:00
+- 收录总数 **781**；本次更新新增 **21**
+- `+` [0814wdwd/solo_jev](https://github.com/0814wdwd/solo_jev) — inferred / other — ⭐289
+- `+` [agent-chaperone/agent-chaperone](https://github.com/agent-chaperone/agent-chaperone) — inferred / community-sdk — ⭐22
+- `+` [Oscar-dzy/Awesome-jev-papers](https://github.com/Oscar-dzy/Awesome-jev-papers) — inferred / evaluation — ⭐15
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐7
+- `+` [flov-ai/snake-arena](https://github.com/flov-ai/snake-arena) — observed / routing-guardrails — ⭐1
+- `+` [kanakoconti5028/jev-browser](https://github.com/kanakoconti5028/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [michelle8961/building-with-typesafe-jev](https://github.com/michelle8961/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [mustafadeluca/building-with-typesafe-jev](https://github.com/mustafadeluca/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [polytutor-ai/polymarket-5min-btc-Jev-trading-bot](https://github.com/polytutor-ai/polymarket-5min-btc-Jev-trading-bot) — inferred / agent-tooling — ⭐0
+- `+` [Henk630/Jev-Mem](https://github.com/Henk630/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [rogueprocess13/jev-ops-experiment](https://github.com/rogueprocess13/jev-ops-experiment) — inferred / evaluation — ⭐0
+- `+` [RobGruhl/jev-learnings](https://github.com/RobGruhl/jev-learnings) — inferred / media-discussions — ⭐0
+- `+` [gravitypersists/jev-copycat-experiment](https://github.com/gravitypersists/jev-copycat-experiment) — inferred / research-models — ⭐0
+- `+` [aaronjaworski710/jev-decision-hub](https://github.com/aaronjaworski710/jev-decision-hub) — inferred / other — ⭐0
+- `+` [nabilrehman/jev-guide](https://github.com/nabilrehman/jev-guide) — inferred / apps-demos — ⭐0
+- `+` [CiroVilmer/jev-agent-router](https://github.com/CiroVilmer/jev-agent-router) — inferred / agent-tooling — ⭐0
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐0
+- `+` [jacquesli53093/jev-social](https://github.com/jacquesli53093/jev-social) — inferred / community-sdk — ⭐0
+- `+` [abp002/story-shapes](https://github.com/abp002/story-shapes) — observed / other — ⭐0
+- `+` [jerichosiahaya/naluri](https://github.com/jerichosiahaya/naluri) — observed / other — ⭐0
