@@ -4712,3 +4712,19 @@
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
 - `+` [Yerang-RB/kakao-cs-jev](https://github.com/Yerang-RB/kakao-cs-jev) — inferred / community-sdk — ⭐0
 - `+` [Rheverson/jev-site](https://github.com/Rheverson/jev-site) — inferred / other — ⭐0
+
+## 2026-10-15T05:12:22+08:00
+- 收录总数 **777**；本次更新新增 **13**
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐9
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐5
+- `+` [Jev 1.14: For the Builders and Dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [Vonage-Community/demo-video-javascript-jev-starter](https://github.com/Vonage-Community/demo-video-javascript-jev-starter) — inferred / agent-tooling — ⭐0
+- `+` [zbcoding/jev-userflow-browser-monitor](https://github.com/zbcoding/jev-userflow-browser-monitor) — inferred / agent-tooling — ⭐0
+- `+` [gsaini/system-one-models-getting-started](https://github.com/gsaini/system-one-models-getting-started) — observed / agent-tooling — ⭐0
+- `+` [nim-f/jev-pilot](https://github.com/nim-f/jev-pilot) — inferred / agent-tooling — ⭐0
+- `+` [subhan22x/SearchShift-Jev](https://github.com/subhan22x/SearchShift-Jev) — inferred / routing-guardrails — ⭐0
+- `+` [DarkCascade/jev-fixer-sandbox](https://github.com/DarkCascade/jev-fixer-sandbox) — inferred / other — ⭐0
+- `+` [mdimamhosen/jev](https://github.com/mdimamhosen/jev) — inferred / community-sdk — ⭐0
+- `+` [n333k0/taste-index-typesafe](https://github.com/n333k0/taste-index-typesafe) — observed / agent-tooling — ⭐0
