@@ -4700,3 +4700,15 @@
 - `+` [jacquesli53093/jev-social](https://github.com/jacquesli53093/jev-social) — inferred / community-sdk — ⭐0
 - `+` [abp002/story-shapes](https://github.com/abp002/story-shapes) — observed / other — ⭐0
 - `+` [jerichosiahaya/naluri](https://github.com/jerichosiahaya/naluri) — observed / other — ⭐0
+
+## 2026-10-15T03:05:55+08:00
+- 收录总数 **775**；本次更新新增 **9**
+- `+` [RealHacker/jeveval](https://github.com/RealHacker/jeveval) — unverified / evaluation — ⭐5
+- `+` [sunyasheng/JevGPT](https://github.com/sunyasheng/JevGPT) — inferred / research-models — ⭐4
+- `+` [berget-ai/guardrails-md](https://github.com/berget-ai/guardrails-md) — inferred / agent-tooling — ⭐3
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [WallerChen/jev-measured](https://github.com/WallerChen/jev-measured) — inferred / routing-guardrails — ⭐1
+- `+` [SoyJorgePilo/jev-demo](https://github.com/SoyJorgePilo/jev-demo) — inferred / apps-demos — ⭐1
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [Yerang-RB/kakao-cs-jev](https://github.com/Yerang-RB/kakao-cs-jev) — inferred / community-sdk — ⭐0
+- `+` [Rheverson/jev-site](https://github.com/Rheverson/jev-site) — inferred / other — ⭐0
