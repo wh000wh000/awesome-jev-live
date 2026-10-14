@@ -4552,3 +4552,14 @@
 - `+` [gbesse/jev-pii](https://github.com/gbesse/jev-pii) — inferred / other — ⭐0
 - `+` [SimonZhan-code/SafetyJev](https://github.com/SimonZhan-code/SafetyJev) — inferred / agent-tooling — ⭐0
 - `+` [surafel-kindu/system-one-models-game-test](https://github.com/surafel-kindu/system-one-models-game-test) — observed / apps-demos — ⭐0
+
+## 2026-10-14T10:04:04+08:00
+- 收录总数 **797**；本次更新新增 **8**
+- `+` [FazalAAli/jev-robotics-demo](https://github.com/FazalAAli/jev-robotics-demo) — inferred / agent-tooling — ⭐7
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐5
+- `+` [itsadrianxv/jev-quant](https://github.com/itsadrianxv/jev-quant) — inferred / research-models — ⭐2
+- `+` [portlandhodl/jev-cli](https://github.com/portlandhodl/jev-cli) — observed / community-sdk — ⭐2
+- `+` [Barneyjm/decision-circuits](https://github.com/Barneyjm/decision-circuits) — observed / community-sdk — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
