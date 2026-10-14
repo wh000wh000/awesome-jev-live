@@ -4584,3 +4584,31 @@
 - `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
 - `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
 - `+` [wuchengwei1996/jev-zh-tw-eval](https://github.com/wuchengwei1996/jev-zh-tw-eval) — inferred / agent-tooling — ⭐0
+
+## 2026-10-14T14:17:57+08:00
+- 收录总数 **798**；本次更新新增 **25**
+- `+` [Turning GLM-5.3-Flash into a Jev-like decision model](https://news.ycombinator.com/item?id=49857656) — observed / media-discussions — ⭐138
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐35
+- `+` [Jev and System One Models: Calibration Beats Accuracy](https://news.ycombinator.com/item?id=49839510) — observed / media-discussions — ⭐13
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐12
+- `+` [bskkimm/JevSceneMiner](https://github.com/bskkimm/JevSceneMiner) — inferred / research-models — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐7
+- `+` [jevaidev/jev-ai-radar](https://github.com/jevaidev/jev-ai-radar) — inferred / apps-demos — ⭐6
+- `+` [Contrastive Language Models: A Fast, Generalizable System One Model](https://news.ycombinator.com/item?id=49848279) — observed / media-discussions — ⭐6
+- `+` [ItsOdeLeo/MLX-Direct-Decider](https://github.com/ItsOdeLeo/MLX-Direct-Decider) — inferred / routing-guardrails — ⭐4
+- `+` [Grivn/mnemon-memory-agent](https://github.com/Grivn/mnemon-memory-agent) — inferred / agent-tooling — ⭐4
+- `+` [jangtrinh/design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui) — unverified / agent-tooling — ⭐3
+- `+` [Show HN: SuperLocalMemory" AI brain that never bluffs: Laya, Jev, Google Gemma](https://news.ycombinator.com/item?id=50082728) — observed / media-discussions — ⭐3
+- `+` [smha1012/jev-torch](https://github.com/smha1012/jev-torch) — inferred / evaluation — ⭐2
+- `+` [Show HN: Hev is a Jev-compatible API, answered by humans](https://news.ycombinator.com/item?id=50075774) — observed / media-discussions — ⭐2
+- `+` [Jev and Jinja Skills in Claude for judgment calls bypassing Opus context](https://news.ycombinator.com/item?id=50072432) — observed / media-discussions — ⭐2
+- `+` [Contrastive Language Model (CLM): An Ultra-Fast System One Model](https://news.ycombinator.com/item?id=49827145) — observed / media-discussions — ⭐2
+- `+` [shibing624/train-jev](https://github.com/shibing624/train-jev) — inferred / evaluation — ⭐1
+- `+` [kentilaok/Jev-Orchestrated-Decision-Mesh](https://github.com/kentilaok/Jev-Orchestrated-Decision-Mesh) — inferred / routing-guardrails — ⭐1
+- `+` [ElyasEbrahim/jev-project](https://github.com/ElyasEbrahim/jev-project) — inferred / community-sdk — ⭐0
+- `+` [y8bin/rag-jev](https://github.com/y8bin/rag-jev) — inferred / evaluation — ⭐0
+- `+` [HKUST-KnowComp/Jev-ToM](https://github.com/HKUST-KnowComp/Jev-ToM) — inferred / evaluation — ⭐0
+- `+` [danielrapi/JevVsLLM](https://github.com/danielrapi/JevVsLLM) — inferred / other — ⭐0
+- `+` [wjnwjnwj/UniJev](https://github.com/wjnwjnwj/UniJev) — inferred / apps-demos — ⭐0
+- `+` [smha1012/jev-27b](https://huggingface.co/smha1012/jev-27b) — observed / research-models — ⭐0
+- `+` [smha1012/jev-9b](https://huggingface.co/smha1012/jev-9b) — observed / research-models — ⭐0
