@@ -4641,3 +4641,22 @@
 - `+` [forrestneo/jev-sim](https://github.com/forrestneo/jev-sim) — inferred / agent-tooling — ⭐0
 - `+` [aatifahmad123/jev-llm-routing](https://github.com/aatifahmad123/jev-llm-routing) — inferred / routing-guardrails — ⭐0
 - …另有 6 条新增
+
+## 2026-10-14T20:43:16+08:00
+- 收录总数 **789**；本次更新新增 **16**
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐9
+- `+` [RealHacker/jeveval](https://github.com/RealHacker/jeveval) — unverified / evaluation — ⭐4
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [0utKast/Jev_AI](https://github.com/0utKast/Jev_AI) — inferred / research-models — ⭐0
+- `+` [fan56/dsh-jev-core](https://github.com/fan56/dsh-jev-core) — inferred / community-sdk — ⭐0
+- `+` [soderlind/jev-mail-triage](https://github.com/soderlind/jev-mail-triage) — inferred / routing-guardrails — ⭐0
+- `+` [snowd-zk/grill-me-jev](https://github.com/snowd-zk/grill-me-jev) — inferred / other — ⭐0
+- `+` [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) — inferred / other — ⭐0
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [japorto100/prime-typesafe-jev](https://github.com/japorto100/prime-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [stube123890-hue/jev-decision-lab](https://github.com/stube123890-hue/jev-decision-lab) — inferred / other — ⭐0
+- `+` [rachit6105/jev-lite](https://github.com/rachit6105/jev-lite) — inferred / other — ⭐0
+- `+` [senna-lang/jev-repro](https://github.com/senna-lang/jev-repro) — inferred / research-models — ⭐0
+- `+` [caocongfeng/Search_Jev_Anon](https://github.com/caocongfeng/Search_Jev_Anon) — inferred / research-models — ⭐0
+- `+` [aioutfitters/JEV-35B-AWQ-INT4-W4A8](https://huggingface.co/aioutfitters/JEV-35B-AWQ-INT4-W4A8) — observed / research-models — ⭐0
