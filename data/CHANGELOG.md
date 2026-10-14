@@ -4660,3 +4660,19 @@
 - `+` [senna-lang/jev-repro](https://github.com/senna-lang/jev-repro) — inferred / research-models — ⭐0
 - `+` [caocongfeng/Search_Jev_Anon](https://github.com/caocongfeng/Search_Jev_Anon) — inferred / research-models — ⭐0
 - `+` [aioutfitters/JEV-35B-AWQ-INT4-W4A8](https://huggingface.co/aioutfitters/JEV-35B-AWQ-INT4-W4A8) — observed / research-models — ⭐0
+
+## 2026-10-14T22:50:15+08:00
+- 收录总数 **792**；本次更新新增 **13**
+- `+` [thinkany-ai/autojev](https://github.com/thinkany-ai/autojev) — inferred / agent-tooling — ⭐87
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [What I Use Jev For](https://news.ycombinator.com/item?id=50088315) — observed / media-discussions — ⭐2
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [xz-dev/pi-llm-as-jev](https://github.com/xz-dev/pi-llm-as-jev) — inferred / other — ⭐1
+- `+` [maksym771/jev-factcheck](https://github.com/maksym771/jev-factcheck) — inferred / agent-tooling — ⭐1
+- `+` [EdgarTapara/clasificador-noticias-jev](https://github.com/EdgarTapara/clasificador-noticias-jev) — inferred / other — ⭐0
+- `+` [GorOhanyan/jev-offload-mcp](https://github.com/GorOhanyan/jev-offload-mcp) — inferred / agent-tooling — ⭐0
+- `+` [rumple/jev-snake](https://github.com/rumple/jev-snake) — inferred / apps-demos — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
