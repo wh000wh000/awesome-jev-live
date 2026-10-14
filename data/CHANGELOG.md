@@ -4612,3 +4612,32 @@
 - `+` [wjnwjnwj/UniJev](https://github.com/wjnwjnwj/UniJev) — inferred / apps-demos — ⭐0
 - `+` [smha1012/jev-27b](https://huggingface.co/smha1012/jev-27b) — observed / research-models — ⭐0
 - `+` [smha1012/jev-9b](https://huggingface.co/smha1012/jev-9b) — observed / research-models — ⭐0
+
+## 2026-10-14T18:34:00+08:00
+- 收录总数 **788**；本次更新新增 **31**
+- `+` [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) — observed / community-sdk — ⭐118
+- `+` [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) — observed / other — ⭐50
+- `+` [apolinario/decision-index](https://github.com/apolinario/decision-index) — unverified / evaluation — ⭐50
+- `+` [Using Jev for E2E tests in non-deterministic flows](https://news.ycombinator.com/item?id=50083881) — observed / media-discussions — ⭐5
+- `+` [eachann1024/pi-jev-reply](https://github.com/eachann1024/pi-jev-reply) — inferred / apps-demos — ⭐3
+- `+` [tinypi-extension/tinysubagent](https://github.com/tinypi-extension/tinysubagent) — inferred / agent-tooling — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [sunyasheng/JevGPT](https://github.com/sunyasheng/JevGPT) — inferred / research-models — ⭐2
+- `+` [SupunBasnayaka/openrouter-jev-candidate-classifier](https://github.com/SupunBasnayaka/openrouter-jev-candidate-classifier) — observed / routing-guardrails — ⭐0
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐0
+- `+` [foteev/open-webui-router-jev-boilerplate](https://github.com/foteev/open-webui-router-jev-boilerplate) — inferred / agent-tooling — ⭐0
+- `+` [taifoon-io/jev](https://github.com/taifoon-io/jev) — inferred / agent-tooling — ⭐0
+- `+` [kevinCodeSavvy/jev-model-router](https://github.com/kevinCodeSavvy/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [kallurayaankit/jev-content-mod](https://github.com/kallurayaankit/jev-content-mod) — inferred / routing-guardrails — ⭐0
+- `+` [Trevorton27/jev-ops](https://github.com/Trevorton27/jev-ops) — inferred / agent-tooling — ⭐0
+- `+` [raj8525/universal-jev](https://github.com/raj8525/universal-jev) — inferred / agent-tooling — ⭐0
+- `+` [sutan13/claude-jev-router](https://github.com/sutan13/claude-jev-router) — inferred / agent-tooling — ⭐0
+- `+` [lytang63/OmniMed-Jev](https://github.com/lytang63/OmniMed-Jev) — inferred / evaluation — ⭐0
+- `+` [j1s4nn/jev-adaptive-granularity-WM](https://github.com/j1s4nn/jev-adaptive-granularity-WM) — inferred / routing-guardrails — ⭐0
+- `+` [tnromy/evaluating-system-one-models-for-indonesian-regional-languages](https://github.com/tnromy/evaluating-system-one-models-for-indonesian-regional-languages) — observed / agent-tooling — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [eulrich101618/openclaw-plugin-openrouter-jev](https://github.com/eulrich101618/openclaw-plugin-openrouter-jev) — inferred / agent-tooling — ⭐0
+- `+` [JR91387/preen-thunderbird-jev-addon](https://github.com/JR91387/preen-thunderbird-jev-addon) — inferred / evaluation — ⭐0
+- `+` [forrestneo/jev-sim](https://github.com/forrestneo/jev-sim) — inferred / agent-tooling — ⭐0
+- `+` [aatifahmad123/jev-llm-routing](https://github.com/aatifahmad123/jev-llm-routing) — inferred / routing-guardrails — ⭐0
+- …另有 6 条新增
