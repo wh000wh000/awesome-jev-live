@@ -4728,3 +4728,21 @@
 - `+` [DarkCascade/jev-fixer-sandbox](https://github.com/DarkCascade/jev-fixer-sandbox) — inferred / other — ⭐0
 - `+` [mdimamhosen/jev](https://github.com/mdimamhosen/jev) — inferred / community-sdk — ⭐0
 - `+` [n333k0/taste-index-typesafe](https://github.com/n333k0/taste-index-typesafe) — observed / agent-tooling — ⭐0
+
+## 2026-10-15T07:18:44+08:00
+- 收录总数 **775**；本次更新新增 **15**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐10
+- `+` [tiffygk/jev-mode](https://github.com/tiffygk/jev-mode) — observed / agent-tooling — ⭐7
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [3clyp50/a0-typesafe-ai](https://github.com/3clyp50/a0-typesafe-ai) — unverified / agent-tooling — ⭐5
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐3
+- `+` [zazencodes/jev-intro-to-system-one-ai](https://github.com/zazencodes/jev-intro-to-system-one-ai) — inferred / other — ⭐1
+- `+` [armandodollia/ha-jev-voice-pipeline](https://github.com/armandodollia/ha-jev-voice-pipeline) — inferred / apps-demos — ⭐1
+- `+` [RINNECODER/jev-box-study](https://github.com/RINNECODER/jev-box-study) — observed / other — ⭐0
+- `+` [audichuang/jev-skill-suggestion](https://github.com/audichuang/jev-skill-suggestion) — inferred / agent-tooling — ⭐0
+- `+` [PabloB07/JevMC](https://github.com/PabloB07/JevMC) — observed / community-sdk — ⭐0
+- `+` [chalkychalk42/jev](https://github.com/chalkychalk42/jev) — inferred / agent-tooling — ⭐0
+- `+` [ronibandini/JevPoet](https://github.com/ronibandini/JevPoet) — inferred / other — ⭐0
+- `+` [meagerfindings/swamp-jev-agent-tools](https://github.com/meagerfindings/swamp-jev-agent-tools) — inferred / agent-tooling — ⭐0
+- `+` [Covre81/jev-router](https://github.com/Covre81/jev-router) — inferred / agent-tooling — ⭐0
