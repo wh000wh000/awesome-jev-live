@@ -4826,3 +4826,32 @@
 - `+` [juzhp/jev-seo](https://github.com/juzhp/jev-seo) — inferred / other — ⭐0
 - `+` [flucas96/demo_jev](https://github.com/flucas96/demo_jev) — inferred / routing-guardrails — ⭐0
 - `+` [OOD 校准审计："Jev 知道自己不知道吗？"](https://github.com/scienthoon/jev-ood-calibration) — observed / media-discussions — ⭐0
+
+## 2026-10-15T20:01:52+08:00
+- 收录总数 **776**；本次更新新增 **92**
+- `+` [0814wdwd/solo_jev](https://github.com/0814wdwd/solo_jev) — inferred / other — ⭐300
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [caiovicentino/jev-risk-check-provider](https://github.com/caiovicentino/jev-risk-check-provider) — inferred / agent-tooling — ⭐13
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐6
+- `+` [3clyp50/a0-typesafe-ai](https://github.com/3clyp50/a0-typesafe-ai) — unverified / agent-tooling — ⭐5
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [What Is Jev Good For?](https://news.ycombinator.com/item?id=50101776) — observed / media-discussions — ⭐4
+- `+` [ishida-lab/ProbabilityBench](https://github.com/ishida-lab/ProbabilityBench) — inferred / evaluation — ⭐3
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐2
+- `+` [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) — inferred / apps-demos — ⭐1
+- `+` [CMaintz/jev-dotnet](https://github.com/CMaintz/jev-dotnet) — observed / community-sdk — ⭐1
+- `+` [ctaxnagomi/instruct-jev](https://github.com/ctaxnagomi/instruct-jev) — inferred / agent-tooling — ⭐1
+- `+` [JawzoD3TH/JevApi](https://github.com/JawzoD3TH/JevApi) — inferred / evaluation — ⭐1
+- `+` [dheeraj00001/jev-open-source](https://github.com/dheeraj00001/jev-open-source) — inferred / evaluation — ⭐1
+- `+` [Lasimeri/Mechanical-Jev](https://github.com/Lasimeri/Mechanical-Jev) — inferred / community-sdk — ⭐1
+- `+` [Ashadeepa/typesafe-showcase](https://github.com/Ashadeepa/typesafe-showcase) — observed / apps-demos — ⭐1
+- `+` [Jev27B/JEV-27B-Desktop](https://github.com/Jev27B/JEV-27B-Desktop) — observed / agent-tooling — ⭐1
+- `+` [jev-ai-desktop/Jev-AI-Desktop](https://github.com/jev-ai-desktop/Jev-AI-Desktop) — observed / agent-tooling — ⭐1
+- `+` [Solizardking/clawd-jev-trading-machine](https://github.com/Solizardking/clawd-jev-trading-machine) — observed / research-models — ⭐1
+- `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐1
+- `+` [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) — inferred / routing-guardrails — ⭐1
+- `+` [FavioVazquez/jev-1.14-eval](https://github.com/FavioVazquez/jev-1.14-eval) — observed / routing-guardrails — ⭐0
+- `+` [DHRU-KHAKHARIYA/jev-city](https://github.com/DHRU-KHAKHARIYA/jev-city) — inferred / other — ⭐0
+- `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
+- …另有 67 条新增
