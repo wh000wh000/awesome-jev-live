@@ -4855,3 +4855,32 @@
 - `+` [DHRU-KHAKHARIYA/jev-city](https://github.com/DHRU-KHAKHARIYA/jev-city) — inferred / other — ⭐0
 - `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
 - …另有 67 条新增
+
+## 2026-10-16T02:35:22+08:00
+- 收录总数 **788**；本次更新新增 **73**
+- `+` [thruwire/foreman](https://github.com/thruwire/foreman) — inferred / agent-tooling — ⭐760
+- `+` [zwliJay/jev-forge](https://github.com/zwliJay/jev-forge) — inferred / evaluation — ⭐164
+- `+` [Jev Meets the Trolley Problem](https://news.ycombinator.com/item?id=50106023) — observed / media-discussions — ⭐34
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐20
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [VoltAgent/typesafe-jev-ecosystem](https://github.com/VoltAgent/typesafe-jev-ecosystem) — inferred / community-sdk — ⭐7
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐7
+- `+` [typakon4/jev-layer](https://github.com/typakon4/jev-layer) — inferred / community-sdk — ⭐7
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐7
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐6
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐5
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [bydeng01/scientific-decision-eval](https://github.com/bydeng01/scientific-decision-eval) — observed / evaluation — ⭐4
+- `+` [Singularity-Compute/super-decider](https://github.com/Singularity-Compute/super-decider) — unverified / other — ⭐4
+- `+` [DelvisorLabs/Pyro](https://github.com/DelvisorLabs/Pyro) — observed / routing-guardrails — ⭐4
+- `+` [ajayk/jev-go-sdk](https://github.com/ajayk/jev-go-sdk) — inferred / community-sdk — ⭐3
+- `+` [jevplays-games/jev-factorio-agent](https://github.com/jevplays-games/jev-factorio-agent) — inferred / agent-tooling — ⭐3
+- `+` [rlfordon/could-jev](https://github.com/rlfordon/could-jev) — inferred / agent-tooling — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [agentculture/jev-factory](https://github.com/agentculture/jev-factory) — inferred / other — ⭐2
+- `+` [ai-ecoverse/jev-omni.js](https://github.com/ai-ecoverse/jev-omni.js) — inferred / apps-demos — ⭐2
+- `+` [Camellia86/Jev-for-MoR-and-MoE](https://github.com/Camellia86/Jev-for-MoR-and-MoE) — inferred / routing-guardrails — ⭐2
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [celolopes/jev-dev-harness](https://github.com/celolopes/jev-dev-harness) — inferred / agent-tooling — ⭐1
+- …另有 48 条新增
