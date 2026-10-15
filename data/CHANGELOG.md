@@ -4808,3 +4808,21 @@
 - `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
 - `+` [samir-sayyed/sol-jev-android-ui-testing](https://github.com/samir-sayyed/sol-jev-android-ui-testing) — inferred / agent-tooling — ⭐0
 - `+` [tibor-src/jev-site](https://github.com/tibor-src/jev-site) — inferred / other — ⭐0
+
+## 2026-10-15T17:54:22+08:00
+- 收录总数 **698**；本次更新新增 **15**
+- `+` [ticofab/scala-jev-sdk](https://github.com/ticofab/scala-jev-sdk) — inferred / community-sdk — ⭐11
+- `+` [NodarDavituri/fast-compact](https://github.com/NodarDavituri/fast-compact) — inferred / agent-tooling — ⭐6
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [ingebyd/fast-jev-compaction-openrouter](https://github.com/ingebyd/fast-jev-compaction-openrouter) — inferred / routing-guardrails — ⭐2
+- `+` [igrejaborabora/lus222-jev-challenge](https://github.com/igrejaborabora/lus222-jev-challenge) — inferred / routing-guardrails — ⭐1
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [ericosg/doj](https://github.com/ericosg/doj) — observed / apps-demos — ⭐0
+- `+` [nanagb/jev-frame-engineering](https://github.com/nanagb/jev-frame-engineering) — inferred / community-sdk — ⭐0
+- `+` [FairyFox5700/jev-product-matcher](https://github.com/FairyFox5700/jev-product-matcher) — inferred / apps-demos — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [snowconed/jev_gpt_voice_chat_jp](https://github.com/snowconed/jev_gpt_voice_chat_jp) — inferred / apps-demos — ⭐0
+- `+` [amir9480/JevCheck](https://github.com/amir9480/JevCheck) — inferred / evaluation — ⭐0
+- `+` [juzhp/jev-seo](https://github.com/juzhp/jev-seo) — inferred / other — ⭐0
+- `+` [flucas96/demo_jev](https://github.com/flucas96/demo_jev) — inferred / routing-guardrails — ⭐0
+- `+` [OOD 校准审计："Jev 知道自己不知道吗？"](https://github.com/scienthoon/jev-ood-calibration) — observed / media-discussions — ⭐0
