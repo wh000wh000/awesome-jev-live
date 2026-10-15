@@ -4789,3 +4789,22 @@
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
 - `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
 - …另有 5 条新增
+
+## 2026-10-15T15:42:22+08:00
+- 收录总数 **775**；本次更新新增 **16**
+- `+` [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) — inferred / community-sdk — ⭐278
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / agent-tooling — ⭐157
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐87
+- `+` [ismaelsoilet/jev-harness](https://github.com/ismaelsoilet/jev-harness) — inferred / agent-tooling — ⭐11
+- `+` [BrendanH18/jev_fsd](https://github.com/BrendanH18/jev_fsd) — inferred / evaluation — ⭐7
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐7
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐4
+- `+` [xingqiux/jev-playground](https://github.com/xingqiux/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [sunilmehta-si/jev-inference-router](https://github.com/sunilmehta-si/jev-inference-router) — inferred / routing-guardrails — ⭐0
+- `+` [pyck-ai/jev-cli](https://github.com/pyck-ai/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [heury/jev](https://github.com/heury/jev) — inferred / other — ⭐0
+- `+` [hiouchiy/open-jev-on-databricks](https://github.com/hiouchiy/open-jev-on-databricks) — inferred / other — ⭐0
+- `+` [LACERBA/jev-chat-windows-hzh-20260928](https://github.com/LACERBA/jev-chat-windows-hzh-20260928) — inferred / other — ⭐0
+- `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
+- `+` [samir-sayyed/sol-jev-android-ui-testing](https://github.com/samir-sayyed/sol-jev-android-ui-testing) — inferred / agent-tooling — ⭐0
+- `+` [tibor-src/jev-site](https://github.com/tibor-src/jev-site) — inferred / other — ⭐0
