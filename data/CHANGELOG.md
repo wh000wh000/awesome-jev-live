@@ -4884,3 +4884,32 @@
 - `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
 - `+` [celolopes/jev-dev-harness](https://github.com/celolopes/jev-dev-harness) — inferred / agent-tooling — ⭐1
 - …另有 48 条新增
+
+## 2026-10-16T04:45:50+08:00
+- 收录总数 **787**；本次更新新增 **27**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐92
+- `+` [itsoltech/basal-rs](https://github.com/itsoltech/basal-rs) — unverified / evaluation — ⭐7
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐2
+- `+` [left0ver/jev-proxy-pool](https://github.com/left0ver/jev-proxy-pool) — inferred / other — ⭐1
+- `+` [hosamn/JEV-Youtube-URL-Classification](https://github.com/hosamn/JEV-Youtube-URL-Classification) — inferred / evaluation — ⭐1
+- `+` [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) — inferred / evaluation — ⭐1
+- `+` [audichuang/jev-skill-suggestion](https://github.com/audichuang/jev-skill-suggestion) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) — inferred / other — ⭐0
+- `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
+- `+` [kaivalpatel6350/jev-docs-agent](https://github.com/kaivalpatel6350/jev-docs-agent) — observed / agent-tooling — ⭐0
+- `+` [Cook58010/building-with-typesafe-jev](https://github.com/Cook58010/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [RadRebelSam/jev-decision-lab](https://github.com/RadRebelSam/jev-decision-lab) — inferred / evaluation — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [vilinski/jev-benchmarks](https://github.com/vilinski/jev-benchmarks) — inferred / evaluation — ⭐0
+- `+` [gbesse/roblox-jev-studio](https://github.com/gbesse/roblox-jev-studio) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-screen](https://github.com/gbesse/jev-screen) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-carbone-factor-fit](https://github.com/gbesse/jev-carbone-factor-fit) — inferred / other — ⭐0
+- `+` [gbesse/jev-rerank-server](https://github.com/gbesse/jev-rerank-server) — inferred / other — ⭐0
+- `+` [achrafElFaiq/jev-controls-your-mac](https://github.com/achrafElFaiq/jev-controls-your-mac) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-pii](https://github.com/gbesse/jev-pii) — inferred / other — ⭐0
+- `+` [gbesse/otel-jev-log-signals](https://github.com/gbesse/otel-jev-log-signals) — inferred / other — ⭐0
+- `+` [gbesse/jev-naf25-review](https://github.com/gbesse/jev-naf25-review) — inferred / other — ⭐0
+- `+` [BowmanStephen/jev-stage-a-explainer](https://github.com/BowmanStephen/jev-stage-a-explainer) — inferred / evaluation — ⭐0
+- …另有 2 条新增
