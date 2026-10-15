@@ -4913,3 +4913,32 @@
 - `+` [gbesse/jev-naf25-review](https://github.com/gbesse/jev-naf25-review) — inferred / other — ⭐0
 - `+` [BowmanStephen/jev-stage-a-explainer](https://github.com/BowmanStephen/jev-stage-a-explainer) — inferred / evaluation — ⭐0
 - …另有 2 条新增
+
+## 2026-10-16T06:55:05+08:00
+- 收录总数 **719**；本次更新新增 **27**
+- `+` [grounded-ai/grounded_ai](https://github.com/grounded-ai/grounded_ai) — inferred / agent-tooling — ⭐71
+- `+` [AIAnytime/jev-crash-course](https://github.com/AIAnytime/jev-crash-course) — inferred / other — ⭐16
+- `+` [MoeclubM/PlayJev](https://github.com/MoeclubM/PlayJev) — inferred / apps-demos — ⭐8
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [frodi-karlsson/onesie](https://github.com/frodi-karlsson/onesie) — observed / community-sdk — ⭐2
+- `+` [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) — inferred / community-sdk — ⭐1
+- `+` [hellolitebox/litebox-inbox-jev](https://github.com/hellolitebox/litebox-inbox-jev) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/strapi-plugin-jev-review](https://github.com/gbesse/strapi-plugin-jev-review) — inferred / agent-tooling — ⭐0
+- `+` [harutogregory58/Jev-Mem](https://github.com/harutogregory58/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/temporal-jev-decisions](https://github.com/gbesse/temporal-jev-decisions) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-mistral-document-bench-fr](https://github.com/gbesse/jev-mistral-document-bench-fr) — inferred / other — ⭐0
+- `+` [gbesse/camunda-jev-connector](https://github.com/gbesse/camunda-jev-connector) — inferred / other — ⭐0
+- `+` [gbesse/jev-edge](https://github.com/gbesse/jev-edge) — inferred / evaluation — ⭐0
+- `+` [eligrip/computer-guidance-with-jev](https://github.com/eligrip/computer-guidance-with-jev) — inferred / apps-demos — ⭐0
+- `+` [aviz85/wheres-waldo-jev](https://github.com/aviz85/wheres-waldo-jev) — observed / evaluation — ⭐0
+- `+` [gbesse/wordpress-jev-rules](https://github.com/gbesse/wordpress-jev-rules) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/raycast-jev-clipboard](https://github.com/gbesse/raycast-jev-clipboard) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/jev-sentinel](https://github.com/gbesse/jev-sentinel) — inferred / other — ⭐0
+- `+` [gbesse/jev-roast](https://github.com/gbesse/jev-roast) — inferred / evaluation — ⭐0
+- `+` [gbesse/jev-premiere-markers](https://github.com/gbesse/jev-premiere-markers) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-hemicycle](https://github.com/gbesse/jev-hemicycle) — inferred / other — ⭐0
+- `+` [gbesse/jev-fingerprint](https://github.com/gbesse/jev-fingerprint) — inferred / other — ⭐0
+- `+` [gbesse/figma-jev-review](https://github.com/gbesse/figma-jev-review) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-crowdsim](https://github.com/gbesse/jev-crowdsim) — inferred / research-models — ⭐0
+- `+` [gbesse/jev-codebook](https://github.com/gbesse/jev-codebook) — inferred / evaluation — ⭐0
+- …另有 2 条新增
