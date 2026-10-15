@@ -4746,3 +4746,17 @@
 - `+` [ronibandini/JevPoet](https://github.com/ronibandini/JevPoet) — inferred / other — ⭐0
 - `+` [meagerfindings/swamp-jev-agent-tools](https://github.com/meagerfindings/swamp-jev-agent-tools) — inferred / agent-tooling — ⭐0
 - `+` [Covre81/jev-router](https://github.com/Covre81/jev-router) — inferred / agent-tooling — ⭐0
+
+## 2026-10-15T09:26:28+08:00
+- 收录总数 **771**；本次更新新增 **11**
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐29
+- `+` [waddle-zoo/signal-weave](https://github.com/waddle-zoo/signal-weave) — unverified / other — ⭐4
+- `+` [jasonduncan/semantic-operators](https://github.com/jasonduncan/semantic-operators) — observed / community-sdk — ⭐1
+- `+` [samuelyossef/jev-openfast](https://github.com/samuelyossef/jev-openfast) — inferred / agent-tooling — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [DakePeng/Bonsai-JEV](https://github.com/DakePeng/Bonsai-JEV) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [kinfey/jev-ghc-router](https://github.com/kinfey/jev-ghc-router) — inferred / community-sdk — ⭐0
+- `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
+- `+` [alejandrofrank/jev-inbox](https://github.com/alejandrofrank/jev-inbox) — inferred / community-sdk — ⭐0
+- `+` [dakebakery/Bonsai-JEV](https://huggingface.co/dakebakery/Bonsai-JEV) — observed / research-models — ⭐0
