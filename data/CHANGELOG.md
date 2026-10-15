@@ -4760,3 +4760,32 @@
 - `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
 - `+` [alejandrofrank/jev-inbox](https://github.com/alejandrofrank/jev-inbox) — inferred / community-sdk — ⭐0
 - `+` [dakebakery/Bonsai-JEV](https://huggingface.co/dakebakery/Bonsai-JEV) — observed / research-models — ⭐0
+
+## 2026-10-15T13:33:43+08:00
+- 收录总数 **777**；本次更新新增 **30**
+- `+` [dongxinsuperman/jev-phone](https://github.com/dongxinsuperman/jev-phone) — inferred / community-sdk — ⭐7
+- `+` [Yaxin9Luo/spending-effort-with-jev](https://github.com/Yaxin9Luo/spending-effort-with-jev) — inferred / agent-tooling — ⭐7
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — unverified / agent-tooling — ⭐7
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [itsadrianxv/jev-quant](https://github.com/itsadrianxv/jev-quant) — inferred / apps-demos — ⭐2
+- `+` [Show HN: I Built a GIF Decider with Jev](https://news.ycombinator.com/item?id=49817371) — observed / media-discussions — ⭐2
+- `+` [metrox-eth/moss-jev](https://github.com/metrox-eth/moss-jev) — inferred / apps-demos — ⭐1
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐1
+- `+` [bhcbhc/Jev-Uno-Decision](https://github.com/bhcbhc/Jev-Uno-Decision) — inferred / apps-demos — ⭐1
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [guigetelina/claude-jev-codex](https://github.com/guigetelina/claude-jev-codex) — inferred / community-sdk — ⭐1
+- `+` [kkdev92/jev-dotnet](https://github.com/kkdev92/jev-dotnet) — inferred / community-sdk — ⭐0
+- `+` [stern9/jev-bench](https://github.com/stern9/jev-bench) — observed / agent-tooling — ⭐0
+- `+` [thiago-lage/jev-claude](https://github.com/thiago-lage/jev-claude) — inferred / agent-tooling — ⭐0
+- `+` [jmurray10/jev_naics](https://github.com/jmurray10/jev_naics) — inferred / community-sdk — ⭐0
+- `+` [etsabary/jev-1.14-comparison-benchmark](https://github.com/etsabary/jev-1.14-comparison-benchmark) — observed / evaluation — ⭐0
+- `+` [Vaskoor/fake-news-jev](https://github.com/Vaskoor/fake-news-jev) — inferred / evaluation — ⭐0
+- `+` [gm2211/jev-polls](https://github.com/gm2211/jev-polls) — inferred / apps-demos — ⭐0
+- `+` [mumit/Jev-incident-triage-experiments](https://github.com/mumit/Jev-incident-triage-experiments) — inferred / routing-guardrails — ⭐0
+- `+` [lballaty/Alt-JEV-LABs](https://github.com/lballaty/Alt-JEV-LABs) — inferred / other — ⭐0
+- `+` [m0sshyy/moss-Personal-Chatbot-using-Jev-](https://github.com/m0sshyy/moss-Personal-Chatbot-using-Jev-) — inferred / community-sdk — ⭐0
+- `+` [USHIKUNDESUYO/jev-kaikei-free](https://github.com/USHIKUNDESUYO/jev-kaikei-free) — inferred / other — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+- `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
+- …另有 5 条新增
