@@ -4942,3 +4942,32 @@
 - `+` [gbesse/jev-crowdsim](https://github.com/gbesse/jev-crowdsim) — inferred / research-models — ⭐0
 - `+` [gbesse/jev-codebook](https://github.com/gbesse/jev-codebook) — inferred / evaluation — ⭐0
 - …另有 2 条新增
+
+## 2026-10-16T09:02:25+08:00
+- 收录总数 **810**；本次更新新增 **104**
+- `+` [rokbenko/quackd](https://github.com/rokbenko/quackd) — unverified / community-sdk — ⭐263
+- `+` [jmagly/aiwg](https://github.com/jmagly/aiwg) — inferred / agent-tooling — ⭐224
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐37
+- `+` [deepdave98/jev-playground](https://github.com/deepdave98/jev-playground) — inferred / agent-tooling — ⭐31
+- `+` [agent-chaperone/agent-chaperone](https://github.com/agent-chaperone/agent-chaperone) — inferred / community-sdk — ⭐22
+- `+` [dirien/jev-router](https://github.com/dirien/jev-router) — inferred / community-sdk — ⭐17
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐12
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐11
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐10
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐6
+- `+` [akitaonrails/jev-docs-benchmarks](https://github.com/akitaonrails/jev-docs-benchmarks) — inferred / evaluation — ⭐6
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐6
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐6
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐5
+- `+` [3clyp50/a0-typesafe-ai](https://github.com/3clyp50/a0-typesafe-ai) — unverified / agent-tooling — ⭐5
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐4
+- `+` [JUNNYOfficial/nano_jev](https://github.com/JUNNYOfficial/nano_jev) — inferred / community-sdk — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [guanghuang/coding-router-jev](https://github.com/guanghuang/coding-router-jev) — inferred / agent-tooling — ⭐2
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐2
+- `+` [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) — inferred / apps-demos — ⭐1
+- …另有 79 条新增
