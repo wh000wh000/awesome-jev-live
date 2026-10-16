@@ -5050,3 +5050,32 @@
 - `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
 - `+` [gyanbhambhani/oss-jev-qwen05-decision-noul-bin](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-noul-bin) — observed / research-models — ⭐0
 - `+` [gyanbhambhani/oss-jev-qwen05-decision-10k](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-10k) — observed / research-models — ⭐0
+
+## 2026-10-16T19:42:50+08:00
+- 收录总数 **793**；本次更新新增 **61**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐100
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐52
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐24
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐12
+- `+` [wonseokjung/connect-tycoon](https://github.com/wonseokjung/connect-tycoon) — inferred / apps-demos — ⭐7
+- `+` [wide3751/sommelier](https://github.com/wide3751/sommelier) — unverified / agent-tooling — ⭐6
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [portlandhodl/jev-cli](https://github.com/portlandhodl/jev-cli) — observed / community-sdk — ⭐2
+- `+` [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) — inferred / agent-tooling — ⭐2
+- `+` [MohibShaikh/jev-skillbench](https://github.com/MohibShaikh/jev-skillbench) — inferred / agent-tooling — ⭐1
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — observed / media-discussions — ⭐1
+- `+` [left0ver/jev-proxy-pool](https://github.com/left0ver/jev-proxy-pool) — inferred / other — ⭐1
+- `+` [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) — inferred / routing-guardrails — ⭐0
+- `+` [hoang982/jev-browser](https://github.com/hoang982/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [GiuliaCosta9680/building-with-typesafe-jev](https://github.com/GiuliaCosta9680/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Barbarad784/building-with-typesafe-jev](https://github.com/Barbarad784/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Flow-Steward/ext-typesafe-ai](https://github.com/Flow-Steward/ext-typesafe-ai) — observed / other — ⭐0
+- `+` [astridm401/building-with-typesafe-jev](https://github.com/astridm401/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [svetlanagrant19505/building-with-typesafe-jev](https://github.com/svetlanagrant19505/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [HelgaFujita08074/jev-browser](https://github.com/HelgaFujita08074/jev-browser) — inferred / community-sdk — ⭐0
+- …另有 36 条新增
