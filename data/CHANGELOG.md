@@ -5104,3 +5104,15 @@
 - `+` [feariangod/jev-apple-checkout](https://github.com/feariangod/jev-apple-checkout) — inferred / agent-tooling — ⭐0
 - `+` [sdivye92/create_jev](https://github.com/sdivye92/create_jev) — inferred / research-models — ⭐0
 - `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
+
+## 2026-10-16T23:59:36+08:00
+- 收录总数 **742**；本次更新新增 **9**
+- `+` [stefafafan/jev](https://github.com/stefafafan/jev) — inferred / community-sdk — ⭐14
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐10
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐7
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — unverified / agent-tooling — ⭐7
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐5
+- `+` [Tommylegen/jev-laya-toolkit](https://github.com/Tommylegen/jev-laya-toolkit) — inferred / apps-demos — ⭐0
+- `+` [xiaohuiyan/awesome-jev-papers](https://github.com/xiaohuiyan/awesome-jev-papers) — inferred / evaluation — ⭐0
+- `+` [thomas-dudoux/s1-auto-router](https://github.com/thomas-dudoux/s1-auto-router) — observed / agent-tooling — ⭐0
+- `+` [abaljeu/jev-mcp](https://github.com/abaljeu/jev-mcp) — inferred / agent-tooling — ⭐0
