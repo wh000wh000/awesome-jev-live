@@ -4995,3 +4995,19 @@
 - `+` [VikashKumar1424/Jev_NewsClassifcation_App](https://github.com/VikashKumar1424/Jev_NewsClassifcation_App) — inferred / apps-demos — ⭐0
 - `+` [XiWenRen/JevTodo](https://github.com/XiWenRen/JevTodo) — inferred / other — ⭐0
 - `+` [corolin/vibrato](https://github.com/corolin/vibrato) — observed / media-discussions — ⭐0
+
+## 2026-10-16T13:20:56+08:00
+- 收录总数 **802**；本次更新新增 **13**
+- `+` [JYeswak/jev_playground](https://github.com/JYeswak/jev_playground) — inferred / agent-tooling — ⭐1
+- `+` [MohibShaikh/jev-skillbench](https://github.com/MohibShaikh/jev-skillbench) — inferred / agent-tooling — ⭐1
+- `+` [zerone-agents/jev-model-router](https://github.com/zerone-agents/jev-model-router) — inferred / community-sdk — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [shamoniuniu/typesafe-jev-ui](https://github.com/shamoniuniu/typesafe-jev-ui) — inferred / apps-demos — ⭐1
+- `+` [ricky94511/jev](https://github.com/ricky94511/jev) — inferred / agent-tooling — ⭐0
+- `+` [seominpapa/sitesee](https://github.com/seominpapa/sitesee) — observed / apps-demos — ⭐0
+- `+` [Marcus-Mok-GH/jev-at-the-switch](https://github.com/Marcus-Mok-GH/jev-at-the-switch) — inferred / apps-demos — ⭐0
+- `+` [kreggscode/jev-trolley-lab](https://github.com/kreggscode/jev-trolley-lab) — inferred / evaluation — ⭐0
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐0
+- `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
+- `+` [giovaniohira/paper-trade-opus-jev](https://github.com/giovaniohira/paper-trade-opus-jev) — inferred / agent-tooling — ⭐0
+- `+` [mcontre4/jev-trader](https://github.com/mcontre4/jev-trader) — inferred / apps-demos — ⭐0
