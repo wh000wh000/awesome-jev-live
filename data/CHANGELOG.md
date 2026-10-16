@@ -5145,3 +5145,25 @@
 - `+` [hiroshitaylor72/Jev-Mem](https://github.com/hiroshitaylor72/Jev-Mem) — inferred / agent-tooling — ⭐0
 - `+` [daraujo85/jev-claude-engine](https://github.com/daraujo85/jev-claude-engine) — inferred / agent-tooling — ⭐0
 - …另有 26 条新增
+
+## 2026-10-17T04:14:50+08:00
+- 收录总数 **785**；本次更新新增 **19**
+- `+` [shiftynick/jev-axi](https://github.com/shiftynick/jev-axi) — inferred / community-sdk — ⭐30
+- `+` [0x7067/claude-jev](https://github.com/0x7067/claude-jev) — inferred / agent-tooling — ⭐25
+- `+` [rhighs/jev-code](https://github.com/rhighs/jev-code) — inferred / community-sdk — ⭐21
+- `+` [0x7067/jev-browse](https://github.com/0x7067/jev-browse) — inferred / apps-demos — ⭐4
+- `+` [1arley/jev-advisor-gateway](https://github.com/1arley/jev-advisor-gateway) — inferred / agent-tooling — ⭐0
+- `+` [AbbasRana001/PolicyJEV](https://github.com/AbbasRana001/PolicyJEV) — inferred / routing-guardrails — ⭐0
+- `+` [topmass/clef-jev-demo](https://github.com/topmass/clef-jev-demo) — inferred / apps-demos — ⭐0
+- `+` [cGreen8820/building-with-typesafe-jev](https://github.com/cGreen8820/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [msharma64431/jev-browser](https://github.com/msharma64431/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Jacquelinek7988/building-with-typesafe-jev](https://github.com/Jacquelinek7988/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [dmitry99540/Jev-Mem](https://github.com/dmitry99540/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [gajaguar/typesafe-cli](https://github.com/gajaguar/typesafe-cli) — observed / community-sdk — ⭐0
+- `+` [etsabary/jev-1.14-comparison-benchmark](https://github.com/etsabary/jev-1.14-comparison-benchmark) — observed / evaluation — ⭐0
+- `+` [etsabary/visual-decision-benchmark](https://github.com/etsabary/visual-decision-benchmark) — observed / evaluation — ⭐0
+- `+` [Vanshika2021/jev-or-nah](https://github.com/Vanshika2021/jev-or-nah) — inferred / agent-tooling — ⭐0
+- `+` [harlanljones/jev-roster-shapes](https://github.com/harlanljones/jev-roster-shapes) — inferred / research-models — ⭐0
+- `+` [Paulo-BatistaFerraz/JevApply](https://github.com/Paulo-BatistaFerraz/JevApply) — inferred / agent-tooling — ⭐0
+- `+` [Ya2001/jev-robotics-consensus](https://github.com/Ya2001/jev-robotics-consensus) — inferred / agent-tooling — ⭐0
+- `+` [pierclgr/ima](https://github.com/pierclgr/ima) — observed / other — ⭐0

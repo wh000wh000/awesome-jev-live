@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-10-17T02:06:52+08:00",
- "total": 786,
- "new_this_tick": 51,
+ "generated_at": "2026-10-17T04:14:50+08:00",
+ "total": 785,
+ "new_this_tick": 19,
  "by_category": {
   "official-sdk": 6,
-  "community-sdk": 143,
+  "community-sdk": 144,
   "agent-tooling": 223,
-  "routing-guardrails": 58,
-  "evaluation": 86,
-  "research-models": 56,
-  "apps-demos": 48,
-  "media-discussions": 87,
-  "other": 79
+  "routing-guardrails": 57,
+  "evaluation": 87,
+  "research-models": 55,
+  "apps-demos": 49,
+  "media-discussions": 86,
+  "other": 78
  },
  "by_evidence": {
   "official": 17,
-  "observed": 190,
-  "inferred": 519,
-  "unverified": 60
+  "observed": 191,
+  "inferred": 518,
+  "unverified": 59
  },
  "by_tier": {
   "official": 6,
-  "community": 780
+  "community": 779
  },
  "by_language": {
-  "Python": 325,
-  "TypeScript": 127,
+  "Python": 328,
+  "TypeScript": 126,
   "JavaScript": 83,
-  "HTML": 31,
-  "Rust": 24,
+  "HTML": 32,
+  "Rust": 22,
   "Go": 15,
-  "Java": 12,
+  "Java": 11,
   "Jupyter": 9,
-  "C#": 9,
+  "C#": 8,
   "Elixir": 5,
   "Swift": 5,
   "PHP": 3,
@@ -52,8 +52,8 @@
   "GDScript": 1,
   "Astro": 1
  },
- "repos": 702,
+ "repos": 701,
  "models": 9,
  "discussions": 26,
- "total_stars": 180989
+ "total_stars": 180990
 }
