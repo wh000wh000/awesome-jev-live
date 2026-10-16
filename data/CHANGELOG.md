@@ -5167,3 +5167,13 @@
 - `+` [Paulo-BatistaFerraz/JevApply](https://github.com/Paulo-BatistaFerraz/JevApply) — inferred / agent-tooling — ⭐0
 - `+` [Ya2001/jev-robotics-consensus](https://github.com/Ya2001/jev-robotics-consensus) — inferred / agent-tooling — ⭐0
 - `+` [pierclgr/ima](https://github.com/pierclgr/ima) — observed / other — ⭐0
+
+## 2026-10-17T06:22:05+08:00
+- 收录总数 **785**；本次更新新增 **7**
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐21
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐12
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐1
+- `+` [Shobhnik13/jev-check](https://github.com/Shobhnik13/jev-check) — inferred / community-sdk — ⭐0
+- `+` [gbolask24/decision-bench](https://github.com/gbolask24/decision-bench) — observed / agent-tooling — ⭐0
+- `+` [sdivye92/create_jev](https://github.com/sdivye92/create_jev) — inferred / research-models — ⭐0
+- `+` [gyanbhambhani/oss-jev-qwen05-decision-noul-v2](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-noul-v2) — observed / research-models — ⭐0
