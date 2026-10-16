@@ -6,8 +6,8 @@
 > grade saying how much was actually verified. Rebuilt every two hours in
 > twenty languages.
 
-Last generated: 2026-10-16T13:23:24+08:00
-Entries: 802
+Last generated: 2026-10-16T15:30:07+08:00
+Entries: 801
 
 ## What Jev is
 
@@ -29,13 +29,13 @@ The grade describes how much was verified, not how good a project is.
 ## Sections
 
 - agent-tooling: 229 entries
-- community-sdk: 137 entries
-- evaluation: 90 entries
-- media-discussions: 86 entries
+- community-sdk: 138 entries
+- evaluation: 88 entries
+- media-discussions: 87 entries
 - other: 83 entries
-- routing-guardrails: 62 entries
-- research-models: 57 entries
-- apps-demos: 51 entries
+- routing-guardrails: 65 entries
+- research-models: 56 entries
+- apps-demos: 48 entries
 - official-sdk: 7 entries
 
 ## Pages

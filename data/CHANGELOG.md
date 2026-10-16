@@ -5011,3 +5011,27 @@
 - `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
 - `+` [giovaniohira/paper-trade-opus-jev](https://github.com/giovaniohira/paper-trade-opus-jev) — inferred / agent-tooling — ⭐0
 - `+` [mcontre4/jev-trader](https://github.com/mcontre4/jev-trader) — inferred / apps-demos — ⭐0
+
+## 2026-10-16T15:28:21+08:00
+- 收录总数 **801**；本次更新新增 **21**
+- `+` [Turning GLM-5.3-Flash into a Jev-like decision model](https://news.ycombinator.com/item?id=49857656) — observed / media-discussions — ⭐138
+- `+` [BeatAPI/awesome-jev](https://github.com/BeatAPI/awesome-jev) — inferred / community-sdk — ⭐69
+- `+` [QCJLchina/Jev-chat-assistant](https://github.com/QCJLchina/Jev-chat-assistant) — inferred / other — ⭐8
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐7
+- `+` [wide3751/sommelier](https://github.com/wide3751/sommelier) — unverified / agent-tooling — ⭐6
+- `+` [Contrastive Language Models: A Fast, Generalizable System One Model](https://news.ycombinator.com/item?id=49848279) — observed / media-discussions — ⭐6
+- `+` [slavabars/decision-cascade](https://github.com/slavabars/decision-cascade) — inferred / routing-guardrails — ⭐3
+- `+` [jkkelley/coq-jev-herdr-plugin](https://github.com/jkkelley/coq-jev-herdr-plugin) — inferred / agent-tooling — ⭐1
+- `+` [MachinesWithThoughts/jev-video-play](https://github.com/MachinesWithThoughts/jev-video-play) — observed / apps-demos — ⭐0
+- `+` [pachelbel23/claude-code-jev](https://github.com/pachelbel23/claude-code-jev) — inferred / community-sdk — ⭐0
+- `+` [shivanathd/jev-playground](https://github.com/shivanathd/jev-playground) — inferred / routing-guardrails — ⭐0
+- `+` [seominpapa/siteeye](https://github.com/seominpapa/siteeye) — observed / apps-demos — ⭐0
+- `+` [IoTone/jevracket](https://github.com/IoTone/jevracket) — observed / community-sdk — ⭐0
+- `+` [Hetgandhi25/jev-decision-studio](https://github.com/Hetgandhi25/jev-decision-studio) — inferred / routing-guardrails — ⭐0
+- `+` [ekazakos/jev-field-guide](https://github.com/ekazakos/jev-field-guide) — inferred / research-models — ⭐0
+- `+` [NamanSoni78/trolley-problem-jev](https://github.com/NamanSoni78/trolley-problem-jev) — inferred / apps-demos — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+- `+` [shivaylamba/jev-model-router-for-coding-tasks-oss](https://github.com/shivaylamba/jev-model-router-for-coding-tasks-oss) — inferred / agent-tooling — ⭐0
+- `+` [kallurayaankit/jev-red-team](https://github.com/kallurayaankit/jev-red-team) — inferred / routing-guardrails — ⭐0
+- `+` [rayopavri/jev-setup](https://github.com/rayopavri/jev-setup) — inferred / agent-tooling — ⭐0
