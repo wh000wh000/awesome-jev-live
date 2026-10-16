@@ -5079,3 +5079,28 @@
 - `+` [svetlanagrant19505/building-with-typesafe-jev](https://github.com/svetlanagrant19505/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
 - `+` [HelgaFujita08074/jev-browser](https://github.com/HelgaFujita08074/jev-browser) — inferred / community-sdk — ⭐0
 - …另有 36 条新增
+
+## 2026-10-16T21:51:33+08:00
+- 收录总数 **789**；本次更新新增 **22**
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐29
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [mrkpatchaa/github-star-classifier-jev](https://github.com/mrkpatchaa/github-star-classifier-jev) — inferred / other — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [olibyte/jev-trader](https://github.com/olibyte/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [AlvianEka/godot-jev](https://github.com/AlvianEka/godot-jev) — inferred / evaluation — ⭐0
+- `+` [hellolitebox/litebox-inbox-jev](https://github.com/hellolitebox/litebox-inbox-jev) — inferred / routing-guardrails — ⭐0
+- `+` [JHXs/pi-jev-control-chrome](https://github.com/JHXs/pi-jev-control-chrome) — inferred / agent-tooling — ⭐0
+- `+` [oChavez8538/jev-browser](https://github.com/oChavez8538/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [markusnakamura56/Jev-Mem](https://github.com/markusnakamura56/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐0
+- `+` [KaylaIoannidis07931/Jev-Mem](https://github.com/KaylaIoannidis07931/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [surak/semantic-routing-llm-plugin](https://github.com/surak/semantic-routing-llm-plugin) — observed / agent-tooling — ⭐0
+- `+` [asudjianto-xml/Jev-Analysis](https://github.com/asudjianto-xml/Jev-Analysis) — inferred / evaluation — ⭐0
+- `+` [apertixsk/jev-edge-inference](https://github.com/apertixsk/jev-edge-inference) — inferred / research-models — ⭐0
+- `+` [greghavens/jev-scope-control](https://github.com/greghavens/jev-scope-control) — inferred / agent-tooling — ⭐0
+- `+` [CiroVilmer/jev-agent-router](https://github.com/CiroVilmer/jev-agent-router) — inferred / agent-tooling — ⭐0
+- `+` [ggonzalezaleman/inbox-jev-site](https://github.com/ggonzalezaleman/inbox-jev-site) — inferred / community-sdk — ⭐0
+- `+` [feariangod/jev-apple-checkout](https://github.com/feariangod/jev-apple-checkout) — inferred / agent-tooling — ⭐0
+- `+` [sdivye92/create_jev](https://github.com/sdivye92/create_jev) — inferred / research-models — ⭐0
+- `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
