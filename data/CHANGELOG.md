@@ -5116,3 +5116,32 @@
 - `+` [xiaohuiyan/awesome-jev-papers](https://github.com/xiaohuiyan/awesome-jev-papers) — inferred / evaluation — ⭐0
 - `+` [thomas-dudoux/s1-auto-router](https://github.com/thomas-dudoux/s1-auto-router) — observed / agent-tooling — ⭐0
 - `+` [abaljeu/jev-mcp](https://github.com/abaljeu/jev-mcp) — inferred / agent-tooling — ⭐0
+
+## 2026-10-17T02:06:52+08:00
+- 收录总数 **786**；本次更新新增 **51**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐101
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐100
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [shashikantdev3/decision-models-lab](https://github.com/shashikantdev3/decision-models-lab) — inferred / agent-tooling — ⭐3
+- `+` [portlandhodl/jev-cli](https://github.com/portlandhodl/jev-cli) — observed / community-sdk — ⭐2
+- `+` [agentculture/jev-factory](https://github.com/agentculture/jev-factory) — inferred / other — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [mrkpatchaa/github-star-classifier-jev](https://github.com/mrkpatchaa/github-star-classifier-jev) — inferred / other — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [ningg/jev-docs-CN](https://github.com/ningg/jev-docs-CN) — inferred / other — ⭐1
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [ForestMars/Will-It-Jev](https://github.com/ForestMars/Will-It-Jev) — inferred / routing-guardrails — ⭐1
+- `+` [xz-dev/pi-llm-as-jev](https://github.com/xz-dev/pi-llm-as-jev) — inferred / other — ⭐1
+- `+` [BenCaunt/jev-box-tracking](https://github.com/BenCaunt/jev-box-tracking) — inferred / routing-guardrails — ⭐0
+- `+` [stkang9409/jev-fast-skills](https://github.com/stkang9409/jev-fast-skills) — inferred / agent-tooling — ⭐0
+- `+` [Jubii100/jev-strict](https://github.com/Jubii100/jev-strict) — inferred / community-sdk — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [eumemic/jev-gibbs](https://github.com/eumemic/jev-gibbs) — inferred / other — ⭐0
+- `+` [hellolitebox/litebox-inbox-jev](https://github.com/hellolitebox/litebox-inbox-jev) — inferred / routing-guardrails — ⭐0
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) — inferred / routing-guardrails — ⭐0
+- `+` [hiroshitaylor72/Jev-Mem](https://github.com/hiroshitaylor72/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [daraujo85/jev-claude-engine](https://github.com/daraujo85/jev-claude-engine) — inferred / agent-tooling — ⭐0
+- …另有 26 条新增
