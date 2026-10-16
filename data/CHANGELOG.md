@@ -5035,3 +5035,18 @@
 - `+` [shivaylamba/jev-model-router-for-coding-tasks-oss](https://github.com/shivaylamba/jev-model-router-for-coding-tasks-oss) — inferred / agent-tooling — ⭐0
 - `+` [kallurayaankit/jev-red-team](https://github.com/kallurayaankit/jev-red-team) — inferred / routing-guardrails — ⭐0
 - `+` [rayopavri/jev-setup](https://github.com/rayopavri/jev-setup) — inferred / agent-tooling — ⭐0
+
+## 2026-10-16T17:36:18+08:00
+- 收录总数 **748**；本次更新新增 **12**
+- `+` [sgyaqing/verdict](https://github.com/sgyaqing/verdict) — observed / evaluation — ⭐13
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐9
+- `+` [lesnolie/magpie-free-gateways](https://github.com/lesnolie/magpie-free-gateways) — unverified / agent-tooling — ⭐6
+- `+` [kataras/jev](https://github.com/kataras/jev) — inferred / community-sdk — ⭐5
+- `+` [Jev is NOT a reranker (but it's close)](https://news.ycombinator.com/item?id=50115347) — observed / media-discussions — ⭐2
+- `+` [ningg/jev-docs-CN](https://github.com/ningg/jev-docs-CN) — inferred / other — ⭐1
+- `+` [nirvam/log-pi](https://github.com/nirvam/log-pi) — observed / other — ⭐0
+- `+` [2426269/ComfyUI-Jev-Decision](https://github.com/2426269/ComfyUI-Jev-Decision) — inferred / agent-tooling — ⭐0
+- `+` [hrubymar10/ask-jev](https://github.com/hrubymar10/ask-jev) — inferred / community-sdk — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [gyanbhambhani/oss-jev-qwen05-decision-noul-bin](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-noul-bin) — observed / research-models — ⭐0
+- `+` [gyanbhambhani/oss-jev-qwen05-decision-10k](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-10k) — observed / research-models — ⭐0
