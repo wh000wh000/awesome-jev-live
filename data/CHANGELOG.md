@@ -4971,3 +4971,27 @@
 - `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐2
 - `+` [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) — inferred / apps-demos — ⭐1
 - …另有 79 条新增
+
+## 2026-10-16T11:12:49+08:00
+- 收录总数 **808**；本次更新新增 **21**
+- `+` [nylon-memory/NylonME](https://github.com/nylon-memory/NylonME) — unverified / community-sdk — ⭐52
+- `+` [bl888m/jev-bot](https://github.com/bl888m/jev-bot) — inferred / research-models — ⭐17
+- `+` [keta1930/what-the-jev](https://github.com/keta1930/what-the-jev) — inferred / evaluation — ⭐10
+- `+` [ufec/jev-block-android-ad](https://github.com/ufec/jev-block-android-ad) — inferred / routing-guardrails — ⭐7
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [AwesomeJev/AwesomeJev.github.io](https://github.com/AwesomeJev/AwesomeJev.github.io) — inferred / agent-tooling — ⭐0
+- `+` [reacher-z/Awesome-Jev](https://github.com/reacher-z/Awesome-Jev) — inferred / agent-tooling — ⭐0
+- `+` [GabrielCoelhoCruz/jev-scanr](https://github.com/GabrielCoelhoCruz/jev-scanr) — inferred / community-sdk — ⭐0
+- `+` [greenharborlabs/spring-jev-lab](https://github.com/greenharborlabs/spring-jev-lab) — inferred / community-sdk — ⭐0
+- `+` [AbbasRana001/PolicyJEV](https://github.com/AbbasRana001/PolicyJEV) — inferred / routing-guardrails — ⭐0
+- `+` [jhochenbaum/rlm-jev](https://github.com/jhochenbaum/rlm-jev) — inferred / evaluation — ⭐0
+- `+` [HillPhelmuth/JevDotNet](https://github.com/HillPhelmuth/JevDotNet) — inferred / community-sdk — ⭐0
+- `+` [Bobbywasabi31/jev-paper-test](https://github.com/Bobbywasabi31/jev-paper-test) — inferred / evaluation — ⭐0
+- `+` [dbehelitate/kubectl.guardrails--promptfoo--jev](https://github.com/dbehelitate/kubectl.guardrails--promptfoo--jev) — inferred / community-sdk — ⭐0
+- `+` [GabrielCoelhoCruz/jev-skill-router](https://github.com/GabrielCoelhoCruz/jev-skill-router) — inferred / agent-tooling — ⭐0
+- `+` [ChenstarMr/jev-chat-windows](https://github.com/ChenstarMr/jev-chat-windows) — inferred / other — ⭐0
+- `+` [m0sshyy/moss-Personal-Chatbot-using-Jev-](https://github.com/m0sshyy/moss-Personal-Chatbot-using-Jev-) — inferred / community-sdk — ⭐0
+- `+` [VikashKumar1424/Jev_NewsClassifcation_App](https://github.com/VikashKumar1424/Jev_NewsClassifcation_App) — inferred / apps-demos — ⭐0
+- `+` [XiWenRen/JevTodo](https://github.com/XiWenRen/JevTodo) — inferred / other — ⭐0
+- `+` [corolin/vibrato](https://github.com/corolin/vibrato) — observed / media-discussions — ⭐0
