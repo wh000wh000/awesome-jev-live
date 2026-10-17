@@ -5219,3 +5219,27 @@
 - `+` [what-my-names/operit-jev-bundle](https://github.com/what-my-names/operit-jev-bundle) — inferred / agent-tooling — ⭐0
 - `+` [SonPhatTranDeveloper/jev-ticket-router](https://github.com/SonPhatTranDeveloper/jev-ticket-router) — inferred / routing-guardrails — ⭐0
 - `+` [jpferrierjr/CustomJEV](https://github.com/jpferrierjr/CustomJEV) — inferred / other — ⭐0
+
+## 2026-10-17T14:42:56+08:00
+- 收录总数 **791**；本次更新新增 **21**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [ronitgupta138/local-jev](https://github.com/ronitgupta138/local-jev) — inferred / other — ⭐2
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- `+` [QI-seven33/dsh-jev-mode](https://github.com/QI-seven33/dsh-jev-mode) — inferred / agent-tooling — ⭐1
+- `+` [wjnwjnwj/UniJev](https://github.com/wjnwjnwj/UniJev) — inferred / apps-demos — ⭐1
+- `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
+- `+` [fWilliams252/jev-browser](https://github.com/fWilliams252/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Garnier4743/jev-browser](https://github.com/Garnier4743/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [mikhailov98/jev-browser](https://github.com/mikhailov98/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Riya07603/building-with-typesafe-jev](https://github.com/Riya07603/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [Ana9300/Jev-Mem](https://github.com/Ana9300/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [andreban/jev-classify-knn-comparison](https://github.com/andreban/jev-classify-knn-comparison) — inferred / evaluation — ⭐0
+- `+` [xxynet/kira-ai-plugin-jev](https://github.com/xxynet/kira-ai-plugin-jev) — inferred / agent-tooling — ⭐0
+- `+` [Fedorov40484/jev-social](https://github.com/Fedorov40484/jev-social) — inferred / community-sdk — ⭐0
+- `+` [bhill34/jev-social](https://github.com/bhill34/jev-social) — inferred / community-sdk — ⭐0
+- `+` [ewalundberg576/jev-social](https://github.com/ewalundberg576/jev-social) — inferred / community-sdk — ⭐0
+- `+` [Fransson887/jev-social](https://github.com/Fransson887/jev-social) — inferred / community-sdk — ⭐0
+- `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
