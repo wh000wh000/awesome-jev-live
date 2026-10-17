@@ -5262,3 +5262,32 @@
 - `+` [Jose-Sabater/jev-ouija](https://github.com/Jose-Sabater/jev-ouija) — inferred / other — ⭐0
 - `+` [ChenstarMr/jev-chat-windows](https://github.com/ChenstarMr/jev-chat-windows) — inferred / other — ⭐0
 - `+` [Gabriel4078/jev-social](https://github.com/Gabriel4078/jev-social) — inferred / community-sdk — ⭐0
+
+## 2026-10-17T19:01:03+08:00
+- 收录总数 **782**；本次更新新增 **32**
+- `+` [TrustifAI/typed_evals](https://github.com/TrustifAI/typed_evals) — observed / agent-tooling — ⭐16
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐6
+- `+` [eachann1024/pi-jev-reply](https://github.com/eachann1024/pi-jev-reply) — inferred / apps-demos — ⭐3
+- `+` [ronitgupta138/Local-Jev](https://github.com/ronitgupta138/Local-Jev) — inferred / other — ⭐2
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐1
+- `+` [kevinCodeSavvy/jev-model-router](https://github.com/kevinCodeSavvy/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [borja-cmd/codex-jev-turbo](https://github.com/borja-cmd/codex-jev-turbo) — inferred / agent-tooling — ⭐0
+- `+` [BusraKilic42/jev-browser](https://github.com/BusraKilic42/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [sabinelin7674/jev-browser](https://github.com/sabinelin7674/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [JuliaOwens06112/building-with-typesafe-jev](https://github.com/JuliaOwens06112/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [davideozkan/building-with-typesafe-jev](https://github.com/davideozkan/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Lorenzok353/building-with-typesafe-jev](https://github.com/Lorenzok353/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [pGutierrez1222/jev-browser](https://github.com/pGutierrez1222/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [StefanBakker472/jev-browser](https://github.com/StefanBakker472/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [SupachaiWright84572/building-with-typesafe-jev](https://github.com/SupachaiWright84572/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Petrov4421/building-with-typesafe-jev](https://github.com/Petrov4421/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [BrunoEgorov02534/Jev-Mem](https://github.com/BrunoEgorov02534/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [mariaanastasiou78/Jev-Mem](https://github.com/mariaanastasiou78/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [YusufDupuis71427/Jev-Mem](https://github.com/YusufDupuis71427/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [sebashunt/Jev-Mem](https://github.com/sebashunt/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [suranjaychandra/jev-decision-layer](https://github.com/suranjaychandra/jev-decision-layer) — inferred / evaluation — ⭐0
+- `+` [pAraujo692/jev-social](https://github.com/pAraujo692/jev-social) — inferred / community-sdk — ⭐0
+- …另有 7 条新增
