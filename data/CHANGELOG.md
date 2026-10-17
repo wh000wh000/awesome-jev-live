@@ -5243,3 +5243,22 @@
 - `+` [ewalundberg576/jev-social](https://github.com/ewalundberg576/jev-social) — inferred / community-sdk — ⭐0
 - `+` [Fransson887/jev-social](https://github.com/Fransson887/jev-social) — inferred / community-sdk — ⭐0
 - `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
+
+## 2026-10-17T16:50:52+08:00
+- 收录总数 **781**；本次更新新增 **16**
+- `+` [safzanpirani/pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) — inferred / agent-tooling — ⭐37
+- `+` [lawrence3699/jev-style](https://github.com/lawrence3699/jev-style) — inferred / agent-tooling — ⭐21
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐7
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐7
+- `+` [sunyasheng/JevDeepResearch](https://github.com/sunyasheng/JevDeepResearch) — inferred / agent-tooling — ⭐5
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [agentculture/jev-factory](https://github.com/agentculture/jev-factory) — inferred / other — ⭐3
+- `+` [chez-shanpu/typesafeai-go](https://github.com/chez-shanpu/typesafeai-go) — observed / community-sdk — ⭐1
+- `+` [moguone/jev-lab](https://github.com/moguone/jev-lab) — observed / evaluation — ⭐0
+- `+` [alejandroharrison5336/jev-browser](https://github.com/alejandroharrison5336/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [jasmijnl1648/jev-browser](https://github.com/jasmijnl1648/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Kelly374/Jev-Mem](https://github.com/Kelly374/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [AbigailAhmed58028/Jev-Mem](https://github.com/AbigailAhmed58028/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [Jose-Sabater/jev-ouija](https://github.com/Jose-Sabater/jev-ouija) — inferred / other — ⭐0
+- `+` [ChenstarMr/jev-chat-windows](https://github.com/ChenstarMr/jev-chat-windows) — inferred / other — ⭐0
+- `+` [Gabriel4078/jev-social](https://github.com/Gabriel4078/jev-social) — inferred / community-sdk — ⭐0
