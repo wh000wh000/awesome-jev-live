@@ -5311,3 +5311,32 @@
 - `+` [chenyuwang166-oss/metask-jev-rain](https://github.com/chenyuwang166-oss/metask-jev-rain) — inferred / other — ⭐0
 - `+` [xAndreiLi/pi-jev-wiki](https://github.com/xAndreiLi/pi-jev-wiki) — inferred / agent-tooling — ⭐0
 - `+` [lovellaphrodisiacal150/lovellaphrodisiacal150.github.io](https://github.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io) — observed / other — ⭐0
+
+## 2026-10-17T23:20:10+08:00
+- 收录总数 **783**；本次更新新增 **96**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐3056
+- `+` [Mapika/decider](https://github.com/Mapika/decider) — unverified / evaluation — ⭐1157
+- `+` [typesafe-ai/system-one-adapter-python](https://github.com/typesafe-ai/system-one-adapter-python) — official / official-sdk — ⭐394
+- `+` [typesafe-ai/typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python) — official / official-sdk — ⭐297
+- `+` [typesafe-ai/typesafe-sdk-js](https://github.com/typesafe-ai/typesafe-sdk-js) — official / official-sdk — ⭐279
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / routing-guardrails — ⭐194
+- `+` [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) — observed / research-models — ⭐168
+- `+` [supercorp-ai/supercov](https://github.com/supercorp-ai/supercov) — inferred / community-sdk — ⭐156
+- `+` [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) — inferred / apps-demos — ⭐123
+- `+` [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) — observed / other — ⭐86
+- `+` [iapp-technology/openthai-systemone](https://github.com/iapp-technology/openthai-systemone) — unverified / other — ⭐68
+- `+` [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) — inferred / agent-tooling — ⭐66
+- `+` [bilune/jev-design](https://github.com/bilune/jev-design) — inferred / apps-demos — ⭐59
+- `+` [Abhinavexists/lev](https://github.com/Abhinavexists/lev) — inferred / other — ⭐56
+- `+` [bodepudimuneendra-netizen/laya-jev-GraphRAG](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) — observed / community-sdk — ⭐51
+- `+` [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) — inferred / routing-guardrails — ⭐43
+- `+` [hotchpotch/bekko-system-one](https://github.com/hotchpotch/bekko-system-one) — unverified / research-models — ⭐37
+- `+` [dannote/jev](https://github.com/dannote/jev) — inferred / community-sdk — ⭐36
+- `+` [hawkymisc/typed-decision-bert](https://github.com/hawkymisc/typed-decision-bert) — unverified / other — ⭐35
+- `+` [sumleo/RLCDAlignBench](https://github.com/sumleo/RLCDAlignBench) — unverified / routing-guardrails — ⭐28
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐23
+- `+` [sqliteai/blink](https://github.com/sqliteai/blink) — observed / other — ⭐23
+- `+` [arjun988/Kev](https://github.com/arjun988/Kev) — inferred / community-sdk — ⭐21
+- `+` [typesafe-ai/WorkflowEvals](https://github.com/typesafe-ai/WorkflowEvals) — official / official-sdk — ⭐18
+- `+` [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) — inferred / other — ⭐17
+- …另有 71 条新增
