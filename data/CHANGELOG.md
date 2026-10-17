@@ -5177,3 +5177,21 @@
 - `+` [gbolask24/decision-bench](https://github.com/gbolask24/decision-bench) — observed / agent-tooling — ⭐0
 - `+` [sdivye92/create_jev](https://github.com/sdivye92/create_jev) — inferred / research-models — ⭐0
 - `+` [gyanbhambhani/oss-jev-qwen05-decision-noul-v2](https://huggingface.co/gyanbhambhani/oss-jev-qwen05-decision-noul-v2) — observed / research-models — ⭐0
+
+## 2026-10-17T08:28:59+08:00
+- 收录总数 **789**；本次更新新增 **15**
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐7
+- `+` [wonseokjung/connect-tycoon](https://github.com/wonseokjung/connect-tycoon) — inferred / apps-demos — ⭐7
+- `+` [ariel-frischer/jevkit](https://github.com/ariel-frischer/jevkit) — inferred / community-sdk — ⭐5
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [solvi-ai/solvi](https://github.com/solvi-ai/solvi) — observed / agent-tooling — ⭐3
+- `+` [Jayu79/jev-decision-pipeline](https://github.com/Jayu79/jev-decision-pipeline) — inferred / evaluation — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [tak-bro/local-jev-bench](https://github.com/tak-bro/local-jev-bench) — inferred / evaluation — ⭐0
+- `+` [adriy-be/openfox-jev](https://github.com/adriy-be/openfox-jev) — inferred / agent-tooling — ⭐0
+- `+` [aleksvega/jev-skill-router](https://github.com/aleksvega/jev-skill-router) — inferred / community-sdk — ⭐0
+- `+` [ozalt/evidence-lab](https://github.com/ozalt/evidence-lab) — observed / evaluation — ⭐0
+- `+` [RobertMX23/Reto-30X-JEV](https://github.com/RobertMX23/Reto-30X-JEV) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [aleksvega/jev-prompt-enhancer](https://github.com/aleksvega/jev-prompt-enhancer) — inferred / agent-tooling — ⭐0
+- `+` [eligrip/computer-guidance-with-jev](https://github.com/eligrip/computer-guidance-with-jev) — inferred / apps-demos — ⭐0
