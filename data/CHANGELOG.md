@@ -5291,3 +5291,23 @@
 - `+` [suranjaychandra/jev-decision-layer](https://github.com/suranjaychandra/jev-decision-layer) — inferred / evaluation — ⭐0
 - `+` [pAraujo692/jev-social](https://github.com/pAraujo692/jev-social) — inferred / community-sdk — ⭐0
 - …另有 7 条新增
+
+## 2026-10-17T21:13:16+08:00
+- 收录总数 **709**；本次更新新增 **17**
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐20
+- `+` [laurentkempe/TypeSafeJevPlayground](https://github.com/laurentkempe/TypeSafeJevPlayground) — inferred / official-sdk — ⭐9
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [Oranquelui/astra-jev-harness](https://github.com/Oranquelui/astra-jev-harness) — inferred / community-sdk — ⭐3
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [omkarghugarkar007/actiongate-jev](https://github.com/omkarghugarkar007/actiongate-jev) — inferred / agent-tooling — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [kh20134/jev-vehicle-classifier](https://github.com/kh20134/jev-vehicle-classifier) — inferred / other — ⭐0
+- `+` [yinjs/claude-jev](https://github.com/yinjs/claude-jev) — inferred / agent-tooling — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-4B](https://github.com/chenyuwang166-oss/metask-jev-rain-4B) — inferred / evaluation — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-31B-trained](https://github.com/chenyuwang166-oss/metask-jev-rain-31B-trained) — inferred / evaluation — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-12B-trained](https://github.com/chenyuwang166-oss/metask-jev-rain-12B-trained) — inferred / evaluation — ⭐0
+- `+` [CristianYepes/yolo-jev](https://github.com/CristianYepes/yolo-jev) — observed / other — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-12B](https://github.com/chenyuwang166-oss/metask-jev-rain-12B) — inferred / other — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain](https://github.com/chenyuwang166-oss/metask-jev-rain) — inferred / other — ⭐0
+- `+` [xAndreiLi/pi-jev-wiki](https://github.com/xAndreiLi/pi-jev-wiki) — inferred / agent-tooling — ⭐0
+- `+` [lovellaphrodisiacal150/lovellaphrodisiacal150.github.io](https://github.com/lovellaphrodisiacal150/lovellaphrodisiacal150.github.io) — observed / other — ⭐0
