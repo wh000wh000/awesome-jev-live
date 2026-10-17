@@ -5195,3 +5195,27 @@
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [aleksvega/jev-prompt-enhancer](https://github.com/aleksvega/jev-prompt-enhancer) — inferred / agent-tooling — ⭐0
 - `+` [eligrip/computer-guidance-with-jev](https://github.com/eligrip/computer-guidance-with-jev) — inferred / apps-demos — ⭐0
+
+## 2026-10-17T12:35:48+08:00
+- 收录总数 **791**；本次更新新增 **21**
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐34
+- `+` [QCJLchina/Jev-chat-assistant](https://github.com/QCJLchina/Jev-chat-assistant) — inferred / other — ⭐8
+- `+` [DakePeng/Bonsai-JEV](https://github.com/DakePeng/Bonsai-JEV) — inferred / other — ⭐2
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐2
+- `+` [amidabuddha/jev-decision-mcp](https://github.com/amidabuddha/jev-decision-mcp) — inferred / community-sdk — ⭐1
+- `+` [NatersGonnaN8/talk-to-jev](https://github.com/NatersGonnaN8/talk-to-jev) — inferred / routing-guardrails — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [Ashadeepa/typesafe-jev-model-use-cases](https://github.com/Ashadeepa/typesafe-jev-model-use-cases) — observed / apps-demos — ⭐1
+- `+` [h1bomb/jev-game-mvp](https://github.com/h1bomb/jev-game-mvp) — observed / apps-demos — ⭐0
+- `+` [OlliverCrypto/ultra-jev-navigator](https://github.com/OlliverCrypto/ultra-jev-navigator) — inferred / agent-tooling — ⭐0
+- `+` [jfelipeff/l4-jev-workflows](https://github.com/jfelipeff/l4-jev-workflows) — inferred / agent-tooling — ⭐0
+- `+` [kallurayaankit/jev-consensus-gate](https://github.com/kallurayaankit/jev-consensus-gate) — inferred / routing-guardrails — ⭐0
+- `+` [meetrais/system-one-models](https://github.com/meetrais/system-one-models) — observed / other — ⭐0
+- `+` [phykn/jev-local](https://github.com/phykn/jev-local) — inferred / agent-tooling — ⭐0
+- `+` [rumple/jev-snake-python](https://github.com/rumple/jev-snake-python) — inferred / apps-demos — ⭐0
+- `+` [sport-viz/jev-guard](https://github.com/sport-viz/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [what-my-names/operit-jev-skills](https://github.com/what-my-names/operit-jev-skills) — inferred / agent-tooling — ⭐0
+- `+` [what-my-names/operit-jev-bundle](https://github.com/what-my-names/operit-jev-bundle) — inferred / agent-tooling — ⭐0
+- `+` [SonPhatTranDeveloper/jev-ticket-router](https://github.com/SonPhatTranDeveloper/jev-ticket-router) — inferred / routing-guardrails — ⭐0
+- `+` [jpferrierjr/CustomJEV](https://github.com/jpferrierjr/CustomJEV) — inferred / other — ⭐0
