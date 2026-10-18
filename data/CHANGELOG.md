@@ -5478,3 +5478,22 @@
 - `+` [larrydavis089/jev-social](https://github.com/larrydavis089/jev-social) — inferred / community-sdk — ⭐0
 - `+` [MarieChaudhry/jev-social](https://github.com/MarieChaudhry/jev-social) — inferred / community-sdk — ⭐0
 - `+` [SimonYet2See/JEV-SEO-AUDITOR](https://github.com/SimonYet2See/JEV-SEO-AUDITOR) — inferred / other — ⭐0
+
+## 2026-10-19T03:51:33+08:00
+- 收录总数 **793**；本次更新新增 **16**
+- `+` [Engid/question-kit](https://github.com/Engid/question-kit) — observed / other — ⭐4
+- `+` [jyatesdotdev/jev-logtriage](https://github.com/jyatesdotdev/jev-logtriage) — inferred / routing-guardrails — ⭐4
+- `+` [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) — inferred / other — ⭐1
+- `+` [jin-s13/OpenVisualJev](https://github.com/jin-s13/OpenVisualJev) — inferred / evaluation — ⭐1
+- `+` [Yum-wu/dsh-jev-preset](https://github.com/Yum-wu/dsh-jev-preset) — inferred / other — ⭐1
+- `+` [mastra-ai/template-competitor-monitor-jev](https://github.com/mastra-ai/template-competitor-monitor-jev) — inferred / agent-tooling — ⭐1
+- `+` [aRamirez51/jev-browser](https://github.com/aRamirez51/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Barbara88985/jev-browser](https://github.com/Barbara88985/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [ScriperX/jev-telegram-agent](https://github.com/ScriperX/jev-telegram-agent) — inferred / agent-tooling — ⭐0
+- `+` [HiQS-Labs/Jev-unofficial-toolkit](https://github.com/HiQS-Labs/Jev-unofficial-toolkit) — inferred / other — ⭐0
+- `+` [Mike-Animal-Counseling/laya-jev-lab](https://github.com/Mike-Animal-Counseling/laya-jev-lab) — inferred / community-sdk — ⭐0
+- `+` [IngridWolf551/jev-social](https://github.com/IngridWolf551/jev-social) — inferred / community-sdk — ⭐0
+- `+` [manonm8018/jev-social](https://github.com/manonm8018/jev-social) — inferred / community-sdk — ⭐0
+- `+` [dorukhanuzun/jev-veri-arsivi](https://github.com/dorukhanuzun/jev-veri-arsivi) — inferred / other — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+- `+` [AdamBhs/System_One_Model](https://github.com/AdamBhs/System_One_Model) — observed / other — ⭐0
