@@ -5369,3 +5369,28 @@
 - `+` [happydesk213124/JevHypa](https://github.com/happydesk213124/JevHypa) — inferred / agent-tooling — ⭐0
 - `+` [sagahashimoto/building-with-typesafe-jev](https://github.com/sagahashimoto/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
 - …另有 56 条新增
+
+## 2026-10-18T17:09:37+08:00
+- 收录总数 **768**；本次更新新增 **22**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐303
+- `+` [shamspias/laya-bangla](https://github.com/shamspias/laya-bangla) — inferred / routing-guardrails — ⭐40
+- `+` [Ordo-Engine/Ordo](https://github.com/Ordo-Engine/Ordo) — inferred / agent-tooling — ⭐38
+- `+` [gulucaptain/Chinese-Jev](https://github.com/gulucaptain/Chinese-Jev) — inferred / other — ⭐17
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐12
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [h1bomb/jev-game-mvp](https://github.com/h1bomb/jev-game-mvp) — observed / apps-demos — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
+- `+` [CapCurious/jev-role-ranker](https://github.com/CapCurious/jev-role-ranker) — inferred / other — ⭐0
+- `+` [AranyaTrinh61946/building-with-typesafe-jev](https://github.com/AranyaTrinh61946/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [CapCurious/jev-threshold-lab](https://github.com/CapCurious/jev-threshold-lab) — inferred / routing-guardrails — ⭐0
+- `+` [greyhawk/jev-decision-layer](https://github.com/greyhawk/jev-decision-layer) — inferred / other — ⭐0
+- `+` [rogueprocess13/jev-ops-experiment](https://github.com/rogueprocess13/jev-ops-experiment) — inferred / evaluation — ⭐0
+- `+` [leedonwoo2827-ship-it/law-errata-jev](https://github.com/leedonwoo2827-ship-it/law-errata-jev) — inferred / community-sdk — ⭐0
+- `+` [bubbleShaker/jev-jinsei](https://github.com/bubbleShaker/jev-jinsei) — inferred / other — ⭐0
+- `+` [happydesk213124/HypaJev](https://github.com/happydesk213124/HypaJev) — inferred / other — ⭐0
+- `+` [kitepon/jev-bookmarks](https://github.com/kitepon/jev-bookmarks) — inferred / community-sdk — ⭐0
+- `+` [arthurkatcher/jev-click-bench](https://github.com/arthurkatcher/jev-click-bench) — observed / evaluation — ⭐0
+- `+` [AndreaEsposito38663/jev-social](https://github.com/AndreaEsposito38663/jev-social) — inferred / community-sdk — ⭐0
+- `+` [CapCurious/jev-cascade](https://github.com/CapCurious/jev-cascade) — inferred / evaluation — ⭐0
+- `+` [SparshSunilNaik/peter-windows](https://github.com/SparshSunilNaik/peter-windows) — observed / other — ⭐0
+- `+` [dakebakery/Bonsai-JEV-mlx](https://huggingface.co/dakebakery/Bonsai-JEV-mlx) — observed / research-models — ⭐0
