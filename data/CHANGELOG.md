@@ -5497,3 +5497,32 @@
 - `+` [dorukhanuzun/jev-veri-arsivi](https://github.com/dorukhanuzun/jev-veri-arsivi) — inferred / other — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
 - `+` [AdamBhs/System_One_Model](https://github.com/AdamBhs/System_One_Model) — observed / other — ⭐0
+
+## 2026-10-19T05:58:32+08:00
+- 收录总数 **805**；本次更新新增 **45**
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐2
+- `+` [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) — inferred / routing-guardrails — ⭐1
+- `+` [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) — inferred / other — ⭐1
+- `+` [JWE24-code/moqi-jev-loop](https://github.com/JWE24-code/moqi-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [JWE24-code/dsh-jev-loop](https://github.com/JWE24-code/dsh-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [tmbmartell/jev-mcp](https://github.com/tmbmartell/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/pinot-jev](https://github.com/gbesse/pinot-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/strapi-plugin-jev-review](https://github.com/gbesse/strapi-plugin-jev-review) — inferred / agent-tooling — ⭐0
+- `+` [OlivierOrlov/jev-browser](https://github.com/OlivierOrlov/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Yusufg0336/building-with-typesafe-jev](https://github.com/Yusufg0336/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Wolfgang7570/building-with-typesafe-jev](https://github.com/Wolfgang7570/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [wKarahan52/jev-browser](https://github.com/wKarahan52/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [Supachaiw792/jev-browser](https://github.com/Supachaiw792/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [NancyDejager/building-with-typesafe-jev](https://github.com/NancyDejager/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [georgebonnet58537/Jev-Mem](https://github.com/georgebonnet58537/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [Yuqio602/Jev-Mem](https://github.com/Yuqio602/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [JacquesYamamoto/Jev-Mem](https://github.com/JacquesYamamoto/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [KaterinaCho294/Jev-Mem](https://github.com/KaterinaCho294/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [samuelcardillo/jev-mlx-api](https://github.com/samuelcardillo/jev-mlx-api) — inferred / evaluation — ⭐0
+- `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-mistral-document-bench-fr](https://github.com/gbesse/jev-mistral-document-bench-fr) — inferred / other — ⭐0
+- `+` [gbesse/temporal-jev-decisions](https://github.com/gbesse/temporal-jev-decisions) — inferred / agent-tooling — ⭐0
+- `+` [sp1d5r/ComfyUI-VideoJev](https://github.com/sp1d5r/ComfyUI-VideoJev) — inferred / apps-demos — ⭐0
+- …另有 20 条新增
