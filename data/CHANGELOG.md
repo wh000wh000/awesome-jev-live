@@ -5394,3 +5394,32 @@
 - `+` [CapCurious/jev-cascade](https://github.com/CapCurious/jev-cascade) — inferred / evaluation — ⭐0
 - `+` [SparshSunilNaik/peter-windows](https://github.com/SparshSunilNaik/peter-windows) — observed / other — ⭐0
 - `+` [dakebakery/Bonsai-JEV-mlx](https://huggingface.co/dakebakery/Bonsai-JEV-mlx) — observed / research-models — ⭐0
+
+## 2026-10-18T19:18:41+08:00
+- 收录总数 **792**；本次更新新增 **49**
+- `+` [rokbenko/quackd](https://github.com/rokbenko/quackd) — unverified / community-sdk — ⭐263
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [Oscar-dzy/Awesome-jev-papers](https://github.com/Oscar-dzy/Awesome-jev-papers) — inferred / evaluation — ⭐16
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐15
+- `+` [ILuce/deqio](https://github.com/ILuce/deqio) — inferred / agent-tooling — ⭐7
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐7
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [JUNNYOfficial/nano_jev](https://github.com/JUNNYOfficial/nano_jev) — inferred / community-sdk — ⭐3
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐3
+- `+` [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) — inferred / evaluation — ⭐1
+- `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐1
+- `+` [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) — inferred / community-sdk — ⭐1
+- `+` [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) — inferred / routing-guardrails — ⭐1
+- `+` [jevplays-games/jev-tic-tac-toe](https://github.com/jevplays-games/jev-tic-tac-toe) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-sudoku-analytics](https://github.com/jevplays-games/jev-sudoku-analytics) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-minesweeper](https://github.com/jevplays-games/jev-minesweeper) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-mastermind](https://github.com/jevplays-games/jev-mastermind) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-guess-who](https://github.com/jevplays-games/jev-guess-who) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-dots-and-boxes](https://github.com/jevplays-games/jev-dots-and-boxes) — inferred / research-models — ⭐0
+- `+` [jevplays-games/jev-connect-four](https://github.com/jevplays-games/jev-connect-four) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-checkers-analytics](https://github.com/jevplays-games/jev-checkers-analytics) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) — inferred / apps-demos — ⭐0
+- `+` [jevplays-games/jev-2048-arcade](https://github.com/jevplays-games/jev-2048-arcade) — inferred / community-sdk — ⭐0
+- `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
+- `+` [gregorysimmons82/building-with-typesafe-jev](https://github.com/gregorysimmons82/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- …另有 24 条新增
