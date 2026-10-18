@@ -5456,3 +5456,25 @@
 - `+` [debliondev/Hackathon_Jev_duty_editor](https://github.com/debliondev/Hackathon_Jev_duty_editor) — inferred / other — ⭐0
 - `+` [fartherWinter/jev-agent-pruning](https://github.com/fartherWinter/jev-agent-pruning) — inferred / agent-tooling — ⭐0
 - `+` [davegarvey/auto-model](https://github.com/davegarvey/auto-model) — observed / other — ⭐0
+
+## 2026-10-19T01:41:00+08:00
+- 收录总数 **801**；本次更新新增 **19**
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐7
+- `+` [Ask HN: System One models for autonomous agents](https://news.ycombinator.com/item?id=50142037) — observed / media-discussions — ⭐3
+- `+` [hellolitebox/litebox-inbox-jev](https://github.com/hellolitebox/litebox-inbox-jev) — inferred / routing-guardrails — ⭐2
+- `+` [blockstars-labs/30x-JEV](https://github.com/blockstars-labs/30x-JEV) — inferred / other — ⭐1
+- `+` [AlexBzal/jev-guard](https://github.com/AlexBzal/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [SuperInstance/jev-lab](https://github.com/SuperInstance/jev-lab) — observed / evaluation — ⭐0
+- `+` [paulbruffett/jev-demo](https://github.com/paulbruffett/jev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [margauxbutler/jev-browser](https://github.com/margauxbutler/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [vyildirim4103/Jev-Mem](https://github.com/vyildirim4103/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [etsabary/jev-1.14-comparison-benchmark](https://github.com/etsabary/jev-1.14-comparison-benchmark) — observed / routing-guardrails — ⭐0
+- `+` [avg031396-sys/diagnostico-30x-jev](https://github.com/avg031396-sys/diagnostico-30x-jev) — inferred / other — ⭐0
+- `+` [RSinthu/jev-verified-rag](https://github.com/RSinthu/jev-verified-rag) — inferred / apps-demos — ⭐0
+- `+` [must-lioncho/jev-mem](https://github.com/must-lioncho/jev-mem) — inferred / agent-tooling — ⭐0
+- `+` [nightyvsc/MyNameIsJev](https://github.com/nightyvsc/MyNameIsJev) — inferred / other — ⭐0
+- `+` [Harshall25/jev-mcp-tool](https://github.com/Harshall25/jev-mcp-tool) — inferred / community-sdk — ⭐0
+- `+` [knight7773/jev-signal-loom-demo](https://github.com/knight7773/jev-signal-loom-demo) — inferred / apps-demos — ⭐0
+- `+` [larrydavis089/jev-social](https://github.com/larrydavis089/jev-social) — inferred / community-sdk — ⭐0
+- `+` [MarieChaudhry/jev-social](https://github.com/MarieChaudhry/jev-social) — inferred / community-sdk — ⭐0
+- `+` [SimonYet2See/JEV-SEO-AUDITOR](https://github.com/SimonYet2See/JEV-SEO-AUDITOR) — inferred / other — ⭐0
