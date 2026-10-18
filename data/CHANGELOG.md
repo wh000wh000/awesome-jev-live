@@ -5340,3 +5340,32 @@
 - `+` [typesafe-ai/WorkflowEvals](https://github.com/typesafe-ai/WorkflowEvals) — official / official-sdk — ⭐18
 - `+` [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) — inferred / other — ⭐17
 - …另有 71 条新增
+
+## 2026-10-18T14:49:04+08:00
+- 收录总数 **785**；本次更新新增 **81**
+- `+` [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) — inferred / other — ⭐2010
+- `+` [jmagly/aiwg](https://github.com/jmagly/aiwg) — inferred / agent-tooling — ⭐224
+- `+` [iammrduncan/inference-benchmarks](https://github.com/iammrduncan/inference-benchmarks) — unverified / routing-guardrails — ⭐38
+- `+` [lukstei/slop-grader](https://github.com/lukstei/slop-grader) — inferred / community-sdk — ⭐35
+- `+` [genai-craft/openvons](https://github.com/genai-craft/openvons) — unverified / evaluation — ⭐13
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [Contrastive Language Models: A Fast, Generalizable System One Model](https://news.ycombinator.com/item?id=49848279) — observed / media-discussions — ⭐6
+- `+` [Pinutss/jev-model-router](https://github.com/Pinutss/jev-model-router) — inferred / routing-guardrails — ⭐4
+- `+` [inboxpraveen/Cleanframe](https://github.com/inboxpraveen/Cleanframe) — inferred / agent-tooling — ⭐3
+- `+` [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) — inferred / agent-tooling — ⭐2
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐2
+- `+` [ai-ecoverse/jev-omni.js](https://github.com/ai-ecoverse/jev-omni.js) — inferred / apps-demos — ⭐2
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐1
+- `+` [chayan-bit/jev-harness](https://github.com/chayan-bit/jev-harness) — inferred / agent-tooling — ⭐1
+- `+` [chayan-bit/Jev-Frame](https://github.com/chayan-bit/Jev-Frame) — inferred / community-sdk — ⭐1
+- `+` [hpend2373/bio-discovery-with-jev](https://github.com/hpend2373/bio-discovery-with-jev) — inferred / agent-tooling — ⭐1
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [NatersGonnaN8/talk-to-jev](https://github.com/NatersGonnaN8/talk-to-jev) — inferred / routing-guardrails — ⭐1
+- `+` [thevibeworks/awesome-typesafe-jev](https://github.com/thevibeworks/awesome-typesafe-jev) — inferred / agent-tooling — ⭐1
+- `+` [TimMikeladze/JevLang](https://github.com/TimMikeladze/JevLang) — inferred / agent-tooling — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [teilomillet/wyat](https://github.com/teilomillet/wyat) — observed / agent-tooling — ⭐1
+- `+` [morler/pi-jev-core](https://github.com/morler/pi-jev-core) — inferred / routing-guardrails — ⭐0
+- `+` [happydesk213124/JevHypa](https://github.com/happydesk213124/JevHypa) — inferred / agent-tooling — ⭐0
+- `+` [sagahashimoto/building-with-typesafe-jev](https://github.com/sagahashimoto/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- …另有 56 条新增
