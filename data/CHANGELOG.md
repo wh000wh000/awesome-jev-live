@@ -5423,3 +5423,18 @@
 - `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
 - `+` [gregorysimmons82/building-with-typesafe-jev](https://github.com/gregorysimmons82/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
 - …另有 24 条新增
+
+## 2026-10-18T21:26:57+08:00
+- 收录总数 **791**；本次更新新增 **12**
+- `+` [Oqura-ai/optim-jev](https://github.com/Oqura-ai/optim-jev) — inferred / agent-tooling — ⭐36
+- `+` [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) — inferred / agent-tooling — ⭐3
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [ondata/vd-jev](https://github.com/ondata/vd-jev) — inferred / agent-tooling — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [thieung/jev-thuc-chien](https://github.com/thieung/jev-thuc-chien) — inferred / apps-demos — ⭐0
+- `+` [ashp15205/jev-laya-system-1](https://github.com/ashp15205/jev-laya-system-1) — inferred / agent-tooling — ⭐0
+- `+` [Karnaf0katom/jev-auto-effort](https://github.com/Karnaf0katom/jev-auto-effort) — inferred / community-sdk — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [shibing624/train-jev-27b-lora](https://huggingface.co/shibing624/train-jev-27b-lora) — observed / research-models — ⭐0
+- `+` [shibing624/train-jev-4b-lora](https://huggingface.co/shibing624/train-jev-4b-lora) — observed / research-models — ⭐0
