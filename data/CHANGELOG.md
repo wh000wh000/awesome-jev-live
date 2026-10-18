@@ -5438,3 +5438,21 @@
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
 - `+` [shibing624/train-jev-27b-lora](https://huggingface.co/shibing624/train-jev-27b-lora) — observed / research-models — ⭐0
 - `+` [shibing624/train-jev-4b-lora](https://huggingface.co/shibing624/train-jev-4b-lora) — observed / research-models — ⭐0
+
+## 2026-10-18T23:33:28+08:00
+- 收录总数 **798**；本次更新新增 **15**
+- `+` [imikerussell/beebots](https://github.com/imikerussell/beebots) — unverified / research-models — ⭐304
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [samuelyossef/jev-openfast](https://github.com/samuelyossef/jev-openfast) — inferred / agent-tooling — ⭐1
+- `+` [gregoryjayuk/jev-lab](https://github.com/gregoryjayuk/jev-lab) — inferred / routing-guardrails — ⭐0
+- `+` [Querio-App/duckdb-jev](https://github.com/Querio-App/duckdb-jev) — inferred / community-sdk — ⭐0
+- `+` [CapCurious/jev-cascade](https://github.com/CapCurious/jev-cascade) — inferred / routing-guardrails — ⭐0
+- `+` [Mainakcris7/agent-guardrail-with-jev](https://github.com/Mainakcris7/agent-guardrail-with-jev) — observed / agent-tooling — ⭐0
+- `+` [dtduc-git/jev-packs](https://github.com/dtduc-git/jev-packs) — inferred / routing-guardrails — ⭐0
+- `+` [benisalla/hr-jev](https://github.com/benisalla/hr-jev) — inferred / apps-demos — ⭐0
+- `+` [resume-rei/jev-teach-navigator](https://github.com/resume-rei/jev-teach-navigator) — inferred / routing-guardrails — ⭐0
+- `+` [LimePencil/jev-observer-web](https://github.com/LimePencil/jev-observer-web) — inferred / other — ⭐0
+- `+` [SantiagoChitiva/Reto-30X-Jev](https://github.com/SantiagoChitiva/Reto-30X-Jev) — inferred / other — ⭐0
+- `+` [debliondev/Hackathon_Jev_duty_editor](https://github.com/debliondev/Hackathon_Jev_duty_editor) — inferred / other — ⭐0
+- `+` [fartherWinter/jev-agent-pruning](https://github.com/fartherWinter/jev-agent-pruning) — inferred / agent-tooling — ⭐0
+- `+` [davegarvey/auto-model](https://github.com/davegarvey/auto-model) — observed / other — ⭐0
