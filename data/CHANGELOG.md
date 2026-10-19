@@ -5684,3 +5684,25 @@
 - `+` [weiweidesigner/jev_vis_router](https://github.com/weiweidesigner/jev_vis_router) — inferred / routing-guardrails — ⭐0
 - `+` [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) — inferred / agent-tooling — ⭐0
 - `+` [Joshua7792/jev-eval-harness](https://github.com/Joshua7792/jev-eval-harness) — inferred / evaluation — ⭐0
+
+## 2026-10-20T01:06:41+08:00
+- 收录总数 **807**；本次更新新增 **19**
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / agent-tooling — ⭐158
+- `+` [Ordo-Engine/Ordo](https://github.com/Ordo-Engine/Ordo) — inferred / agent-tooling — ⭐38
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐31
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐10
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [mars-tw/jev-trading-command-center](https://github.com/mars-tw/jev-trading-command-center) — inferred / research-models — ⭐0
+- `+` [Wu10780/building-with-typesafe-jev](https://github.com/Wu10780/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [mVasquez58324/building-with-typesafe-jev](https://github.com/mVasquez58324/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [nwroblewski90224/jev-browser](https://github.com/nwroblewski90224/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [hendrik77/cap-jev](https://github.com/hendrik77/cap-jev) — observed / agent-tooling — ⭐0
+- `+` [aishwary-dongre/jev-xray](https://github.com/aishwary-dongre/jev-xray) — observed / evaluation — ⭐0
+- `+` [Huseyinn19/Jev-Mem](https://github.com/Huseyinn19/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [maurorosero/hermes-jev-helper](https://github.com/maurorosero/hermes-jev-helper) — inferred / agent-tooling — ⭐0
+- `+` [eligrip/computer-guidance-with-jev](https://github.com/eligrip/computer-guidance-with-jev) — inferred / apps-demos — ⭐0
+- `+` [RSinthu/jev-verified-rag](https://github.com/RSinthu/jev-verified-rag) — inferred / apps-demos — ⭐0
+- `+` [dbehelitate/kubectl.guardrails--promptfoo--jev](https://github.com/dbehelitate/kubectl.guardrails--promptfoo--jev) — inferred / community-sdk — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
+- `+` [aimmetal-tech/jev-skills-retrieval](https://github.com/aimmetal-tech/jev-skills-retrieval) — inferred / agent-tooling — ⭐0
