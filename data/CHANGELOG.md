@@ -5758,3 +5758,32 @@
 - `+` [sumleo/RLCDAlignBench](https://github.com/sumleo/RLCDAlignBench) — unverified / routing-guardrails — ⭐28
 - `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐24
 - …另有 141 条新增
+
+## 2026-10-20T07:38:23+08:00
+- 收录总数 **810**；本次更新新增 **27**
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐37
+- `+` [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk) — inferred / community-sdk — ⭐22
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐12
+- `+` [psyb0t/decidealot](https://github.com/psyb0t/decidealot) — inferred / agent-tooling — ⭐3
+- `+` [Where Jev Fits in a Large-Scale Data Pipeline](https://news.ycombinator.com/item?id=50158441) — observed / media-discussions — ⭐3
+- `+` [alexsosn/tf-jev](https://github.com/alexsosn/tf-jev) — inferred / other — ⭐1
+- `+` [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) — inferred / other — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [ericjuta/omp-cua-jev](https://github.com/ericjuta/omp-cua-jev) — inferred / apps-demos — ⭐1
+- `+` [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) — observed / agent-tooling — ⭐0
+- `+` [forsing/JEV-Loto-739](https://github.com/forsing/JEV-Loto-739) — inferred / other — ⭐0
+- `+` [lun-ai/mental-gym-jev](https://github.com/lun-ai/mental-gym-jev) — observed / evaluation — ⭐0
+- `+` [fslit/orca-jev-system](https://github.com/fslit/orca-jev-system) — inferred / evaluation — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
+- `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [oruponu/jev-pick](https://github.com/oruponu/jev-pick) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-rerank-server](https://github.com/gbesse/jev-rerank-server) — inferred / other — ⭐0
+- `+` [gbesse/figma-jev-review](https://github.com/gbesse/figma-jev-review) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/jev-pii](https://github.com/gbesse/jev-pii) — inferred / other — ⭐0
+- `+` [gbesse/jev-screen](https://github.com/gbesse/jev-screen) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-crowdsim](https://github.com/gbesse/jev-crowdsim) — inferred / research-models — ⭐0
+- `+` [gbesse/jev-fingerprint](https://github.com/gbesse/jev-fingerprint) — inferred / other — ⭐0
+- `+` [gbesse/jev-roast](https://github.com/gbesse/jev-roast) — inferred / evaluation — ⭐0
+- …另有 2 条新增
