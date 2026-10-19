@@ -5526,3 +5526,15 @@
 - `+` [gbesse/temporal-jev-decisions](https://github.com/gbesse/temporal-jev-decisions) — inferred / agent-tooling — ⭐0
 - `+` [sp1d5r/ComfyUI-VideoJev](https://github.com/sp1d5r/ComfyUI-VideoJev) — inferred / apps-demos — ⭐0
 - …另有 20 条新增
+
+## 2026-10-19T08:06:32+08:00
+- 收录总数 **807**；本次更新新增 **9**
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐7
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [MrKyaw/CognitiveMirror-Jev-MCP](https://github.com/MrKyaw/CognitiveMirror-Jev-MCP) — inferred / community-sdk — ⭐1
+- `+` [seominpapa/siteeye](https://github.com/seominpapa/siteeye) — observed / apps-demos — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [pyck-ai/jev-cli](https://github.com/pyck-ai/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [HillPhelmuth/JevDotNet](https://github.com/HillPhelmuth/JevDotNet) — inferred / community-sdk — ⭐0
+- `+` [arstrel/homelab-jev](https://github.com/arstrel/homelab-jev) — inferred / other — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
