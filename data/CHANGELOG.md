@@ -5660,3 +5660,27 @@
 - `+` [feliper-de-oliveira/app-jev](https://github.com/feliper-de-oliveira/app-jev) — inferred / apps-demos — ⭐0
 - `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
 - `+` [TiElixir/LayaLM](https://github.com/TiElixir/LayaLM) — observed / other — ⭐0
+
+## 2026-10-19T22:59:13+08:00
+- 收录总数 **807**；本次更新新增 **21**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐113
+- `+` [hybridgroup/jeyzma](https://github.com/hybridgroup/jeyzma) — observed / apps-demos — ⭐12
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [softinio/verdict4s](https://github.com/softinio/verdict4s) — inferred / community-sdk — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [dragpk247/jev-gateway](https://github.com/dragpk247/jev-gateway) — inferred / routing-guardrails — ⭐1
+- `+` [Querio-App/duckdb-jev](https://github.com/Querio-App/duckdb-jev) — inferred / community-sdk — ⭐0
+- `+` [Akfavo/EasyJev](https://github.com/Akfavo/EasyJev) — inferred / other — ⭐0
+- `+` [factbag/factbag](https://github.com/factbag/factbag) — observed / other — ⭐0
+- `+` [internet-projects/jev35b-mlx](https://github.com/internet-projects/jev35b-mlx) — inferred / evaluation — ⭐0
+- `+` [arstrel/homelab-jev](https://github.com/arstrel/homelab-jev) — inferred / other — ⭐0
+- `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
+- `+` [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [HaraldSigvartsen/jev](https://github.com/HaraldSigvartsen/jev) — inferred / agent-tooling — ⭐0
+- `+` [FORIFOR/jev-vtuber-studio](https://github.com/FORIFOR/jev-vtuber-studio) — inferred / routing-guardrails — ⭐0
+- `+` [tydong1231-ux/JevSteer](https://github.com/tydong1231-ux/JevSteer) — inferred / agent-tooling — ⭐0
+- `+` [tancy-920/jev-agentic-wiki-demo](https://github.com/tancy-920/jev-agentic-wiki-demo) — inferred / agent-tooling — ⭐0
+- `+` [ChenZihua-cn/spinJev](https://github.com/ChenZihua-cn/spinJev) — inferred / agent-tooling — ⭐0
+- `+` [weiweidesigner/jev_vis_router](https://github.com/weiweidesigner/jev_vis_router) — inferred / routing-guardrails — ⭐0
+- `+` [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) — inferred / agent-tooling — ⭐0
+- `+` [Joshua7792/jev-eval-harness](https://github.com/Joshua7792/jev-eval-harness) — inferred / evaluation — ⭐0
