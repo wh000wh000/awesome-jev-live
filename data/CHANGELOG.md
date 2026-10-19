@@ -5620,3 +5620,23 @@
 - `+` [christian-taillon/telltale-systemone](https://github.com/christian-taillon/telltale-systemone) — observed / evaluation — ⭐0
 - `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
 - `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
+
+## 2026-10-19T18:42:57+08:00
+- 收录总数 **811**；本次更新新增 **17**
+- `+` [ThinkFlowLab/system1-agents](https://github.com/ThinkFlowLab/system1-agents) — inferred / agent-tooling — ⭐161
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐30
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐6
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐4
+- `+` [caiweihan/jev-account-filter](https://github.com/caiweihan/jev-account-filter) — inferred / routing-guardrails — ⭐4
+- `+` [OpenLAIR/lev](https://github.com/OpenLAIR/lev) — inferred / research-models — ⭐3
+- `+` [King4s/jev-skill-router](https://github.com/King4s/jev-skill-router) — inferred / agent-tooling — ⭐3
+- `+` [solvi-ai/solvi](https://github.com/solvi-ai/solvi) — observed / agent-tooling — ⭐3
+- `+` [inboxpraveen/Cleanframe](https://github.com/inboxpraveen/Cleanframe) — inferred / agent-tooling — ⭐3
+- `+` [frederikvonsperling/sanity-plugin-jev-fields](https://github.com/frederikvonsperling/sanity-plugin-jev-fields) — inferred / agent-tooling — ⭐1
+- `+` [amir9480/JevCheck](https://github.com/amir9480/JevCheck) — inferred / evaluation — ⭐1
+- `+` [exoticknight/dsh-system1](https://github.com/exoticknight/dsh-system1) — observed / agent-tooling — ⭐0
+- `+` [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) — inferred / agent-tooling — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [DuvInc/jev-table-import-mapper](https://github.com/DuvInc/jev-table-import-mapper) — inferred / research-models — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
