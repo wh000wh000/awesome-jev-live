@@ -5538,3 +5538,23 @@
 - `+` [HillPhelmuth/JevDotNet](https://github.com/HillPhelmuth/JevDotNet) — inferred / community-sdk — ⭐0
 - `+` [arstrel/homelab-jev](https://github.com/arstrel/homelab-jev) — inferred / other — ⭐0
 - `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+
+## 2026-10-19T10:14:34+08:00
+- 收录总数 **814**；本次更新新增 **17**
+- `+` [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) — inferred / agent-tooling — ⭐3
+- `+` [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) — inferred / agent-tooling — ⭐3
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐2
+- `+` [kimjooyoon/gooo-jev](https://github.com/kimjooyoon/gooo-jev) — inferred / community-sdk — ⭐1
+- `+` [dulin20240919-dot/jev](https://github.com/dulin20240919-dot/jev) — observed / apps-demos — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [RadRebelSam/jev-decision-lab](https://github.com/RadRebelSam/jev-decision-lab) — inferred / evaluation — ⭐0
+- `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐0
+- `+` [Rafaelhajjar/jev-factor-forecasting](https://github.com/Rafaelhajjar/jev-factor-forecasting) — inferred / routing-guardrails — ⭐0
+- `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
+- `+` [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / other — ⭐0
+- `+` [911218sky/dsh-jev-compaction](https://github.com/911218sky/dsh-jev-compaction) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [must-lioncho/jev-mem](https://github.com/must-lioncho/jev-mem) — inferred / agent-tooling — ⭐0
