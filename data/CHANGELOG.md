@@ -5640,3 +5640,23 @@
 - `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
 - `+` [DuvInc/jev-table-import-mapper](https://github.com/DuvInc/jev-table-import-mapper) — inferred / research-models — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+
+## 2026-10-19T20:51:34+08:00
+- 收录总数 **806**；本次更新新增 **17**
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐24
+- `+` [filedcom/playjev](https://github.com/filedcom/playjev) — inferred / apps-demos — ⭐19
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) — inferred / agent-tooling — ⭐5
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [PerryLink/laya-mcp](https://github.com/PerryLink/laya-mcp) — inferred / agent-tooling — ⭐3
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [minanayernia/Jev_vs_Laya_decision_games](https://github.com/minanayernia/Jev_vs_Laya_decision_games) — inferred / research-models — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [alnyx-dev/jev-rs](https://github.com/alnyx-dev/jev-rs) — inferred / other — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [kaucap08/jev-job-matching](https://github.com/kaucap08/jev-job-matching) — inferred / other — ⭐0
+- `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐0
+- `+` [mikelpastor24/gamer-jev](https://github.com/mikelpastor24/gamer-jev) — inferred / apps-demos — ⭐0
+- `+` [feliper-de-oliveira/app-jev](https://github.com/feliper-de-oliveira/app-jev) — inferred / apps-demos — ⭐0
+- `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
+- `+` [TiElixir/LayaLM](https://github.com/TiElixir/LayaLM) — observed / other — ⭐0
