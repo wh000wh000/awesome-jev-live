@@ -5575,3 +5575,27 @@
 - `+` [biobitworks/jev-space-invaders](https://github.com/biobitworks/jev-space-invaders) — inferred / agent-tooling — ⭐0
 - `+` [0xGondarxyz/jev-vs-llm](https://github.com/0xGondarxyz/jev-vs-llm) — inferred / evaluation — ⭐0
 - `+` [JosephHardy91/graph-composition-with-dLLMs](https://github.com/JosephHardy91/graph-composition-with-dLLMs) — observed / community-sdk — ⭐0
+
+## 2026-10-19T14:27:55+08:00
+- 收录总数 **813**；本次更新新增 **21**
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐120
+- `+` [Oqura-ai/optim-jev](https://github.com/Oqura-ai/optim-jev) — inferred / agent-tooling — ⭐39
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [HsiangNianian/jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup) — inferred / apps-demos — ⭐5
+- `+` [maksym771/jev-factcheck](https://github.com/maksym771/jev-factcheck) — inferred / agent-tooling — ⭐1
+- `+` [Mercier94509/jev-browser](https://github.com/Mercier94509/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [vicfei/jev-rag-zh-benchmark](https://github.com/vicfei/jev-rag-zh-benchmark) — inferred / evaluation — ⭐0
+- `+` [DemetCosta2224/building-with-typesafe-jev](https://github.com/DemetCosta2224/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [ameya-panchpor/jev-2048](https://github.com/ameya-panchpor/jev-2048) — inferred / evaluation — ⭐0
+- `+` [yMerkel30691/Jev-Mem](https://github.com/yMerkel30691/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [ameya690/jev-2048](https://github.com/ameya690/jev-2048) — inferred / evaluation — ⭐0
+- `+` [bharqav/jev-qwen](https://github.com/bharqav/jev-qwen) — inferred / evaluation — ⭐0
+- `+` [Hughes941/jev-social](https://github.com/Hughes941/jev-social) — inferred / community-sdk — ⭐0
+- `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
+- `+` [avg031396-sys/diagnostico-30x-jev](https://github.com/avg031396-sys/diagnostico-30x-jev) — inferred / other — ⭐0
+- `+` [121212165/dsh-plugin-jev-gamedev](https://github.com/121212165/dsh-plugin-jev-gamedev) — inferred / agent-tooling — ⭐0
+- `+` [thanhauco/xgboost-jev](https://github.com/thanhauco/xgboost-jev) — inferred / other — ⭐0
+- `+` [TLatAccenture/graphs-and-jev](https://github.com/TLatAccenture/graphs-and-jev) — inferred / community-sdk — ⭐0
+- `+` [MehmetPark92/jev-social](https://github.com/MehmetPark92/jev-social) — inferred / community-sdk — ⭐0
+- `+` [shivaylamba/jev-model-router-for-coding-tasks-oss](https://github.com/shivaylamba/jev-model-router-for-coding-tasks-oss) — inferred / agent-tooling — ⭐0
+- `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
