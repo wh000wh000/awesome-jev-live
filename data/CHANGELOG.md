@@ -5558,3 +5558,20 @@
 - `+` [911218sky/dsh-jev-compaction](https://github.com/911218sky/dsh-jev-compaction) — inferred / other — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [must-lioncho/jev-mem](https://github.com/must-lioncho/jev-mem) — inferred / agent-tooling — ⭐0
+
+## 2026-10-19T12:21:48+08:00
+- 收录总数 **815**；本次更新新增 **14**
+- `+` [Valen-Team/Valen](https://github.com/Valen-Team/Valen) — observed / other — ⭐873
+- `+` [lesnolie/magpie-free-gateways](https://github.com/lesnolie/magpie-free-gateways) — unverified / agent-tooling — ⭐11
+- `+` [ady95/jev_tutorial](https://github.com/ady95/jev_tutorial) — inferred / other — ⭐10
+- `+` [jiangkoumo/ego-decision-layer](https://github.com/jiangkoumo/ego-decision-layer) — inferred / community-sdk — ⭐5
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [runzhi214/dsh-jev](https://github.com/runzhi214/dsh-jev) — inferred / routing-guardrails — ⭐0
+- `+` [zhaoxinyu2002/Jev-GAD](https://github.com/zhaoxinyu2002/Jev-GAD) — inferred / community-sdk — ⭐0
+- `+` [tenghuifeng77-ai/jev-ios-ipa-build](https://github.com/tenghuifeng77-ai/jev-ios-ipa-build) — inferred / research-models — ⭐0
+- `+` [GuoLai806/violoop-jev-form-demo](https://github.com/GuoLai806/violoop-jev-form-demo) — inferred / apps-demos — ⭐0
+- `+` [biobitworks/jev-space-invaders](https://github.com/biobitworks/jev-space-invaders) — inferred / agent-tooling — ⭐0
+- `+` [0xGondarxyz/jev-vs-llm](https://github.com/0xGondarxyz/jev-vs-llm) — inferred / evaluation — ⭐0
+- `+` [JosephHardy91/graph-composition-with-dLLMs](https://github.com/JosephHardy91/graph-composition-with-dLLMs) — observed / community-sdk — ⭐0
