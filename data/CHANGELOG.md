@@ -5599,3 +5599,24 @@
 - `+` [MehmetPark92/jev-social](https://github.com/MehmetPark92/jev-social) — inferred / community-sdk — ⭐0
 - `+` [shivaylamba/jev-model-router-for-coding-tasks-oss](https://github.com/shivaylamba/jev-model-router-for-coding-tasks-oss) — inferred / agent-tooling — ⭐0
 - `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
+
+## 2026-10-19T16:35:53+08:00
+- 收录总数 **818**；本次更新新增 **18**
+- `+` [Eliot5566/JEV-Paper-Radar](https://github.com/Eliot5566/JEV-Paper-Radar) — inferred / evaluation — ⭐33
+- `+` [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) — inferred / agent-tooling — ⭐8
+- `+` [abhishekswe/agent-fastpath](https://github.com/abhishekswe/agent-fastpath) — observed / agent-tooling — ⭐6
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [ningg/jev-docs-CN](https://github.com/ningg/jev-docs-CN) — inferred / other — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [Viverun/glimpse-jev](https://github.com/Viverun/glimpse-jev) — inferred / apps-demos — ⭐0
+- `+` [nothingzhl/jev-mcp](https://github.com/nothingzhl/jev-mcp) — inferred / community-sdk — ⭐0
+- `+` [irene6070/building-with-typesafe-jev](https://github.com/irene6070/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Barbieri5288/Jev-Mem](https://github.com/Barbieri5288/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [ali-master/jev-browser-agent](https://github.com/ali-master/jev-browser-agent) — inferred / agent-tooling — ⭐0
+- `+` [AyushChauhan9389/fast-jev-compaction](https://github.com/AyushChauhan9389/fast-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [tydong1231-ux/JevSteer](https://github.com/tydong1231-ux/JevSteer) — inferred / agent-tooling — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [christian-taillon/telltale-systemone](https://github.com/christian-taillon/telltale-systemone) — observed / evaluation — ⭐0
+- `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
+- `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
