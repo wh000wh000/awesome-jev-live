@@ -5706,3 +5706,26 @@
 - `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
 - `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
 - `+` [aimmetal-tech/jev-skills-retrieval](https://github.com/aimmetal-tech/jev-skills-retrieval) — inferred / agent-tooling — ⭐0
+
+## 2026-10-20T03:16:24+08:00
+- 收录总数 **653**；本次更新新增 **20**
+- `+` [bnsd55/jevmlx](https://github.com/bnsd55/jevmlx) — inferred / research-models — ⭐70
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐23
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [keta1930/what-the-jev](https://github.com/keta1930/what-the-jev) — inferred / evaluation — ⭐11
+- `+` [BrendanH18/jev_fsd](https://github.com/BrendanH18/jev_fsd) — inferred / evaluation — ⭐8
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — unverified / agent-tooling — ⭐7
+- `+` [codaaiteam/jev-ai](https://github.com/codaaiteam/jev-ai) — observed / other — ⭐7
+- `+` [qbeka/jev-job-search](https://github.com/qbeka/jev-job-search) — inferred / agent-tooling — ⭐5
+- `+` [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) — inferred / other — ⭐5
+- `+` [gazelle93/decision-models-under-pressure](https://github.com/gazelle93/decision-models-under-pressure) — inferred / routing-guardrails — ⭐4
+- `+` [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) — inferred / community-sdk — ⭐1
+- `+` [mastra-ai/template-competitor-monitor-jev](https://github.com/mastra-ai/template-competitor-monitor-jev) — inferred / agent-tooling — ⭐1
+- `+` [rainyflash/DC-Jev-RL](https://github.com/rainyflash/DC-Jev-RL) — inferred / evaluation — ⭐0
+- `+` [internet-projects/jev27b-mlx](https://github.com/internet-projects/jev27b-mlx) — inferred / research-models — ⭐0
+- `+` [ludvious/ludica-jev](https://github.com/ludvious/ludica-jev) — inferred / apps-demos — ⭐0
+- `+` [coredweller/MonsterJevActionalizer](https://github.com/coredweller/MonsterJevActionalizer) — inferred / other — ⭐0
+- `+` [Shauryagulati/mini-jev](https://github.com/Shauryagulati/mini-jev) — observed / evaluation — ⭐0
+- `+` [jaimebuelta/jev-webinar](https://github.com/jaimebuelta/jev-webinar) — inferred / other — ⭐0
+- `+` [gowtham980/jev-router](https://github.com/gowtham980/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [ricksterv/jev-chief-of-staff](https://github.com/ricksterv/jev-chief-of-staff) — inferred / routing-guardrails — ⭐0
