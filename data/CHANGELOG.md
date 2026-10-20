@@ -5787,3 +5787,16 @@
 - `+` [gbesse/jev-fingerprint](https://github.com/gbesse/jev-fingerprint) — inferred / other — ⭐0
 - `+` [gbesse/jev-roast](https://github.com/gbesse/jev-roast) — inferred / evaluation — ⭐0
 - …另有 2 条新增
+
+## 2026-10-20T09:45:55+08:00
+- 收录总数 **810**；本次更新新增 **10**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐6981
+- `+` [bl888m/jev-bot](https://github.com/bl888m/jev-bot) — inferred / research-models — ⭐17
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [lexingtonhibiki/judgekit](https://github.com/lexingtonhibiki/judgekit) — inferred / community-sdk — ⭐4
+- `+` [s0cks/tev1-datapoint-extractor](https://github.com/s0cks/tev1-datapoint-extractor) — inferred / community-sdk — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [ericostrowski3/jev-release-readiness](https://github.com/ericostrowski3/jev-release-readiness) — inferred / other — ⭐0
+- `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
