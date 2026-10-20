@@ -5933,3 +5933,32 @@
 - `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
 - `+` [marerem/my-jev](https://github.com/marerem/my-jev) — inferred / research-models — ⭐0
 - `+` [zhuanqianfish/local-jev](https://github.com/zhuanqianfish/local-jev) — inferred / other — ⭐0
+
+## 2026-10-21T00:46:38+08:00
+- 收录总数 **811**；本次更新新增 **37**
+- `+` [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://news.ycombinator.com/item?id=50167617) — observed / media-discussions — ⭐27
+- `+` [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) — inferred / agent-tooling — ⭐8
+- `+` [kdcadmin/jev-decision-kit](https://github.com/kdcadmin/jev-decision-kit) — inferred / agent-tooling — ⭐4
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) — inferred / agent-tooling — ⭐3
+- `+` [smha1012/jev-torch](https://github.com/smha1012/jev-torch) — inferred / evaluation — ⭐2
+- `+` [Jev models make agents faster. Hooked control planes steal the difference](https://news.ycombinator.com/item?id=50167932) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [xz-dev/pi-llm-as-jev](https://github.com/xz-dev/pi-llm-as-jev) — inferred / other — ⭐1
+- `+` [TimMikeladze/JevLang](https://github.com/TimMikeladze/JevLang) — inferred / agent-tooling — ⭐1
+- `+` [kentilaok/Jev-Orchestrated-Decision-Mesh](https://github.com/kentilaok/Jev-Orchestrated-Decision-Mesh) — inferred / routing-guardrails — ⭐1
+- `+` [reeschan/pbi-orchestration-jev](https://github.com/reeschan/pbi-orchestration-jev) — inferred / agent-tooling — ⭐1
+- `+` [miniproaissa/laya-browser-agent](https://github.com/miniproaissa/laya-browser-agent) — observed / agent-tooling — ⭐1
+- `+` [bahree/myJEV](https://github.com/bahree/myJEV) — inferred / community-sdk — ⭐1
+- `+` [DCPRevere/jev-emoji](https://github.com/DCPRevere/jev-emoji) — inferred / other — ⭐0
+- `+` [JWE24-code/moqi-jev-loop](https://github.com/JWE24-code/moqi-jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [AsgardMuninn/jev-norma](https://github.com/AsgardMuninn/jev-norma) — inferred / community-sdk — ⭐0
+- `+` [FrancoisMorales892/jev-browser](https://github.com/FrancoisMorales892/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [an80x86/jev-seri](https://github.com/an80x86/jev-seri) — inferred / apps-demos — ⭐0
+- `+` [cathy-kim/jev-workflow](https://github.com/cathy-kim/jev-workflow) — inferred / agent-tooling — ⭐0
+- `+` [Amr-devman/Jev-Lung-Cancer-Detection](https://github.com/Amr-devman/Jev-Lung-Cancer-Detection) — inferred / other — ⭐0
+- `+` [davidmclaughlinemail/jev-router](https://github.com/davidmclaughlinemail/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [TanNhatCMS/jev-rag-lab](https://github.com/TanNhatCMS/jev-rag-lab) — inferred / routing-guardrails — ⭐0
+- `+` [mariobgsp/trading-jev](https://github.com/mariobgsp/trading-jev) — inferred / apps-demos — ⭐0
+- `+` [NikaY108/jev-literature-classifier](https://github.com/NikaY108/jev-literature-classifier) — inferred / apps-demos — ⭐0
+- …另有 12 条新增

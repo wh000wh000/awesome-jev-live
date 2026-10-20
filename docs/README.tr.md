@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-802-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-811-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <b>Türkçe</b> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Canlı dizin** · Son eşitleme: `2026-10-20T22:40:36+08:00` (UTC+8)
-> · Kayıt: **802** · Bu turda yeni: **21** · Uygulama dilleri: **24**
+> **Canlı dizin** · Son eşitleme: `2026-10-21T00:49:07+08:00` (UTC+8)
+> · Kayıt: **811** · Bu turda yeni: **37** · Uygulama dilleri: **24**
 
 <sub>Aşağıdaki her kayıt bu depodaki iş akışı tarafından toplandı, filtrelendi ve yeniden kontrol edildi. Sayılar ve zaman damgaları elle yazılmış bir anlık görüntüden değil, kaynaklardan gelir.</sub>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>🏛️ <a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b>
-<sub>⭐2752 · ✅ official</sub>
+<sub>⭐2753 · ✅ official</sub>
 <sub>TypeSafe&#x27;ın System One API ile geliştirme için aracı becerileri</sub>
 </td>
 <td width="50%" valign="top">
@@ -53,7 +53,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/nandhakishorm--laya/e01e49f0d842b461.png" width="100%" alt="gargpratyush/jev-router">
 <b>🛡️ <a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b>
-<sub>⭐33665 · Python · 👁️ observed</sub>
+<sub>⭐33675 · Python · 👁️ observed</sub>
 <sub>Otokorelasyonsuz Sistem 1 karar motoru. Tek bir ileri geçişte, 100&#x27;den fazla dilde, her türlü metin üzerinde tür belirtilmiş seçim, puan ve evet/hayır kararları; her…</sub>
 </td>
 </tr>
@@ -61,13 +61,13 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/ikermoel--open-alternative-jev/41dab050f73a168f.png" width="100%" alt="NandhaKishorM/laya">
 <b>🧪 <a href="https://github.com/ikermoel/open-alternative-jev">ikermoel/open-alternative-jev</a></b>
-<sub>⭐69 · Python · 👁️ observed</sub>
+<sub>⭐70 · Python · 👁️ observed</sub>
 <sub>TypeSafe&#x27;s Jev için açık kaynaklı alternatif: tek ileri geçişte herhangi bir açık ağırlıklı LLM&#x27;ten yazım denetimli, kalibre edilmiş kararlar sağlayan System One…</sub>
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/tianyucodings--nanojev/e3a564efb81d3d3b.gif" width="100%" alt="ikermoel/open-alternative-jev">
 <b>🔬 <a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b>
-<sub>⭐2572 · Python · 🔎 inferred</sub>
+<sub>⭐2573 · Python · 🔎 inferred</sub>
 <sub>Jev&#x27;ın nano kopyası: paralel kararlar, dinamik adaylar ve uçtan uca eğitim işlem hattı.</sub>
 </td>
 </tr>
@@ -91,14 +91,14 @@
 - [Jev nedir?](#jev-nedir)
 - [Kayıtlar nasıl derecelendirilir](#kayıtlar-nasıl-derecelendirilir)
 - [Resmî SDK'lar ve geliştirici araçları](#resmî-sdklar-ve-geliştirici-araçları) — **7**
-- [Topluluk istemcileri, SDK'lar ve bağdaştırıcılar](#topluluk-istemcileri-sdklar-ve-bağdaştırıcılar) — **178**
-- [Ajan araçları: MCP, kancalar, geçitler ve kodlama ajanları](#ajan-araçları-mcp-kancalar-geçitler-ve-kodlama-ajanları) — **218**
-- [Yönlendirme, koruma kuralları ve onaylar](#yönlendirme-koruma-kuralları-ve-onaylar) — **49**
-- [Değerlendirme, kalibrasyon ve kıyaslamalar](#değerlendirme-kalibrasyon-ve-kıyaslamalar) — **85**
+- [Topluluk istemcileri, SDK'lar ve bağdaştırıcılar](#topluluk-istemcileri-sdklar-ve-bağdaştırıcılar) — **165**
+- [Ajan araçları: MCP, kancalar, geçitler ve kodlama ajanları](#ajan-araçları-mcp-kancalar-geçitler-ve-kodlama-ajanları) — **227**
+- [Yönlendirme, koruma kuralları ve onaylar](#yönlendirme-koruma-kuralları-ve-onaylar) — **51**
+- [Değerlendirme, kalibrasyon ve kıyaslamalar](#değerlendirme-kalibrasyon-ve-kıyaslamalar) — **86**
 - [Açık yeniden üretimler, ağırlıklar ve mimari araştırması](#açık-yeniden-üretimler-ağırlıklar-ve-mimari-araştırması) — **51**
-- [Uygulamalar, oyunlar, robotik ve etkileşimli demolar](#uygulamalar-oyunlar-robotik-ve-etkileşimli-demolar) — **43**
-- [Yazılar, tartışmalar ve kardeş listeler](#yazılar-tartışmalar-ve-kardeş-listeler) — **84**
-- [Diğer projeler](#diğer-projeler) — **87**
+- [Uygulamalar, oyunlar, robotik ve etkileşimli demolar](#uygulamalar-oyunlar-robotik-ve-etkileşimli-demolar) — **45**
+- [Yazılar, tartışmalar ve kardeş listeler](#yazılar-tartışmalar-ve-kardeş-listeler) — **86**
+- [Diğer projeler](#diğer-projeler) — **93**
 - [Uygulama diline göre projeler](#uygulama-diline-göre-projeler)
 
 ## Jev nedir?
@@ -131,7 +131,7 @@ Bu alandaki çoğu liste dahil ettiğini iddia eder. Bu liste gerçekte ne kadar
 TypeSafe'in kendi yayımladığı her şey. Buradan başlayın.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2752 · ✅ official · 38 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2753 · ✅ official · 38 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -148,11 +148,11 @@ TypeSafe'ın System One API ile geliştirme için aracı becerileri
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **2752**   |
-| Son push       | 2026-09-12 |
-| İlk listelenme | 2026-09-18 |
+| Ölçüt          | Değer         |
+| -------------- | ------------- |
+| Yıldız         | **2753** (+1) |
+| Son push       | 2026-09-12    |
+| İlk listelenme | 2026-09-18    |
 
 </details>
 
@@ -184,7 +184,7 @@ LLM APIs tarafından desteklenen tak-çalıştır TypeSafeClient alternatifi
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐302 · Python · ✅ official · 5 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐301 · Python · ✅ official · 5 天 · ⭐-1</summary>
 
 ##### 📝 Özet
 
@@ -204,11 +204,11 @@ TypeSafe API için resmî Python kitaplığı
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **302**    |
-| Son push       | 2026-10-14 |
-| İlk listelenme | 2026-10-20 |
+| Ölçüt          | Değer        |
+| -------------- | ------------ |
+| Yıldız         | **301** (-1) |
+| Son push       | 2026-10-14   |
+| İlk listelenme | 2026-10-20   |
 
 </details>
 
@@ -267,7 +267,7 @@ A custom coding harness for TypeSafe AI's Jev: an LLM proposes, Jev answers narr
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/WorkflowEvals">typesafe-ai/WorkflowEvals</a></b> · ⭐19 · Python · ✅ official · 20 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/WorkflowEvals">typesafe-ai/WorkflowEvals</a></b> · ⭐19 · Python · ✅ official · 21 天</summary>
 
 ##### 📝 Özet
 
@@ -569,7 +569,7 @@ Community-maintained Go SDK for the TypeSafe AI System One evaluation API, with 
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/frodi-karlsson/onesie">frodi-karlsson/onesie</a></b> · ⭐3 · Go · 👁️ observed · 3 天</summary>
+<summary>🧰 <b><a href="https://github.com/frodi-karlsson/onesie">frodi-karlsson/onesie</a></b> · ⭐3 · Go · 👁️ observed · 4 天</summary>
 
 ##### 📝 Özet
 
@@ -623,7 +623,7 @@ Açık ağırlıklı System One modeli (Jev uyumlu): tek ileri geçişte, metin 
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/chussenot/judgment">chussenot/judgment</a></b> · ⭐1 · Rust · 👁️ observed · 1 天</summary>
+<summary>🧰 <b><a href="https://github.com/chussenot/judgment">chussenot/judgment</a></b> · ⭐1 · Rust · 👁️ observed · 2 天</summary>
 
 ##### 📝 Özet
 
@@ -686,7 +686,7 @@ Yapay zekâ ajanları için federatif bilgi erişim motoru. Sorguları, TypeSafe
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12954 · Python · 🔎 inferred · 1 天 · ⭐+2</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12956 · Python · 🔎 inferred · 1 天 · ⭐+2</summary>
 
 ##### 📝 Özet
 
@@ -704,7 +704,7 @@ Açık kaynaklı AI Trading OS, ajan ticareti ve vibe trading; Jev System One en
 
 | Ölçüt          | Değer          |
 | -------------- | -------------- |
-| Yıldız         | **12954** (+2) |
+| Yıldız         | **12956** (+2) |
 | Son push       | 2026-10-19     |
 | İlk listelenme | 2026-09-20     |
 
@@ -720,7 +720,7 @@ Açık kaynaklı AI Trading OS, ajan ticareti ve vibe trading; Jev System One en
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐2826 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐2827 · TypeScript · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -736,11 +736,11 @@ Ne yaptığını sorarak kodu bulun. İlgili dosyaları ve kaynak bağlamını k
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **2826**   |
-| Son push       | 2026-10-20 |
-| İlk listelenme | 2026-09-27 |
+| Ölçüt          | Değer         |
+| -------------- | ------------- |
+| Yıldız         | **2827** (+1) |
+| Son push       | 2026-10-20    |
+| İlk listelenme | 2026-09-27    |
 
 🏷 `ai-sdk` · `claude-code` · `cli` · `code-search` · `codex` · `coding-agents` · `context-retrieval` · `developer-tools`
 
@@ -858,7 +858,7 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 160</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 147</sub></summary>
 
 - [CMaintz/jev-dotnet](https://github.com/CMaintz/jev-dotnet) - TypeSafe AI.
 - [CMaintz/jev-java](https://github.com/CMaintz/jev-java) - TypeSafe AI.
@@ -899,7 +899,6 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 - [docxology/daf-jev](https://github.com/docxology/daf-jev) - daf-jev: TypeSafe&#x27;ın Jev (System One) karar API&#x27;ü için birleştirilebilir Python…
 - [haileyok/typesafe-client](https://github.com/haileyok/typesafe-client) - TypeSafe AI System One API (Jev) için resmi olmayan Go ve Rust istemcileri.
 - [Olti1947/jev-java](https://github.com/Olti1947/jev-java) - TypeSafe AI Jev System One karar motoru için deyimsel Java SDK.
-- [Stumble/jev-go](https://github.com/Stumble/jev-go) - TypeSafe AI Jev / System One için topluluk Go SDK.
 - [JimmyWesley/rlcd-gateway](https://github.com/JimmyWesley/rlcd-gateway) - LLMs ve karar modelleri için kendi sunucunuzda çalıştırabileceğiniz ağ geçidi.
 - [Kadihx/jev-x-kit](https://github.com/Kadihx/jev-x-kit) - Kodlama aracıları için çevrimdışı 0 $ karar katmanı: Choice/Score/Noul…
 - [lexingtonhibiki/judgekit](https://github.com/lexingtonhibiki/judgekit) - YAML-based classification, routing, scoring and verification.
@@ -911,31 +910,28 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 - [nshkrdotcom/system_one_sdk](https://github.com/nshkrdotcom/system_one_sdk) - System One semantiği için sağlayıcıdan bağımsız Elixir/BEAM SDK: tür bilgili…
 - [PAI-CUHK/SLEEPJEV](https://github.com/PAI-CUHK/SLEEPJEV) - Uzun ufuklu PSG üzerinde JEV esinli tür bilgili çalışma zamanı kararları…
 - [AboveColin/jevclient](https://github.com/AboveColin/jevclient) - TypeSafe Jev için asenkron Python istemcisi.
+- [bahree/myJEV](https://github.com/bahree/myJEV) - Karar modellerini sıfırdan oluşturun ve Qwen.
 - [bspiritxp/jev-cli](https://github.com/bspiritxp/jev-cli) - TypeSafe Jev (System One) yapılandırılmış kararları için CLI istemcisi: noul /…
 - [chayan-bit/Jev-Frame](https://github.com/chayan-bit/Jev-Frame) - Typed, auditable Jev decisions for Python agents, with an optional shared…
 - [Hyper-AI-Lab/openclaw-jev](https://github.com/Hyper-AI-Lab/openclaw-jev) - OpenClaw ajanları için üretim kontrol düzlemi: Jev ile alım yönlendirme…
 - [MrKyaw/CognitiveMirror-Jev-MCP](https://github.com/MrKyaw/CognitiveMirror-Jev-MCP) - Cognitive middleware for personal and enterprise AI agents: 14 MCP tools and a…
 - [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) - Karşılaştırma: Playwright CLI ile CLI+Jev ve Playwright MCP.
 - [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) - High-speed System One decision sidecar &amp; Copilot CLI pre-turn hook powered by…
-- [aliliu604/jev-social](https://github.com/aliliu604/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [analee08998/jev-social](https://github.com/analee08998/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [aRamirez51/jev-browser](https://github.com/aRamirez51/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
-- [AranyaTrinh61946/building-with-typesafe-jev](https://github.com/AranyaTrinh61946/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Arnabest/embeddinggemma-2-jev](https://github.com/Arnabest/embeddinggemma-2-jev) - Non-destructive Multimodal Base with 7KB Modular Causal Decision Adapter for…
+- [AsgardMuninn/jev-norma](https://github.com/AsgardMuninn/jev-norma) - Jev (System One) geçit olarak kullanılarak normatif LatAm triyajı: İspanyolca…
 - [astridm401/building-with-typesafe-jev](https://github.com/astridm401/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Barbara88985/jev-browser](https://github.com/Barbara88985/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [Barbarad784/building-with-typesafe-jev](https://github.com/Barbarad784/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [barbieri50751/jev-browser](https://github.com/barbieri50751/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [cGreen8820/building-with-typesafe-jev](https://github.com/cGreen8820/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
+- [Christopher76418/jev-social](https://github.com/Christopher76418/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [CMaintz/jev-tools](https://github.com/CMaintz/jev-tools) - TypeSafe AI.
 - [codebam/jev-guardrails](https://github.com/codebam/jev-guardrails) - Ajan araç çağrıları için Jev destekli korumalar: kütüphane, yerel…
 - [Cook58010/building-with-typesafe-jev](https://github.com/Cook58010/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
-- [cruz62/jev-browser](https://github.com/cruz62/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [davideozkan/building-with-typesafe-jev](https://github.com/davideozkan/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [dbehelitate/killercoda--scenario--redteam.JEV](https://github.com/dbehelitate/killercoda--scenario--redteam.JEV) - agentgateway LLM Guardrails: JEV Integration Playground This repository…
-- [DemetCosta2224/building-with-typesafe-jev](https://github.com/DemetCosta2224/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
-- [evans13683/jev-social](https://github.com/evans13683/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [EvgenyKondo7263/jev-social](https://github.com/EvgenyKondo7263/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
+- [FrancoisMorales892/jev-browser](https://github.com/FrancoisMorales892/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [Gabriele354/jev-browser](https://github.com/Gabriele354/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) - Semantic SQL predicates for MariaDB powered by TypeSafe Jev.
 - [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) - Community TypeSafe Jev semantic decision integration for meilisearch.
@@ -943,40 +939,35 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 - [GiuliaCosta9680/building-with-typesafe-jev](https://github.com/GiuliaCosta9680/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [gPastore7188/jev-social](https://github.com/gPastore7188/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [Gregory78529/jev-browser](https://github.com/Gregory78529/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
-- [gregorysimmons82/building-with-typesafe-jev](https://github.com/gregorysimmons82/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Harshall25/jev-mcp-tool](https://github.com/Harshall25/jev-mcp-tool) - Local-first context optimization, persistent memory and code search for OpenAI…
 - [HelenOkada5684/building-with-typesafe-jev](https://github.com/HelenOkada5684/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [HillPhelmuth/JevDotNet](https://github.com/HillPhelmuth/JevDotNet) - c# SDK for &quot;System One&quot; decisions models like Jev.
-- [Hughes941/jev-social](https://github.com/Hughes941/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [IngridWolf551/jev-social](https://github.com/IngridWolf551/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [irene6070/building-with-typesafe-jev](https://github.com/irene6070/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [ivanblagdan/jev-cli](https://github.com/ivanblagdan/jev-cli) - Composable CLI for TypeSafe.
 - [Jacquelinek7988/building-with-typesafe-jev](https://github.com/Jacquelinek7988/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
-- [jaeminpandey27/building-with-typesafe-jev](https://github.com/jaeminpandey27/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
+- [Jang6768/jev-social](https://github.com/Jang6768/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [jaworski88/jev-browser](https://github.com/jaworski88/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
-- [JuliaOwens06112/building-with-typesafe-jev](https://github.com/JuliaOwens06112/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [justincastro88624/jev-social](https://github.com/justincastro88624/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [Karnaf0katom/jev-auto-effort](https://github.com/Karnaf0katom/jev-auto-effort) - Experimental Jev-based reasoning effort selection and declared helper model…
+- [khalidgreco02405/jev-social](https://github.com/khalidgreco02405/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
+- [Kohaku8046/jev-social](https://github.com/Kohaku8046/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [larrydavis089/jev-social](https://github.com/larrydavis089/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [LorenzoFujita94/jev-social](https://github.com/LorenzoFujita94/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [Lorenzok353/building-with-typesafe-jev](https://github.com/Lorenzok353/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Luuk736/jev-social](https://github.com/Luuk736/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [Lypt1x/rbxts-jev](https://github.com/Lypt1x/rbxts-jev) - Typed, functional TypeSafe Jev client for roblox-ts.
 - [manonm8018/jev-social](https://github.com/manonm8018/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [margauxbutler/jev-browser](https://github.com/margauxbutler/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [MarieChaudhry/jev-social](https://github.com/MarieChaudhry/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
 - [MehmetPark92/jev-social](https://github.com/MehmetPark92/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [Mercier94509/jev-browser](https://github.com/Mercier94509/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [michelleklein16228/building-with-typesafe-jev](https://github.com/michelleklein16228/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [mohammed45095/jev-browser](https://github.com/mohammed45095/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [mraad/duckdb-jev-spatial](https://github.com/mraad/duckdb-jev-spatial) - Native DuckDB extension with Jev-style SQL functions backed by a local Laya…
 - [must-goldenrod/jev-router-effort](https://github.com/must-goldenrod/jev-router-effort) - A tool that automatically routes user requests to specific models—such as those…
+- [mustafadeluca/building-with-typesafe-jev](https://github.com/mustafadeluca/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [mVasquez58324/building-with-typesafe-jev](https://github.com/mVasquez58324/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [mZhou989/building-with-typesafe-jev](https://github.com/mZhou989/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [NancyDejager/building-with-typesafe-jev](https://github.com/NancyDejager/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [nereacastro6340/building-with-typesafe-jev](https://github.com/nereacastro6340/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [nothingzhl/jev-mcp](https://github.com/nothingzhl/jev-mcp) - Local MCP and CLI for versioned TypeSafe Jev judgments.
-- [nwroblewski90224/jev-browser](https://github.com/nwroblewski90224/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [ogarciarevett/jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk) - Python için TypeSafe kaynaklı tür belirlenmiş Jev yargıları.
 - [OlivierOrlov/jev-browser](https://github.com/OlivierOrlov/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [omur59/jev-browser](https://github.com/omur59/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
@@ -987,11 +978,8 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 - [Ridlo543/jev-judge](https://github.com/Ridlo543/jev-judge) - Universal Model Context Protocol (MCP) server and CLI runner for TypeSafe Jev…
 - [Riya07603/building-with-typesafe-jev](https://github.com/Riya07603/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [royalskynet/jev-gate-mcp](https://github.com/royalskynet/jev-gate-mcp) - GPT, Claude ve MCP istemcileri için yönetilen Jev karar ağ geçidi.
-- [sagahashimoto/building-with-typesafe-jev](https://github.com/sagahashimoto/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Sidneeuncharged29/jev-visual](https://github.com/Sidneeuncharged29/jev-visual) - MLX aracılığıyla Qwen3.5-0.8B ile Apple Silicon üzerinde görsel-dil modeli…
 - [siripornr84962/jev-social](https://github.com/siripornr84962/jev-social) - Instagram, TikTok ve LinkedIn için açık kaynaklı, yerel öncelikli sosyal medya…
-- [Stavrost15582/jev-browser](https://github.com/Stavrost15582/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
-- [stefanahmed471/jev-browser](https://github.com/stefanahmed471/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [Supachaiw792/jev-browser](https://github.com/Supachaiw792/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
 - [SupachaiWright84572/building-with-typesafe-jev](https://github.com/SupachaiWright84572/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [SvenKunkka/browser-use-jev-bridge](https://github.com/SvenKunkka/browser-use-jev-bridge) - Hybrid browser automation tool combining a Jev-style fast policy with Browser…
@@ -999,7 +987,6 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 - [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) - Complete-article Wiki assistant with reproducible RAG comparisons and…
 - [TLatAccenture/graphs-and-jev](https://github.com/TLatAccenture/graphs-and-jev) - MCP Araç Deposu: Cloud Run üzerinde bir Rust hizmeti tarafından sunulan…
 - [wKarahan52/jev-browser](https://github.com/wKarahan52/jev-browser) - Bir LLM&#x27;ın planladığı ve Jev&#x27;in (Typesafe System One) karar verdiği tarayıcı…
-- [Wolfgang7570/building-with-typesafe-jev](https://github.com/Wolfgang7570/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Wu10780/building-with-typesafe-jev](https://github.com/Wu10780/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
 - [Yasir-Khan-7/jev-sentinel](https://github.com/Yasir-Khan-7/jev-sentinel) - LangChain / LangGraph AI ajanları için prompt injection koruması ve araç…
 - [Yusufg0336/building-with-typesafe-jev](https://github.com/Yusufg0336/building-with-typesafe-jev) - Kodlama aracılarına TypeSafe AI.
@@ -1030,7 +1017,7 @@ Evinize bir soru sorun, karşılığında bir sayı alın. TypeSafe Jev için Ho
 En hızlı büyüyen kategori: bir ajanın sonraki eyleminin önüne tipli bir karar koyan kancalar, MCP sunucuları ve geçitler.
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7714 · TypeScript · 🔎 inferred · 32 天 · ⭐+3</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7718 · TypeScript · 🔎 inferred · 32 天 · ⭐+4</summary>
 
 ##### 📝 Özet
 
@@ -1050,7 +1037,7 @@ Claude sıkıştırma özetini Jev kararıyla değiştiren Code eklentisi: her a
 
 | Ölçüt          | Değer         |
 | -------------- | ------------- |
-| Yıldız         | **7714** (+3) |
+| Yıldız         | **7718** (+4) |
 | Son push       | 2026-09-18    |
 | İlk listelenme | 2026-09-18    |
 
@@ -1120,7 +1107,7 @@ Codex için tur başına model ve akıl yürütme yönlendirmesi; Jev (TypeSafe 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/strands-labs/strands-decider">strands-labs/strands-decider</a></b> · ⭐677 · Python · 👁️ observed · 0 天 · ⭐+2</summary>
+<summary>🤖 <b><a href="https://github.com/strands-labs/strands-decider">strands-labs/strands-decider</a></b> · ⭐677 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -1136,11 +1123,11 @@ Ajan tabanlı iş akışları için küçük, hızlı bir karar modeli veya Syst
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer        |
-| -------------- | ------------ |
-| Yıldız         | **677** (+2) |
-| Son push       | 2026-10-19   |
-| İlk listelenme | 2026-10-02   |
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **677**    |
+| Son push       | 2026-10-20 |
+| İlk listelenme | 2026-10-02 |
 
 🏷 `ai` · `machine-learning` · `natural-language-understanding` · `python` · `strands-agents` · `strands-labs` · `system-one` · `system-one-models`
 
@@ -1427,7 +1414,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/dfranco-projects/jev-guardbench">dfranco-projects/jev-guardbench</a></b> · ⭐2 · Python · 👁️ observed · 15 天</summary>
+<summary>🤖 <b><a href="https://github.com/dfranco-projects/jev-guardbench">dfranco-projects/jev-guardbench</a></b> · ⭐2 · Python · 👁️ observed · 16 天</summary>
 
 ##### 📝 Özet
 
@@ -1495,7 +1482,7 @@ TypeSafe JEV özgeçmiş taraması: LLM soruları yazar, JEV (System One sınıf
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐23325 · Python · 🔎 inferred · 20 天 · ⭐+6</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐23328 · Python · 🔎 inferred · 20 天 · ⭐+3</summary>
 
 ##### 📝 Özet
 
@@ -1513,7 +1500,7 @@ En hızlı ve en ucuz web aracısı
 
 | Ölçüt          | Değer          |
 | -------------- | -------------- |
-| Yıldız         | **23325** (+6) |
+| Yıldız         | **23328** (+3) |
 | Son push       | 2026-09-30     |
 | İlk listelenme | 2026-09-18     |
 
@@ -1527,7 +1514,7 @@ En hızlı ve en ucuz web aracısı
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8154 · Go · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8155 · Go · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -1545,7 +1532,7 @@ En hızlı ve en ucuz web aracısı
 
 | Ölçüt          | Değer         |
 | -------------- | ------------- |
-| Yıldız         | **8154** (+1) |
+| Yıldız         | **8155** (+1) |
 | Son push       | 2026-10-19    |
 | İlk listelenme | 2026-09-25    |
 
@@ -1563,7 +1550,7 @@ En hızlı ve en ucuz web aracısı
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 200</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 209</sub></summary>
 
 - [tiffygk/jev-mode](https://github.com/tiffygk/jev-mode) - Claude Code/Codex skills, evals, harnesses/context tools, and learning…
 - [yohanargentina-oss/Foq](https://github.com/yohanargentina-oss/Foq) - ⚡ Foq — Jev.
@@ -1575,14 +1562,17 @@ En hızlı ve en ucuz web aracısı
 - [Last-Humans-Coding-Under-White-Nights/arkui-sem](https://github.com/Last-Humans-Coding-Under-White-Nights/arkui-sem) - Kodlama ajanları için anlamsal ArkUI linter.
 - [rajasekharponakala/jev-mcp](https://github.com/rajasekharponakala/jev-mcp) - TypeSafe.
 - [BFLabsAI/bf-jev-deep-research](https://github.com/BFLabsAI/bf-jev-deep-research) - Jev (TypeSafe AI System One Model) hakkında Agent Skill + kelimesi kelimesine…
+- [miniproaissa/laya-browser-agent](https://github.com/miniproaissa/laya-browser-agent) - Çoklu arka uç desteği ve açık kontrol noktası varsayılanlarıyla Jev benzeri…
 - [stern9/jev-bench](https://github.com/stern9/jev-bench) - Benchmark TypeSafe.
 - [api-evangelist/typesafe-ai](https://github.com/api-evangelist/typesafe-ai) - TypeSafe AI, System One modelleri geliştiren San Francisco merkezli bir AI…
 - [CrowBe/weave](https://github.com/CrowBe/weave) - System One modeli için Agent Harness.
+- [Dinosaur-MC/dsh-decision-tools](https://github.com/Dinosaur-MC/dsh-decision-tools) - DSH plugin that turns a local Ollama System One model into two agent tools…
 - [exoticknight/dsh-system1](https://github.com/exoticknight/dsh-system1) - Asks System One models for yes/no, choice, score, and image-box judgments with…
 - [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) - An independent, evidence-first field guide to Jev.
 - [gsaini/system-one-models-getting-started](https://github.com/gsaini/system-one-models-getting-started) - TypeSafe.
 - [hendrik77/cap-jev](https://github.com/hendrik77/cap-jev) - Plugin for SAP CAP that adds an internal decision service for Jev-compatible…
 - [jms-dcksn/uipath-jev-guardrail-connector](https://github.com/jms-dcksn/uipath-jev-guardrail-connector) - TypeSafe Jev System One modeliyle desteklenen UiPath kendi guardrail.
+- [kreeger/pi-system-one-gate](https://github.com/kreeger/pi-system-one-gate) - A plugin for the Pi coding agent that leverages System One model APIs for…
 - [lucast4049/openjev](https://github.com/lucast4049/openjev) - Açık System One modellerinde Jev uyumlu bir API ile hızlı, kalibre edilmiş…
 - [Mainakcris7/agent-guardrail-with-jev](https://github.com/Mainakcris7/agent-guardrail-with-jev) - A practical demo of how can we leverage the power of System One Models like Jev…
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Sohbet karar asistanı: yanıt vermeden önce Jev sohbeti okur, niyeti ve riski…
@@ -1652,15 +1642,18 @@ En hızlı ve en ucuz web aracısı
 - [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) - Etkileyicilikten çok kanıt. &quot;Tamamlandı&quot; iddialarını ve küçük yargı çağrılarını…
 - [Jessie-QingYu/jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) - Gerçek dünyadaki Jev kullanım alanları, açık kaynak projeleri, kıyaslamalar ve…
 - [ranjan2829/AskJev](https://github.com/ranjan2829/AskJev) - AskJev — herhangi bir web sitesi için Jev otomatik pilotu + geri döndürülemez…
+- [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) - Training data and models for &quot;system one&quot; classifiers: one forward pass, no…
 - [FazalAAli/jev-robotics-demo](https://github.com/FazalAAli/jev-robotics-demo) - MuJoCo.
 - [Charlyhno-eng/jev-codex-pilot](https://github.com/Charlyhno-eng/jev-codex-pilot) - AI Software Factory for Codex. Intelligent task routing, contextual…
 - [reacher-z/Awesome-Jev](https://github.com/reacher-z/Awesome-Jev) - Curated Jev and System One papers, models, datasets, benchmarks and SDKs, with…
 - [abhishekashokvkumar/jev-mcp-dispatcher](https://github.com/abhishekashokvkumar/jev-mcp-dispatcher) - Tamamen TypeSafe&#x27;in Jev&#x27;si tarafından desteklenen doğal dil MCP araç dağıtıcısı…
+- [kdcadmin/jev-decision-kit](https://github.com/kdcadmin/jev-decision-kit) - 一个只负责技能，MCP，skill，插件筛选的jev模型，也能管理技能，MCP，skill和插件.
 - [lgy1027/jevshield](https://github.com/lgy1027/jevshield) - TypeSafe.
 - [nanami-0713/dsh-jev-decide](https://github.com/nanami-0713/dsh-jev-decide) - DSH eklentisi: TypeSafe Jev.
 - [pCwOrM/werr](https://github.com/pCwOrM/werr) - Mandelbrot dalga dinamikleri tarafından desteklenen sıfır bellekli System-1…
 - [shashikantdev3/decision-models-lab](https://github.com/shashikantdev3/decision-models-lab) - Learn decision models by building with them.
 - [simota/tenbin](https://github.com/simota/tenbin) - TypeSafe AI System One API için MCP sunucusu ve aracı becerisi (Jev): bir…
+- [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) - TypeScript derleyicisini ve Jev.
 - [deepansh-saxena/jev-guardrails](https://github.com/deepansh-saxena/jev-guardrails) - Aracı korumaları için LLM-hakem ile TypeSafe Jev karşılaştırması: aynı…
 - [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) - Jev (TypeSafe System One), aracının değil insanın ikinci görüşünü sunar.
 - [holny/evolve-router](https://github.com/holny/evolve-router) - Stop burning premium model tokens on simple prompts. Save tokens.
@@ -1675,6 +1668,7 @@ En hızlı ve en ucuz web aracısı
 - [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) - AI ajanı mimarileri için hızlı System 1 alım kapısı: herhangi bir şey bir…
 - [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) - Jev / TypeSafe &quot;System One&quot; model ekosisteminin seçilmiş merkezi — kavramlar…
 - [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) - Jev (TypeSafe System One) için MCP sunucusu: üç resmî soru türü — choice…
+- [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) - Pi extension that audits rpiv-todo board drift every 10 agent loops using…
 - [1aifanatic/jev-uipath-coded-agent](https://github.com/1aifanatic/jev-uipath-coded-agent) - FINS demosu: her kararın bir LLM yerine TypeSafe.
 - [aitofy-dev/jev-awesome-skills](https://github.com/aitofy-dev/jev-awesome-skills) - Claude Code, Codex, Cursor ve Grok için açık kaynaklı Jev becerileri.
 - [ali-master/jev-browser-agent](https://github.com/ali-master/jev-browser-agent) - Jev is a browser agent for multi-step browsing and research.
@@ -1698,8 +1692,10 @@ En hızlı ve en ucuz web aracısı
 - [jbatra-umeey/jev-decisionops](https://github.com/jbatra-umeey/jev-decisionops) - Aracı tabanlı yapay zekâ için altı Jev karar iş akışı: model yönlendirme…
 - [JoaoClemer/jev-lab](https://github.com/JoaoClemer/jev-lab) - Jev (TypeSafe AI), iş amaçlı konuşma aracıları için gerçek zamanlı koruma ve ön…
 - [kelasdev/jev-skill-router](https://github.com/kelasdev/jev-skill-router) - OpenCode eklentisi: Jev karar modeli, sistem istemine eklemek üzere en fazla…
+- [reeschan/pbi-orchestration-jev](https://github.com/reeschan/pbi-orchestration-jev) - PBI.
 - [samuelyossef/jev-openfast](https://github.com/samuelyossef/jev-openfast) - JEV OpenFast Browser — chat browser agent with live preview and manual control.
 - [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) - JEV for quilt as understood output: cellular-first decision substrate — typed…
+- [TimMikeladze/JevLang](https://github.com/TimMikeladze/JevLang) - A policy engine for LLM decisions: declare routes, gates and actions once in…
 - [zhuyansen/awesome-typesafe-jev](https://github.com/zhuyansen/awesome-typesafe-jev) - TypeSafe.
 - [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) - JEV-driven grilling skill: typed contract, provider discovery, setup scripts…
 - [1arley/jev-advisor-gateway](https://github.com/1arley/jev-advisor-gateway) - Local gateway that routes coding-agent tool decisions through Jev and can…
@@ -1711,13 +1707,15 @@ En hızlı ve en ucuz web aracısı
 - [ashp15205/jev-laya-system-1](https://github.com/ashp15205/jev-laya-system-1) - jev-laya-system-1: Security &amp; calibration middleware for System 1 AI models…
 - [bakiabaci/awesome-jev](https://github.com/bakiabaci/awesome-jev) - The Definitive, Evidence-Backed Radar of 7,400+ Typed Decision Models.
 - [Barbieri5288/Jev-Mem](https://github.com/Barbieri5288/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
-- [BartoszFontana82488/Jev-Mem](https://github.com/BartoszFontana82488/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [bpmforbusiness/jev-agent-harness](https://github.com/bpmforbusiness/jev-agent-harness) - Jev (TypeSafe AI System One) ajan harness kılavuzu + video el kitabı…
 - [cameronb-xano/jev-agent-guardrail](https://github.com/cameronb-xano/jev-agent-guardrail) - Xano şablonu: Jev ajan araç çağrısı güvenlik katmanı.
 - [Caph-dev/pi-jev-router](https://github.com/Caph-dev/pi-jev-router) - Jev-routed two-phase virtual model for pi: plan on a strong model, implement on…
+- [cathy-kim/jev-workflow](https://github.com/cathy-kim/jev-workflow) - Portable Jev decision workflow: Claude Code plugin, offline examples and…
 - [chinmayakelkar/jev-plan-review](https://github.com/chinmayakelkar/jev-plan-review) - Claude Code plugin that checks whether a plan reflects every requirement…
 - [Covre81/jev-router](https://github.com/Covre81/jev-router) - Local Anthropic-compatible gateway that routes Claude Code traffic across…
 - [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) - Claude için Jev destekli bir model yönlendirme ve beceri seçimi MOD.
+- [davidmclaughlinemail/jev-router](https://github.com/davidmclaughlinemail/jev-router) - Claude Code mod: routes each turn to Haiku, Opus or Fable via Jev, and sends…
+- [Donatasramanauskas007/open-jev](https://github.com/Donatasramanauskas007/open-jev) - MLX veya PyTorch üzerinde Gemma 3 4B ile tek geçişte Score seçenek;
 - [forrestneo/jev-sim](https://github.com/forrestneo/jev-sim) - jev-sim: ZCode oturum modeli üzerinde Jev tarzı türlendirilmiş kararlar…
 - [gbesse/jev-agent-draft](https://github.com/gbesse/jev-agent-draft) - Choose the right agent, MCP server, or skill before granting access.
 - [georgeykalangi/jev-ai-demo](https://github.com/georgeykalangi/jev-ai-demo) - Runnable demo of how Jev (TypeSafe System One) works: typed questions in…
@@ -1729,25 +1727,23 @@ En hızlı ve en ucuz web aracısı
 - [ivanb5498/Jev-Mem](https://github.com/ivanb5498/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [jipika/dsh-jev-grep](https://github.com/jipika/dsh-jev-grep) - DeepSeek Harness için arama seli karar eklentisi: ripgrep + TypeSafe Jev tür…
 - [JWE24-code/dsh-jev-loop](https://github.com/JWE24-code/dsh-jev-loop) - Jev (TypeSafe System One) judgments at the DeepSeek Harness agent-loop gates.
+- [JWE24-code/moqi-jev-loop](https://github.com/JWE24-code/moqi-jev-loop) - The /JevLoop control panel for moqi, on top of dsh-jev-loop.
 - [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) - Claude Code, Claude Desktop ve Codex uygulamalarının kararları yerel bir ağ…
+- [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) - Jev progress judgment between DeepSeek Harness goal rounds — one fan-out per…
 - [maurorosero/hermes-jev-helper](https://github.com/maurorosero/hermes-jev-helper) - Hermes harness plugin — Jev-backed intent classifier that routes each turn to a…
 - [Mfrostbutter/jev-n8n-patterns](https://github.com/Mfrostbutter/jev-n8n-patterns) - n8n.
 - [MichelePolo/jev-mcp](https://github.com/MichelePolo/jev-mcp) - Jev tarzı System One karar modellerini (Ollama /v1/systemone) araçlar olarak…
 - [Mrmimee/hermes-plugin-jev](https://github.com/Mrmimee/hermes-plugin-jev) - Jev (TypeSafe AI) System One decision engine plugin for Hermes Agent, backed by…
-- [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) - JEV-assisted agent loops for Pi, with scoped approval and evidence-gated…
 - [NeelakandanNC/jev-experiments](https://github.com/NeelakandanNC/jev-experiments) - Jev, TypeSafe.
-- [orlov94736/Jev-Mem](https://github.com/orlov94736/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [panaalexandrucristian/jev-mcp-private](https://github.com/panaalexandrucristian/jev-mcp-private) - Claude Code ve OpenCode eklenti paketlemesiyle jkudish/jev-mcp.
 - [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) - JEV / TypeSafe System One ile oluşturulmuş GitHub projelerinin kaynak…
 - [rgreen4374/Jev-Mem](https://github.com/rgreen4374/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [sabrina-fan/jev-review](https://github.com/sabrina-fan/jev-review) - Jev tarafından desteklenen, yapay zekâ kodlama aracıları için yerel öncelikli…
 - [shivaylamba/jev-model-router-for-coding-tasks-oss](https://github.com/shivaylamba/jev-model-router-for-coding-tasks-oss) - Open Source Models via Nebius Token Factory: Jev routes Claude Code across…
 - [siso-os/jev-agent-skills](https://github.com/siso-os/jev-agent-skills) - Ajanınız için muhafazakâr bir ikinci görüş: taşınabilir yetenekler olarak amaç…
-- [stephane8977/Jev-Mem](https://github.com/stephane8977/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [tmbmartell/jev-mcp](https://github.com/tmbmartell/jev-mcp) - Servidor MCP que expõe o Jev (TypeSafe System One) como ferramenta de…
 - [vinaychawla-ops/jev-adk-guardrail-example](https://github.com/vinaychawla-ops/jev-adk-guardrail-example) - Bir Google ADK ajanının before_tool_callback.
 - [xano-community/agent-guardrail-jev](https://github.com/xano-community/agent-guardrail-jev) - Xano için yapay zekâ aracı çağrısı güvenlik katmanı: Jev (TypeSafe AI) her…
-- [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) - jev-ultrafast 的 DeepSeek Harness 插件实现，在dhs对话中用自然语言驱动真实浏览器，利用jev模型实现浏览器操控.
 - [yangzhou-chaofan/awesome-jev-prompt](https://github.com/yangzhou-chaofan/awesome-jev-prompt) - x / github / en yeni kaynaklardan jev için en yeni 100 vitrin (güncel tutun).
 - [yMerkel30691/Jev-Mem](https://github.com/yMerkel30691/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [ZeroX-01/jev-atlas](https://github.com/ZeroX-01/jev-atlas) - Gerçek TypeSafe JEV projelerinin, videolarının, makalelerinin ve açık kaynak…
@@ -1775,7 +1771,7 @@ En hızlı ve en ucuz web aracısı
 Üretim biçimli kullanım senaryosu — her isteği gerçekten kaldırabilecek en ucuz modele gönderin ve sonuç üzerinde deterministik bir kontrol tutun.
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐33665 · Python · 👁️ observed · 1 天 · ⭐+18</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐33675 · Python · 👁️ observed · 1 天 · ⭐+10</summary>
 
 ##### 📝 Özet
 
@@ -1795,7 +1791,7 @@ Otokorelasyonsuz Sistem 1 karar motoru. Tek bir ileri geçişte, 100'den fazla d
 
 | Ölçüt          | Değer           |
 | -------------- | --------------- |
-| Yıldız         | **33665** (+18) |
+| Yıldız         | **33675** (+10) |
 | Son push       | 2026-10-19      |
 | İlk listelenme | 2026-09-23      |
 
@@ -1919,7 +1915,7 @@ Jev(TypeSafe AI System One Model) çalışması — türlenmiş kararları·RLCD
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐1365 · Rust · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐1365 · Rust · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -1935,13 +1931,40 @@ Açık karar modellerini yerel olarak çalıştırın: Laya, decider, NLI ve GLi
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer         |
-| -------------- | ------------- |
-| Yıldız         | **1365** (+1) |
-| Son push       | 2026-10-20    |
-| İlk listelenme | 2026-09-25    |
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **1365**   |
+| Son push       | 2026-10-20 |
+| İlk listelenme | 2026-09-25 |
 
 🏷 `calibration` · `classification` · `decision-models` · `gliclass` · `jev` · `laya` · `llm-routing` · `local-inference`
+
+</details>
+
+<details>
+<summary>🛡️ <b><a href="https://github.com/slavabars/decision-cascade">slavabars/decision-cascade</a></b> · ⭐56 · Python · 🔎 inferred · 2 天 · ⭐+13</summary>
+
+##### 📝 Özet
+
+Local decision engine with typed, calibrated outputs (Noul/Choice/Score): cheap→strong cascade, ECE/Brier calibration, SystemOne protocol interop. Apache-2.0.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer                                      |
+| -------- | ------------------------------------------ |
+| Kategori | `Yönlendirme, koruma kuralları ve onaylar` |
+| Kanıt    | `inferred`                                 |
+| Dil      | Python                                     |
+
+##### 📊 Veri
+
+| Ölçüt          | Değer        |
+| -------------- | ------------ |
+| Yıldız         | **56** (+13) |
+| Son push       | 2026-10-18   |
+| İlk listelenme | 2026-10-16   |
+
+🏷 `calibration` · `cascade` · `decision-making` · `fastapi` · `llm` · `model-routing` · `pytorch` · `systemone`
 
 </details>
 
@@ -1967,33 +1990,6 @@ Kendini geliştiren bilişsel karar motoru ve TypeSafe Jev alternatifi. %100 se�
 | Yıldız         | **44**     |
 | Son push       | 2026-09-29 |
 | İlk listelenme | 2026-10-20 |
-
-</details>
-
-<details>
-<summary>🛡️ <b><a href="https://github.com/slavabars/decision-cascade">slavabars/decision-cascade</a></b> · ⭐43 · Python · 🔎 inferred · 2 天 · ⭐+16</summary>
-
-##### 📝 Özet
-
-Local decision engine with typed, calibrated outputs (Noul/Choice/Score): cheap→strong cascade, ECE/Brier calibration, SystemOne protocol interop. Apache-2.0.
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer                                      |
-| -------- | ------------------------------------------ |
-| Kategori | `Yönlendirme, koruma kuralları ve onaylar` |
-| Kanıt    | `inferred`                                 |
-| Dil      | Python                                     |
-
-##### 📊 Veri
-
-| Ölçüt          | Değer        |
-| -------------- | ------------ |
-| Yıldız         | **43** (+16) |
-| Son push       | 2026-10-18   |
-| İlk listelenme | 2026-10-16   |
-
-🏷 `calibration` · `cascade` · `decision-making` · `fastapi` · `llm` · `model-routing` · `pytorch` · `systemone`
 
 </details>
 
@@ -2050,7 +2046,7 @@ Eğitilmiş politikası olmayan bir Clash Royale botu: Jev (TypeSafe System One)
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/kenhuangus/jev-usecases">kenhuangus/jev-usecases</a></b> · ⭐23 · Python · 🔎 inferred · 28 天</summary>
+<summary>🛡️ <b><a href="https://github.com/kenhuangus/jev-usecases">kenhuangus/jev-usecases</a></b> · ⭐23 · Python · 🔎 inferred · 29 天</summary>
 
 ##### 📝 Özet
 
@@ -2315,13 +2311,14 @@ TypeSafe'ın Jev Noul ilkel yapısıyla desteklenen sorgu/adaya göre yeniden s�
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 31</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 33</sub></summary>
 
 - [klauswg/jev-suite](https://github.com/klauswg/jev-suite) - Jev üzerinde dört karar kalitesi aracı (TypeSafe System One): Jev…
 - [vynnlee/jev-mail](https://github.com/vynnlee/jev-mail) - TypeSafe Jev System One tarafından desteklenen otonom 7/24 Zero-Inbox Gmail…
 - [bitnovus/jev-spam-eval](https://github.com/bitnovus/jev-spam-eval) - TypeSafe Jev Noul sorusuyla sıfır atışlı spam filtreleme;
 - [dragpk247/jev-gateway](https://github.com/dragpk247/jev-gateway) - Zero-Leak gizlilik sanal alanı, Obsidian RAG ve çok katmanlı yerel GPU ile…
 - [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) - Belirsizlik şeridiyle TypeSafe Jev anlamsal yönlendirme için Apache NiFi…
+- [kentilaok/Jev-Orchestrated-Decision-Mesh](https://github.com/kentilaok/Jev-Orchestrated-Decision-Mesh) - Jev-Orkestrasyonlu Karar Ağı (CIDM): denetimli geçitler, kaynağa bağlı kanıtlar…
 - [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) - TypeSafe.
 - [AbbasRana001/PolicyJEV](https://github.com/AbbasRana001/PolicyJEV) - Zero-shot TypeSafe JEV versus logistic-regression and DistilBERT baselines on…
 - [CapCurious/jev-threshold-lab](https://github.com/CapCurious/jev-threshold-lab) - Fit act, review and escalate thresholds per question from labeled data with…
@@ -2344,6 +2341,7 @@ TypeSafe'ın Jev Noul ilkel yapısıyla desteklenen sorgu/adaya göre yeniden s�
 - [shivanathd/jev-playground](https://github.com/shivanathd/jev-playground) - BYOK playground for TypeSafe Jev (System One): Choice, Score, Noul examples for…
 - [shravan1996/generative-ai-jev-rlcd-calibrated-decisions](https://github.com/shravan1996/generative-ai-jev-rlcd-calibrated-decisions) - Anahtarsız deneme: tek bir küçük politika üzerinde üç ödül ve %90 güveninin…
 - [skhlo/jev-a2a](https://github.com/skhlo/jev-a2a) - Jev router: a prompt with an envelope and a record, across Paseo hosts.
+- [TanNhatCMS/jev-rag-lab](https://github.com/TanNhatCMS/jev-rag-lab) - Nghiên cứu thực nghiệm: tầng quyết định kiểu Jev (rerank + gate) cho RAG — đo…
 - [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) - Jev / TypeSafe System One projelerinin birleştirilmiş, yinelenenleri…
 - [weiweidesigner/jev_vis_router](https://github.com/weiweidesigner/jev_vis_router) - Grafik seçimi, güven eşikleri, kanıt ve işaretleme stratejileriyle bağımsız JEV…
 - [sumleo/RLCDAlignBench](https://github.com/sumleo/RLCDAlignBench) - RLCDAlignBench: &#x27;Just Ask Jev&#x27; için 44 hizalama hatası tespit karşılaştırması…
@@ -2411,7 +2409,7 @@ Jev için oluşturulmuş seçkili araç listesi — TypeSafe AI's System One typ
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/ikermoel/open-alternative-jev">ikermoel/open-alternative-jev</a></b> · ⭐69 · Python · 👁️ observed · 25 天</summary>
+<summary>🧪 <b><a href="https://github.com/ikermoel/open-alternative-jev">ikermoel/open-alternative-jev</a></b> · ⭐70 · Python · 👁️ observed · 25 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -2427,11 +2425,11 @@ TypeSafe's Jev için açık kaynaklı alternatif: tek ileri geçişte herhangi b
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **69**     |
-| Son push       | 2026-09-25 |
-| İlk listelenme | 2026-09-18 |
+| Ölçüt          | Değer       |
+| -------------- | ----------- |
+| Yıldız         | **70** (+1) |
+| Son push       | 2026-09-25  |
+| İlk listelenme | 2026-09-18  |
 
 🏷 `calibration` · `classification` · `jev` · `jev-alternative` · `llm` · `logprobs` · `open-jev` · `open-source-jev`
 
@@ -2752,7 +2750,7 @@ Herhangi bir LLM öğesini Jev tarzı bir karar modeline dönüştürün: tür b
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/fstandhartinger/jevbench">fstandhartinger/jevbench</a></b> · ⭐292 · Python · 🔎 inferred · 5 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/fstandhartinger/jevbench">fstandhartinger/jevbench</a></b> · ⭐292 · Python · 🔎 inferred · 5 天</summary>
 
 ##### 📝 Özet
 
@@ -2768,11 +2766,11 @@ Benchmark Heaven tarafından geliştirilen JevBench: tipli karar doğruluğunu, 
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer        |
-| -------------- | ------------ |
-| Yıldız         | **292** (+1) |
-| Son push       | 2026-10-15   |
-| İlk listelenme | 2026-10-12   |
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **292**    |
+| Son push       | 2026-10-15 |
+| İlk listelenme | 2026-10-12 |
 
 🏷 `ai-benchmark` · `benchmark-heaven` · `calibration` · `decision-models` · `decisionmodels` · `jev` · `jev-compatible` · `jevbench`
 
@@ -2888,7 +2886,7 @@ Gayriresmî TypeSafe Jev vitrini — sohbet değil, System One karar.
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 67</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 68</sub></summary>
 
 - [patryckalves/jev-no-enem](https://github.com/patryckalves/jev-no-enem) - Brezilya&#x27;nın ENEM 2025 standart sınavında TypeSafe AI&#x27;ın Jev.
 - [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) - Benchmarking lightweight and open-source LLMs and system one models on…
@@ -2913,6 +2911,7 @@ Gayriresmî TypeSafe Jev vitrini — sohbet değil, System One karar.
 - [amir9480/JevCheck](https://github.com/amir9480/JevCheck) - Ask any web page your own questions and get probability-backed answers in…
 - [etsabary/jev-deterministic-benchmark](https://github.com/etsabary/jev-deterministic-benchmark) - 25 deterministik akıl yürütme ailesinde Jev için 1.000 kararlı davranış…
 - [Nefelim584/JEV_Judge](https://github.com/Nefelim584/JEV_Judge) - jev-lite: a ModernBERT-based typed decision model (Bool / Choice / Score) with…
+- [smha1012/jev-torch](https://github.com/smha1012/jev-torch) - JEV tarzı kalibre edilmiş karar modellerini eğitmek için PyTorch uygulaması.
 - [teyhouse/jev-secret-detection](https://github.com/teyhouse/jev-secret-detection) - TypeSafe.
 - [dheeraj00001/jev-open-source](https://github.com/dheeraj00001/jev-open-source) - Qwen2.5-1.5B kullanarak düşük gecikmeli, kalibre edilmiş kararlar veren açık…
 - [EnesDemir143/jev-laya-benchmark](https://github.com/EnesDemir143/jev-laya-benchmark) - Yapılandırılmış sorun sınıflandırması için TypeSafe Jev ve Laya-MLX…
@@ -2994,7 +2993,7 @@ Küçük ve açık bir karar modeli: durum + tür belirtilmiş sorular -> kalibr
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2572 · Python · 🔎 inferred · 4 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2573 · Python · 🔎 inferred · 4 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -3014,7 +3013,7 @@ Jev'ın nano kopyası: paralel kararlar, dinamik adaylar ve uçtan uca eğitim i
 
 | Ölçüt          | Değer         |
 | -------------- | ------------- |
-| Yıldız         | **2572** (+1) |
+| Yıldız         | **2573** (+1) |
 | Son push       | 2026-10-16    |
 | İlk listelenme | 2026-09-18    |
 
@@ -3196,7 +3195,7 @@ RLCD kullanılarak eğitilmiş TypeSafe'in Jev System One modeli için ampirik d
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://huggingface.co/shreyanbr/nev-lite-systemone">shreyanbr/nev-lite-systemone</a></b> · model · 👁️ observed · 27 天</summary>
+<summary>🔬 <b><a href="https://huggingface.co/shreyanbr/nev-lite-systemone">shreyanbr/nev-lite-systemone</a></b> · model · 👁️ observed · 28 天</summary>
 
 ##### 📝 Özet
 
@@ -3295,7 +3294,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4869 · Python · 🔎 inferred · 26 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4871 · Python · 🔎 inferred · 26 天 · ⭐+2</summary>
 
 ##### 📝 Özet
 
@@ -3313,7 +3312,7 @@ Evdeki 3090 üzerinde açık modellerden anlamsal if ifadeleri. Bağımsızdır;
 
 | Ölçüt          | Değer         |
 | -------------- | ------------- |
-| Yıldız         | **4869** (+1) |
+| Yıldız         | **4871** (+2) |
 | Son push       | 2026-09-23    |
 | İlk listelenme | 2026-09-25    |
 
@@ -3327,7 +3326,7 @@ Evdeki 3090 üzerinde açık modellerden anlamsal if ifadeleri. Bağımsızdır;
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐675 · Python · 🔎 inferred · 1 天 · ⭐+4</summary>
+<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐676 · Python · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -3345,7 +3344,7 @@ Jev karar modelleri için yerel vLLM sunumu
 
 | Ölçüt          | Değer        |
 | -------------- | ------------ |
-| Yıldız         | **675** (+4) |
+| Yıldız         | **676** (+1) |
 | Son push       | 2026-10-19   |
 | İlk listelenme | 2026-10-04   |
 
@@ -3359,7 +3358,7 @@ Jev karar modelleri için yerel vLLM sunumu
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐608 · Python · 🔎 inferred · 12 天</summary>
+<summary>🔬 <b><a href="https://github.com/featherless-ai/simple-jev">featherless-ai/simple-jev</a></b> · ⭐609 · Python · 🔎 inferred · 12 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -3375,11 +3374,11 @@ Herhangi bir açık modeli bir sınıflandırıcı/jev uç noktasına dönüşt�
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **608**    |
-| Son push       | 2026-10-07 |
-| İlk listelenme | 2026-09-19 |
+| Ölçüt          | Değer        |
+| -------------- | ------------ |
+| Yıldız         | **609** (+1) |
+| Son push       | 2026-10-07   |
+| İlk listelenme | 2026-09-19   |
 
 ---
 
@@ -3391,7 +3390,7 @@ Herhangi bir açık modeli bir sınıflandırıcı/jev uç noktasına dönüşt�
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/ekzhang/openjev-sglang">ekzhang/openjev-sglang</a></b> · ⭐334 · Python · 🔎 inferred · 18 天</summary>
+<summary>🔬 <b><a href="https://github.com/ekzhang/openjev-sglang">ekzhang/openjev-sglang</a></b> · ⭐334 · Python · 🔎 inferred · 19 天</summary>
 
 ##### 📝 Özet
 
@@ -3722,7 +3721,7 @@ Jev üzerine kurulan, doğrulanmış ve ekran görüntüleri açısından zengin
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/bobbylite/jev-system-one-model-primitives">bobbylite/jev-system-one-model-primitives</a></b> · TypeScript · 👁️ observed · 10 天</summary>
+<summary>🎮 <b><a href="https://github.com/bobbylite/jev-system-one-model-primitives">bobbylite/jev-system-one-model-primitives</a></b> · TypeScript · 👁️ observed · 11 天</summary>
 
 ##### 📝 Özet
 
@@ -3961,7 +3960,7 @@ Typesafe'in Jev modelini kullanarak tarayıcı kullanımı
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐321 · Python · 🔎 inferred · 29 天 · ⭐-1</summary>
+<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐321 · Python · 🔎 inferred · 29 天</summary>
 
 ##### 📝 Özet
 
@@ -3977,11 +3976,11 @@ Apple Silicon üzerinde eğitim amaçlı Jev benzeri görsel çıkarım deneyi: 
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer        |
-| -------------- | ------------ |
-| Yıldız         | **321** (-1) |
-| Son push       | 2026-09-21   |
-| İlk listelenme | 2026-09-18   |
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **321**    |
+| Son push       | 2026-09-21 |
+| İlk listelenme | 2026-09-18 |
 
 ---
 
@@ -4029,7 +4028,7 @@ Hyperliquid üzerinde canlı Jev trader'ı
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/NanmiCoder/jev-arena">NanmiCoder/jev-arena</a></b> · ⭐123 · JavaScript · 🔎 inferred · 29 天</summary>
+<summary>🎮 <b><a href="https://github.com/NanmiCoder/jev-arena">NanmiCoder/jev-arena</a></b> · ⭐123 · JavaScript · 🔎 inferred · 30 天</summary>
 
 ##### 📝 Özet
 
@@ -4095,7 +4094,7 @@ Fish tarzı zsh geçmişi otomatik önerileri, Jev (TypeSafe) tarafından sıral
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 25</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 27</sub></summary>
 
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - Her Monad bloğunda bir yapay zekâ işlem kararı. Kuru MON-USDC üzerinde Jev.
 - [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) - A verified, community-maintained catalog of 992 open-source projects built with…
@@ -4113,12 +4112,14 @@ Fish tarzı zsh geçmişi otomatik önerileri, Jev (TypeSafe) tarafından sıral
 - [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) - Yapılandırılmış yargılar üretmeden verimli yerel Choice, Score ve Noul…
 - [shamoniuniu/typesafe-jev-ui](https://github.com/shamoniuniu/typesafe-jev-ui) - TypeSafe Jev 调试台，支持 Choice、Score、Noul 和批量处理.
 - [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) - Daily demo applying TypeSafe&#x27;s Jev model to Spain&#x27;s official gazette (BOE).
+- [an80x86/jev-seri](https://github.com/an80x86/jev-seri) - Guncel Gundem: Jev videolarinin kodlari ve olcumleri(TypeSafe Jev, System One).
 - [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) - A local 4B language model plays DOOM in real time and picks every move: clears…
-- [KaranSiddhu/video-frames-with-jev](https://github.com/KaranSiddhu/video-frames-with-jev) - Python/FastAPI and HTML POC for context-assisted person localization in video…
+- [mariobgsp/trading-jev](https://github.com/mariobgsp/trading-jev) - Momentum screen for the IDX gorengan band. A model decides the entry;
 - [mberliner/jev-lab](https://github.com/mberliner/jev-lab) - Temelden üretim tekniklerine kadar TypeSafe&#x27;in tipli karar modeli Jev&#x27;ı…
 - [mbrajk/hollow-knight-jev](https://github.com/mbrajk/hollow-knight-jev) - Experimental Hollow Knight state bridge and bounded TypeSafe Jev controller.
 - [netcode001/jev](https://github.com/netcode001/jev) - Resmî olmayan Jev AI bilgi merkezi — erişim kılavuzu, fiyatlandırma, ücretsiz…
 - [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) - Run a Pokémon Champions battle arena locally with Jev, TypeSafe, and Pokémon…
+- [NikaY108/jev-literature-classifier](https://github.com/NikaY108/jev-literature-classifier) - Local literature classification workbench powered by Jev, with taxonomy…
 - [schalkneethling/jev-3000](https://github.com/schalkneethling/jev-3000) - TypeSafe.
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - 🧹 Eğlenceli proje: Küçük bir yapay zekâ karar modeline (TypeSafe Jev).
 - [sorrycc/typesafe-snake](https://github.com/sorrycc/typesafe-snake) - TypeSafe.
@@ -4132,7 +4133,7 @@ Fish tarzı zsh geçmişi otomatik önerileri, Jev (TypeSafe) tarafından sıral
 Lansman başlıkları, bağımsız yazılar ve bu alandaki diğer derlenmiş listeler. Bu depo tek değil ve bunu söylemek aksini varsaymaktan daha yararlı.
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/model-jaggedness/jev-1.13">Bilinen 9 kusur türü (jaggedness)</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/model-jaggedness/jev-1.13">Bilinen 9 kusur türü (jaggedness)</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4156,7 +4157,7 @@ Kelimesi kelimesine yorumlama, **güvenilmez sayım**, tarih karşılaştırmas�
 </details>
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/cookbooks/consistency_choice_cookbook">`consistency_choice` cookbook&#x27;i resmî olarak &quot;tekrarlanan çağrıların sonuçları değişir mi&quot; sorusunu yanıtladı</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/cookbooks/consistency_choice_cookbook">`consistency_choice` cookbook&#x27;i resmî olarak &quot;tekrarlanan çağrıların sonuçları değişir mi&quot; sorusunu yanıtladı</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4180,7 +4181,7 @@ Aynı inceleme rubric'i, **koşul başına 8 Choice × 15 tekrar**. TypeSafe **h
 </details>
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/confidence">confidence için resmî anlam doğrulaması</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/confidence">confidence için resmî anlam doğrulaması</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4228,7 +4229,7 @@ Resmî açıklamaya göre `confidence`, **`probabilities` dağılımından hesap
 </details>
 
 <details>
-<summary>📰 <b><a href="https://typesafe.ai/team">TypeSafe yeni bir Team sayfası ekledi + navigasyona `Enterprise` girişi eklendi (ürünleştirme/ticarileştirme sinyali)</a></b> · ✅ official · 31 天</summary>
+<summary>📰 <b><a href="https://typesafe.ai/team">TypeSafe yeni bir Team sayfası ekledi + navigasyona `Enterprise` girişi eklendi (ürünleştirme/ticarileştirme sinyali)</a></b> · ✅ official · 32 天</summary>
 
 ##### 📝 Özet
 
@@ -4276,7 +4277,7 @@ Vercel'in resmî changelog'u Jev'ın AI Gateway'e eklendiğini duyurdu
 </details>
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/llms.txt">Daha önce tamamen eksik olan 18 resmî cookbook uygulama tarifesi bulundu ve çekildi</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/llms.txt">Daha önce tamamen eksik olan 18 resmî cookbook uygulama tarifesi bulundu ve çekildi</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4300,7 +4301,7 @@ Vercel'in resmî changelog'u Jev'ın AI Gateway'e eklendiğini duyurdu
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/typesafe-ai/skills（⭐128">Resmî agent skill&#x27;i `typesafe-ai` yükle — , MIT)</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://github.com/typesafe-ai/skills（⭐128">Resmî agent skill&#x27;i `typesafe-ai` yükle — , MIT)</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4348,7 +4349,7 @@ Bu turdaki diff yeni sayfa bulmadı (30 makale + 18 cookbook tamamlandı); bu, t
 </details>
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/models">Resmî belge dizini ile hız sınırı/bağlam/özelleştirme politikalarının tümü doğrulandı</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/models">Resmî belge dizini ile hız sınırı/bağlam/özelleştirme politikalarının tümü doğrulandı</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4372,7 +4373,7 @@ Uç nokta `POST https://api.typesafe.ai/v1/systemone`; `jev-1.13.0`, diğer adı
 </details>
 
 <details>
-<summary>📰 <b><a href="https://docs.typesafe.ai/migrating-to-v1">Eksik resmî sayfa tamamlandı: v1 API sürümüne geçirildi</a></b> · ✅ official · 32 天</summary>
+<summary>📰 <b><a href="https://docs.typesafe.ai/migrating-to-v1">Eksik resmî sayfa tamamlandı: v1 API sürümüne geçirildi</a></b> · ✅ official · 33 天</summary>
 
 ##### 📝 Özet
 
@@ -4396,7 +4397,7 @@ preview uç noktası `/preview/evaluation` → kararlı sürüm **`POST /v1/syst
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2423 · Python · 👁️ observed · 0 天 · ⭐-1</summary>
+<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2423 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
 
@@ -4412,18 +4413,18 @@ Jev üzerine kurulmuş herkese açık projeler, entegrasyonlar ve tartışmalard
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer         |
-| -------------- | ------------- |
-| Yıldız         | **2423** (-1) |
-| Son push       | 2026-10-20    |
-| İlk listelenme | 2026-09-18    |
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **2423**   |
+| Son push       | 2026-10-20 |
+| İlk listelenme | 2026-09-18 |
 
 🏷 `awesome` · `awesome-list` · `jev` · `llm`
 
 </details>
 
 <details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 72</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 74</sub></summary>
 
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Jev ile oluşturulmuş, TypeSafe AI.
 - [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)
@@ -4432,8 +4433,8 @@ Jev üzerine kurulmuş herkese açık projeler, entegrasyonlar ve tartışmalard
 - [Open-sourced jev architecture last year with model,paper and dataset](https://news.ycombinator.com/item?id=49736660) - Herkes artık &amp;#x27;otomatik regresif olmayan ve JSON şemasıyla ışık hızında…
 - [What Is RLCD? The Secret Behind Jev](https://news.ycombinator.com/item?id=49829625)
 - [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443)
+- [Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://news.ycombinator.com/item?id=50167617) - I built a quiz game around TypeSafe&amp;#x27;s new Jev model, which has vision…
 - [aliaihub/awesome-jev-usecases](https://github.com/aliaihub/awesome-jev-usecases) - Jev ile, TypeSafe AI.
-- [Jev is NOT a reranker (but wow it's close)](https://news.ycombinator.com/item?id=50166746)
 - [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979)
 - [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) - Karar modeli &amp;#x2F; System One model deseni, bir ay önce Jev tarafından öncülük…
 - [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686)
@@ -4448,6 +4449,7 @@ Jev üzerine kurulmuş herkese açık projeler, entegrasyonlar ve tartışmalard
 - [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) - onesie, kabuk işlem hatlarında, betiklerde ve aracı iş akışlarında System One…
 - [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645)
 - [EU/Jev – First System One Model Hosted in the EU](https://news.ycombinator.com/item?id=49924685)
+- [Jev models make agents faster. Hooked control planes steal the difference](https://news.ycombinator.com/item?id=50167932)
 - [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296)
 - [Show HN: Decide – Jev decisions in the shell, scripts, and agent skills](https://news.ycombinator.com/item?id=49878492) - Tüm yazılımlar karar verir. Kod, deterministik olanları yönetir.
 - [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) - Yakın zamanda enigma makinesi hakkında bir youtube veritasium videosu izledim…
@@ -4455,6 +4457,7 @@ Jev üzerine kurulmuş herkese açık projeler, entegrasyonlar ve tartışmalard
 - [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597)
 - [System One models like Jev can train their own replacements](https://news.ycombinator.com/item?id=49959504)
 - [Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD](https://news.ycombinator.com/item?id=49734345)
+- [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067)
 - [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) - Jev, TypeSafe AI.
 - [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) - Jev, TypeSafe AI.
 - [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) - Jev üzerine kurulan.
@@ -4505,7 +4508,7 @@ Jev üzerine kurulmuş herkese açık projeler, entegrasyonlar ve tartışmalard
 ## Diğer projeler
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Contrastive-LM/CLM">Contrastive-LM/CLM</a></b> · ⭐3081 · Python · 👁️ observed · 14 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Contrastive-LM/CLM">Contrastive-LM/CLM</a></b> · ⭐3083 · Python · 👁️ observed · 14 天 · ⭐+2</summary>
 
 ##### 📝 Özet
 
@@ -4523,7 +4526,7 @@ Contrastive Language Models (CLMs), durumları ve eylemleri birbirine bağlayan 
 
 | Ölçüt          | Değer         |
 | -------------- | ------------- |
-| Yıldız         | **3081** (+1) |
+| Yıldız         | **3083** (+2) |
 | Son push       | 2026-10-05    |
 | İlk listelenme | 2026-10-20    |
 
@@ -4601,7 +4604,7 @@ typesafe.ai kayıt aracı, en üst düzeyde optimize edilmiş, sınırsız jev
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐119 · Python · 👁️ observed · 3 天</summary>
+<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐120 · Python · 👁️ observed · 3 天 · ⭐+1</summary>
 
 ##### 📝 Özet
 
@@ -4617,11 +4620,11 @@ Jeva: Sıfırdan System One Modelleri
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer      |
-| -------------- | ---------- |
-| Yıldız         | **119**    |
-| Son push       | 2026-10-17 |
-| İlk listelenme | 2026-10-20 |
+| Ölçüt          | Değer        |
+| -------------- | ------------ |
+| Yıldız         | **120** (+1) |
+| Son push       | 2026-10-17   |
+| İlk listelenme | 2026-10-20   |
 
 ---
 
@@ -4841,7 +4844,7 @@ Yapılandırılmış kararlar (choice, score, noul) için WordPress'i TypeSafe'�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/DreamBlooms/ifReflex.cpp">DreamBlooms/ifReflex.cpp</a></b> · ⭐1 · C++ · 👁️ observed · 7 天</summary>
+<summary>🧩 <b><a href="https://github.com/DreamBlooms/ifReflex.cpp">DreamBlooms/ifReflex.cpp</a></b> · ⭐1 · C++ · 👁️ observed · 8 天</summary>
 
 ##### 📝 Özet
 
@@ -4902,6 +4905,40 @@ Hands-on workshop for Jev, TypeSafe AI's System One model: 5 live-executed noteb
 </details>
 
 <details>
+<summary>🧩 <b><a href="https://github.com/Kagenou-Eta/CharacterStage">Kagenou-Eta/CharacterStage</a></b> · JavaScript · 👁️ observed · 0 天 · **NEW**</summary>
+
+##### 📝 Özet
+
+SillyTavern extension: show any character's sprites in any chat, with expressions picked by a local Laya System One model.
+
+##### 📌 Temel bilgiler
+
+| Alan     | Değer            |
+| -------- | ---------------- |
+| Kategori | `Diğer projeler` |
+| Kanıt    | `observed`       |
+| Dil      | JavaScript       |
+
+##### 📊 Veri
+
+| Ölçüt          | Değer      |
+| -------------- | ---------- |
+| Yıldız         | **0**      |
+| Son push       | 2026-10-20 |
+| İlk listelenme | 2026-10-21 |
+
+🏷 `ai` · `extension` · `laya` · `sillytavern` · `sprite`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/kagenou-eta--characterstage/2c35aa4603cd85f3.jpg" width="100%" alt="Kagenou-Eta/CharacterStage screenshot"></td>
+<td align="center" valign="top"><sub>medya yayımlanmamış</sub></td>
+</tr></table>
+
+</details>
+
+<details>
 <summary>🧩 <b><a href="https://github.com/pierclgr/ima">pierclgr/ima</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Özet
@@ -4934,7 +4971,7 @@ A decoder-based image-text System One model
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9351 · Python · 🔎 inferred · 0 天 · ⭐+5</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9362 · Python · 🔎 inferred · 0 天 · ⭐+11</summary>
 
 ##### 📝 Özet
 
@@ -4950,11 +4987,11 @@ Kendi başınıza eğitip çalıştırabileceğiniz, Qwen3.5/3.8 üzerine kurulm
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer         |
-| -------------- | ------------- |
-| Yıldız         | **9351** (+5) |
-| Son push       | 2026-10-20    |
-| İlk listelenme | 2026-09-21    |
+| Ölçüt          | Değer          |
+| -------------- | -------------- |
+| Yıldız         | **9362** (+11) |
+| Son push       | 2026-10-20     |
+| İlk listelenme | 2026-09-21     |
 
 🏷 `decision-model` · `jev` · `qwen3`
 
@@ -4968,7 +5005,7 @@ Kendi başınıza eğitip çalıştırabileceğiniz, Qwen3.5/3.8 üzerine kurulm
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1368 · C++ · 🔎 inferred · 1 天 · ⭐+2</summary>
+<summary>🧩 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1261 · C++ · 🔎 inferred · 2 天 · ⭐-107</summary>
 
 ##### 📝 Özet
 
@@ -4984,11 +5021,11 @@ jevos: Jev ve Microsoft-Decision-1 için açık kaynaklı bir alternatif. Dizüs
 
 ##### 📊 Veri
 
-| Ölçüt          | Değer         |
-| -------------- | ------------- |
-| Yıldız         | **1368** (+2) |
-| Son push       | 2026-10-18    |
-| İlk listelenme | 2026-09-26    |
+| Ölçüt          | Değer           |
+| -------------- | --------------- |
+| Yıldız         | **1261** (-107) |
+| Son push       | 2026-10-18      |
+| İlk listelenme | 2026-09-26      |
 
 🏷 `ai` · `classification` · `cpu-inference` · `decision-model` · `edge-ai` · `gguf` · `jev` · `jev-alternative`
 
@@ -5002,7 +5039,7 @@ jevos: Jev ve Microsoft-Decision-1 için açık kaynaklı bir alternatif. Dizüs
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐827 · Python · 🔎 inferred · 22 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐829 · Python · 🔎 inferred · 22 天 · ⭐+2</summary>
 
 ##### 📝 Özet
 
@@ -5020,7 +5057,7 @@ JevChat-Windows: sohbet penceresinin yanında duran yanıt yardımcısı. Pencer
 
 | Ölçüt          | Değer        |
 | -------------- | ------------ |
-| Yıldız         | **827** (+1) |
+| Yıldız         | **829** (+2) |
 | Son push       | 2026-09-28   |
 | İlk listelenme | 2026-09-22   |
 
@@ -5038,41 +5075,10 @@ JevChat-Windows: sohbet penceresinin yanında duran yanıt yardımcısı. Pencer
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/AgriciDaniel/jev-seo">AgriciDaniel/jev-seo</a></b> · ⭐669 · Python · 🔎 inferred · 28 天 · ⭐+4</summary>
-
-##### 📝 Özet
-
-Jev tarafından değerlendirilen, tek bir ana sayfa URL’sinden herhangi bir web sitesi için canlı SEO denetimi. PDF, XLSX ve Markdown raporları.
-
-##### 📌 Temel bilgiler
-
-| Alan     | Değer            |
-| -------- | ---------------- |
-| Kategori | `Diğer projeler` |
-| Kanıt    | `inferred`       |
-| Dil      | Python           |
-
-##### 📊 Veri
-
-| Ölçüt          | Değer        |
-| -------------- | ------------ |
-| Yıldız         | **669** (+4) |
-| Son push       | 2026-09-22   |
-| İlk listelenme | 2026-09-30   |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Görsel</th><th align="center" width="50%">🎬 Video</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/agricidaniel--jev-seo/c9545da3837f86ac.png" width="100%" alt="AgriciDaniel/jev-seo screenshot"></td>
-<td align="center" valign="top"><sub>medya yayımlanmamış</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary><b>Bu kategoride daha fazla</b> <sub>· 69</sub></summary>
+<summary><b>Bu kategoride daha fazla</b> <sub>· 75</sub></summary>
 
 - [wnoronha/systemone-racer](https://github.com/wnoronha/systemone-racer) - Karar verme için systemone modellerini test etme.
+- [arthrp/libre-jevlike-rs](https://github.com/arthrp/libre-jevlike-rs)
 - [DEHOSS/jev-1.14-test-and-pebble-train](https://github.com/DEHOSS/jev-1.14-test-and-pebble-train)
 - [factbag/factbag](https://github.com/factbag/factbag) - Combine narrow judgments from System One models with explicit rules in a…
 - [justintout/systemone](https://github.com/justintout/systemone) - Jev ve diğer System One modelleriyle etkileşim kurmak için resmi olmayan bir Go…
@@ -5082,6 +5088,7 @@ Jev tarafından değerlendirilen, tek bir ana sayfa URL’sinden herhangi bir we
 - [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) - Extract structured data and insights from documents using LLMs and decision…
 - [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) - TypeLLM: tür güvenli üretim ile LLMs.
 - [0814wdwd/solo_jev](https://github.com/0814wdwd/solo_jev) - Per-row semantic judgements over large relational tables on a decision model…
+- [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) - Jev tarafından değerlendirilen, tek bir ana sayfa URL.
 - [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu)
 - [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) - LLM tarafından yazılmış, göreve özgü Jev koşumları;
 - [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) - Sohbet yüzen pencere yardımcısı (macOS): ekran algılama + amacı ve riski yerel…
@@ -5112,9 +5119,13 @@ Jev tarafından değerlendirilen, tek bir ana sayfa URL’sinden herhangi bir we
 - [sergiecode/jev-test-si-o-no](https://github.com/sergiecode/jev-test-si-o-no) - Noul -&gt; evet mi hayır mı olduğunu bilmek için ilkel yapı.
 - [TanayPadar/gpt-vs-jev](https://github.com/TanayPadar/gpt-vs-jev) - Aynı girdi üzerinde GPT tarafından üretilen dili JEV yapılandırılmış Noul…
 - [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) - This repository contains the code for Mastering TypeSafe Jev book.
+- [xz-dev/pi-llm-as-jev](https://github.com/xz-dev/pi-llm-as-jev) - Shared Pi judgment service with native classifiers and discrete LLM fallback.
+- [1npo/jev-gmail-labeler](https://github.com/1npo/jev-gmail-labeler) - A tool that uses Jev and the GMail API to organize your emails with labels.
 - [Akfavo/EasyJev](https://github.com/Akfavo/EasyJev) - Assistant web bilingue (FR/EN) pour configurer Jev (TypeSafe AI) dans n8n sans…
 - [alnyx-dev/jev-rs](https://github.com/alnyx-dev/jev-rs) - High-performance local System One decision engine — one forward pass, zero…
+- [Amr-devman/Jev-Lung-Cancer-Detection](https://github.com/Amr-devman/Jev-Lung-Cancer-Detection) - Using Jev to classify lung biopsy images.
 - [cfu288/jev-vs-ml-classifiers](https://github.com/cfu288/jev-vs-ml-classifiers) - En yeni JEV modeli, klasik ML sınıflandırıcı modellerine ve geçmişte…
+- [DCPRevere/jev-emoji](https://github.com/DCPRevere/jev-emoji) - Pick an emoji for a piece of text using TypeSafe.
 - [dnhkng/rys-jev](https://github.com/dnhkng/rys-jev) - Layer-duplicated StartLux-Decision v1.1 27B Instant (RYS 41-49, alpha 1.25)…
 - [eforus-overseer/jev-gen-detect](https://github.com/eforus-overseer/jev-gen-detect) - Fast AI-generated image detector on TypeSafe Jev Image + Jev Box (Rust).
 - [gbesse/jev-carbone-factor-fit](https://github.com/gbesse/jev-carbone-factor-fit) - Bir faaliyet veya harcama etiketi için aday ADEME emisyon faktörlerini…
@@ -5152,13 +5163,13 @@ Ekosistem Python ve TypeScript'te yoğunlaşıyor, ancak tipli istemciler başka
 
 | Dil        | Kayıt | Örnekler                                                                                                |
 | ---------- | ----- | ------------------------------------------------------------------------------------------------------- |
-| Python     | 343   | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
-| TypeScript | 126   | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/jev-harness`, `erik-hedstrom/loadout`                        |
-| JavaScript | 97    | `clouatre-labs/decisions-judge-mcp`, `Ying-Kai-Liao/jev-browser`, `jiangkoumo/ego-decision-layer`       |
-| HTML       | 25    | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`          |
-| Rust       | 24    | `chussenot/judgment`, `supercorp-ai/supercov`, `shaharia-lab/jev-cli`                                   |
-| Go         | 14    | `kisshan13/typesafe-ai-go`, `frodi-karlsson/onesie`, `olivere/systemone`                                |
-| Jupyter    | 11    | `jexp/neo4jev`, `GitHub30/OpenJev`, `Mainakcris7/agent-guardrail-with-jev`                              |
+| Python     | 345   | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
+| TypeScript | 131   | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/jev-harness`, `erik-hedstrom/loadout`                        |
+| JavaScript | 95    | `clouatre-labs/decisions-judge-mcp`, `Ying-Kai-Liao/jev-browser`, `jiangkoumo/ego-decision-layer`       |
+| HTML       | 26    | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`          |
+| Rust       | 25    | `chussenot/judgment`, `supercorp-ai/supercov`, `shaharia-lab/jev-cli`                                   |
+| Go         | 13    | `kisshan13/typesafe-ai-go`, `frodi-karlsson/onesie`, `olivere/systemone`                                |
+| Jupyter    | 12    | `jexp/neo4jev`, `GitHub30/OpenJev`, `Mainakcris7/agent-guardrail-with-jev`                              |
 | Java       | 9     | `Premo-Cloud/typesafe-sdk-java`, `CMaintz/jev-java`, `Olti1947/jev-java`                                |
 | C#         | 7     | `CMaintz/jev-dotnet`, `saibimajdi/typesafeai-dotnet-sdk`, `TraxSharp/Trax`                              |
 | Elixir     | 5     | `dannote/jev`, `Elue-dev/jev_elixir`, `nshkrdotcom/system_one_sdk`                                      |
@@ -5187,4 +5198,4 @@ Düzeltmeler memnuniyetle karşılanır ve bu listeyi iyileştirmenin en hızlı
 
 <sub>Bağımsız topluluk projesi. TypeSafe AI ile bağlantılı değildir; onun tarafından onaylanmamış veya incelenmemiştir. Ürün davranışı, fiyatlandırma, sınırlar ve model takma adları bildirimsiz değişebilir; kritik her şeyi resmî belgelerle doğrulayın. Varlıklar üst projelerinin mülkiyetinde kalır ve yalnızca lisansın izin verdiği yerlerde yeniden üretilir.</sub>
 
-<sub>Oluşturan · 2026-10-20T22:40:36+08:00</sub>
+<sub>Oluşturan · 2026-10-21T00:49:07+08:00</sub>
