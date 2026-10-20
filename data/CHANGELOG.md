@@ -5848,3 +5848,20 @@
 - `+` [internet-projects/jev35b-mlx](https://github.com/internet-projects/jev35b-mlx) — inferred / evaluation — ⭐0
 - `+` [project-blockwarriors/dreamweaver-jev-starter](https://github.com/project-blockwarriors/dreamweaver-jev-starter) — inferred / apps-demos — ⭐0
 - …另有 3 条新增
+
+## 2026-10-20T16:09:58+08:00
+- 收录总数 **804**；本次更新新增 **14**
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐23
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) — inferred / other — ⭐5
+- `+` [kisshan13/typesafe-ai-go](https://github.com/kisshan13/typesafe-ai-go) — observed / community-sdk — ⭐4
+- `+` [jangtrinh/design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui) — unverified / agent-tooling — ⭐3
+- `+` [HiepPP/hiep-paseo-plugin](https://github.com/HiepPP/hiep-paseo-plugin) — unverified / agent-tooling — ⭐3
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) — inferred / other — ⭐1
+- `+` [ivanblagdan/jev-cli](https://github.com/ivanblagdan/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [acmelabs-15/jev-gate](https://github.com/acmelabs-15/jev-gate) — inferred / agent-tooling — ⭐0
+- `+` [Arnabest/embeddinggemma-2-jev](https://github.com/Arnabest/embeddinggemma-2-jev) — inferred / community-sdk — ⭐0
+- `+` [devrecated/jev-alternative](https://github.com/devrecated/jev-alternative) — inferred / evaluation — ⭐0
+- `+` [leedonwoo2827-ship-it/jev-revision-agent](https://github.com/leedonwoo2827-ship-it/jev-revision-agent) — inferred / agent-tooling — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
