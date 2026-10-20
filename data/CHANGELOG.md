@@ -5909,3 +5909,27 @@
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
 - `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
 - `+` [mraad/duckdb-jev-spatial](https://github.com/mraad/duckdb-jev-spatial) — inferred / community-sdk — ⭐0
+
+## 2026-10-20T22:38:03+08:00
+- 收录总数 **802**；本次更新新增 **21**
+- `+` [apolinario/decision-index](https://github.com/apolinario/decision-index) — unverified / evaluation — ⭐66
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐12
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐9
+- `+` [Jev is NOT a reranker (but wow it's close)](https://news.ycombinator.com/item?id=50166746) — observed / media-discussions — ⭐9
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [holny/evolve-router](https://github.com/holny/evolve-router) — inferred / agent-tooling — ⭐3
+- `+` [rwjdk/jev-dotnet](https://github.com/rwjdk/jev-dotnet) — inferred / other — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [samuelyossef/jev-openfast](https://github.com/samuelyossef/jev-openfast) — inferred / agent-tooling — ⭐1
+- `+` [celolopes/jev-dev-harness](https://github.com/celolopes/jev-dev-harness) — inferred / agent-tooling — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [evaboot-labs/OpenAI-Decisions-vs-JEV](https://github.com/evaboot-labs/OpenAI-Decisions-vs-JEV) — inferred / evaluation — ⭐0
+- `+` [mbrajk/hollow-knight-jev](https://github.com/mbrajk/hollow-knight-jev) — inferred / apps-demos — ⭐0
+- `+` [CMaintz/jev-rerank](https://github.com/CMaintz/jev-rerank) — inferred / routing-guardrails — ⭐0
+- `+` [DEHOSS/jev-1.14-test-and-pebble-train](https://github.com/DEHOSS/jev-1.14-test-and-pebble-train) — observed / other — ⭐0
+- `+` [maxim-kich/jev-where-is-waldo](https://github.com/maxim-kich/jev-where-is-waldo) — inferred / other — ⭐0
+- `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
+- `+` [marerem/my-jev](https://github.com/marerem/my-jev) — inferred / research-models — ⭐0
+- `+` [zhuanqianfish/local-jev](https://github.com/zhuanqianfish/local-jev) — inferred / other — ⭐0
