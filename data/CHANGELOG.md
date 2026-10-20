@@ -5890,3 +5890,22 @@
 - `+` [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) — inferred / agent-tooling — ⭐0
 - `+` [aliliu604/jev-social](https://github.com/aliliu604/jev-social) — inferred / community-sdk — ⭐0
 - `+` [kang83957/jev-social](https://github.com/kang83957/jev-social) — inferred / community-sdk — ⭐0
+
+## 2026-10-20T20:30:04+08:00
+- 收录总数 **802**；本次更新新增 **16**
+- `+` [backant-io/jevelry](https://github.com/backant-io/jevelry) — inferred / agent-tooling — ⭐11
+- `+` [pCwOrM/werr](https://github.com/pCwOrM/werr) — inferred / agent-tooling — ⭐4
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [ali-master/jev-browser-agent](https://github.com/ali-master/jev-browser-agent) — inferred / agent-tooling — ⭐1
+- `+` [tsetse012/jev-judge-rank](https://github.com/tsetse012/jev-judge-rank) — inferred / other — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [eforus-overseer/jev-gen-detect](https://github.com/eforus-overseer/jev-gen-detect) — inferred / other — ⭐0
+- `+` [Lypt1x/rbxts-jev](https://github.com/Lypt1x/rbxts-jev) — inferred / community-sdk — ⭐0
+- `+` [AlbertoGonzalezOlmos/multi-jev](https://github.com/AlbertoGonzalezOlmos/multi-jev) — inferred / research-models — ⭐0
+- `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [KaranSiddhu/video-frames-with-jev](https://github.com/KaranSiddhu/video-frames-with-jev) — inferred / apps-demos — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+- `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
+- `+` [mraad/duckdb-jev-spatial](https://github.com/mraad/duckdb-jev-spatial) — inferred / community-sdk — ⭐0
