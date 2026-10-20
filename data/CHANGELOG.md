@@ -5962,3 +5962,20 @@
 - `+` [mariobgsp/trading-jev](https://github.com/mariobgsp/trading-jev) — inferred / apps-demos — ⭐0
 - `+` [NikaY108/jev-literature-classifier](https://github.com/NikaY108/jev-literature-classifier) — inferred / apps-demos — ⭐0
 - …另有 12 条新增
+
+## 2026-10-21T02:54:22+08:00
+- 收录总数 **806**；本次更新新增 **14**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [itsoltech/basal-rs](https://github.com/itsoltech/basal-rs) — unverified / evaluation — ⭐9
+- `+` [zirubak/ziru-jev-codex-router](https://github.com/zirubak/ziru-jev-codex-router) — inferred / agent-tooling — ⭐1
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [smslavin/jev-industrial-samples](https://github.com/smslavin/jev-industrial-samples) — inferred / other — ⭐0
+- `+` [jasonli0226/jev-benchmark](https://github.com/jasonli0226/jev-benchmark) — inferred / routing-guardrails — ⭐0
+- `+` [wataru-fujita/jev-playground](https://github.com/wataru-fujita/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) — inferred / other — ⭐0
+- `+` [exfoca/decision-model-lab-4JEV](https://github.com/exfoca/decision-model-lab-4JEV) — inferred / community-sdk — ⭐0
+- `+` [Rafaelhajjar/jev-factor-forecasting](https://github.com/Rafaelhajjar/jev-factor-forecasting) — inferred / evaluation — ⭐0
+- `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
+- `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / research-models — ⭐0
+- `+` [WaynezProg/jev-kit](https://github.com/WaynezProg/jev-kit) — inferred / agent-tooling — ⭐0
+- `+` [ryoheimatsumo/jev-ai-scrum-master](https://github.com/ryoheimatsumo/jev-ai-scrum-master) — inferred / community-sdk — ⭐0
