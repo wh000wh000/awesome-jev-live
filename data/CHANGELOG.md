@@ -5819,3 +5819,32 @@
 - `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
 - `+` [must-goldenrod/jev-router-effort](https://github.com/must-goldenrod/jev-router-effort) — inferred / community-sdk — ⭐0
 - `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / agent-tooling — ⭐0
+
+## 2026-10-20T14:01:55+08:00
+- 收录总数 **818**；本次更新新增 **28**
+- `+` [JamesANZ/JevPromptShield](https://github.com/JamesANZ/JevPromptShield) — inferred / agent-tooling — ⭐202
+- `+` [Show HN: Jev in action – task classifier and auto model router in Keen Code](https://news.ycombinator.com/item?id=50156970) — observed / media-discussions — ⭐6
+- `+` [HsiangNianian/jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup) — inferred / apps-demos — ⭐4
+- `+` [nothans/ex-regex](https://github.com/nothans/ex-regex) — inferred / other — ⭐3
+- `+` [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
+- `+` [ingebyd/fast-jev-compaction-openrouter](https://github.com/ingebyd/fast-jev-compaction-openrouter) — inferred / routing-guardrails — ⭐2
+- `+` [Ranking a Backlog with Jev](https://news.ycombinator.com/item?id=50157795) — observed / media-discussions — ⭐2
+- `+` [AkaneNunes98800/jev-browser](https://github.com/AkaneNunes98800/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [jaeminpandey27/building-with-typesafe-jev](https://github.com/jaeminpandey27/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [mZhou989/building-with-typesafe-jev](https://github.com/mZhou989/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [Stavrost15582/jev-browser](https://github.com/Stavrost15582/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [chinmayakelkar/jev-plan-review](https://github.com/chinmayakelkar/jev-plan-review) — inferred / agent-tooling — ⭐0
+- `+` [barbieri50751/jev-browser](https://github.com/barbieri50751/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [cruz62/jev-browser](https://github.com/cruz62/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [ronychhagar/jev-modernbert-search](https://github.com/ronychhagar/jev-modernbert-search) — observed / community-sdk — ⭐0
+- `+` [nereacastro6340/building-with-typesafe-jev](https://github.com/nereacastro6340/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [omur59/jev-browser](https://github.com/omur59/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [liaocaoxuezhe/x-reply-judge-jev](https://github.com/liaocaoxuezhe/x-reply-judge-jev) — inferred / other — ⭐0
+- `+` [ivanb5498/Jev-Mem](https://github.com/ivanb5498/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [stephane8977/Jev-Mem](https://github.com/stephane8977/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [BartoszFontana82488/Jev-Mem](https://github.com/BartoszFontana82488/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [Mrmimee/opencode-v2-jev](https://github.com/Mrmimee/opencode-v2-jev) — inferred / routing-guardrails — ⭐0
+- `+` [internet-projects/jev35b-mlx](https://github.com/internet-projects/jev35b-mlx) — inferred / evaluation — ⭐0
+- `+` [project-blockwarriors/dreamweaver-jev-starter](https://github.com/project-blockwarriors/dreamweaver-jev-starter) — inferred / apps-demos — ⭐0
+- …另有 3 条新增
