@@ -5800,3 +5800,22 @@
 - `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
 - `+` [ericostrowski3/jev-release-readiness](https://github.com/ericostrowski3/jev-release-readiness) — inferred / other — ⭐0
 - `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
+
+## 2026-10-20T11:53:25+08:00
+- 收录总数 **820**；本次更新新增 **16**
+- `+` [ZephyrDeng/ego-jev](https://github.com/ZephyrDeng/ego-jev) — inferred / agent-tooling — ⭐13
+- `+` [xinwang-nwpu/jev-mobile](https://github.com/xinwang-nwpu/jev-mobile) — inferred / agent-tooling — ⭐8
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐5
+- `+` [waddle-zoo/signal-weave](https://github.com/waddle-zoo/signal-weave) — unverified / other — ⭐4
+- `+` [apixly-ai/jev-harness](https://github.com/apixly-ai/jev-harness) — inferred / agent-tooling — ⭐2
+- `+` [Last-Humans-Coding-Under-White-Nights/arkui-sem](https://github.com/Last-Humans-Coding-Under-White-Nights/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [paulbruffett/jev-demo](https://github.com/paulbruffett/jev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [lee-lou2/jev-tree](https://github.com/lee-lou2/jev-tree) — inferred / community-sdk — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [dxpfig/jev-sentinel](https://github.com/dxpfig/jev-sentinel) — inferred / agent-tooling — ⭐0
+- `+` [zangman/herbert-jev](https://github.com/zangman/herbert-jev) — inferred / other — ⭐0
+- `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
+- `+` [must-goldenrod/jev-router-effort](https://github.com/must-goldenrod/jev-router-effort) — inferred / community-sdk — ⭐0
+- `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / agent-tooling — ⭐0
