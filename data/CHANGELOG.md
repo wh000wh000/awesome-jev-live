@@ -5865,3 +5865,28 @@
 - `+` [devrecated/jev-alternative](https://github.com/devrecated/jev-alternative) — inferred / evaluation — ⭐0
 - `+` [leedonwoo2827-ship-it/jev-revision-agent](https://github.com/leedonwoo2827-ship-it/jev-revision-agent) — inferred / agent-tooling — ⭐0
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+
+## 2026-10-20T18:20:57+08:00
+- 收录总数 **798**；本次更新新增 **22**
+- `+` [cipherTing/sael](https://github.com/cipherTing/sael) — unverified / community-sdk — ⭐5
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐5
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [fangzipei/let-jev-play-pokemon](https://github.com/fangzipei/let-jev-play-pokemon) — inferred / other — ⭐2
+- `+` [danieleteti/systemone-delphi](https://github.com/danieleteti/systemone-delphi) — observed / community-sdk — ⭐0
+- `+` [Megan78634/building-with-typesafe-jev](https://github.com/Megan78634/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [jipika/dsh-jev-grep](https://github.com/jipika/dsh-jev-grep) — inferred / agent-tooling — ⭐0
+- `+` [phamw28/jev-browser](https://github.com/phamw28/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [mohammed45095/jev-browser](https://github.com/mohammed45095/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [michelleklein16228/building-with-typesafe-jev](https://github.com/michelleklein16228/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [fontana53189/building-with-typesafe-jev](https://github.com/fontana53189/building-with-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [stefanahmed471/jev-browser](https://github.com/stefanahmed471/jev-browser) — inferred / community-sdk — ⭐0
+- `+` [productowner-ro/games](https://github.com/productowner-ro/games) — observed / apps-demos — ⭐0
+- `+` [orlov94736/Jev-Mem](https://github.com/orlov94736/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [isabellericci78/Jev-Mem](https://github.com/isabellericci78/Jev-Mem) — inferred / agent-tooling — ⭐0
+- `+` [dnhkng/rys-jev](https://github.com/dnhkng/rys-jev) — inferred / other — ⭐0
+- `+` [mcpysup-netizen/jev-model-router](https://github.com/mcpysup-netizen/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) — inferred / apps-demos — ⭐0
+- `+` [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) — inferred / agent-tooling — ⭐0
+- `+` [aliliu604/jev-social](https://github.com/aliliu604/jev-social) — inferred / community-sdk — ⭐0
+- `+` [kang83957/jev-social](https://github.com/kang83957/jev-social) — inferred / community-sdk — ⭐0

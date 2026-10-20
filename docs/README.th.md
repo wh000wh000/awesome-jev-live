@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-804-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-798-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <b>ไทย</b> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **ดัชนีสด** · ซิงค์ล่าสุด: `2026-10-20T16:13:21+08:00` (UTC+8)
-> · รายการ: **804** · ใหม่ในรอบนี้: **14** · ภาษาที่ใช้พัฒนา: **23**
+> **ดัชนีสด** · ซิงค์ล่าสุด: `2026-10-20T18:24:24+08:00` (UTC+8)
+> · รายการ: **798** · ใหม่ในรอบนี้: **22** · ภาษาที่ใช้พัฒนา: **24**
 
 <sub>ทุกรายการด้านล่างถูกรวบรวม กรอง และตรวจซ้ำโดยไปป์ไลน์ในรีโพซิทอรีนี้ ตัวเลขและเวลาประทับมาจากแหล่งข้อมูล ไม่ใช่จากสแนปช็อตที่เขียนด้วยมือ</sub>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>🏛️ <a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b>
-<sub>⭐2747 · ✅ official</sub>
+<sub>⭐2751 · ✅ official</sub>
 <sub>ทักษะของเอเจนต์สำหรับการสร้างด้วย TypeSafe System One API</sub>
 </td>
 <td width="50%" valign="top">
@@ -53,7 +53,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/nandhakishorm--laya/e01e49f0d842b461.png" width="100%" alt="gargpratyush/jev-router">
 <b>🛡️ <a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b>
-<sub>⭐33609 · Python · 👁️ observed</sub>
+<sub>⭐33628 · Python · 👁️ observed</sub>
 <sub>เอนจินตัดสินใจแบบไม่ใช่การถดถอยเชิงอัตโนมัติ ระบบนี้สามารถตัดสินการเลือก คะแนน และใช่/ไม่ใช่แบบมีชนิดข้อมูลจากข้อความใด ๆ ได้ในการประมวลผลไปข้างหน้าเพียงครั้งเดียว…</sub>
 </td>
 </tr>
@@ -75,7 +75,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/mcg-nju--videojev/d142d1c646806a56.png" width="100%" alt="TianyuCodings/NanoJev">
 <b>🎮 <a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b>
-<sub>⭐201 · Python · 👁️ observed</sub>
+<sub>⭐207 · Python · 👁️ observed</sub>
 <sub>VideoJev: System One Model สำหรับการทำความเข้าใจและการโต้ตอบกับวิดีโอ</sub>
 </td>
 <td width="50%" valign="top">
@@ -91,14 +91,14 @@
 - [Jev คืออะไร?](#jev-คออะไร)
 - [การจัดเกรดรายการ](#การจดเกรดรายการ)
 - [SDK ทางการและเครื่องมือสำหรับนักพัฒนา](#sdk-ทางการและเครองมอสำหรบนกพฒนา) — **7**
-- [ไคลเอนต์ SDK และอะแดปเตอร์จากชุมชน](#ไคลเอนต-sdk-และอะแดปเตอรจากชมชน) — **177**
-- [เครื่องมือสำหรับเอเจนต์: MCP ฮุก เกต และเอเจนต์เขียนโค้ด](#เครองมอสำหรบเอเจนต-mcp-ฮก-เกต-และเอเจนตเขยนโคด) — **216**
-- [การจัดเส้นทาง การ์ดเรล และการอนุมัติ](#การจดเสนทาง-การดเรล-และการอนมต) — **53**
+- [ไคลเอนต์ SDK และอะแดปเตอร์จากชุมชน](#ไคลเอนต-sdk-และอะแดปเตอรจากชมชน) — **180**
+- [เครื่องมือสำหรับเอเจนต์: MCP ฮุก เกต และเอเจนต์เขียนโค้ด](#เครองมอสำหรบเอเจนต-mcp-ฮก-เกต-และเอเจนตเขยนโคด) — **219**
+- [การจัดเส้นทาง การ์ดเรล และการอนุมัติ](#การจดเสนทาง-การดเรล-และการอนมต) — **52**
 - [การประเมิน การคาลิเบรต และเบนช์มาร์ก](#การประเมน-การคาลเบรต-และเบนชมารก) — **85**
-- [งานจำลองแบบเปิด เวต และงานวิจัยสถาปัตยกรรม](#งานจำลองแบบเปด-เวต-และงานวจยสถาปตยกรรม) — **50**
-- [แอปพลิเคชัน เกม หุ่นยนต์ และเดโมแบบโต้ตอบ](#แอปพลเคชน-เกม-หนยนต-และเดโมแบบโตตอบ) — **43**
-- [บทความ การสนทนา และรายการที่เกี่ยวข้อง](#บทความ-การสนทนา-และรายการทเกยวของ) — **85**
-- [โครงการอื่น ๆ](#โครงการอน-ๆ) — **88**
+- [งานจำลองแบบเปิด เวต และงานวิจัยสถาปัตยกรรม](#งานจำลองแบบเปด-เวต-และงานวจยสถาปตยกรรม) — **49**
+- [แอปพลิเคชัน เกม หุ่นยนต์ และเดโมแบบโต้ตอบ](#แอปพลเคชน-เกม-หนยนต-และเดโมแบบโตตอบ) — **41**
+- [บทความ การสนทนา และรายการที่เกี่ยวข้อง](#บทความ-การสนทนา-และรายการทเกยวของ) — **82**
+- [โครงการอื่น ๆ](#โครงการอน-ๆ) — **83**
 - [โปรเจกต์ตามภาษาที่ใช้พัฒนา](#โปรเจกตตามภาษาทใชพฒนา)
 
 ## Jev คืออะไร?
@@ -131,7 +131,7 @@ Jev คือ **System One model** ตัวแรกของ TypeSafe AI ม�
 ทุกอย่างที่ TypeSafe เผยแพร่เอง เริ่มจากตรงนี้
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2747 · ✅ official · 38 天 · ⭐+1</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2751 · ✅ official · 38 天 · ⭐+4</summary>
 
 ##### 📝 สรุป
 
@@ -150,14 +150,14 @@ Jev คือ **System One model** ตัวแรกของ TypeSafe AI ม�
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **2747** (+1) |
+| ดาว              | **2751** (+4) |
 | push ล่าสุด        | 2026-09-12    |
 | ขึ้นรายการครั้งแรก | 2026-09-18    |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐398 · Python · ✅ official · 27 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/system-one-adapter-python">typesafe-ai/system-one-adapter-python</a></b> · ⭐399 · Python · ✅ official · 27 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -175,16 +175,16 @@ Jev คือ **System One model** ตัวแรกของ TypeSafe AI ม�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **398**    |
-| push ล่าสุด        | 2026-09-22 |
-| ขึ้นรายการครั้งแรก | 2026-10-20 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **399** (+1) |
+| push ล่าสุด        | 2026-09-22   |
+| ขึ้นรายการครั้งแรก | 2026-10-20   |
 
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐301 · Python · ✅ official · 5 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐302 · Python · ✅ official · 5 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -204,11 +204,11 @@ Jev คือ **System One model** ตัวแรกของ TypeSafe AI ม�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **301**    |
-| push ล่าสุด        | 2026-10-14 |
-| ขึ้นรายการครั้งแรก | 2026-10-20 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **302** (+1) |
+| push ล่าสุด        | 2026-10-14   |
+| ขึ้นรายการครั้งแรก | 2026-10-20   |
 
 </details>
 
@@ -323,7 +323,7 @@ A custom coding harness for TypeSafe AI's Jev: an LLM proposes, Jev answers narr
 ไคลเอนต์แบบมีชนิดสำหรับเอนด์พอยต์ System One ครอบคลุมภาษาต่าง ๆ เท่าที่ชุมชนทำไปถึง
 
 <details>
-<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐178 · Jupyter · 👁️ observed · 31 天</summary>
+<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐178 · Jupyter · 👁️ observed · 32 天</summary>
 
 ##### 📝 สรุป
 
@@ -375,7 +375,7 @@ Typesafe.ai System One Model Jev ที่นำทางกราฟ Neo4j โ�
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/MrJev/awesome-jev">MrJev/awesome-jev</a></b> · ⭐17 · Python · 👁️ observed · 1 天</summary>
+<summary>🧰 <b><a href="https://github.com/MrJev/awesome-jev">MrJev/awesome-jev</a></b> · ⭐17 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -394,7 +394,7 @@ Typesafe.ai System One Model Jev ที่นำทางกราฟ Neo4j โ�
 | ตัวชี้วัด         | ค่า         |
 | ---------------- | ---------- |
 | ดาว              | **17**     |
-| push ล่าสุด        | 2026-10-19 |
+| push ล่าสุด        | 2026-10-20 |
 | ขึ้นรายการครั้งแรก | 2026-09-18 |
 
 🏷 `ai-agents` · `awesome` · `awesome-list` · `jev` · `mcp` · `typesafe`
@@ -515,7 +515,7 @@ Java SDK ของชุมชนสำหรับ Jev โมเดล System O
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/xingwudao/OpenJev">xingwudao/OpenJev</a></b> · ⭐5 · Python · 👁️ observed · 31 天</summary>
+<summary>🧰 <b><a href="https://github.com/xingwudao/OpenJev">xingwudao/OpenJev</a></b> · ⭐5 · Python · 👁️ observed · 32 天</summary>
 
 ##### 📝 สรุป
 
@@ -542,7 +542,7 @@ OpenJev: System One สำหรับการตัดสินใจแบบ
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/kisshan13/typesafe-ai-go">kisshan13/typesafe-ai-go</a></b> · ⭐4 · Go · 👁️ observed · 0 天 · **NEW**</summary>
+<summary>🧰 <b><a href="https://github.com/kisshan13/typesafe-ai-go">kisshan13/typesafe-ai-go</a></b> · ⭐4 · Go · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -686,7 +686,7 @@ An expressive Unix-pipeable CLI for System One models like Jev
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12945 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐12951 · Python · 🔎 inferred · 1 天 · ⭐+6</summary>
 
 ##### 📝 สรุป
 
@@ -704,7 +704,7 @@ An expressive Unix-pipeable CLI for System One models like Jev
 
 | ตัวชี้วัด         | ค่า             |
 | ---------------- | -------------- |
-| ดาว              | **12945** (+1) |
+| ดาว              | **12951** (+6) |
 | push ล่าสุด        | 2026-10-19     |
 | ขึ้นรายการครั้งแรก | 2026-09-20     |
 
@@ -720,7 +720,7 @@ An expressive Unix-pipeable CLI for System One models like Jev
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐2826 · TypeScript · 🔎 inferred · 0 天 · ⭐+4</summary>
+<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐2826 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 สรุป
 
@@ -736,11 +736,11 @@ An expressive Unix-pipeable CLI for System One models like Jev
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า            |
-| ---------------- | ------------- |
-| ดาว              | **2826** (+4) |
-| push ล่าสุด        | 2026-10-20    |
-| ขึ้นรายการครั้งแรก | 2026-09-27    |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **2826**   |
+| push ล่าสุด        | 2026-10-20 |
+| ขึ้นรายการครั้งแรก | 2026-09-27 |
 
 🏷 `ai-sdk` · `claude-code` · `cli` · `code-search` · `codex` · `coding-agents` · `context-retrieval` · `developer-tools`
 
@@ -754,7 +754,7 @@ An expressive Unix-pipeable CLI for System One models like Jev
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/qybaihe/mu">qybaihe/mu</a></b> · ⭐527 · TypeScript · 🔎 inferred · 0 天</summary>
+<summary>🧰 <b><a href="https://github.com/qybaihe/mu">qybaihe/mu</a></b> · ⭐528 · TypeScript · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -770,11 +770,11 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **527**    |
-| push ล่าสุด        | 2026-10-20 |
-| ขึ้นรายการครั้งแรก | 2026-10-06 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **528** (+1) |
+| push ล่าสุด        | 2026-10-20   |
+| ขึ้นรายการครั้งแรก | 2026-10-06   |
 
 🏷 `agent-harness` · `ai-agent` · `ai-coding` · `aionui` · `cli` · `coding-agent` · `context-engineering` · `desktop-app`
 
@@ -858,10 +858,11 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 159</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 162</sub></summary>
 
 - [CMaintz/jev-dotnet](https://github.com/CMaintz/jev-dotnet) - SDK อย่างไม่เป็นทางการบน .NET สำหรับโมเดล Jev System One ของ TypeSafe AI…
 - [CMaintz/jev-java](https://github.com/CMaintz/jev-java) - Java SDK อย่างไม่เป็นทางการสำหรับโมเดล System One Jev ของ TypeSafe AI การตัดสิน…
+- [danieleteti/systemone-delphi](https://github.com/danieleteti/systemone-delphi) - Delphi client for System One models: instead of generating text, they answer…
 - [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) - เลือกโมเดล ทักษะ และเซิร์ฟเวอร์ MCP สำหรับแต่ละเซสชันของ coding-agent…
 - [JosephHardy91/graph-composition-with-dLLMs](https://github.com/JosephHardy91/graph-composition-with-dLLMs) - A Graph-Compiled Specification RAG system built with **Dagster**, **PostgreSQL…
 - [olivere/systemone](https://github.com/olivere/systemone) - ไลบรารี Go ขนาดเล็กที่ใช้เฉพาะไลบรารีมาตรฐาน สำหรับการตัดสินใจแบบมีประเภทด้วย…
@@ -891,7 +892,6 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [Elue-dev/jev_elixir](https://github.com/Elue-dev/jev_elixir) - jev_elixir คืออินเทอร์เฟซขนาดเล็กตามสำนวนของภาษา…
 - [devbackend/jevgo](https://github.com/devbackend/jevgo) - ไคลเอนต์ Go อย่างไม่เป็นทางการสำหรับ TypeSafe AI System One API (Jev)…
 - [himomohi/aside-jev](https://github.com/himomohi/aside-jev) - เอเจนต์ Aside ตัดสินใจด้วย TypeSafe Jev (System One: Choice/Score/Noul) ไม่ใช่…
-- [TraxSharp/Trax](https://github.com/TraxSharp/Trax) - a headless web framework for .NET.
 - [chenrui333/jev-docs](https://github.com/chenrui333/jev-docs) - ประวัติที่ดูแลโดยชุมชนของ Jev / TypeSafe System One APIs, SDKs, คำแนะนำสำหรับ…
 - [docxology/daf-jev](https://github.com/docxology/daf-jev) - daf-jev: ชุดเครื่องมือ Python ที่ประกอบกันได้สำหรับการตัดสิน API ของ Jev…
 - [haileyok/typesafe-client](https://github.com/haileyok/typesafe-client) - ไคลเอนต์ Go และ Rust อย่างไม่เป็นทางการสำหรับ TypeSafe AI System One API (Jev).
@@ -901,7 +901,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [JimmyWesley/rlcd-gateway](https://github.com/JimmyWesley/rlcd-gateway) - เกตเวย์ที่โฮสต์เองสำหรับ LLMs และโมเดลการตัดสินใจ Claude Code, Codex, OpenCode…
 - [Kadihx/jev-x-kit](https://github.com/Kadihx/jev-x-kit) - เลเยอร์การตัดสินใจออฟไลน์ราคา $0 สำหรับเอเจนต์เขียนโค้ด: primitive…
 - [lexingtonhibiki/judgekit](https://github.com/lexingtonhibiki/judgekit) - YAML-based classification, routing, scoring and verification.
-- [s0cks/tev1-datapoint-extractor](https://github.com/s0cks/tev1-datapoint-extractor) - A CLI tool to classify prose segments into data point kinds using the tev1 model.
+- [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) - A command-line tool that writes a research note each morning on your open…
 - [zhirschtritt/typesafe-go](https://github.com/zhirschtritt/typesafe-go) - Go SDK แบบเป็นธรรมชาติสำหรับ TypeSafe AI API.
 - [Butochnikov/laravel-typesafe-jev](https://github.com/Butochnikov/laravel-typesafe-jev) - การผสานรวม Laravel อย่างไม่เป็นทางการสำหรับ TypeSafe Jev AI…
 - [Lasimeri/Mechanical-Jev](https://github.com/Lasimeri/Mechanical-Jev) - ฝั่งการถามของ Jev (TypeSafe System One: noul, choice, score) ใน Rust…
@@ -915,6 +915,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) - การเปรียบเทียบ: Playwright CLI เทียบกับ CLI+Jev เทียบกับ Playwright MCP.
 - [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) - High-speed System One decision sidecar &amp; Copilot CLI pre-turn hook powered by…
 - [AkaneNunes98800/jev-browser](https://github.com/AkaneNunes98800/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
+- [aliliu604/jev-social](https://github.com/aliliu604/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [analee08998/jev-social](https://github.com/analee08998/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [AndreaEsposito38663/jev-social](https://github.com/AndreaEsposito38663/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [aRamirez51/jev-browser](https://github.com/aRamirez51/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
@@ -933,10 +934,9 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [davideozkan/building-with-typesafe-jev](https://github.com/davideozkan/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [dbehelitate/killercoda--scenario--redteam.JEV](https://github.com/dbehelitate/killercoda--scenario--redteam.JEV) - agentgateway LLM Guardrails: JEV Integration Playground This repository…
 - [DemetCosta2224/building-with-typesafe-jev](https://github.com/DemetCosta2224/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
-- [Emma76217/jev-browser](https://github.com/Emma76217/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [evans13683/jev-social](https://github.com/evans13683/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [EvgenyKondo7263/jev-social](https://github.com/EvgenyKondo7263/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
-- [FrancoisMorales892/jev-browser](https://github.com/FrancoisMorales892/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
+- [fontana53189/building-with-typesafe-jev](https://github.com/fontana53189/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [Gabriele354/jev-browser](https://github.com/Gabriele354/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) - Semantic SQL predicates for MariaDB powered by TypeSafe Jev.
 - [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) - Community TypeSafe Jev semantic decision integration for meilisearch.
@@ -957,6 +957,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [jaworski88/jev-browser](https://github.com/jaworski88/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [JuliaOwens06112/building-with-typesafe-jev](https://github.com/JuliaOwens06112/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [justincastro88624/jev-social](https://github.com/justincastro88624/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
+- [kang83957/jev-social](https://github.com/kang83957/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [Karnaf0katom/jev-auto-effort](https://github.com/Karnaf0katom/jev-auto-effort) - Experimental Jev-based reasoning effort selection and declared helper model…
 - [Kohaku8046/jev-social](https://github.com/Kohaku8046/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [larrydavis089/jev-social](https://github.com/larrydavis089/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
@@ -964,13 +965,13 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [Lorenzok353/building-with-typesafe-jev](https://github.com/Lorenzok353/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [Luuk736/jev-social](https://github.com/Luuk736/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [manonm8018/jev-social](https://github.com/manonm8018/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
-- [Margaretk34117/jev-browser](https://github.com/Margaretk34117/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [margauxbutler/jev-browser](https://github.com/margauxbutler/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [MarieChaudhry/jev-social](https://github.com/MarieChaudhry/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
-- [Matthias59481/jev-browser](https://github.com/Matthias59481/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
+- [Megan78634/building-with-typesafe-jev](https://github.com/Megan78634/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [MehmetPark92/jev-social](https://github.com/MehmetPark92/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [Mercier94509/jev-browser](https://github.com/Mercier94509/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
-- [michelle8961/building-with-typesafe-jev](https://github.com/michelle8961/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
+- [michelleklein16228/building-with-typesafe-jev](https://github.com/michelleklein16228/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
+- [mohammed45095/jev-browser](https://github.com/mohammed45095/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [must-goldenrod/jev-router-effort](https://github.com/must-goldenrod/jev-router-effort) - A tool that automatically routes user requests to specific models—such as those…
 - [mVasquez58324/building-with-typesafe-jev](https://github.com/mVasquez58324/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [mZhou989/building-with-typesafe-jev](https://github.com/mZhou989/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
@@ -983,6 +984,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [OlivierOrlov/jev-browser](https://github.com/OlivierOrlov/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [omur59/jev-browser](https://github.com/omur59/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [Petrov4421/building-with-typesafe-jev](https://github.com/Petrov4421/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
+- [phamw28/jev-browser](https://github.com/phamw28/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [phoenix1331/laravel-jev-hotdog](https://github.com/phoenix1331/laravel-jev-hotdog) - A Laravel 13 playground that tells you whether a photo is a hot dog or not…
 - [pyck-ai/jev-cli](https://github.com/pyck-ai/jev-cli) - Jev.
 - [Ridlo543/jev-judge](https://github.com/Ridlo543/jev-judge) - Universal Model Context Protocol (MCP) server and CLI runner for TypeSafe Jev…
@@ -992,11 +994,11 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [Sidneeuncharged29/jev-visual](https://github.com/Sidneeuncharged29/jev-visual) - รันการอนุมานโมเดลภาษาภาพบน Apple Silicon ด้วย Qwen3.5-0.8B ผ่าน MLX;
 - [siripornr84962/jev-social](https://github.com/siripornr84962/jev-social) - เอเจนต์วิจัยโซเชียลมีเดียแบบโอเพนซอร์สที่เน้นการทำงานในเครื่องสำหรับ Instagram…
 - [Stavrost15582/jev-browser](https://github.com/Stavrost15582/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
+- [stefanahmed471/jev-browser](https://github.com/stefanahmed471/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [Supachaiw792/jev-browser](https://github.com/Supachaiw792/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [SupachaiWright84572/building-with-typesafe-jev](https://github.com/SupachaiWright84572/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
 - [SvenKunkka/browser-use-jev-bridge](https://github.com/SvenKunkka/browser-use-jev-bridge) - Hybrid browser automation tool combining a Jev-style fast policy with Browser…
 - [svetlanagrant19505/building-with-typesafe-jev](https://github.com/svetlanagrant19505/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
-- [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) - Complete-article Wiki assistant with reproducible RAG comparisons and…
 - [TLatAccenture/graphs-and-jev](https://github.com/TLatAccenture/graphs-and-jev) - Tool Shed ของ MCP: บทความเชิงแนวคิดของ Accenture…
 - [wKarahan52/jev-browser](https://github.com/wKarahan52/jev-browser) - ระบบอัตโนมัติเบราว์เซอร์ที่มี LLM เป็นผู้วางแผน และ Jev (Typesafe System One)…
 - [Wolfgang7570/building-with-typesafe-jev](https://github.com/Wolfgang7570/building-with-typesafe-jev) - ทักษะอย่างไม่เป็นทางการที่สอนเอเจนต์เขียนโค้ดให้สร้างด้วย TypeSafe AI Jev…
@@ -1013,6 +1015,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 - [schainks/system_one_client](https://github.com/schainks/system_one_client) - ไคลเอนต์ Elixir สำหรับโมเดลการตัดสิน System One: TypeSafe Jev, Cloudflare Clef…
 - [gilljon/typesafe-ai-rs](https://github.com/gilljon/typesafe-ai-rs) - Rust SDK แบบ async และ blocking ที่เป็นอิสระสำหรับ TypeSafe AI System One API.
 - [iamngoni/veyra](https://github.com/iamngoni/veyra) - Autonomous, provider-neutral trading service in Rust.
+- [cipherTing/sael](https://github.com/cipherTing/sael) - ไคลเอนต์ Go สำหรับ TypeSafe System One API (Jev) — ชิ้นแรกของ sael…
 - [Query-farm/vgi-typesafe](https://github.com/Query-farm/vgi-typesafe) - เวิร์กเกอร์ VGI ที่เปิดเผยคำถาม TypeSafe System One (choice, noul, score) ให้…
 - [y0usaf/typesafe-cli](https://github.com/y0usaf/typesafe-cli) - ถามคำถามแบบมีชนิด Jev จาก shell: คำตอบ noul, choice และ score เป็นตัวเลข…
 - [geilt/typesafe-cli](https://github.com/geilt/typesafe-cli) - CLI และทักษะเอเจนต์สำหรับ TypeSafe System One (Jev): การตัดสินแบบมีชนิด Choice…
@@ -1029,7 +1032,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 หมวดที่โตเร็วที่สุด: ฮุก เซิร์ฟเวอร์ MCP และเกตที่วางการตัดสินใจแบบมีชนิดไว้หน้าการกระทำถัดไปของเอเจนต์
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7710 · TypeScript · 🔎 inferred · 32 天 · ⭐+2</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7710 · TypeScript · 🔎 inferred · 32 天</summary>
 
 ##### 📝 สรุป
 
@@ -1047,11 +1050,11 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า            |
-| ---------------- | ------------- |
-| ดาว              | **7710** (+2) |
-| push ล่าสุด        | 2026-09-18    |
-| ขึ้นรายการครั้งแรก | 2026-09-18    |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **7710**   |
+| push ล่าสุด        | 2026-09-18 |
+| ขึ้นรายการครั้งแรก | 2026-09-18 |
 
 </details>
 
@@ -1119,7 +1122,7 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/strands-labs/strands-decider">strands-labs/strands-decider</a></b> · ⭐674 · Python · 👁️ observed · 0 天</summary>
+<summary>🤖 <b><a href="https://github.com/strands-labs/strands-decider">strands-labs/strands-decider</a></b> · ⭐675 · Python · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -1135,18 +1138,18 @@ mu (μ): เอเจนต์เขียนโค้ดที่คิดก�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **674**    |
-| push ล่าสุด        | 2026-10-19 |
-| ขึ้นรายการครั้งแรก | 2026-10-02 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **675** (+1) |
+| push ล่าสุด        | 2026-10-19   |
+| ขึ้นรายการครั้งแรก | 2026-10-02   |
 
 🏷 `ai` · `machine-learning` · `natural-language-understanding` · `python` · `strands-agents` · `strands-labs` · `system-one` · `system-one-models`
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/AbdelStark/awesome-typesafe-jev">AbdelStark/awesome-typesafe-jev</a></b> · ⭐599 · HTML · 👁️ observed · 0 天</summary>
+<summary>🤖 <b><a href="https://github.com/AbdelStark/awesome-typesafe-jev">AbdelStark/awesome-typesafe-jev</a></b> · ⭐598 · HTML · 👁️ observed · 1 天 · ⭐-1</summary>
 
 ##### 📝 สรุป
 
@@ -1162,11 +1165,11 @@ Awesome Jev: คู่มือภาคสนามที่มีแหล่�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **599**    |
-| push ล่าสุด        | 2026-10-19 |
-| ขึ้นรายการครั้งแรก | 2026-09-21 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **598** (-1) |
+| push ล่าสุด        | 2026-10-19   |
+| ขึ้นรายการครั้งแรก | 2026-09-21   |
 
 🏷 `agent-skills` · `ai-agents` · `awesome` · `awesome-jev` · `awesome-list` · `awesome-lists` · `curated-list` · `developer-tools`
 
@@ -1494,7 +1497,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐23306 · Python · 🔎 inferred · 20 天 · ⭐+2</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐23314 · Python · 🔎 inferred · 20 天 · ⭐+8</summary>
 
 ##### 📝 สรุป
 
@@ -1512,7 +1515,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 
 | ตัวชี้วัด         | ค่า             |
 | ---------------- | -------------- |
-| ดาว              | **23306** (+2) |
+| ดาว              | **23314** (+8) |
 | push ล่าสุด        | 2026-09-30     |
 | ขึ้นรายการครั้งแรก | 2026-09-18     |
 
@@ -1526,7 +1529,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8151 · Go · 🔎 inferred · 1 天 · ⭐+2</summary>
+<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8152 · Go · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -1544,7 +1547,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **8151** (+2) |
+| ดาว              | **8152** (+1) |
 | push ล่าสุด        | 2026-10-19    |
 | ขึ้นรายการครั้งแรก | 2026-09-25    |
 
@@ -1562,7 +1565,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 198</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 201</sub></summary>
 
 - [tiffygk/jev-mode](https://github.com/tiffygk/jev-mode) - Claude Code/Codex skills, evals, harnesses/context tools, and learning…
 - [yohanargentina-oss/Foq](https://github.com/yohanargentina-oss/Foq) - ⚡ Foq — ทางเลือกแบบฟรี ทำงานภายในเครื่อง และโอเพนซอร์สสำหรับ Jev การตัดสินใจ…
@@ -1574,9 +1577,9 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 - [Last-Humans-Coding-Under-White-Nights/arkui-sem](https://github.com/Last-Humans-Coding-Under-White-Nights/arkui-sem) - Linter ArkUI เชิงความหมายสำหรับเอเจนต์เขียนโค้ด…
 - [rajasekharponakala/jev-mcp](https://github.com/rajasekharponakala/jev-mcp) - เซิร์ฟเวอร์ MCP ที่ห่อหุ้มโมเดล Jev System One ของ TypeSafe — การตัดสิน…
 - [BFLabsAI/bf-jev-deep-research](https://github.com/BFLabsAI/bf-jev-deep-research) - ทักษะเอเจนต์ + การศึกษาแบบถอดความตรงตัวเกี่ยวกับ Jev.
+- [stern9/jev-bench](https://github.com/stern9/jev-bench) - Benchmark TypeSafe.
 - [api-evangelist/typesafe-ai](https://github.com/api-evangelist/typesafe-ai) - TypeSafe AI คือห้องปฏิบัติการ AI ในซานฟรานซิสโกที่สร้างโมเดล System One…
 - [CrowBe/weave](https://github.com/CrowBe/weave) - Agent Harness สำหรับโมเดล System One.
-- [Dinosaur-MC/dsh-decision-tools](https://github.com/Dinosaur-MC/dsh-decision-tools) - DSH plugin that turns a local Ollama System One model into two agent tools…
 - [exoticknight/dsh-system1](https://github.com/exoticknight/dsh-system1) - Asks System One models for yes/no, choice, score, and image-box judgments with…
 - [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) - An independent, evidence-first field guide to Jev.
 - [gsaini/system-one-models-getting-started](https://github.com/gsaini/system-one-models-getting-started) - TypeSafe.
@@ -1584,7 +1587,6 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 - [jms-dcksn/uipath-jev-guardrail-connector](https://github.com/jms-dcksn/uipath-jev-guardrail-connector) - ตัวเชื่อมต่อ bring-your-own-guardrail ของ UiPath ที่ขับเคลื่อนด้วยโมเดล…
 - [lucast4049/openjev](https://github.com/lucast4049/openjev) - รันการตัดสินใจแบบมีชนิดข้อมูลที่รวดเร็วและปรับเทียบแล้วบนโมเดล System One…
 - [Mainakcris7/agent-guardrail-with-jev](https://github.com/Mainakcris7/agent-guardrail-with-jev) - A practical demo of how can we leverage the power of System One Models like Jev…
-- [stern9/jev-bench](https://github.com/stern9/jev-bench) - Benchmark TypeSafe.
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - ผู้ช่วยตัดสินใจสำหรับแชต: ก่อนที่คุณจะตอบ Jev จะอ่านแชต…
 - [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) - การทำงานของเบราว์เซอร์เร็วขึ้น 5–10 เท่า: Jev คลิก ส่วน Codex คิดและตรวจสอบ…
 - [reticlehq/reticle](https://github.com/reticlehq/reticle) - เอเจนต์ AI สามารถสร้างโค้ดได้ แต่ยังคงประสบปัญหาในการทำความเข้าใจสิ่งที่ตนสร้าง…
@@ -1665,6 +1667,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 - [123wwwa/JevTrace](https://github.com/123wwwa/JevTrace) - เซิร์ฟเวอร์ MCP ที่ลดการใช้โทเค็นของเอเจนต์เขียนโค้ด โดยดึงเฉพาะโค้ด JS/TS…
 - [deepansh-saxena/jev-guardrails](https://github.com/deepansh-saxena/jev-guardrails) - การเปรียบเทียบ LLM-as-judge กับ TypeSafe Jev สำหรับการป้องกันเอเจนต์…
 - [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) - Jev (TypeSafe System One) มอบความเห็นที่สองให้มนุษย์ ไม่ใช่เอเจนต์…
+- [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) - Bridge that lets Claude Code verify an iOS app on a simulator, with TypeSafe.
 - [King4s/jev-skill-router](https://github.com/King4s/jev-skill-router) - เราเตอร์สกิล Jev MCP — รวบรวมแหล่งสกิล จัดทำดัชนี และให้ Jev…
 - [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) - การเทรดจำลองในตลาด Polymarket และ Kalshi จริงด้วยเงินปลอม $100k: งานวิจัยของ…
 - [MongLong0214/jev-gate](https://github.com/MongLong0214/jev-gate) - ไม่ใช่งานเขียนโค้ดทุกงานที่ต้องใช้โมเดลที่ดีที่สุดของคุณ การ routing…
@@ -1672,13 +1675,11 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 - [PerryLink/laya-mcp](https://github.com/PerryLink/laya-mcp) - MCP server for Laya typed decisions (noul / choice / score): warm model…
 - [psyb0t/decidealot](https://github.com/psyb0t/decidealot) - Make the call. Run local Laya, Von, CLM or hosted Jev for typed classification…
 - [robokrunch/awesome-jev](https://github.com/robokrunch/awesome-jev) - รายการทรัพยากรที่คัดสรรสำหรับ Jev — โมเดลการตัดสินใจ System One ของ TypeSafe AI…
-- [ronitgupta138/Local-Jev](https://github.com/ronitgupta138/Local-Jev) - ⚡ 100% offline, zero-cost drop-in alternative to TypeSafe Jev System One…
 - [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) - เกตการนำเข้าข้อมูล System 1 ที่รวดเร็วสำหรับสถาปัตยกรรมเอเจนต์ AI…
 - [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) - ศูนย์รวมที่คัดสรรแล้วของระบบนิเวศโมเดล &quot;System One&quot; ของ Jev / TypeSafe — แนวคิด…
 - [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) - เซิร์ฟเวอร์ MCP สำหรับ Jev (TypeSafe System One)…
 - [1aifanatic/jev-uipath-coded-agent](https://github.com/1aifanatic/jev-uipath-coded-agent) - เดโม FINS: เอเจนต์ที่เขียนโค้ดด้วย UiPath สำหรับคัดแย้งการแจ้งเตือน AML…
 - [aitofy-dev/jev-awesome-skills](https://github.com/aitofy-dev/jev-awesome-skills) - ทักษะ Jev แบบโอเพนซอร์สสำหรับ Claude Code, Codex, Cursor และ Grok TypeSafe…
-- [apixly-ai/jev-harness](https://github.com/apixly-ai/jev-harness) - Jev-native agent loops: typed tools and parameter choices, explicit context…
 - [cnrai/openpave-jev](https://github.com/cnrai/openpave-jev) - ทักษะ PAVE สำหรับโมเดลการตัดสินใจแบบไม่ถดถอยอัตโนมัติ (Jev / Laya / TypeSafe)…
 - [darwintechlab/claude-jev](https://github.com/darwintechlab/claude-jev) - Jev System One สำหรับ Claude Code — Choice/Noul/Score แบบมีชนิดผ่าน TypeSafe…
 - [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) - เอเจนต์แบบเขียนโค้ดของ UiPath พร้อม guardrail ตรวจจับ PII แบบกำหนดเองที่ขอบเขต…
@@ -1725,16 +1726,21 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 - [HKUST-KnowComp/jev-guardrail](https://github.com/HKUST-KnowComp/jev-guardrail) - ต้นไม้นโยบายที่แก้ไขได้และตัวจัดประเภท 2B สำหรับตรวจสอบคำขอและการดำเนินการของ…
 - [Huseyinn19/Jev-Mem](https://github.com/Huseyinn19/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [iamdgarcia/jev-mini-bench](https://github.com/iamdgarcia/jev-mini-bench) - เครื่องมือสำรวจขนาดพกพาสำหรับกระแสโมเดลการตัดสินใจขนาดจิ๋ว.
+- [isabellericci78/Jev-Mem](https://github.com/isabellericci78/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [ivanb5498/Jev-Mem](https://github.com/ivanb5498/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
+- [jipika/dsh-jev-grep](https://github.com/jipika/dsh-jev-grep) - ปลั๊กอินตัดสินผลการค้นหาจำนวนมากสำหรับ DeepSeek Harness: ripgrep +…
 - [JWE24-code/dsh-jev-loop](https://github.com/JWE24-code/dsh-jev-loop) - Jev (TypeSafe System One) judgments at the DeepSeek Harness agent-loop gates.
 - [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) - ฮุกและ MCP ที่ทำให้ Claude Code, Claude Desktop และ Codex…
 - [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) - Jev progress judgment between DeepSeek Harness goal rounds — one fan-out per…
 - [leedonwoo2827-ship-it/jev-revision-agent](https://github.com/leedonwoo2827-ship-it/jev-revision-agent) - JEV 개정 에이전트: 개정 법령·기본서를 반영한 현재판 수정 권고안 자동 작성 (Codex OAuth).
 - [maurorosero/hermes-jev-helper](https://github.com/maurorosero/hermes-jev-helper) - Hermes harness plugin — Jev-backed intent classifier that routes each turn to a…
+- [mcpysup-netizen/jev-model-router](https://github.com/mcpysup-netizen/jev-model-router) - Pick a Claude or Codex model and reasoning level per task.
 - [Mfrostbutter/jev-n8n-patterns](https://github.com/Mfrostbutter/jev-n8n-patterns) - รูปแบบ Jev (TypeSafe System One) ใน n8n: การคัดกรอง PII…
 - [MichelePolo/jev-mcp](https://github.com/MichelePolo/jev-mcp) - เซิร์ฟเวอร์ MCP ที่เปิดเผยโมเดลการตัดสินใจรูปแบบ Jev ของ System One.
 - [Mrmimee/hermes-plugin-jev](https://github.com/Mrmimee/hermes-plugin-jev) - Jev (TypeSafe AI) System One decision engine plugin for Hermes Agent, backed by…
+- [mud-the-developer/jev-loop](https://github.com/mud-the-developer/jev-loop) - JEV-assisted agent loops for Pi, with scoped approval and evidence-gated…
 - [NeelakandanNC/jev-experiments](https://github.com/NeelakandanNC/jev-experiments) - การทดลองกับ Jev โมเดลการตัดสินใจที่ฝึกด้วย RLCD ของ TypeSafe 01: Jev…
+- [orlov94736/Jev-Mem](https://github.com/orlov94736/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
 - [panaalexandrucristian/jev-mcp-private](https://github.com/panaalexandrucristian/jev-mcp-private) - มิเรอร์ส่วนตัวของ jkudish/jev-mcp พร้อมแพ็กเกจปลั๊กอิน Claude Code และ OpenCode.
 - [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) - แอตลาสโครงการ GitHub ที่สร้างด้วย JEV / TypeSafe System One…
 - [rgreen4374/Jev-Mem](https://github.com/rgreen4374/Jev-Mem) - Jev-Mem: System-One Controlled Agentic Memory.
@@ -1772,7 +1778,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 กรณีใช้งานแบบงานจริง — ส่งแต่ละคำขอไปยังโมเดลที่ถูกที่สุดซึ่งรับมือได้จริง และคุมผลลัพธ์ด้วยการตรวจสอบที่แน่นอน
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐33609 · Python · 👁️ observed · 0 天 · ⭐+20</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐33628 · Python · 👁️ observed · 1 天 · ⭐+19</summary>
 
 ##### 📝 สรุป
 
@@ -1792,7 +1798,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 
 | ตัวชี้วัด         | ค่า              |
 | ---------------- | --------------- |
-| ดาว              | **33609** (+20) |
+| ดาว              | **33628** (+19) |
 | push ล่าสุด        | 2026-10-19      |
 | ขึ้นรายการครั้งแรก | 2026-09-23      |
 
@@ -1808,7 +1814,7 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/HarnessRouter/SystemOneHarness">HarnessRouter/SystemOneHarness</a></b> · ⭐198 · Python · 👁️ observed · 28 天 · ⭐+1</summary>
+<summary>🛡️ <b><a href="https://github.com/HarnessRouter/SystemOneHarness">HarnessRouter/SystemOneHarness</a></b> · ⭐198 · Python · 👁️ observed · 28 天</summary>
 
 ##### 📝 สรุป
 
@@ -1824,11 +1830,11 @@ Jev MCP server: a decision layer for coding agents, built on TypeSafe Jev (Syste
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า           |
-| ---------------- | ------------ |
-| ดาว              | **198** (+1) |
-| push ล่าสุด        | 2026-09-21   |
-| ขึ้นรายการครั้งแรก | 2026-10-20   |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **198**    |
+| push ล่าสุด        | 2026-09-21 |
+| ขึ้นรายการครั้งแรก | 2026-10-20 |
 
 🏷 `harness` · `harness-engineering` · `system-one-harness` · `system-one-models`
 
@@ -1889,7 +1895,7 @@ Rust CLI ที่ขับเคลื่อนโดย Jev จาก TypeSafe
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/wjdjdakf17/jev-vs-laya">wjdjdakf17/jev-vs-laya</a></b> · TypeScript · 👁️ observed · 11 天</summary>
+<summary>🛡️ <b><a href="https://github.com/wjdjdakf17/jev-vs-laya">wjdjdakf17/jev-vs-laya</a></b> · TypeScript · 👁️ observed · 12 天</summary>
 
 ##### 📝 สรุป
 
@@ -1916,7 +1922,7 @@ Rust CLI ที่ขับเคลื่อนโดย Jev จาก TypeSafe
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐1362 · Rust · 🔎 inferred · 0 天</summary>
+<summary>🛡️ <b><a href="https://github.com/ollaya-dev/ollaya">ollaya-dev/ollaya</a></b> · ⭐1363 · Rust · 🔎 inferred · 0 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -1932,18 +1938,18 @@ Rust CLI ที่ขับเคลื่อนโดย Jev จาก TypeSafe
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **1362**   |
-| push ล่าสุด        | 2026-10-20 |
-| ขึ้นรายการครั้งแรก | 2026-09-25 |
+| ตัวชี้วัด         | ค่า            |
+| ---------------- | ------------- |
+| ดาว              | **1363** (+1) |
+| push ล่าสุด        | 2026-10-20    |
+| ขึ้นรายการครั้งแรก | 2026-09-25    |
 
 🏷 `calibration` · `classification` · `decision-models` · `gliclass` · `jev` · `laya` · `llm-routing` · `local-inference`
 
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/zhangcy122/OpenJev">zhangcy122/OpenJev</a></b> · ⭐44 · Python · 🔎 inferred · 21 天 · ⭐+1</summary>
+<summary>🛡️ <b><a href="https://github.com/zhangcy122/OpenJev">zhangcy122/OpenJev</a></b> · ⭐44 · Python · 🔎 inferred · 21 天</summary>
 
 ##### 📝 สรุป
 
@@ -1959,11 +1965,11 @@ Rust CLI ที่ขับเคลื่อนโดย Jev จาก TypeSafe
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า          |
-| ---------------- | ----------- |
-| ดาว              | **44** (+1) |
-| push ล่าสุด        | 2026-09-29  |
-| ขึ้นรายการครั้งแรก | 2026-10-20  |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **44**     |
+| push ล่าสุด        | 2026-09-29 |
+| ขึ้นรายการครั้งแรก | 2026-10-20 |
 
 </details>
 
@@ -2079,7 +2085,7 @@ A Bangla-focused adaptation of Laya for typed decisions, classification, and rou
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/gaborishka/jev-canvas">gaborishka/jev-canvas</a></b> · ⭐20 · JavaScript · 🔎 inferred · 30 天</summary>
+<summary>🛡️ <b><a href="https://github.com/gaborishka/jev-canvas">gaborishka/jev-canvas</a></b> · ⭐20 · JavaScript · 🔎 inferred · 31 天</summary>
 
 ##### 📝 สรุป
 
@@ -2251,7 +2257,7 @@ Eight decision models, measured as the candidate list grows, the option order ch
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/openwhat007/jev-rerank">openwhat007/jev-rerank</a></b> · ⭐2 · Python · 🔎 inferred · 23 天</summary>
+<summary>🛡️ <b><a href="https://github.com/openwhat007/jev-rerank">openwhat007/jev-rerank</a></b> · ⭐2 · Python · 🔎 inferred · 24 天</summary>
 
 ##### 📝 สรุป
 
@@ -2317,14 +2323,13 @@ Eight decision models, measured as the candidate list grows, the option order ch
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 35</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 34</sub></summary>
 
 - [klauswg/jev-suite](https://github.com/klauswg/jev-suite) - เครื่องมือคุณภาพการตัดสินใจสี่รายการบน Jev (TypeSafe System One): Jev…
+- [slavabars/decision-cascade](https://github.com/slavabars/decision-cascade) - Local decision engine with typed, calibrated outputs (Noul/Choice/Score)…
 - [vynnlee/jev-mail](https://github.com/vynnlee/jev-mail) - การคัดแยก Zero-Inbox อัตโนมัติตลอด 24/7 สำหรับ Gmail ขับเคลื่อนด้วย TypeSafe…
 - [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) - The decision layer for LLM apps.
 - [bitnovus/jev-spam-eval](https://github.com/bitnovus/jev-spam-eval) - การกรองสแปมแบบ zero-shot ด้วยคำถาม TypeSafe Jev Noul…
-- [slavabars/decision-cascade](https://github.com/slavabars/decision-cascade) - Local decision engine with typed, calibrated outputs (Noul/Choice/Score)…
-- [ingebyd/fast-jev-compaction-openrouter](https://github.com/ingebyd/fast-jev-compaction-openrouter) - Fork of tamaratran/fast-jev-compaction: Jev via OpenRouter with zero data…
 - [dragpk247/jev-gateway](https://github.com/dragpk247/jev-gateway) - เราเตอร์ LLM อัจฉริยะต่ำกว่า 300ms พร้อมแซนด์บ็อกซ์ความเป็นส่วนตัว Zero-Leak…
 - [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) - ตัวประมวลผล Apache NiFi สำหรับการกำหนดเส้นทางเชิงความหมาย TypeSafe Jev…
 - [kentilaok/Jev-Orchestrated-Decision-Mesh](https://github.com/kentilaok/Jev-Orchestrated-Decision-Mesh) - Jev-Orchestrated Decision Mesh (CIDM): การกำหนดเส้นทาง Luna/Sol แบบ GPT-6…
@@ -2409,7 +2414,7 @@ Eight decision models, measured as the candidate list grows, the option order ch
 | ตัวชี้วัด         | ค่า         |
 | ---------------- | ---------- |
 | ดาว              | **508**    |
-| push ล่าสุด        | 2026-10-19 |
+| push ล่าสุด        | 2026-10-20 |
 | ขึ้นรายการครั้งแรก | 2026-09-20 |
 
 🏷 `awesome` · `awesome-jev` · `awesome-list` · `calibrated-probabilities` · `calibration` · `decision-models` · `jev` · `jev-ai`
@@ -2549,7 +2554,7 @@ A high-performance serving engine for System One decision models.
 | ตัวชี้วัด         | ค่า         |
 | ---------------- | ---------- |
 | ดาว              | **7**      |
-| push ล่าสุด        | 2026-10-19 |
+| push ล่าสุด        | 2026-10-20 |
 | ขึ้นรายการครั้งแรก | 2026-09-28 |
 
 🏷 `arxiv` · `awesome` · `awesome-list` · `calibration` · `decision-model` · `jev` · `llm` · `paper-list`
@@ -2724,7 +2729,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1448 · Python · 🔎 inferred · 7 天 · ⭐+5</summary>
+<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1449 · Python · 🔎 inferred · 7 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -2742,7 +2747,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **1448** (+5) |
+| ดาว              | **1449** (+1) |
 | push ล่าสุด        | 2026-10-12    |
 | ขึ้นรายการครั้งแรก | 2026-09-22    |
 
@@ -2758,7 +2763,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/fstandhartinger/jevbench">fstandhartinger/jevbench</a></b> · ⭐290 · Python · 🔎 inferred · 5 天</summary>
+<summary>🧪 <b><a href="https://github.com/fstandhartinger/jevbench">fstandhartinger/jevbench</a></b> · ⭐291 · Python · 🔎 inferred · 5 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -2774,11 +2779,11 @@ JevBench โดย Benchmark Heaven: เบนช์มาร์กและล�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **290**    |
-| push ล่าสุด        | 2026-10-15 |
-| ขึ้นรายการครั้งแรก | 2026-10-12 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **291** (+1) |
+| push ล่าสุด        | 2026-10-15   |
+| ขึ้นรายการครั้งแรก | 2026-10-12   |
 
 🏷 `ai-benchmark` · `benchmark-heaven` · `calibration` · `decision-models` · `decisionmodels` · `jev` · `jev-compatible` · `jevbench`
 
@@ -2826,7 +2831,7 @@ An open training and inference stack for Jev-style decision models.  Train model
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐156 · Python · 🔎 inferred · 22 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐156 · Python · 🔎 inferred · 22 天</summary>
 
 ##### 📝 สรุป
 
@@ -2842,11 +2847,11 @@ JevK5: ทางเลือกแบบ open-weight สำหรับ TypeSafe
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า           |
-| ---------------- | ------------ |
-| ดาว              | **156** (+1) |
-| push ล่าสุด        | 2026-09-28   |
-| ขึ้นรายการครั้งแรก | 2026-10-12   |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **156**    |
+| push ล่าสุด        | 2026-09-28 |
+| ขึ้นรายการครั้งแรก | 2026-10-12 |
 
 🏷 `calibration` · `decision-model` · `jev` · `jev-alternative` · `jevbench` · `lora` · `qwen` · `system-one`
 
@@ -2960,9 +2965,9 @@ JevK5: ทางเลือกแบบ open-weight สำหรับ TypeSafe
 - [nomadoor/ComfyUI-TypedDecision](https://github.com/nomadoor/ComfyUI-TypedDecision) - การตัดสินใจแบบมีชนิด (noul / choice / score)…
 - [arnabgho/rlcd-lite](https://github.com/arnabgho/rlcd-lite) - RL แบบง่ายสำหรับการตัดสินใจที่ปรับเทียบแล้ว: การถอดรหัส JSON…
 - [kotoba-lang/typed-decisions](https://github.com/kotoba-lang/typed-decisions) - โมเดลการตัดสินใจแบบมีชนิดรูปทรง Jev.
-- [itsoltech/basal-rs](https://github.com/itsoltech/basal-rs) - Rust inference engine for Basal models by Remek Kinas.
 - [Mangaba-ai/brier](https://github.com/Mangaba-ai/brier) - Brier: การตัดสินใจแบบมีประเภทและผ่านการปรับเทียบ (ตัวเลือก/คะแนน/noul)…
 - [shamazharikh/qwen-rlcd](https://github.com/shamazharikh/qwen-rlcd) - โมเดลการตัดสินใจที่ปรับเทียบแล้วสไตล์ Jev (Choice/Score/Noul) บน Qwen3.5-0.8B.
+- [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) - Open-source evaluation toolkit of Jev-like models, support 20+ Jev-like models…
 
 </details>
 
@@ -3000,7 +3005,7 @@ JevK5: ทางเลือกแบบ open-weight สำหรับ TypeSafe
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2571 · Python · 🔎 inferred · 4 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2571 · Python · 🔎 inferred · 4 天</summary>
 
 ##### 📝 สรุป
 
@@ -3018,11 +3023,11 @@ JevK5: ทางเลือกแบบ open-weight สำหรับ TypeSafe
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า            |
-| ---------------- | ------------- |
-| ดาว              | **2571** (+1) |
-| push ล่าสุด        | 2026-10-16    |
-| ขึ้นรายการครั้งแรก | 2026-09-18    |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **2571**   |
+| push ล่าสุด        | 2026-10-16 |
+| ขึ้นรายการครั้งแรก | 2026-09-18 |
 
 ---
 
@@ -3274,7 +3279,7 @@ Dohnuts สร้างโมเดล multimodal ขนาดเล็กสำ
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐6989 · Python · 🔎 inferred · 0 天 · ⭐+2</summary>
+<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐6992 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
 
 ##### 📝 สรุป
 
@@ -3292,23 +3297,16 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **6989** (+2) |
+| ดาว              | **6992** (+3) |
 | push ล่าสุด        | 2026-10-20    |
 | ขึ้นรายการครั้งแรก | 2026-10-20    |
 
 🏷 `apple-silicon` · `decision-model` · `inference` · `laya` · `local-ai` · `machine-learning` · `mlx` · `modernbert`
 
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/mizorewww--laya-mlx/ee64da200d43d0cd.gif" width="100%" alt="mizorewww/laya-mlx screenshot"></td>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/mizorewww--laya-mlx/18b82d54b656b475.gif" width="100%" alt="mizorewww/laya-mlx animation"><br><sub>บันทึกแบบเคลื่อนไหว</sub></td>
-</tr></table>
-
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4863 · Python · 🔎 inferred · 26 天 · ⭐+2</summary>
+<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4866 · Python · 🔎 inferred · 26 天 · ⭐+3</summary>
 
 ##### 📝 สรุป
 
@@ -3326,7 +3324,7 @@ Semantic ifs จากโมเดลโอเพนซอร์ส บน 3090 
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **4863** (+2) |
+| ดาว              | **4866** (+3) |
 | push ล่าสุด        | 2026-09-23    |
 | ขึ้นรายการครั้งแรก | 2026-09-25    |
 
@@ -3340,7 +3338,7 @@ Semantic ifs จากโมเดลโอเพนซอร์ส บน 3090 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐664 · Python · 🔎 inferred · 0 天 · ⭐+1</summary>
+<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐667 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
 
 ##### 📝 สรุป
 
@@ -3358,7 +3356,7 @@ Semantic ifs จากโมเดลโอเพนซอร์ส บน 3090 
 
 | ตัวชี้วัด         | ค่า           |
 | ---------------- | ------------ |
-| ดาว              | **664** (+1) |
+| ดาว              | **667** (+3) |
 | push ล่าสุด        | 2026-10-19   |
 | ขึ้นรายการครั้งแรก | 2026-10-04   |
 
@@ -3442,7 +3440,7 @@ Semantic ifs จากโมเดลโอเพนซอร์ส บน 3090 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐317 · Python · 🔎 inferred · 27 天 · ⭐+2</summary>
+<summary>🔬 <b><a href="https://github.com/FBddcz/embodied-jev">FBddcz/embodied-jev</a></b> · ⭐317 · Python · 🔎 inferred · 27 天</summary>
 
 ##### 📝 สรุป
 
@@ -3458,11 +3456,11 @@ EmbodiedJev: เวิร์กเบนช์การตัดสินใจ�
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า           |
-| ---------------- | ------------ |
-| ดาว              | **317** (+2) |
-| push ล่าสุด        | 2026-09-22   |
-| ขึ้นรายการครั้งแรก | 2026-10-12   |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **317**    |
+| push ล่าสุด        | 2026-09-22 |
+| ขึ้นรายการครั้งแรก | 2026-10-12 |
 
 ---
 
@@ -3474,7 +3472,7 @@ EmbodiedJev: เวิร์กเบนช์การตัดสินใจ�
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/alvarobartt/sys1">alvarobartt/sys1</a></b> · ⭐55 · Rust · 🔎 inferred · 9 天</summary>
+<summary>🔬 <b><a href="https://github.com/alvarobartt/sys1">alvarobartt/sys1</a></b> · ⭐55 · Rust · 🔎 inferred · 10 天</summary>
 
 ##### 📝 สรุป
 
@@ -3508,7 +3506,7 @@ EmbodiedJev: เวิร์กเบนช์การตัดสินใจ�
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 32</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 31</sub></summary>
 
 - [wfzyx/von](https://github.com/wfzyx/von) - โมเดลการตัดสินใจ System One แบบโอเพนซอร์ส ไม่ถึง 15 มิลลิวินาที…
 - [hyperspaceai/jevcache](https://github.com/hyperspaceai/jevcache) - แคชการตัดสินใจสำหรับโมเดลระดับ TypeSafe Jev…
@@ -3519,9 +3517,8 @@ EmbodiedJev: เวิร์กเบนช์การตัดสินใจ�
 - [whyashthakker/awesome-jev-use-cases](https://github.com/whyashthakker/awesome-jev-use-cases) - รายการรวมกรณีการใช้งาน Jev เปรียบเทียบกับโมเดล GPT (LLMs)…
 - [bl888m/jev-bot](https://github.com/bl888m/jev-bot) - JEV-powered market decision bot for stocks, crypto and memes.
 - [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) - JEV-mini เป็นโปรเจกต์การเรียนรู้ขนาดเล็กสำหรับฝึกโมเดลการตัดสินใจที่รวดเร็ว.
-- [skydiving94/klint](https://github.com/skydiving94/klint) - semantic linter แบบ declarative และตัวตรวจสอบโค้ดเชิงสถาปัตยกรรมสำหรับโมเดล kev…
 - [mars-tw/jev-trading-command-center](https://github.com/mars-tw/jev-trading-command-center) - Open-source paper-trading research app integrating TypeSafe Jev, animated 3D…
-- [OpenLAIR/lev](https://github.com/OpenLAIR/lev) - Lev: Thinking Fast and Deep with Looped Decision Models.
+- [skydiving94/klint](https://github.com/skydiving94/klint) - semantic linter แบบ declarative และตัวตรวจสอบโค้ดเชิงสถาปัตยกรรมสำหรับโมเดล kev…
 - [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) - MiniCPM5-2B-Jev: โมเดลการตัดสินใจ System 1 ความเร็วสูง.
 - [0utKast/Jev_AI](https://github.com/0utKast/Jev_AI) - หลักสูตรฉบับสมบูรณ์ สมุดบันทึก Google Colab และคู่มือบรรณานุกรมเกี่ยวกับ Jev…
 - [minanayernia/Jev_vs_Laya_decision_games](https://github.com/minanayernia/Jev_vs_Laya_decision_games) - Jev (TypeSafe AI) vs Laya (Convai Innovations) in six game-theory games: Rock…
@@ -3552,7 +3549,7 @@ EmbodiedJev: เวิร์กเบนช์การตัดสินใจ�
 เกม หุ่นยนต์ เบราว์เซอร์ และแดชบอร์ด เดโมคือสิ่งที่ทำให้ข้ออ้างเรื่องความหน่วงและต้นทุนอ่านออก
 
 <details>
-<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐201 · Python · 👁️ observed · 1 天 · ⭐+5</summary>
+<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐207 · Python · 👁️ observed · 2 天 · ⭐+6</summary>
 
 ##### 📝 สรุป
 
@@ -3570,7 +3567,7 @@ VideoJev: System One Model สำหรับการทำความเข�
 
 | ตัวชี้วัด         | ค่า           |
 | ---------------- | ------------ |
-| ดาว              | **201** (+5) |
+| ดาว              | **207** (+6) |
 | push ล่าสุด        | 2026-10-18   |
 | ขึ้นรายการครั้งแรก | 2026-10-20   |
 
@@ -3652,7 +3649,7 @@ Go make a decision! Run System One models, 100% local in your browser using WebA
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/dfinke/Jev">dfinke/Jev</a></b> · ⭐10 · PowerShell · 👁️ observed · 3 天</summary>
+<summary>🎮 <b><a href="https://github.com/dfinke/Jev">dfinke/Jev</a></b> · ⭐10 · PowerShell · 👁️ observed · 4 天</summary>
 
 ##### 📝 สรุป
 
@@ -3808,6 +3805,31 @@ A zero person game played by systemone models
 </details>
 
 <details>
+<summary>🎮 <b><a href="https://github.com/productowner-ro/games">productowner-ro/games</a></b> · JavaScript · 👁️ observed · 0 天 · **NEW**</summary>
+
+##### 📝 สรุป
+
+Browser games where Jev, the TypeSafe System One model, makes the decisions of the players.
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า                                       |
+| ------- | ---------------------------------------- |
+| หมวดหมู่  | `แอปพลิเคชัน เกม หุ่นยนต์ และเดโมแบบโต้ตอบ` |
+| หลักฐาน | `observed`                               |
+| ภาษา    | JavaScript                               |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **0**      |
+| push ล่าสุด        | 2026-10-20 |
+| ขึ้นรายการครั้งแรก | 2026-10-20 |
+
+</details>
+
+<details>
 <summary>🎮 <b><a href="https://github.com/Shivam-Jha96/gsp">Shivam-Jha96/gsp</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 สรุป
@@ -3844,7 +3866,7 @@ A zero person game played by systemone models
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://x.com/tspy/status/2100864234523685146">Xtags — X intent labeller</a></b> · @tspy · 👁️ observed · 31 天</summary>
+<summary>🎮 <b><a href="https://x.com/tspy/status/2100864234523685146">Xtags — X intent labeller</a></b> · @tspy · 👁️ observed · 32 天</summary>
 
 ##### 📝 สรุป
 
@@ -3880,31 +3902,6 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/x--tspy--2100864234523685146/0641644f12a25a45.jpg" width="100%" alt="Xtags — X intent labeller screenshot"></td>
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/x--tspy--2100864234523685146/b80cf3173f63bdd7.gif" width="100%" alt="Xtags — X intent labeller animation"><br><sub>บันทึกแบบเคลื่อนไหว · <a href="https://video.twimg.com/amplify_video/2100858340331200512/vid/avc1/1242x720/ex2FF5-TerVxo9xX.mp4">เปิดวิดีโอ</a></sub></td>
 </tr></table>
-
-</details>
-
-<details>
-<summary>🎮 <b><a href="https://github.com/jarrodwatts/jev-trader">jarrodwatts/jev-trader</a></b> · ⭐3041 · TypeScript · 🔎 inferred · 7 天 · ⭐+1</summary>
-
-##### 📝 สรุป
-
-การตัดสินใจซื้อขายด้วย AI หนึ่งครั้งต่อบล็อก Monad Jev บน Kuru MON-USDC
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า                                       |
-| ------- | ---------------------------------------- |
-| หมวดหมู่  | `แอปพลิเคชัน เกม หุ่นยนต์ และเดโมแบบโต้ตอบ` |
-| หลักฐาน | `inferred`                               |
-| ภาษา    | TypeScript                               |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด         | ค่า            |
-| ---------------- | ------------- |
-| ดาว              | **3041** (+1) |
-| push ล่าสุด        | 2026-10-13    |
-| ขึ้นรายการครั้งแรก | 2026-09-18    |
 
 </details>
 
@@ -4107,8 +4104,9 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 25</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 23</sub></summary>
 
+- [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - การตัดสินใจซื้อขายด้วย AI หนึ่งครั้งต่อบล็อก Monad Jev บน Kuru MON-USDC.
 - [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) - A verified, community-maintained catalog of 992 open-source projects built with…
 - [droidrun/mobile-jev](https://github.com/droidrun/mobile-jev)
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - ควบคุมเบราว์เซอร์จริงด้วยเสียง Jev (TypeSafe System One)…
@@ -4123,13 +4121,10 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 - [PistachioAIHQ/jev-synergy-screening](https://github.com/PistachioAIHQ/jev-synergy-screening) - Jev (TypeSafe System One) × เดโมคัดกรองบทคัดย่อ ASReview SYNERGY — Choice/Noul…
 - [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) - เรียกใช้บริการ Choice, Score และ Noul ในเครื่องอย่างมีประสิทธิภาพด้วย…
 - [shamoniuniu/typesafe-jev-ui](https://github.com/shamoniuniu/typesafe-jev-ui) - TypeSafe Jev 调试台，支持 Choice、Score、Noul 和批量处理.
-- [an80x86/jev-seri](https://github.com/an80x86/jev-seri) - Guncel Gundem: Jev videolarinin kodlari ve olcumleri(TypeSafe Jev, System One).
 - [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) - Native Unreal Engine 5.8 StateTree tasks for finite, revision-guarded Jev…
-- [jevplays-games/jev-arcade-hub](https://github.com/jevplays-games/jev-arcade-hub) - Launcher for the nine JEV Arcade games, linking each to its own subdomain at…
-- [jevplays-games/jev-mastermind](https://github.com/jevplays-games/jev-mastermind) - Two-leg Mastermind against Jev with a server-authoritative backend, replay…
+- [inosov9-byte/doom-jev](https://github.com/inosov9-byte/doom-jev) - A local 4B language model plays DOOM in real time and picks every move: clears…
 - [mberliner/jev-lab](https://github.com/mberliner/jev-lab) - ห้องปฏิบัติการแบบก้าวหน้าเพื่อเรียนรู้และสาธิต Jev…
 - [netcode001/jev](https://github.com/netcode001/jev) - ศูนย์ข้อมูล AI Jev อย่างไม่เป็นทางการ — คู่มือการเข้าถึง ราคา สนามทดลอง BYOK…
-- [project-blockwarriors/dreamweaver-jev-starter](https://github.com/project-blockwarriors/dreamweaver-jev-starter) - Jev-powered reference bot for BlockWarriors Dreamweaver: asynchronous tactics…
 - [schalkneethling/jev-3000](https://github.com/schalkneethling/jev-3000) - เดโมโมเดลการตัดสินใจ Jev ของ TypeSafe: Noul, Choice, Score.
 - [Tommylegen/jev-laya-toolkit](https://github.com/Tommylegen/jev-laya-toolkit) - Dashboard and local proxy for SystemOne decision models - Jev (TypeSafe API)…
 - [realZachi/typesafe-adblock](https://github.com/realZachi/typesafe-adblock) - 🧹 โปรเจกต์สนุก ๆ: ส่วนขยาย Chrome ที่ถามโมเดลการตัดสินใจ AI ขนาดเล็ก.
@@ -4408,7 +4403,7 @@ preview endpoint `/preview/evaluation` → stable version **`POST /v1/systemone`
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2422 · Python · 👁️ observed · 0 天</summary>
+<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2424 · Python · 👁️ observed · 0 天 · ⭐+2</summary>
 
 ##### 📝 สรุป
 
@@ -4424,18 +4419,18 @@ preview endpoint `/preview/evaluation` → stable version **`POST /v1/systemone`
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **2422**   |
-| push ล่าสุด        | 2026-10-19 |
-| ขึ้นรายการครั้งแรก | 2026-09-18 |
+| ตัวชี้วัด         | ค่า            |
+| ---------------- | ------------- |
+| ดาว              | **2424** (+2) |
+| push ล่าสุด        | 2026-10-19    |
+| ขึ้นรายการครั้งแรก | 2026-09-18    |
 
 🏷 `awesome` · `awesome-list` · `jev` · `llm`
 
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 73</sub></summary>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 70</sub></summary>
 
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - รายการโครงการที่สร้างด้วย Jev ซึ่งมีแหล่งที่มาอ้างอิงและผ่านการคัดสรร…
 - [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)
@@ -4457,17 +4452,14 @@ preview endpoint `/preview/evaluation` → stable version **`POST /v1/systemone`
 - [Ask HN: System One models for autonomous agents](https://news.ycombinator.com/item?id=50142037) - I&amp;#x27;ve seen a few impressive demos of Typesafe&amp;#x27;s new paradigm with…
 - [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093)
 - [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) - onesie คือ CLI สไตล์ Unix สำหรับใช้โมเดล System One ในไปป์ไลน์ shell, สคริปต์…
-- [Where Jev Fits in a Large-Scale Data Pipeline](https://news.ycombinator.com/item?id=50158441)
 - [EU/Jev – First System One Model Hosted in the EU](https://news.ycombinator.com/item?id=49924685)
 - [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296)
-- [Ranking a Backlog with Jev](https://news.ycombinator.com/item?id=50157795)
 - [Show HN: Decide – Jev decisions in the shell, scripts, and agent skills](https://news.ycombinator.com/item?id=49878492) - ซอฟต์แวร์ทั้งหมดล้วนตัดสินใจ โค้ดจัดการสิ่งที่กำหนดแน่นอน โมเดลตัดสินใจอย่าง…
 - [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) - ดูวิดีโอ youtube veritasium ล่าสุดเกี่ยวกับเครื่อง enigma แล้วสงสัยว่า JEV…
 - [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132)
 - [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597)
 - [System One models like Jev can train their own replacements](https://news.ycombinator.com/item?id=49959504)
 - [Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD](https://news.ycombinator.com/item?id=49734345)
-- [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067)
 - [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) - โปรเจกต์โอเพนซอร์สที่พิสูจน์ได้ว่าเรียกใช้ Jev ซึ่งเป็นโมเดล System One ของ…
 - [RadRebelSam/awesome-jev](https://github.com/RadRebelSam/awesome-jev) - ไดเรกทอรีโปรเจกต์ที่สร้างบน Jev ซึ่งเป็นโมเดล System One ของ TypeSafe AI…
 - [rhc98/awesome-jev](https://github.com/rhc98/awesome-jev) - โปรเจกต์ที่สร้างบน Jev (โมเดล System One ของ TypeSafe AI) คัดสรรโดย Jev เอง.
@@ -4518,7 +4510,7 @@ preview endpoint `/preview/evaluation` → stable version **`POST /v1/systemone`
 ## โครงการอื่น ๆ
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Contrastive-LM/CLM">Contrastive-LM/CLM</a></b> · ⭐3079 · Python · 👁️ observed · 14 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Contrastive-LM/CLM">Contrastive-LM/CLM</a></b> · ⭐3079 · Python · 👁️ observed · 14 天</summary>
 
 ##### 📝 สรุป
 
@@ -4534,11 +4526,11 @@ Contrastive Language Models (CLMs) เป็นโมเดล System One ปร
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า            |
-| ---------------- | ------------- |
-| ดาว              | **3079** (+1) |
-| push ล่าสุด        | 2026-10-05    |
-| ขึ้นรายการครั้งแรก | 2026-10-20    |
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **3079**   |
+| push ล่าสุด        | 2026-10-05 |
+| ขึ้นรายการครั้งแรก | 2026-10-20 |
 
 ---
 
@@ -4550,7 +4542,7 @@ Contrastive Language Models (CLMs) เป็นโมเดล System One ปร
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Valen-Team/Valen">Valen-Team/Valen</a></b> · ⭐877 · Jupyter · 👁️ observed · 3 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Valen-Team/Valen">Valen-Team/Valen</a></b> · ⭐878 · Jupyter · 👁️ observed · 3 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -4568,7 +4560,7 @@ Contrastive Language Models (CLMs) เป็นโมเดล System One ปร
 
 | ตัวชี้วัด         | ค่า           |
 | ---------------- | ------------ |
-| ดาว              | **877** (+1) |
+| ดาว              | **878** (+1) |
 | push ล่าสุด        | 2026-10-16   |
 | ขึ้นรายการครั้งแรก | 2026-10-19   |
 
@@ -4614,7 +4606,7 @@ Contrastive Language Models (CLMs) เป็นโมเดล System One ปร
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐117 · Python · 👁️ observed · 2 天 · ⭐+2</summary>
+<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐118 · Python · 👁️ observed · 2 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -4632,7 +4624,7 @@ Jeva: โมเดล System One จากหลักการพื้นฐ�
 
 | ตัวชี้วัด         | ค่า           |
 | ---------------- | ------------ |
-| ดาว              | **117** (+2) |
+| ดาว              | **118** (+1) |
 | push ล่าสุด        | 2026-10-17   |
 | ขึ้นรายการครั้งแรก | 2026-10-20   |
 
@@ -4947,7 +4939,7 @@ A decoder-based image-text System One model
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9337 · Python · 🔎 inferred · 3 天 · ⭐+5</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9341 · Python · 🔎 inferred · 3 天 · ⭐+4</summary>
 
 ##### 📝 สรุป
 
@@ -4965,7 +4957,7 @@ A decoder-based image-text System One model
 
 | ตัวชี้วัด         | ค่า            |
 | ---------------- | ------------- |
-| ดาว              | **9337** (+5) |
+| ดาว              | **9341** (+4) |
 | push ล่าสุด        | 2026-10-16    |
 | ขึ้นรายการครั้งแรก | 2026-09-21    |
 
@@ -4981,7 +4973,7 @@ A decoder-based image-text System One model
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1365 · C++ · 🔎 inferred · 1 天</summary>
+<summary>🧩 <b><a href="https://github.com/feder-cr/jev">feder-cr/jev</a></b> · ⭐1366 · C++ · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 สรุป
 
@@ -4997,11 +4989,11 @@ jevos: ทางเลือกโอเพนซอร์สสำหรับ 
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **1365**   |
-| push ล่าสุด        | 2026-10-18 |
-| ขึ้นรายการครั้งแรก | 2026-09-26 |
+| ตัวชี้วัด         | ค่า            |
+| ---------------- | ------------- |
+| ดาว              | **1366** (+1) |
+| push ล่าสุด        | 2026-10-18    |
+| ขึ้นรายการครั้งแรก | 2026-09-26    |
 
 🏷 `ai` · `classification` · `cpu-inference` · `decision-model` · `edge-ai` · `gguf` · `jev` · `jev-alternative`
 
@@ -5015,41 +5007,7 @@ jevos: ทางเลือกโอเพนซอร์สสำหรับ 
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/TypeLLM/TypeLLM">TypeLLM/TypeLLM</a></b> · ⭐962 · Python · 🔎 inferred · 1 天</summary>
-
-##### 📝 สรุป
-
-TypeLLM: LLMs พร้อมการสร้างผลลัพธ์ที่ปลอดภัยด้านชนิดข้อมูล
-
-##### 📌 ข้อมูลพื้นฐาน
-
-| ฟิลด์   | ค่า             |
-| ------- | -------------- |
-| หมวดหมู่  | `โครงการอื่น ๆ` |
-| หลักฐาน | `inferred`     |
-| ภาษา    | Python         |
-
-##### 📊 ข้อมูล
-
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **962**    |
-| push ล่าสุด        | 2026-10-18 |
-| ขึ้นรายการครั้งแรก | 2026-09-23 |
-
-🏷 `ai` · `jev` · `llms` · `types`
-
----
-
-<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/typellm--typellm/abc23488e639f57c.png" width="100%" alt="TypeLLM/TypeLLM screenshot"></td>
-<td align="center" valign="top"><sub>ไม่มีสื่อที่เผยแพร่</sub></td>
-</tr></table>
-
-</details>
-
-<details>
-<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐827 · Python · 🔎 inferred · 21 天</summary>
+<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐826 · Python · 🔎 inferred · 21 天 · ⭐-1</summary>
 
 ##### 📝 สรุป
 
@@ -5065,11 +5023,11 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 
 ##### 📊 ข้อมูล
 
-| ตัวชี้วัด         | ค่า         |
-| ---------------- | ---------- |
-| ดาว              | **827**    |
-| push ล่าสุด        | 2026-09-28 |
-| ขึ้นรายการครั้งแรก | 2026-09-22 |
+| ตัวชี้วัด         | ค่า           |
+| ---------------- | ------------ |
+| ดาว              | **826** (-1) |
+| push ล่าสุด        | 2026-09-28   |
+| ขึ้นรายการครั้งแรก | 2026-09-22   |
 
 🏷 `chat-assistant` · `jev` · `llm` · `local-first` · `ocr` · `privacy` · `pyqt` · `python`
 
@@ -5085,20 +5043,49 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 </details>
 
 <details>
-<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 70</sub></summary>
+<summary>🧩 <b><a href="https://github.com/AgriciDaniel/jev-seo">AgriciDaniel/jev-seo</a></b> · ⭐663 · Python · 🔎 inferred · 28 天</summary>
+
+##### 📝 สรุป
+
+การตรวจสอบ SEO แบบสดสำหรับเว็บไซต์ใดก็ได้จาก URL หน้าแรกเพียงรายการเดียว โดยตัดสินโดย Jev รายงานในรูปแบบ PDF, XLSX และ Markdown
+
+##### 📌 ข้อมูลพื้นฐาน
+
+| ฟิลด์   | ค่า             |
+| ------- | -------------- |
+| หมวดหมู่  | `โครงการอื่น ๆ` |
+| หลักฐาน | `inferred`     |
+| ภาษา    | Python         |
+
+##### 📊 ข้อมูล
+
+| ตัวชี้วัด         | ค่า         |
+| ---------------- | ---------- |
+| ดาว              | **663**    |
+| push ล่าสุด        | 2026-09-22 |
+| ขึ้นรายการครั้งแรก | 2026-09-30 |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 รูปภาพ</th><th align="center" width="50%">🎬 วิดีโอ</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/agricidaniel--jev-seo/c9545da3837f86ac.png" width="100%" alt="AgriciDaniel/jev-seo screenshot"></td>
+<td align="center" valign="top"><sub>ไม่มีสื่อที่เผยแพร่</sub></td>
+</tr></table>
+
+</details>
+
+<details>
+<summary><b>เพิ่มเติมในหมวดนี้</b> <sub>· 65</sub></summary>
 
 - [wnoronha/systemone-racer](https://github.com/wnoronha/systemone-racer) - ทดสอบโมเดล systemone สำหรับการตัดสินใจ.
-- [AdamBhs/System_One_Model](https://github.com/AdamBhs/System_One_Model)
-- [arthrp/libre-jevlike-rs](https://github.com/arthrp/libre-jevlike-rs)
-- [davegarvey/auto-model](https://github.com/davegarvey/auto-model) - An experiment in automatic model selection for OpenCode, using a local System…
 - [factbag/factbag](https://github.com/factbag/factbag) - Combine narrow judgments from System One models with explicit rules in a…
 - [justintout/systemone](https://github.com/justintout/systemone) - โมดูล Go อย่างไม่เป็นทางการสำหรับโต้ตอบกับ Jev และโมเดล System One อื่น ๆ.
 - [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) - Comparing a fine-tuned System One model called Von with conventional machine…
 - [SparshSunilNaik/peter-windows](https://github.com/SparshSunilNaik/peter-windows) - Controlling my windows laptop using a system-one model.
 - [unbraind/pm-jev](https://github.com/unbraind/pm-jev) - การตัดสินใจแบบมีชนิดข้อมูลและให้ความสำคัญกับการทำงานภายในเครื่องสำหรับรายการ pm…
 - [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) - Extract structured data and insights from documents using LLMs and decision…
+- [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) - TypeLLM: LLMs พร้อมการสร้างผลลัพธ์ที่ปลอดภัยด้านชนิดข้อมูล.
 - [0814wdwd/solo_jev](https://github.com/0814wdwd/solo_jev) - Per-row semantic judgements over large relational tables on a decision model…
-- [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) - การตรวจสอบ SEO แบบสดสำหรับเว็บไซต์ใดก็ได้จาก URL หน้าแรกเพียงรายการเดียว…
 - [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu)
 - [TianyuCodings/JevHarness](https://github.com/TianyuCodings/JevHarness) - ฮาร์เนส Jev เฉพาะงานที่สร้างโดย LLM…
 - [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) - ผู้ช่วยหน้าต่างลอยสำหรับแชต (macOS): รับรู้หน้าจอ +…
@@ -5122,29 +5109,27 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 - [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) - krasivo-jev.
 - [XingQiPan/rwkv-jev](https://github.com/XingQiPan/rwkv-jev) - เอ็นจินการตัดสินใจแบบไม่สร้างผลลัพธ์สไตล์ Jev ที่อิง RWKV-7 (g1k-1b)…
 - [nothans/ex-regex](https://github.com/nothans/ex-regex) - Match meaning in Python. Find, replace, extract, and compose semantic patterns…
+- [fangzipei/let-jev-play-pokemon](https://github.com/fangzipei/let-jev-play-pokemon) - Play pokemonshowdown automatically by jev.
 - [alexsosn/tf-jev](https://github.com/alexsosn/tf-jev) - Query your Text Fabric corpus in plain language.
 - [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) - Typed, reviewable Jev decisions for Shopify Flow.
 - [Lasimeri/Intel-Phi-Jev](https://github.com/Lasimeri/Intel-Phi-Jev) - XKEYSCORE สำหรับ Jev: การตัดสิน TypeSafe System One (noul/choice/score)…
+- [liaocaoxuezhe/x-reply-judge-jev](https://github.com/liaocaoxuezhe/x-reply-judge-jev) - Chrome extension: shows an AI probability on X replies using TypeSafe.
 - [sergiecode/jev-test-si-o-no](https://github.com/sergiecode/jev-test-si-o-no) - Noul -&gt; Primitiva para saber si es si o no.
 - [TanayPadar/gpt-vs-jev](https://github.com/TanayPadar/gpt-vs-jev) - เปรียบเทียบภาษาที่สร้างโดย GPT กับการตัดสินใจ Noul แบบมีโครงสร้างของ JEV…
 - [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) - This repository contains the code for Mastering TypeSafe Jev book.
 - [Akfavo/EasyJev](https://github.com/Akfavo/EasyJev) - Assistant web bilingue (FR/EN) pour configurer Jev (TypeSafe AI) dans n8n sans…
 - [alnyx-dev/jev-rs](https://github.com/alnyx-dev/jev-rs) - High-performance local System One decision engine — one forward pass, zero…
 - [cfu288/jev-vs-ml-classifiers](https://github.com/cfu288/jev-vs-ml-classifiers) - โมเดล JEV รุ่นล่าสุดทำได้ดีเพียงใดเมื่อเทียบกับโมเดลตัวจำแนกแบบ ML คลาสสิก…
+- [dnhkng/rys-jev](https://github.com/dnhkng/rys-jev) - Layer-duplicated StartLux-Decision v1.1 27B Instant (RYS 41-49, alpha 1.25)…
 - [ericostrowski3/jev-release-readiness](https://github.com/ericostrowski3/jev-release-readiness) - Release readiness tracker: Jev makes narrow impact decisions, code builds the…
-- [forsing/JEV-Loto-739](https://github.com/forsing/JEV-Loto-739) - Jev bira jedan broj, zatim sledeći uz već odabrane brojeve.
 - [gbesse/jev-carbone-factor-fit](https://github.com/gbesse/jev-carbone-factor-fit) - จัดประเภทปัจจัยการปล่อยก๊าซ ADEME…
 - [gbesse/jev-hemicycle](https://github.com/gbesse/jev-hemicycle) - Suit les documents parlementaires qui affectent matériellement un sujet déclaré.
 - [gbesse/jev-mistral-document-bench-fr](https://github.com/gbesse/jev-mistral-document-bench-fr) - Mesure champs, cellules et décisions sur des documents français annotés.
 - [kaucap08/jev-job-matching](https://github.com/kaucap08/jev-job-matching) - Experiment: Jev (TypeSafe AI) scored 400 real job posts against 30 fictional…
 - [kurowashi/pi-jev](https://github.com/kurowashi/pi-jev) - Semantic checks for Pi file edits and new-file placement, powered by TypeSafe…
 - [LexerPatty/JEV_Testorial](https://github.com/LexerPatty/JEV_Testorial) - โมเดล AI System 1 ใหม่ที่ออกแบบมาเพื่อการตัดสินใจที่รวดเร็วและมีโครงสร้าง…
-- [liaocaoxuezhe/x-reply-judge-jev](https://github.com/liaocaoxuezhe/x-reply-judge-jev) - Chrome extension: shows an AI probability on X replies using TypeSafe.
 - [LiLittleCat/jev-playlist-classify](https://github.com/LiLittleCat/jev-playlist-classify) - จำแนกเพลย์ลิสต์ขนาดใหญ่ตามภาษาของเพลงด้วยโมเดล Jev รุ่นล่าสุดของ TypeSafe AI.
-- [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) - TypeSafe Jev 오픈소스 구현을 매일 모아 한국어로 정리하는 레이더 (radar-index/1).
-- [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) - Jev use cases, open-source alternatives, real products and current access…
 - [xiaotian1171/jev-trolley-switch](https://github.com/xiaotian1171/jev-trolley-switch) - Interactive Trolley Problem decision lab powered by Pollinations POST…
-- [zhuanqianfish/local-jev](https://github.com/zhuanqianfish/local-jev) - Jev เวอร์ชันในเครื่อง: โมเดลการตัดสินใจ System One บนเบราว์เซอร์…
 - [receptron/laya](https://github.com/receptron/laya) - รัน Laya โมเดลการตัดสินใจ System-1 แบบโอเพนซอร์สที่เข้ากันได้กับ Jev จาก…
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - แนวทางแบบเปิดและทำงานภายในเครื่องสำหรับ Jev: การตัดสินใจแบบมีชนิดข้อมูลจาก LLM…
 - [razorback16/openjev](https://github.com/razorback16/openjev) - เซิร์ฟเวอร์การตัดสินใจ System One แบบเปิดที่เข้ากันได้กับ Jev บน DiffusionGemma.
@@ -5168,15 +5153,15 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 
 | ภาษา       | รายการ | ตัวอย่าง                                                                                                 |
 | ---------- | ------ | ------------------------------------------------------------------------------------------------------- |
-| Python     | 346    | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
+| Python     | 349    | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
 | TypeScript | 124    | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/jev-harness`, `erik-hedstrom/loadout`                        |
-| JavaScript | 101    | `clouatre-labs/decisions-judge-mcp`, `Ying-Kai-Liao/jev-browser`, `jiangkoumo/ego-decision-layer`       |
-| Rust       | 26     | `chussenot/judgment`, `supercorp-ai/supercov`, `shaharia-lab/jev-cli`                                   |
-| HTML       | 24     | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`          |
+| JavaScript | 99     | `clouatre-labs/decisions-judge-mcp`, `Ying-Kai-Liao/jev-browser`, `jiangkoumo/ego-decision-layer`       |
+| HTML       | 23     | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`          |
+| Rust       | 23     | `chussenot/judgment`, `supercorp-ai/supercov`, `shaharia-lab/jev-cli`                                   |
 | Go         | 13     | `kisshan13/typesafe-ai-go`, `frodi-karlsson/onesie`, `olivere/systemone`                                |
 | Jupyter    | 13     | `jexp/neo4jev`, `GitHub30/OpenJev`, `Mainakcris7/agent-guardrail-with-jev`                              |
 | Java       | 9      | `Premo-Cloud/typesafe-sdk-java`, `CMaintz/jev-java`, `Olti1947/jev-java`                                |
-| C#         | 6      | `CMaintz/jev-dotnet`, `saibimajdi/typesafeai-dotnet-sdk`, `TraxSharp/Trax`                              |
+| C#         | 5      | `CMaintz/jev-dotnet`, `saibimajdi/typesafeai-dotnet-sdk`, `HillPhelmuth/JevDotNet`                      |
 | Elixir     | 5      | `dannote/jev`, `Elue-dev/jev_elixir`, `nshkrdotcom/system_one_sdk`                                      |
 | C++        | 4      | `gbesse/mariadb-jev`, `gbesse/jev-unreal-statetree`, `DreamBlooms/ifReflex.cpp`                         |
 | PHP        | 3      | `Butochnikov/laravel-typesafe-jev`, `phoenix1331/laravel-jev-hotdog`, `soderlind/ai-provider-for-jev`   |
@@ -5191,6 +5176,7 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 | Astro      | 1      | `heyjunpenn/awesome-jev`                                                                                |
 | CSS        | 1      | `yangzhou-chaofan/awesome-jev-prompt`                                                                   |
 | Nushell    | 1      | `cablehead/jev.nu`                                                                                      |
+| Pascal     | 1      | `danieleteti/systemone-delphi`                                                                          |
 
 <sub>นับเฉพาะรายการที่ระบุภาษา ส่วนรายการที่เป็นโครงสร้างพื้นฐาน เอกสาร และการสนทนาไม่รวมอยู่ในตารางนี้</sub>
 
@@ -5202,4 +5188,4 @@ JevChat-Windows: ตัวช่วยเสนอคำตอบที่ติ
 
 <sub>โปรเจกต์ชุมชนอิสระ ไม่มีความเกี่ยวข้อง ไม่ได้รับการรับรอง และไม่ได้รับการตรวจทานโดย TypeSafe AI พฤติกรรมผลิตภัณฑ์ ราคา ขีดจำกัด และนามแฝงโมเดลเปลี่ยนแปลงได้โดยไม่แจ้งล่วงหน้า โปรดตรวจสอบสิ่งที่เป็นข้อสำคัญกับเอกสารทางการ ไฟล์ต่าง ๆ ยังเป็นทรัพย์สินของโปรเจกต์ต้นทาง และถูกทำซ้ำเฉพาะเมื่อสัญญาอนุญาตเอื้อให้เท่านั้น</sub>
 
-<sub>สร้างโดย · 2026-10-20T16:13:21+08:00</sub>
+<sub>สร้างโดย · 2026-10-20T18:24:24+08:00</sub>
