@@ -6008,3 +6008,16 @@
 - `+` [pc418/jev-calculator](https://github.com/pc418/jev-calculator) — inferred / apps-demos — ⭐0
 - `+` [miqui/jev-decision-api-lambda-web](https://github.com/miqui/jev-decision-api-lambda-web) — observed / routing-guardrails — ⭐0
 - …另有 16 条新增
+
+## 2026-10-21T07:08:10+08:00
+- 收录总数 **802**；本次更新新增 **10**
+- `+` [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) — inferred / other — ⭐134
+- `+` [anisselbd/jev-phishing-bench](https://github.com/anisselbd/jev-phishing-bench) — inferred / agent-tooling — ⭐9
+- `+` [Civalski/claujev](https://github.com/Civalski/claujev) — inferred / agent-tooling — ⭐4
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [cognixws/picode-decisions-jev](https://github.com/cognixws/picode-decisions-jev) — inferred / agent-tooling — ⭐0
+- `+` [twilso24/jev_router](https://github.com/twilso24/jev_router) — inferred / agent-tooling — ⭐0
+- `+` [CMaintz/jev-eval](https://github.com/CMaintz/jev-eval) — inferred / routing-guardrails — ⭐0
+- `+` [EugeneM1/PriceVow](https://github.com/EugeneM1/PriceVow) — observed / agent-tooling — ⭐0
+- `+` [xavidop/genkit-k8s-flows-jev](https://github.com/xavidop/genkit-k8s-flows-jev) — inferred / routing-guardrails — ⭐0
+- `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
