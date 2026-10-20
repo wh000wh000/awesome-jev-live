@@ -5979,3 +5979,32 @@
 - `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / research-models — ⭐0
 - `+` [WaynezProg/jev-kit](https://github.com/WaynezProg/jev-kit) — inferred / agent-tooling — ⭐0
 - `+` [ryoheimatsumo/jev-ai-scrum-master](https://github.com/ryoheimatsumo/jev-ai-scrum-master) — inferred / community-sdk — ⭐0
+
+## 2026-10-21T05:00:56+08:00
+- 收录总数 **795**；本次更新新增 **41**
+- `+` [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) — inferred / agent-tooling — ⭐96
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐36
+- `+` [lukstei/slop-grader](https://github.com/lukstei/slop-grader) — inferred / community-sdk — ⭐35
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐12
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [OpenLAIR/lev](https://github.com/OpenLAIR/lev) — inferred / research-models — ⭐6
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐6
+- `+` [ajanm007/jevrag](https://github.com/ajanm007/jevrag) — inferred / routing-guardrails — ⭐6
+- `+` [5ak3t/ej](https://github.com/5ak3t/ej) — inferred / evaluation — ⭐5
+- `+` [Pinutss/jev-model-router](https://github.com/Pinutss/jev-model-router) — inferred / routing-guardrails — ⭐4
+- `+` [teilomillet/wyat](https://github.com/teilomillet/wyat) — observed / agent-tooling — ⭐4
+- `+` [jyatesdotdev/jev-logtriage](https://github.com/jyatesdotdev/jev-logtriage) — inferred / routing-guardrails — ⭐4
+- `+` [ronitgupta138/Local-Jev](https://github.com/ronitgupta138/Local-Jev) — inferred / agent-tooling — ⭐3
+- `+` [tinypi-extension/tinysubagent](https://github.com/tinypi-extension/tinysubagent) — inferred / agent-tooling — ⭐3
+- `+` [CodyQin/zh-decision-bench](https://github.com/CodyQin/zh-decision-bench) — inferred / evaluation — ⭐3
+- `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
+- `+` [omkarghugarkar007/actiongate-jev](https://github.com/omkarghugarkar007/actiongate-jev) — inferred / agent-tooling — ⭐2
+- `+` [smha1012/jev-torch](https://github.com/smha1012/jev-torch) — inferred / evaluation — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [bahree/myJEV](https://github.com/bahree/myJEV) — inferred / community-sdk — ⭐1
+- `+` [Coding-Dev-Tools/jev-decision](https://github.com/Coding-Dev-Tools/jev-decision) — inferred / community-sdk — ⭐1
+- `+` [thevibeworks/awesome-typesafe-jev](https://github.com/thevibeworks/awesome-typesafe-jev) — inferred / agent-tooling — ⭐1
+- `+` [pc418/jev-calculator](https://github.com/pc418/jev-calculator) — inferred / apps-demos — ⭐0
+- `+` [miqui/jev-decision-api-lambda-web](https://github.com/miqui/jev-decision-api-lambda-web) — observed / routing-guardrails — ⭐0
+- …另有 16 条新增
