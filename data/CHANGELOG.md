@@ -6176,3 +6176,23 @@
 - `+` [webtech-network/workshop-jev](https://github.com/webtech-network/workshop-jev) — inferred / other — ⭐0
 - `+` [cloud-f1/jev-agent-kit](https://github.com/cloud-f1/jev-agent-kit) — inferred / community-sdk — ⭐0
 - `+` [aws-samples/sample-laya-system-one-ecs-gpu](https://github.com/aws-samples/sample-laya-system-one-ecs-gpu) — observed / apps-demos — ⭐0
+
+## 2026-10-22T06:16:28+08:00
+- 收录总数 **804**；本次更新新增 **17**
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐8
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [juanlentino/connector-for-typesafe-jev](https://github.com/juanlentino/connector-for-typesafe-jev) — inferred / agent-tooling — ⭐3
+- `+` [zurfyx/jev-browser-skill](https://github.com/zurfyx/jev-browser-skill) — inferred / agent-tooling — ⭐2
+- `+` [jwuthri-cloud/SelfJev](https://github.com/jwuthri-cloud/SelfJev) — inferred / community-sdk — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [maksimTrs/jev-ultrafast-ai-ui-tests](https://github.com/maksimTrs/jev-ultrafast-ai-ui-tests) — inferred / evaluation — ⭐1
+- `+` [igrejaborabora/lus222-jev-challenge](https://github.com/igrejaborabora/lus222-jev-challenge) — inferred / routing-guardrails — ⭐1
+- `+` [Hoppin-Sorter/jev-router](https://github.com/Hoppin-Sorter/jev-router) — inferred / agent-tooling — ⭐1
+- `+` [juanlentino/comment-analysis-for-typesafe-jev](https://github.com/juanlentino/comment-analysis-for-typesafe-jev) — inferred / agent-tooling — ⭐0
+- `+` [zacharytgray/jev-claude-plugin](https://github.com/zacharytgray/jev-claude-plugin) — inferred / agent-tooling — ⭐0
+- `+` [Zayan-droid/Jev](https://github.com/Zayan-droid/Jev) — inferred / evaluation — ⭐0
+- `+` [rockbye-kunal/jev-router-rust](https://github.com/rockbye-kunal/jev-router-rust) — inferred / routing-guardrails — ⭐0
+- `+` [isaacbitran/jev-society](https://github.com/isaacbitran/jev-society) — inferred / agent-tooling — ⭐0
+- `+` [Y-B-1/fast-jev-compaction-plus](https://github.com/Y-B-1/fast-jev-compaction-plus) — inferred / agent-tooling — ⭐0
