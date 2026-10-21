@@ -6058,3 +6058,32 @@
 - `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐0
 - `+` [gouthambs/sysone](https://github.com/gouthambs/sysone) — observed / evaluation — ⭐0
 - `+` [j33l/PgQnA](https://github.com/j33l/PgQnA) — observed / apps-demos — ⭐0
+
+## 2026-10-21T17:33:20+08:00
+- 收录总数 **808**；本次更新新增 **31**
+- `+` [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) — inferred / other — ⭐219
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐24
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐19
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐8
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [STEERIX-home/robo-jev](https://github.com/STEERIX-home/robo-jev) — inferred / other — ⭐7
+- `+` [chris-wozniczek/jev-voice-control](https://github.com/chris-wozniczek/jev-voice-control) — observed / apps-demos — ⭐7
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐6
+- `+` [Songokou1983/jev-mcp](https://github.com/Songokou1983/jev-mcp) — inferred / agent-tooling — ⭐3
+- `+` [MattiooFR/mcp-server-jev](https://github.com/MattiooFR/mcp-server-jev) — inferred / community-sdk — ⭐2
+- `+` [tak-bro/local-jev-bench](https://github.com/tak-bro/local-jev-bench) — inferred / evaluation — ⭐1
+- `+` [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) — inferred / agent-tooling — ⭐1
+- `+` [thevibeworks/awesome-typesafe-jev](https://github.com/thevibeworks/awesome-typesafe-jev) — inferred / agent-tooling — ⭐1
+- `+` [PjCnudde98/jev-vs-llms](https://github.com/PjCnudde98/jev-vs-llms) — inferred / evaluation — ⭐0
+- `+` [dmishra2022/jev-java-sdk](https://github.com/dmishra2022/jev-java-sdk) — inferred / community-sdk — ⭐0
+- `+` [badry-dev/jev-cli](https://github.com/badry-dev/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [NathanPannell/jev-demos](https://github.com/NathanPannell/jev-demos) — observed / apps-demos — ⭐0
+- `+` [hasanzaman22/jev-model-effort-router](https://github.com/hasanzaman22/jev-model-effort-router) — inferred / agent-tooling — ⭐0
+- `+` [authrain-cloud-abdullahformuli/jev-compaction-plus](https://github.com/authrain-cloud-abdullahformuli/jev-compaction-plus) — inferred / agent-tooling — ⭐0
+- `+` [vicfei/minimind-jev](https://github.com/vicfei/minimind-jev) — inferred / research-models — ⭐0
+- `+` [Wangxiaolu0716/jev-junshi](https://github.com/Wangxiaolu0716/jev-junshi) — inferred / other — ⭐0
+- `+` [mraad/where-is-jev](https://github.com/mraad/where-is-jev) — inferred / routing-guardrails — ⭐0
+- `+` [romantcig/brave-jev-mcp](https://github.com/romantcig/brave-jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / research-models — ⭐0
+- `+` [TanNhatCMS/jev-rag-lab](https://github.com/TanNhatCMS/jev-rag-lab) — inferred / routing-guardrails — ⭐0
+- …另有 6 条新增
