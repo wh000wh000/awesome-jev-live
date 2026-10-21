@@ -6044,3 +6044,17 @@
 - `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
 - `+` [felinae98/cmd-mod-jev-guard](https://github.com/felinae98/cmd-mod-jev-guard) — inferred / other — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-10-21T13:21:27+08:00
+- 收录总数 **808**；本次更新新增 **11**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐111
+- `+` [Oqura-ai/optim-jev](https://github.com/Oqura-ai/optim-jev) — inferred / agent-tooling — ⭐44
+- `+` [ziyu/system-one-sdk](https://github.com/ziyu/system-one-sdk) — observed / community-sdk — ⭐2
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [NeelContractor/jev-train](https://github.com/NeelContractor/jev-train) — inferred / research-models — ⭐0
+- `+` [yasuhito/jev-computer-use](https://github.com/yasuhito/jev-computer-use) — inferred / apps-demos — ⭐0
+- `+` [JosephHardy91/jev_efficiency](https://github.com/JosephHardy91/jev_efficiency) — inferred / agent-tooling — ⭐0
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐0
+- `+` [gouthambs/sysone](https://github.com/gouthambs/sysone) — observed / evaluation — ⭐0
+- `+` [j33l/PgQnA](https://github.com/j33l/PgQnA) — observed / apps-demos — ⭐0
