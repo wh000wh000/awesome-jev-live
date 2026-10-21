@@ -6133,3 +6133,32 @@
 - `+` [DAXZEIT/Pi-JEV-VCC-memory-relevance](https://github.com/DAXZEIT/Pi-JEV-VCC-memory-relevance) — inferred / agent-tooling — ⭐0
 - `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
 - `+` [ForwardMetric/sysone](https://github.com/ForwardMetric/sysone) — observed / evaluation — ⭐0
+
+## 2026-10-21T23:57:53+08:00
+- 收录总数 **814**；本次更新新增 **135**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐3094
+- `+` [logan-markewich/jeff](https://github.com/logan-markewich/jeff) — inferred / other — ⭐306
+- `+` [RomanSlack/jev-drone](https://github.com/RomanSlack/jev-drone) — inferred / agent-tooling — ⭐282
+- `+` [0xNatoshi/jev-codex-router](https://github.com/0xNatoshi/jev-codex-router) — inferred / agent-tooling — ⭐276
+- `+` [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) — observed / apps-demos — ⭐226
+- `+` [aowang-ai/jev-trade](https://github.com/aowang-ai/jev-trade) — inferred / apps-demos — ⭐220
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / routing-guardrails — ⭐198
+- `+` [jexp/neo4jev](https://github.com/jexp/neo4jev) — observed / community-sdk — ⭐179
+- `+` [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) — observed / research-models — ⭐171
+- `+` [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) — inferred / agent-tooling — ⭐165
+- `+` [tamaratran/jev-pruner](https://github.com/tamaratran/jev-pruner) — inferred / agent-tooling — ⭐165
+- `+` [allebee/jevk5](https://github.com/allebee/jevk5) — inferred / evaluation — ⭐157
+- `+` [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) — observed / agent-tooling — ⭐156
+- `+` [aaddrick/building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev) — inferred / community-sdk — ⭐144
+- `+` [cobusgreyling/Jev](https://github.com/cobusgreyling/Jev) — inferred / evaluation — ⭐140
+- `+` [keltokhy/jgrep](https://github.com/keltokhy/jgrep) — inferred / community-sdk — ⭐139
+- `+` [Dicklesworthstone/skillranker](https://github.com/Dicklesworthstone/skillranker) — observed / routing-guardrails — ⭐136
+- `+` [Futureppo/typesafe_register](https://github.com/Futureppo/typesafe_register) — observed / other — ⭐133
+- `+` [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) — observed / other — ⭐132
+- `+` [cookiespiggy/agentic-rl](https://github.com/cookiespiggy/agentic-rl) — inferred / agent-tooling — ⭐131
+- `+` [kyegomez/open-jev](https://github.com/kyegomez/open-jev) — inferred / agent-tooling — ⭐126
+- `+` [Ying-Kai-Liao/jev-browser](https://github.com/Ying-Kai-Liao/jev-browser) — inferred / community-sdk — ⭐125
+- `+` [qkal/Canny](https://github.com/qkal/Canny) — inferred / community-sdk — ⭐125
+- `+` [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) — inferred / apps-demos — ⭐124
+- `+` [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) — inferred / agent-tooling — ⭐124
+- …另有 110 条新增
