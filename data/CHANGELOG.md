@@ -6087,3 +6087,25 @@
 - `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / research-models — ⭐0
 - `+` [TanNhatCMS/jev-rag-lab](https://github.com/TanNhatCMS/jev-rag-lab) — inferred / routing-guardrails — ⭐0
 - …另有 6 条新增
+
+## 2026-10-21T19:40:34+08:00
+- 收录总数 **813**；本次更新新增 **19**
+- `+` [SamratDuttaOfficial/WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep) — inferred / evaluation — ⭐13
+- `+` [getainode/jebadiah](https://github.com/getainode/jebadiah) — inferred / evaluation — ⭐9
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [jimmyLC/jev-outlook-cleaner](https://github.com/jimmyLC/jev-outlook-cleaner) — inferred / other — ⭐0
+- `+` [brkNx/antigravity-typesafe-jev](https://github.com/brkNx/antigravity-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [cskwork/pi-jev-router](https://github.com/cskwork/pi-jev-router) — inferred / routing-guardrails — ⭐0
+- `+` [sknitd/jev-agent](https://github.com/sknitd/jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [xavidop/genkit-k8s-flows-jev-software-factory](https://github.com/xavidop/genkit-k8s-flows-jev-software-factory) — inferred / routing-guardrails — ⭐0
+- `+` [mustangs0786/Jev-Style-AI-From-Scratch](https://github.com/mustangs0786/Jev-Style-AI-From-Scratch) — inferred / media-discussions — ⭐0
+- `+` [lijiawei255/jev-tune](https://github.com/lijiawei255/jev-tune) — inferred / other — ⭐0
+- `+` [raniellimontagna/jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp) — inferred / agent-tooling — ⭐0
+- `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐0
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [masatoppp/Jev-routing-evaluation](https://github.com/masatoppp/Jev-routing-evaluation) — inferred / routing-guardrails — ⭐0
+- `+` [CRAB-Technologies/jev-classificacao-emails](https://github.com/CRAB-Technologies/jev-classificacao-emails) — inferred / community-sdk — ⭐0
+- `+` [JustasFF/hubris-jev-router](https://github.com/JustasFF/hubris-jev-router) — inferred / community-sdk — ⭐0
+- `+` [olivere/systemone](https://github.com/olivere/systemone) — observed / community-sdk — ⭐0
