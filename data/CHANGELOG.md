@@ -6109,3 +6109,27 @@
 - `+` [CRAB-Technologies/jev-classificacao-emails](https://github.com/CRAB-Technologies/jev-classificacao-emails) — inferred / community-sdk — ⭐0
 - `+` [JustasFF/hubris-jev-router](https://github.com/JustasFF/hubris-jev-router) — inferred / community-sdk — ⭐0
 - `+` [olivere/systemone](https://github.com/olivere/systemone) — observed / community-sdk — ⭐0
+
+## 2026-10-21T21:49:57+08:00
+- 收录总数 **694**；本次更新新增 **21**
+- `+` [DanRWilloughby/snifftest](https://github.com/DanRWilloughby/snifftest) — inferred / agent-tooling — ⭐35
+- `+` [agent-chaperone/agent-chaperone](https://github.com/agent-chaperone/agent-chaperone) — inferred / community-sdk — ⭐22
+- `+` [berget-ai/guardrails-md](https://github.com/berget-ai/guardrails-md) — inferred / agent-tooling — ⭐11
+- `+` [alexei-led/pi-model-router](https://github.com/alexei-led/pi-model-router) — inferred / agent-tooling — ⭐9
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [getmissionctrl/hs-jev](https://github.com/getmissionctrl/hs-jev) — inferred / community-sdk — ⭐2
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐1
+- `+` [AlanViollier/jev-vs-pii](https://github.com/AlanViollier/jev-vs-pii) — inferred / evaluation — ⭐1
+- `+` [ES7/JEV-from-Scratch](https://github.com/ES7/JEV-from-Scratch) — inferred / other — ⭐0
+- `+` [hasanzaman22/jev-effort-router](https://github.com/hasanzaman22/jev-effort-router) — inferred / agent-tooling — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [evaboot-labs/openai-decisions-vs-jev](https://github.com/evaboot-labs/openai-decisions-vs-jev) — inferred / evaluation — ⭐0
+- `+` [geekhoo/jev-provider](https://github.com/geekhoo/jev-provider) — inferred / routing-guardrails — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
+- `+` [joannidesj/jev-strategy](https://github.com/joannidesj/jev-strategy) — inferred / other — ⭐0
+- `+` [harmoniqs/arJev](https://github.com/harmoniqs/arJev) — inferred / routing-guardrails — ⭐0
+- `+` [DAXZEIT/Pi-JEV-VCC-memory-relevance](https://github.com/DAXZEIT/Pi-JEV-VCC-memory-relevance) — inferred / agent-tooling — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [ForwardMetric/sysone](https://github.com/ForwardMetric/sysone) — observed / evaluation — ⭐0
