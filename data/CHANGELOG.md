@@ -6021,3 +6021,26 @@
 - `+` [EugeneM1/PriceVow](https://github.com/EugeneM1/PriceVow) — observed / agent-tooling — ⭐0
 - `+` [xavidop/genkit-k8s-flows-jev](https://github.com/xavidop/genkit-k8s-flows-jev) — inferred / routing-guardrails — ⭐0
 - `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-21T11:14:26+08:00
+- 收录总数 **804**；本次更新新增 **20**
+- `+` [JamesANZ/JevPromptShield](https://github.com/JamesANZ/JevPromptShield) — inferred / agent-tooling — ⭐202
+- `+` [mars-tw/jev-trading-command-center](https://github.com/mars-tw/jev-trading-command-center) — inferred / research-models — ⭐54
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐7
+- `+` [PaoPao1021/mahjong-jev-advisor](https://github.com/PaoPao1021/mahjong-jev-advisor) — inferred / other — ⭐5
+- `+` [liu-x27/XavierJev](https://github.com/liu-x27/XavierJev) — inferred / agent-tooling — ⭐2
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐1
+- `+` [kimjooyoon/gooo-jev](https://github.com/kimjooyoon/gooo-jev) — inferred / community-sdk — ⭐1
+- `+` [xz-dev/pi-llm-as-jev](https://github.com/xz-dev/pi-llm-as-jev) — inferred / other — ⭐1
+- `+` [ZephyrDeng/jev-triage](https://github.com/ZephyrDeng/jev-triage) — inferred / community-sdk — ⭐0
+- `+` [asimons81/jev-mcp](https://github.com/asimons81/jev-mcp) — inferred / community-sdk — ⭐0
+- `+` [harsaas/medgemma_Ophthalmology_jev](https://github.com/harsaas/medgemma_Ophthalmology_jev) — inferred / agent-tooling — ⭐0
+- `+` [h1bomb/jev-game-mvp](https://github.com/h1bomb/jev-game-mvp) — observed / apps-demos — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [nani-stack/gmail-auto-cleanup](https://github.com/nani-stack/gmail-auto-cleanup) — observed / routing-guardrails — ⭐0
+- `+` [chetankerhalkar/jev-enterprise-decision-agents](https://github.com/chetankerhalkar/jev-enterprise-decision-agents) — inferred / agent-tooling — ⭐0
+- `+` [DAXZEIT/Pi-JEV-VCC-memory-relevance](https://github.com/DAXZEIT/Pi-JEV-VCC-memory-relevance) — inferred / agent-tooling — ⭐0
+- `+` [miku-craft/jev-slop-guard](https://github.com/miku-craft/jev-slop-guard) — inferred / other — ⭐0
+- `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
+- `+` [felinae98/cmd-mod-jev-guard](https://github.com/felinae98/cmd-mod-jev-guard) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
