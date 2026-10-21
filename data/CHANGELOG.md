@@ -6162,3 +6162,17 @@
 - `+` [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) — inferred / apps-demos — ⭐124
 - `+` [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) — inferred / agent-tooling — ⭐124
 - …另有 110 条新增
+
+## 2026-10-22T02:09:21+08:00
+- 收录总数 **809**；本次更新新增 **11**
+- `+` [akivet/Mica](https://github.com/akivet/Mica) — inferred / agent-tooling — ⭐38
+- `+` [prasanthj/duckdb-jev](https://github.com/prasanthj/duckdb-jev) — inferred / community-sdk — ⭐10
+- `+` [prasanthj/duckdb-dual-cognition](https://github.com/prasanthj/duckdb-dual-cognition) — inferred / community-sdk — ⭐5
+- `+` [Spykoninho/trading-bot-jev](https://github.com/Spykoninho/trading-bot-jev) — inferred / apps-demos — ⭐3
+- `+` [laguagu/jev-skills](https://github.com/laguagu/jev-skills) — inferred / agent-tooling — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [shauravg/snowflake-laya-jev-learn-example](https://github.com/shauravg/snowflake-laya-jev-learn-example) — inferred / other — ⭐0
+- `+` [rrnM12/jev-cbf-planning](https://github.com/rrnM12/jev-cbf-planning) — inferred / research-models — ⭐0
+- `+` [webtech-network/workshop-jev](https://github.com/webtech-network/workshop-jev) — inferred / other — ⭐0
+- `+` [cloud-f1/jev-agent-kit](https://github.com/cloud-f1/jev-agent-kit) — inferred / community-sdk — ⭐0
+- `+` [aws-samples/sample-laya-system-one-ecs-gpu](https://github.com/aws-samples/sample-laya-system-one-ecs-gpu) — observed / apps-demos — ⭐0
