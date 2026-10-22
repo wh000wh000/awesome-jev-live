@@ -6248,3 +6248,28 @@
 - `+` [satishk01/jev-laya-eval](https://github.com/satishk01/jev-laya-eval) — inferred / agent-tooling — ⭐0
 - `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
 - `+` [slothg/jev-reach](https://github.com/slothg/jev-reach) — inferred / agent-tooling — ⭐0
+
+## 2026-10-22T15:40:25+08:00
+- 收录总数 **823**；本次更新新增 **22**
+- `+` [ZephyrDeng/ego-jev](https://github.com/ZephyrDeng/ego-jev) — inferred / agent-tooling — ⭐15
+- `+` [talmago/fast_gliner](https://github.com/talmago/fast_gliner) — inferred / community-sdk — ⭐15
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Show HN: Jev drives a browser – HN login and search in 8s for half a cent](https://news.ycombinator.com/item?id=50181149) — observed / media-discussions — ⭐4
+- `+` [Jev and where a System One model fits in document processing](https://news.ycombinator.com/item?id=49881336) — observed / media-discussions — ⭐4
+- `+` [Shristi1611/systemone-testbed](https://github.com/Shristi1611/systemone-testbed) — unverified / other — ⭐3
+- `+` [Smallchat (Jev as Judge) on the XERJ Corpus Hub](https://news.ycombinator.com/item?id=50186178) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [Kai-Sheng-caesar/NavJev-Code](https://github.com/Kai-Sheng-caesar/NavJev-Code) — inferred / apps-demos — ⭐1
+- `+` [NathanPannell/jev-demos](https://github.com/NathanPannell/jev-demos) — observed / apps-demos — ⭐0
+- `+` [decido-ai/decido](https://github.com/decido-ai/decido) — observed / evaluation — ⭐0
+- `+` [Keyizhan/jev-fabric-annotator](https://github.com/Keyizhan/jev-fabric-annotator) — inferred / research-models — ⭐0
+- `+` [PeesukaGu/jev-advise](https://github.com/PeesukaGu/jev-advise) — inferred / agent-tooling — ⭐0
+- `+` [ysys143/jev-harness](https://github.com/ysys143/jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [npv12/opencode-jev-router](https://github.com/npv12/opencode-jev-router) — inferred / agent-tooling — ⭐0
+- `+` [Kai-Sheng-caesar/NavJev](https://github.com/Kai-Sheng-caesar/NavJev) — inferred / other — ⭐0
+- `+` [prashu-asp/Systemonemodels](https://github.com/prashu-asp/Systemonemodels) — observed / other — ⭐0
+- `+` [leejisabella/system_one_explanability](https://github.com/leejisabella/system_one_explanability) — observed / other — ⭐0
