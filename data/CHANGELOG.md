@@ -6196,3 +6196,16 @@
 - `+` [rockbye-kunal/jev-router-rust](https://github.com/rockbye-kunal/jev-router-rust) — inferred / routing-guardrails — ⭐0
 - `+` [isaacbitran/jev-society](https://github.com/isaacbitran/jev-society) — inferred / agent-tooling — ⭐0
 - `+` [Y-B-1/fast-jev-compaction-plus](https://github.com/Y-B-1/fast-jev-compaction-plus) — inferred / agent-tooling — ⭐0
+
+## 2026-10-22T08:24:01+08:00
+- 收录总数 **808**；本次更新新增 **10**
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [mity-prodgen/jev-test](https://github.com/mity-prodgen/jev-test) — inferred / evaluation — ⭐4
+- `+` [Smallchat (Jev as Judge) on the XERJ Corpus Hub](https://news.ycombinator.com/item?id=50186178) — observed / media-discussions — ⭐2
+- `+` [rai-wtnb/lab-jev](https://github.com/rai-wtnb/lab-jev) — inferred / community-sdk — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [Lypt1x/rbxts-jev](https://github.com/Lypt1x/rbxts-jev) — inferred / community-sdk — ⭐0
+- `+` [anorthernman-developer/jev-thumbnail-critic](https://github.com/anorthernman-developer/jev-thumbnail-critic) — inferred / other — ⭐0
+- `+` [sohyeon-jang/jev-shield](https://github.com/sohyeon-jang/jev-shield) — inferred / other — ⭐0
+- `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
