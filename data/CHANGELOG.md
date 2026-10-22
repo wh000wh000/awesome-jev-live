@@ -6400,3 +6400,27 @@
 - `+` [Astro-Han/decision-head-rlcd](https://github.com/Astro-Han/decision-head-rlcd) — unverified / research-models — ⭐6
 - `+` [brida-ai/reflexbench](https://github.com/brida-ai/reflexbench) — observed / evaluation — ⭐6
 - …另有 65 条新增
+
+## 2026-10-23T06:42:25+08:00
+- 收录总数 **713**；本次更新新增 **21**
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [newuser7171/jev-gamepilot](https://github.com/newuser7171/jev-gamepilot) — inferred / apps-demos — ⭐6
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐4
+- `+` [jmrenouard/MicroLLM](https://github.com/jmrenouard/MicroLLM) — inferred / agent-tooling — ⭐3
+- `+` [Koushik890/jev-firewall](https://github.com/Koushik890/jev-firewall) — inferred / agent-tooling — ⭐2
+- `+` [gbesse/nifi-jev](https://github.com/gbesse/nifi-jev) — inferred / routing-guardrails — ⭐1
+- `+` [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) — inferred / other — ⭐1
+- `+` [gbesse/flink-jev](https://github.com/gbesse/flink-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/pinot-jev](https://github.com/gbesse/pinot-jev) — inferred / community-sdk — ⭐0
+- `+` [aen07/jev-grievance-triage](https://github.com/aen07/jev-grievance-triage) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [decido-ai/decido](https://github.com/decido-ai/decido) — observed / evaluation — ⭐0
+- `+` [rrnM12/jev-cbf-planning](https://github.com/rrnM12/jev-cbf-planning) — inferred / research-models — ⭐0
+- `+` [gbesse/jev-rerank-server](https://github.com/gbesse/jev-rerank-server) — inferred / other — ⭐0
+- `+` [gbesse/jev-screen](https://github.com/gbesse/jev-screen) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-bopi-watch](https://github.com/gbesse/jev-bopi-watch) — inferred / apps-demos — ⭐0
+- `+` [dosorio79/jev_test](https://github.com/dosorio79/jev_test) — inferred / routing-guardrails — ⭐0
+- `+` [ahmadghoniem/jev-lf2](https://github.com/ahmadghoniem/jev-lf2) — inferred / other — ⭐0
+- `+` [flimflamflum/Jev-Arcade](https://github.com/flimflamflum/Jev-Arcade) — inferred / apps-demos — ⭐0
+- `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
