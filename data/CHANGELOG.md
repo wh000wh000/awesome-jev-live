@@ -6313,3 +6313,32 @@
 - `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
 - `+` [initrd/himalaya-jev-mail-classify](https://github.com/initrd/himalaya-jev-mail-classify) — inferred / community-sdk — ⭐1
 - `+` [nourayman21k/Adaptive_Jev_RAG](https://github.com/nourayman21k/Adaptive_Jev_RAG) — inferred / community-sdk — ⭐0
+
+## 2026-10-23T00:08:35+08:00
+- 收录总数 **671**；本次更新新增 **59**
+- `+` [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) — inferred / research-models — ⭐21
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐8
+- `+` [prasanthj/duckdb-dual-cognition](https://github.com/prasanthj/duckdb-dual-cognition) — inferred / community-sdk — ⭐5
+- `+` [cipherTing/sael](https://github.com/cipherTing/sael) — unverified / community-sdk — ⭐5
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [leofmarciano/groot](https://github.com/leofmarciano/groot) — inferred / routing-guardrails — ⭐4
+- `+` [kisshan13/typesafe-ai-go](https://github.com/kisshan13/typesafe-ai-go) — observed / community-sdk — ⭐4
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
+- `+` [Jev and where a System One model fits in document processing](https://news.ycombinator.com/item?id=49881336) — observed / media-discussions — ⭐4
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — inferred / apps-demos — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [ApurvaMisra/system_one_model_course](https://github.com/ApurvaMisra/system_one_model_course) — observed / other — ⭐2
+- `+` [ke971225-prog/jev-communication-assistant](https://github.com/ke971225-prog/jev-communication-assistant) — inferred / other — ⭐2
+- `+` [exponen-agi/jev-playground](https://github.com/exponen-agi/jev-playground) — inferred / apps-demos — ⭐2
+- `+` [mikecann/magic-jev-ball](https://github.com/mikecann/magic-jev-ball) — inferred / routing-guardrails — ⭐2
+- `+` [Jeffan-31B: A Gemma fine-tune ranked #1 on the Jev Decision Index](https://news.ycombinator.com/item?id=50195723) — observed / media-discussions — ⭐2
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐1
+- `+` [left0ver/jev-proxy-pool](https://github.com/left0ver/jev-proxy-pool) — inferred / other — ⭐1
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [bariskisir/JevSharp](https://github.com/bariskisir/JevSharp) — inferred / community-sdk — ⭐0
+- …另有 34 条新增
