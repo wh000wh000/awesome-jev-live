@@ -6306,3 +6306,10 @@
 - `+` [HaoyuJiangdasak/jev-talking-head-workflow](https://github.com/HaoyuJiangdasak/jev-talking-head-workflow) — inferred / agent-tooling — ⭐0
 - `+` [ahmadghoniem/jev-lf2](https://github.com/ahmadghoniem/jev-lf2) — inferred / other — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+
+## 2026-10-22T22:02:35+08:00
+- 收录总数 **764**；本次更新新增 **4**
+- `+` [JonesSteven/photo-ferret](https://github.com/JonesSteven/photo-ferret) — unverified / other — ⭐3
+- `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
+- `+` [initrd/himalaya-jev-mail-classify](https://github.com/initrd/himalaya-jev-mail-classify) — inferred / community-sdk — ⭐1
+- `+` [nourayman21k/Adaptive_Jev_RAG](https://github.com/nourayman21k/Adaptive_Jev_RAG) — inferred / community-sdk — ⭐0
