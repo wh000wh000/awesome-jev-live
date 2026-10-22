@@ -6293,3 +6293,16 @@
 - `+` [manucet439/LLM_vs_Jev](https://github.com/manucet439/LLM_vs_Jev) — inferred / routing-guardrails — ⭐0
 - `+` [ajbmachon/jev-remnants](https://github.com/ajbmachon/jev-remnants) — inferred / agent-tooling — ⭐0
 - `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
+
+## 2026-10-22T19:54:42+08:00
+- 收录总数 **815**；本次更新新增 **10**
+- `+` [MarissaFamularo/citation-verifier](https://github.com/MarissaFamularo/citation-verifier) — unverified / agent-tooling — ⭐11
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [dante01yoon/ComfyUI-SystemOne](https://github.com/dante01yoon/ComfyUI-SystemOne) — observed / agent-tooling — ⭐6
+- `+` [mikecann/magic-jev-ball](https://github.com/mikecann/magic-jev-ball) — inferred / routing-guardrails — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [ekazakos/jev-atlas](https://github.com/ekazakos/jev-atlas) — inferred / research-models — ⭐0
+- `+` [HaoyuJiangdasak/jev-talking-head-workflow](https://github.com/HaoyuJiangdasak/jev-talking-head-workflow) — inferred / agent-tooling — ⭐0
+- `+` [ahmadghoniem/jev-lf2](https://github.com/ahmadghoniem/jev-lf2) — inferred / other — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
