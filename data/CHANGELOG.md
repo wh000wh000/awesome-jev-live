@@ -6273,3 +6273,23 @@
 - `+` [Kai-Sheng-caesar/NavJev](https://github.com/Kai-Sheng-caesar/NavJev) — inferred / other — ⭐0
 - `+` [prashu-asp/Systemonemodels](https://github.com/prashu-asp/Systemonemodels) — observed / other — ⭐0
 - `+` [leejisabella/system_one_explanability](https://github.com/leejisabella/system_one_explanability) — observed / other — ⭐0
+
+## 2026-10-22T17:47:25+08:00
+- 收录总数 **818**；本次更新新增 **17**
+- `+` [jev-chat/jev-chat-jarvis-ios](https://github.com/jev-chat/jev-chat-jarvis-ios) — inferred / apps-demos — ⭐53
+- `+` [alexei-led/claude-router](https://github.com/alexei-led/claude-router) — inferred / agent-tooling — ⭐33
+- `+` [agencyenterprise/jev-recipes](https://github.com/agencyenterprise/jev-recipes) — inferred / community-sdk — ⭐24
+- `+` [ruban-24/switchboard](https://github.com/ruban-24/switchboard) — inferred / community-sdk — ⭐18
+- `+` [Singularity-Compute/super-decider](https://github.com/Singularity-Compute/super-decider) — inferred / agent-tooling — ⭐9
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐5
+- `+` [smixs/jevchik](https://github.com/smixs/jevchik) — unverified / research-models — ⭐4
+- `+` [G0-0000/pi-subagent-jev](https://github.com/G0-0000/pi-subagent-jev) — inferred / agent-tooling — ⭐2
+- `+` [SuperInstance/jev-quilt](https://github.com/SuperInstance/jev-quilt) — inferred / agent-tooling — ⭐1
+- `+` [FlowConAi/meta-jev](https://github.com/FlowConAi/meta-jev) — inferred / community-sdk — ⭐1
+- `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
+- `+` [rainyflash/DC-Jev-RL](https://github.com/rainyflash/DC-Jev-RL) — inferred / evaluation — ⭐0
+- `+` [G0-0000/subagent-jev](https://github.com/G0-0000/subagent-jev) — inferred / agent-tooling — ⭐0
+- `+` [joannidesj/jev-strategy](https://github.com/joannidesj/jev-strategy) — inferred / other — ⭐0
+- `+` [manucet439/LLM_vs_Jev](https://github.com/manucet439/LLM_vs_Jev) — inferred / routing-guardrails — ⭐0
+- `+` [ajbmachon/jev-remnants](https://github.com/ajbmachon/jev-remnants) — inferred / agent-tooling — ⭐0
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0

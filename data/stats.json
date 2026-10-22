@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-22T15:40:25+08:00",
- "total": 823,
- "new_this_tick": 22,
+ "generated_at": "2026-10-22T17:47:25+08:00",
+ "total": 818,
+ "new_this_tick": 17,
  "by_category": {
   "official-sdk": 7,
-  "community-sdk": 133,
-  "agent-tooling": 257,
-  "routing-guardrails": 67,
-  "evaluation": 98,
-  "research-models": 49,
-  "apps-demos": 44,
-  "media-discussions": 87,
-  "other": 81
+  "community-sdk": 132,
+  "agent-tooling": 259,
+  "routing-guardrails": 64,
+  "evaluation": 97,
+  "research-models": 50,
+  "apps-demos": 45,
+  "media-discussions": 84,
+  "other": 80
  },
  "by_evidence": {
   "official": 18,
-  "observed": 193,
-  "inferred": 548,
-  "unverified": 64
+  "observed": 191,
+  "inferred": 544,
+  "unverified": 65
  },
  "by_tier": {
   "official": 7,
-  "community": 816
+  "community": 811
  },
  "by_language": {
-  "Python": 354,
-  "TypeScript": 142,
-  "JavaScript": 75,
+  "Python": 355,
+  "TypeScript": 146,
+  "JavaScript": 73,
   "Rust": 31,
-  "HTML": 29,
-  "Go": 15,
+  "HTML": 26,
+  "Go": 14,
   "Jupyter": 13,
-  "Java": 6,
+  "Swift": 6,
   "PHP": 6,
-  "C#": 5,
+  "Java": 5,
   "Elixir": 5,
-  "Swift": 5,
+  "C#": 4,
   "C": 3,
   "C++": 3,
   "TeX": 3,
@@ -50,8 +50,8 @@
   "Nushell": 1,
   "Astro": 1
  },
- "repos": 744,
+ "repos": 742,
  "models": 2,
- "discussions": 28,
- "total_stars": 192056
+ "discussions": 25,
+ "total_stars": 192183
 }
