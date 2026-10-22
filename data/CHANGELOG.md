@@ -6371,3 +6371,32 @@
 - `+` [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) — inferred / agent-tooling — ⭐616
 - `+` [featherless-ai/simple-jev](https://github.com/featherless-ai/simple-jev) — inferred / research-models — ⭐613
 - …另有 139 条新增
+
+## 2026-10-23T04:32:41+08:00
+- 收录总数 **826**；本次更新新增 **90**
+- `+` [typesafe-ai/system-one-adapter-python](https://github.com/typesafe-ai/system-one-adapter-python) — official / official-sdk — ⭐401
+- `+` [typesafe-ai/typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python) — official / official-sdk — ⭐302
+- `+` [typesafe-ai/typesafe-sdk-js](https://github.com/typesafe-ai/typesafe-sdk-js) — official / official-sdk — ⭐283
+- `+` [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) — inferred / community-sdk — ⭐257
+- `+` [supercorp-ai/supercov](https://github.com/supercorp-ai/supercov) — inferred / community-sdk — ⭐157
+- `+` [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) — inferred / apps-demos — ⭐123
+- `+` [Oqura-ai/optim-jev](https://github.com/Oqura-ai/optim-jev) — inferred / agent-tooling — ⭐47
+- `+` [intikhab49/open-jev-typed-decision-engine](https://github.com/intikhab49/open-jev-typed-decision-engine) — inferred / agent-tooling — ⭐46
+- `+` [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) — inferred / routing-guardrails — ⭐44
+- `+` [dannote/jev](https://github.com/dannote/jev) — inferred / community-sdk — ⭐36
+- `+` [hawkymisc/typed-decision-bert](https://github.com/hawkymisc/typed-decision-bert) — unverified / other — ⭐35
+- `+` [sumleo/RLCDAlignBench](https://github.com/sumleo/RLCDAlignBench) — unverified / routing-guardrails — ⭐29
+- `+` [arjun988/Kev](https://github.com/arjun988/Kev) — inferred / community-sdk — ⭐22
+- `+` [typesafe-ai/WorkflowEvals](https://github.com/typesafe-ai/WorkflowEvals) — official / official-sdk — ⭐19
+- `+` [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) — inferred / other — ⭐17
+- `+` [iamtoomas/JevLint](https://github.com/iamtoomas/JevLint) — inferred / agent-tooling — ⭐13
+- `+` [Mawfyy/jevflow](https://github.com/Mawfyy/jevflow) — unverified / agent-tooling — ⭐11
+- `+` [manifoldor/xtags](https://github.com/manifoldor/xtags) — inferred / other — ⭐11
+- `+` [arnabgho/rlcd-lite](https://github.com/arnabgho/rlcd-lite) — unverified / evaluation — ⭐10
+- `+` [kotoba-lang/typed-decisions](https://github.com/kotoba-lang/typed-decisions) — unverified / evaluation — ⭐10
+- `+` [us/jev-local](https://github.com/us/jev-local) — inferred / evaluation — ⭐9
+- `+` [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) — inferred / community-sdk — ⭐8
+- `+` [y0usaf/jev-lm](https://github.com/y0usaf/jev-lm) — inferred / evaluation — ⭐7
+- `+` [Astro-Han/decision-head-rlcd](https://github.com/Astro-Han/decision-head-rlcd) — unverified / research-models — ⭐6
+- `+` [brida-ai/reflexbench](https://github.com/brida-ai/reflexbench) — observed / evaluation — ⭐6
+- …另有 65 条新增
