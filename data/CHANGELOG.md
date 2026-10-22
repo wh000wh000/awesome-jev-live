@@ -6230,3 +6230,21 @@
 - `+` [znq19/KiraAI_jev_game_plugin](https://github.com/znq19/KiraAI_jev_game_plugin) — inferred / agent-tooling — ⭐0
 - `+` [subhan75/Jev-Reranker](https://github.com/subhan75/Jev-Reranker) — inferred / routing-guardrails — ⭐0
 - `+` [HimuroSenalyc/Jev-Fog](https://github.com/HimuroSenalyc/Jev-Fog) — inferred / agent-tooling — ⭐0
+
+## 2026-10-22T13:29:26+08:00
+- 收录总数 **812**；本次更新新增 **15**
+- `+` [HorusJiang/dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — inferred / agent-tooling — ⭐15
+- `+` [Sarim-MBZUAI/awesome-jev-security](https://github.com/Sarim-MBZUAI/awesome-jev-security) — observed / routing-guardrails — ⭐7
+- `+` [CompleteTech-LLC-AI-Research/jev-311-heatmap](https://github.com/CompleteTech-LLC-AI-Research/jev-311-heatmap) — inferred / community-sdk — ⭐3
+- `+` [wustep/jev-playground](https://github.com/wustep/jev-playground) — observed / apps-demos — ⭐2
+- `+` [CompleteTech-LLC/jev-learning-lab](https://github.com/CompleteTech-LLC/jev-learning-lab) — inferred / agent-tooling — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / agent-tooling — ⭐1
+- `+` [vijayprasath99/jev-pilot](https://github.com/vijayprasath99/jev-pilot) — inferred / evaluation — ⭐0
+- `+` [nshazly/jev-ai-system-one-tutorial](https://github.com/nshazly/jev-ai-system-one-tutorial) — inferred / routing-guardrails — ⭐0
+- `+` [microsoft/amplifier-module-provider-jev](https://github.com/microsoft/amplifier-module-provider-jev) — inferred / other — ⭐0
+- `+` [Khidir782/Beam-jev](https://github.com/Khidir782/Beam-jev) — inferred / routing-guardrails — ⭐0
+- `+` [Knight-ask-art/JevQuant](https://github.com/Knight-ask-art/JevQuant) — inferred / research-models — ⭐0
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+- `+` [satishk01/jev-laya-eval](https://github.com/satishk01/jev-laya-eval) — inferred / agent-tooling — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [slothg/jev-reach](https://github.com/slothg/jev-reach) — inferred / agent-tooling — ⭐0
