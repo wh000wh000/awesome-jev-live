@@ -6209,3 +6209,24 @@
 - `+` [anorthernman-developer/jev-thumbnail-critic](https://github.com/anorthernman-developer/jev-thumbnail-critic) — inferred / other — ⭐0
 - `+` [sohyeon-jang/jev-shield](https://github.com/sohyeon-jang/jev-shield) — inferred / other — ⭐0
 - `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
+
+## 2026-10-22T10:35:19+08:00
+- 收录总数 **810**；本次更新新增 **18**
+- `+` [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) — inferred / research-models — ⭐21
+- `+` [Emlembow/jev-graph-search](https://github.com/Emlembow/jev-graph-search) — inferred / community-sdk — ⭐13
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Stumble/jev-go](https://github.com/Stumble/jev-go) — inferred / community-sdk — ⭐6
+- `+` [Ryenhails/rerank-as-decision](https://github.com/Ryenhails/rerank-as-decision) — inferred / evaluation — ⭐3
+- `+` [ForestMars/Will-It-Jev](https://github.com/ForestMars/Will-It-Jev) — inferred / routing-guardrails — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [rominap22/strandsharness-langchain-jev](https://github.com/rominap22/strandsharness-langchain-jev) — inferred / apps-demos — ⭐1
+- `+` [kkdev92/jev-dotnet](https://github.com/kkdev92/jev-dotnet) — inferred / community-sdk — ⭐0
+- `+` [lewistouchtech/opencode-jev-safe-compact](https://github.com/lewistouchtech/opencode-jev-safe-compact) — inferred / evaluation — ⭐0
+- `+` [arstrel/homelab-jev](https://github.com/arstrel/homelab-jev) — inferred / other — ⭐0
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+- `+` [masatoppp/07_Jev-routing-evaluation](https://github.com/masatoppp/07_Jev-routing-evaluation) — inferred / routing-guardrails — ⭐0
+- `+` [dxpfig/jev-sentinel](https://github.com/dxpfig/jev-sentinel) — inferred / agent-tooling — ⭐0
+- `+` [znq19/KiraAI_jev_game_plugin](https://github.com/znq19/KiraAI_jev_game_plugin) — inferred / agent-tooling — ⭐0
+- `+` [subhan75/Jev-Reranker](https://github.com/subhan75/Jev-Reranker) — inferred / routing-guardrails — ⭐0
+- `+` [HimuroSenalyc/Jev-Fog](https://github.com/HimuroSenalyc/Jev-Fog) — inferred / agent-tooling — ⭐0
