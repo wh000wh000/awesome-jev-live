@@ -6453,3 +6453,32 @@
 - `+` [StellarieX/Heliotrope](https://github.com/StellarieX/Heliotrope) — unverified / other — ⭐5
 - `+` [jaimebuelta/jev-webinar](https://github.com/jaimebuelta/jev-webinar) — inferred / other — ⭐5
 - …另有 139 条新增
+
+## 2026-10-24T15:16:36+08:00
+- 收录总数 **593**；本次更新新增 **33**
+- `+` [The rise and fall of Jev hype](https://news.ycombinator.com/item?id=50206361) — observed / media-discussions — ⭐89
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐24
+- `+` [patrol-jev/patrol-jev](https://github.com/patrol-jev/patrol-jev) — inferred / other — ⭐14
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐13
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐10
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐8
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [CodyQin/zh-decision-bench](https://github.com/CodyQin/zh-decision-bench) — inferred / evaluation — ⭐4
+- `+` [Jev and where a System One model fits in document processing](https://news.ycombinator.com/item?id=49881336) — observed / media-discussions — ⭐4
+- `+` [rlfordon/could-jev](https://github.com/rlfordon/could-jev) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [guanghuang/coding-router-jev](https://github.com/guanghuang/coding-router-jev) — inferred / agent-tooling — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [Thneoly/r2r-jev](https://github.com/Thneoly/r2r-jev) — inferred / agent-tooling — ⭐1
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [markus-tobler/model-one-connectors](https://github.com/markus-tobler/model-one-connectors) — observed / other — ⭐0
+- `+` [ayushkhandelwal123/learning-jev](https://github.com/ayushkhandelwal123/learning-jev) — inferred / community-sdk — ⭐0
+- `+` [dirnbauer/typo3-webcon-jev](https://github.com/dirnbauer/typo3-webcon-jev) — inferred / routing-guardrails — ⭐0
+- `+` [pbswimmer3/claude-jev-router](https://github.com/pbswimmer3/claude-jev-router) — inferred / agent-tooling — ⭐0
+- `+` [naicoi92/pi-jev-pilot](https://github.com/naicoi92/pi-jev-pilot) — inferred / other — ⭐0
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / apps-demos — ⭐0
+- …另有 8 条新增
