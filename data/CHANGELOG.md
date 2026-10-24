@@ -6424,3 +6424,32 @@
 - `+` [ahmadghoniem/jev-lf2](https://github.com/ahmadghoniem/jev-lf2) — inferred / other — ⭐0
 - `+` [flimflamflum/Jev-Arcade](https://github.com/flimflamflum/Jev-Arcade) — inferred / apps-demos — ⭐0
 - `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
+
+## 2026-10-24T08:30:22+08:00
+- 收录总数 **810**；本次更新新增 **164**
+- `+` [zwliJay/jev-forge](https://github.com/zwliJay/jev-forge) — inferred / evaluation — ⭐164
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐121
+- `+` [john-rocky/coreai-kit](https://github.com/john-rocky/coreai-kit) — observed / community-sdk — ⭐120
+- `+` [uu889/laya-opencv](https://github.com/uu889/laya-opencv) — unverified / evaluation — ⭐58
+- `+` [StartLuxLabs/StartLux-Prism](https://github.com/StartLuxLabs/StartLux-Prism) — unverified / community-sdk — ⭐55
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐48
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐19
+- `+` [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) — inferred / agent-tooling — ⭐18
+- `+` [dominicrico/jev-router](https://github.com/dominicrico/jev-router) — inferred / agent-tooling — ⭐17
+- `+` [TrustifAI/typed_evals](https://github.com/TrustifAI/typed_evals) — observed / agent-tooling — ⭐16
+- `+` [everafterlabs/jes](https://github.com/everafterlabs/jes) — unverified / agent-tooling — ⭐15
+- `+` [shibing624/train-jev](https://github.com/shibing624/train-jev) — inferred / evaluation — ⭐13
+- `+` [genai-craft/openvons](https://github.com/genai-craft/openvons) — unverified / evaluation — ⭐13
+- `+` [ishida-lab/ProbabilityBench](https://github.com/ishida-lab/ProbabilityBench) — inferred / evaluation — ⭐11
+- `+` [anisselbd/jev-phishing-bench](https://github.com/anisselbd/jev-phishing-bench) — inferred / agent-tooling — ⭐10
+- `+` [Nhahan/Xevn](https://github.com/Nhahan/Xevn) — inferred / evaluation — ⭐9
+- `+` [alexei-led/pi-model-router](https://github.com/alexei-led/pi-model-router) — inferred / agent-tooling — ⭐9
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐8
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐8
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐7
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐6
+- `+` [StellarieX/Heliotrope](https://github.com/StellarieX/Heliotrope) — unverified / other — ⭐5
+- `+` [jaimebuelta/jev-webinar](https://github.com/jaimebuelta/jev-webinar) — inferred / other — ⭐5
+- …另有 139 条新增
