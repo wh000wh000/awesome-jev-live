@@ -6482,3 +6482,32 @@
 - `+` [naicoi92/pi-jev-pilot](https://github.com/naicoi92/pi-jev-pilot) — inferred / other — ⭐0
 - `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / apps-demos — ⭐0
 - …另有 8 条新增
+
+## 2026-10-26T04:26:50+08:00
+- 收录总数 **805**；本次更新新增 **290**
+- `+` [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — inferred / agent-tooling — ⭐23644
+- `+` [YaoApp/yao](https://github.com/YaoApp/yao) — inferred / agent-tooling — ⭐8189
+- `+` [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — inferred / agent-tooling — ⭐8099
+- `+` [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) — inferred / agent-tooling — ⭐7761
+- `+` [TheoLeeCJ/SemIf-OpenJev](https://github.com/TheoLeeCJ/SemIf-OpenJev) — inferred / research-models — ⭐4883
+- `+` [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) — inferred / apps-demos — ⭐3084
+- `+` [dzhng/jevgrep](https://github.com/dzhng/jevgrep) — inferred / community-sdk — ⭐2901
+- `+` [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) — inferred / research-models — ⭐2562
+- `+` [shcherbak-ai/contextgem](https://github.com/shcherbak-ai/contextgem) — inferred / other — ⭐2012
+- `+` [reticlehq/reticle](https://github.com/reticlehq/reticle) — inferred / agent-tooling — ⭐1271
+- `+` [realZachi/pg-jev](https://github.com/realZachi/pg-jev) — inferred / community-sdk — ⭐1218
+- `+` [wy-coliney/jev-browser-use](https://github.com/wy-coliney/jev-browser-use) — inferred / agent-tooling — ⭐1200
+- `+` [receptron/laya](https://github.com/receptron/laya) — unverified / other — ⭐997
+- `+` [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev) — inferred / apps-demos — ⭐977
+- `+` [TypeLLM/TypeLLM](https://github.com/TypeLLM/TypeLLM) — inferred / other — ⭐972
+- `+` [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) — unverified / other — ⭐933
+- `+` [feder-cr/jev](https://github.com/feder-cr/jev) — inferred / other — ⭐913
+- `+` [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) — inferred / other — ⭐854
+- `+` [thruwire/foreman](https://github.com/thruwire/foreman) — inferred / agent-tooling — ⭐785
+- `+` [razorback16/openjev](https://github.com/razorback16/openjev) — unverified / other — ⭐747
+- `+` [mode-io/vllm-jev](https://github.com/mode-io/vllm-jev) — inferred / research-models — ⭐744
+- `+` [AgriciDaniel/jev-seo](https://github.com/AgriciDaniel/jev-seo) — inferred / other — ⭐711
+- `+` [logicrw/awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) — inferred / agent-tooling — ⭐697
+- `+` [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) — inferred / agent-tooling — ⭐692
+- `+` [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) — inferred / agent-tooling — ⭐648
+- …另有 265 条新增
