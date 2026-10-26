@@ -6511,3 +6511,31 @@
 - `+` [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) — inferred / agent-tooling — ⭐692
 - `+` [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) — inferred / agent-tooling — ⭐648
 - …另有 265 条新增
+
+## 2026-10-26T11:42:44+08:00
+- 收录总数 **794**；本次更新新增 **25**
+- `+` [Sheltercosmo/jev4pg](https://github.com/Sheltercosmo/jev4pg) — inferred / community-sdk — ⭐258
+- `+` [madisonrickert/jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate) — inferred / agent-tooling — ⭐32
+- `+` [blakestone-x/jev-mcp](https://github.com/blakestone-x/jev-mcp) — inferred / agent-tooling — ⭐25
+- `+` [da-vinci-noob/pi-jev-model-router](https://github.com/da-vinci-noob/pi-jev-model-router) — inferred / routing-guardrails — ⭐11
+- `+` [inboxpraveen/Cleanframe](https://github.com/inboxpraveen/Cleanframe) — inferred / agent-tooling — ⭐6
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) — inferred / agent-tooling — ⭐3
+- `+` [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) — inferred / agent-tooling — ⭐2
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐2
+- `+` [xienda/dsh-jev-verify](https://github.com/xienda/dsh-jev-verify) — inferred / agent-tooling — ⭐1
+- `+` [chinmayakelkar/jev-plan-review](https://github.com/chinmayakelkar/jev-plan-review) — inferred / agent-tooling — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [Itachi-of-the-Leaf/JevBlog](https://github.com/Itachi-of-the-Leaf/JevBlog) — inferred / media-discussions — ⭐0
+- `+` [Analytics206/JEV-Arcade](https://github.com/Analytics206/JEV-Arcade) — inferred / agent-tooling — ⭐0
+- `+` [scalefreegan/jev-ants](https://github.com/scalefreegan/jev-ants) — inferred / other — ⭐0
+- `+` [Arbues/tesis1-jev-confidence](https://github.com/Arbues/tesis1-jev-confidence) — inferred / other — ⭐0
+- `+` [Kogler7/JEV-BGR-Comparison](https://github.com/Kogler7/JEV-BGR-Comparison) — inferred / routing-guardrails — ⭐0
+- `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [jesyspa/jev-lean](https://github.com/jesyspa/jev-lean) — inferred / other — ⭐0
+- `+` [gfddfhdg/--JEV-AI-](https://github.com/gfddfhdg/--JEV-AI-) — inferred / other — ⭐0
+- `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
+- `+` [alpha2beta/JEV-9B-EXL3-K4](https://huggingface.co/alpha2beta/JEV-9B-EXL3-K4) — observed / research-models — ⭐0
+- `+` [alpha2beta/JEV-9B-EXL3-K2](https://huggingface.co/alpha2beta/JEV-9B-EXL3-K2) — observed / research-models — ⭐0
+- `+` [mradermacher/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/mradermacher/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
