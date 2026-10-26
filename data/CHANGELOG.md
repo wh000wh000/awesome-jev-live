@@ -6679,3 +6679,19 @@
 - `+` [Sachin-chaurasiya/scam-checker-with-jev](https://github.com/Sachin-chaurasiya/scam-checker-with-jev) — inferred / agent-tooling — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
 - `+` [ilanvys/jev-mekomil-study](https://github.com/ilanvys/jev-mekomil-study) — inferred / agent-tooling — ⭐0
+
+## 2026-10-27T04:47:49+08:00
+- 收录总数 **799**；本次更新新增 **13**
+- `+` [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) — inferred / other — ⭐134
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [Jev and the Art of Truth Maintenance](https://news.ycombinator.com/item?id=50249197) — observed / media-discussions — ⭐2
+- `+` [AlekseiUL/jev-broker](https://github.com/AlekseiUL/jev-broker) — inferred / agent-tooling — ⭐1
+- `+` [marchexe/jev-evaluation-lab](https://github.com/marchexe/jev-evaluation-lab) — inferred / evaluation — ⭐1
+- `+` [jbellsolutions/jev-assistant](https://github.com/jbellsolutions/jev-assistant) — inferred / community-sdk — ⭐0
+- `+` [gdsmith1/jev-playlist-bucketer](https://github.com/gdsmith1/jev-playlist-bucketer) — inferred / other — ⭐0
+- `+` [Y-B-1/jev-compaction](https://github.com/Y-B-1/jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V2-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2-NVFP4-FP8) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V2-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2-GGUF) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V2](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2) — observed / research-models — ⭐0
