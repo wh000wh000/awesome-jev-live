@@ -6571,3 +6571,26 @@
 - `+` [tttaliesin/jev-context](https://github.com/tttaliesin/jev-context) — inferred / agent-tooling — ⭐0
 - `+` [chengyixu/jev-clean](https://github.com/chengyixu/jev-clean) — inferred / research-models — ⭐0
 - `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
+
+## 2026-10-26T18:04:07+08:00
+- 收录总数 **786**；本次更新新增 **20**
+- `+` [fstandhartinger/jevbench](https://github.com/fstandhartinger/jevbench) — observed / evaluation — ⭐311
+- `+` [HC-Guo/Self-Evolving_HealthJev](https://github.com/HC-Guo/Self-Evolving_HealthJev) — inferred / agent-tooling — ⭐138
+- `+` [thusinh1969/BrighTO_Router](https://github.com/thusinh1969/BrighTO_Router) — inferred / community-sdk — ⭐22
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐10
+- `+` [mithril-lang/typed-decisions](https://github.com/mithril-lang/typed-decisions) — unverified / evaluation — ⭐10
+- `+` [itsoltech/basal-rs](https://github.com/itsoltech/basal-rs) — unverified / evaluation — ⭐9
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐7
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [AutreMachine/keelson](https://github.com/AutreMachine/keelson) — unverified / community-sdk — ⭐4
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [vincyberx/skejja](https://github.com/vincyberx/skejja) — unverified / other — ⭐3
+- `+` [MaciejWiatr/jev-browser](https://github.com/MaciejWiatr/jev-browser) — inferred / agent-tooling — ⭐2
+- `+` [CosmoIknosLab/PathJev](https://github.com/CosmoIknosLab/PathJev) — inferred / evaluation — ⭐1
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [bit-cook/Jev-X-Blocker](https://github.com/bit-cook/Jev-X-Blocker) — inferred / routing-guardrails — ⭐0
+- `+` [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) — inferred / agent-tooling — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [imink/local-jev-mario](https://github.com/imink/local-jev-mario) — inferred / apps-demos — ⭐0
+- `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
+- `+` [sadikurSenpai/Learning-System-One-model](https://github.com/sadikurSenpai/Learning-System-One-model) — observed / other — ⭐0
