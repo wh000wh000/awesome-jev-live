@@ -6539,3 +6539,17 @@
 - `+` [alpha2beta/JEV-9B-EXL3-K4](https://huggingface.co/alpha2beta/JEV-9B-EXL3-K4) — observed / research-models — ⭐0
 - `+` [alpha2beta/JEV-9B-EXL3-K2](https://huggingface.co/alpha2beta/JEV-9B-EXL3-K2) — observed / research-models — ⭐0
 - `+` [mradermacher/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/mradermacher/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
+
+## 2026-10-26T13:50:43+08:00
+- 收录总数 **801**；本次更新新增 **11**
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / agent-tooling — ⭐149
+- `+` [sgyaqing/verdict](https://github.com/sgyaqing/verdict) — observed / evaluation — ⭐13
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [DevLoops-ai/unified-brain](https://github.com/DevLoops-ai/unified-brain) — inferred / community-sdk — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [boxxxie/jev_dsl](https://github.com/boxxxie/jev_dsl) — inferred / other — ⭐0
+- `+` [abhimanyuHatesToCode/jev-fn](https://github.com/abhimanyuHatesToCode/jev-fn) — inferred / community-sdk — ⭐0
+- `+` [Bafise-nh/jev-cua-android](https://github.com/Bafise-nh/jev-cua-android) — inferred / agent-tooling — ⭐0
+- `+` [api-evangelist/jev-agent](https://github.com/api-evangelist/jev-agent) — inferred / agent-tooling — ⭐0
