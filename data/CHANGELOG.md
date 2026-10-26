@@ -6553,3 +6553,21 @@
 - `+` [abhimanyuHatesToCode/jev-fn](https://github.com/abhimanyuHatesToCode/jev-fn) — inferred / community-sdk — ⭐0
 - `+` [Bafise-nh/jev-cua-android](https://github.com/Bafise-nh/jev-cua-android) — inferred / agent-tooling — ⭐0
 - `+` [api-evangelist/jev-agent](https://github.com/api-evangelist/jev-agent) — inferred / agent-tooling — ⭐0
+
+## 2026-10-26T15:56:50+08:00
+- 收录总数 **802**；本次更新新增 **15**
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐9
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [HiepPP/hiep-paseo-plugin](https://github.com/HiepPP/hiep-paseo-plugin) — unverified / agent-tooling — ⭐6
+- `+` [ardana-ai/ardana](https://github.com/ardana-ai/ardana) — inferred / agent-tooling — ⭐3
+- `+` [Jev-style decisions for IMAGES: Fovea-4B, open 4B, one forward pass](https://news.ycombinator.com/item?id=50230161) — observed / media-discussions — ⭐2
+- `+` [nothingzhl/jev-mcp](https://github.com/nothingzhl/jev-mcp) — inferred / community-sdk — ⭐0
+- `+` [hamza4344/jev-resume-lab](https://github.com/hamza4344/jev-resume-lab) — inferred / evaluation — ⭐0
+- `+` [mayukhg/jev-ai-chatbot](https://github.com/mayukhg/jev-ai-chatbot) — inferred / routing-guardrails — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
+- `+` [heyoonyoon/jev-quiz-solver](https://github.com/heyoonyoon/jev-quiz-solver) — inferred / other — ⭐0
+- `+` [alandarev/pi-context-guard-jev](https://github.com/alandarev/pi-context-guard-jev) — inferred / agent-tooling — ⭐0
+- `+` [tttaliesin/jev-context](https://github.com/tttaliesin/jev-context) — inferred / agent-tooling — ⭐0
+- `+` [chengyixu/jev-clean](https://github.com/chengyixu/jev-clean) — inferred / research-models — ⭐0
+- `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
