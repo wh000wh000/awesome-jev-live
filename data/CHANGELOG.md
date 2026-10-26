@@ -6594,3 +6594,32 @@
 - `+` [imink/local-jev-mario](https://github.com/imink/local-jev-mario) — inferred / apps-demos — ⭐0
 - `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
 - `+` [sadikurSenpai/Learning-System-One-model](https://github.com/sadikurSenpai/Learning-System-One-model) — observed / other — ⭐0
+
+## 2026-10-26T20:12:18+08:00
+- 收录总数 **797**；本次更新新增 **33**
+- `+` [TrustifAI/typed_evals](https://github.com/TrustifAI/typed_evals) — observed / agent-tooling — ⭐16
+- `+` [shibing624/train-jev](https://github.com/shibing624/train-jev) — inferred / evaluation — ⭐14
+- `+` [Nhahan/Xevn](https://github.com/Nhahan/Xevn) — inferred / evaluation — ⭐11
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐9
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐7
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [shashikantdev3/decision-models-lab](https://github.com/shashikantdev3/decision-models-lab) — inferred / agent-tooling — ⭐4
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [patronus-protect/decision-model-guard](https://github.com/patronus-protect/decision-model-guard) — unverified / agent-tooling — ⭐3
+- `+` [ardana-ai/ardana](https://github.com/ardana-ai/ardana) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [orq-ai/jev-judge](https://github.com/orq-ai/jev-judge) — inferred / agent-tooling — ⭐1
+- `+` [welcomeenjoy75-hue/mini-jev](https://github.com/welcomeenjoy75-hue/mini-jev) — inferred / research-models — ⭐1
+- `+` [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) — inferred / routing-guardrails — ⭐1
+- `+` [stern9/jev-bench](https://github.com/stern9/jev-bench) — observed / agent-tooling — ⭐1
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [BlockedPath/herdr-jev-names](https://github.com/BlockedPath/herdr-jev-names) — inferred / agent-tooling — ⭐0
+- `+` [danikstifloanpaarnatl/jev-stance](https://github.com/danikstifloanpaarnatl/jev-stance) — inferred / other — ⭐0
+- `+` [OpenSWE/jev-browser-use-mcp](https://github.com/OpenSWE/jev-browser-use-mcp) — inferred / agent-tooling — ⭐0
+- `+` [aatifahmad123/jev-llm-routing](https://github.com/aatifahmad123/jev-llm-routing) — inferred / routing-guardrails — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+- `+` [heyoonyoon/jev-quiz-solver](https://github.com/heyoonyoon/jev-quiz-solver) — inferred / other — ⭐0
+- `+` [Poojithcodes/jev-calibration-study](https://github.com/Poojithcodes/jev-calibration-study) — inferred / evaluation — ⭐0
+- `+` [thejasrao262003/jev-compositional-uncertainty](https://github.com/thejasrao262003/jev-compositional-uncertainty) — inferred / agent-tooling — ⭐0
+- …另有 8 条新增
