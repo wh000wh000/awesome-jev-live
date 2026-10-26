@@ -6644,3 +6644,20 @@
 - `+` [shohei81/jev-tos-checker](https://github.com/shohei81/jev-tos-checker) — inferred / other — ⭐0
 - `+` [juanlentino/comment-analysis-for-typesafe-jev](https://github.com/juanlentino/comment-analysis-for-typesafe-jev) — inferred / agent-tooling — ⭐0
 - `+` [LimePencil/jev-observer-web](https://github.com/LimePencil/jev-observer-web) — inferred / other — ⭐0
+
+## 2026-10-27T00:30:12+08:00
+- 收录总数 **791**；本次更新新增 **14**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / research-models — ⭐17
+- `+` [patrol-jev/patrol-jev](https://github.com/patrol-jev/patrol-jev) — inferred / other — ⭐17
+- `+` [muxso/Shepherd](https://github.com/muxso/Shepherd) — inferred / agent-tooling — ⭐14
+- `+` [diegoag64/jev-devtools](https://github.com/diegoag64/jev-devtools) — inferred / other — ⭐6
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [bydeng01/scientific-decision-eval](https://github.com/bydeng01/scientific-decision-eval) — observed / evaluation — ⭐4
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [brkNx/antigravity-typesafe-jev](https://github.com/brkNx/antigravity-typesafe-jev) — inferred / community-sdk — ⭐0
+- `+` [basi/typesafe-ai-php-client](https://github.com/basi/typesafe-ai-php-client) — observed / community-sdk — ⭐0
+- `+` [solo-burn/dspy-jev](https://github.com/solo-burn/dspy-jev) — inferred / other — ⭐0
+- `+` [gusdom87/jev-graduated-autonomy](https://github.com/gusdom87/jev-graduated-autonomy) — inferred / routing-guardrails — ⭐0
+- `+` [am3lia-low/jev-project](https://github.com/am3lia-low/jev-project) — inferred / evaluation — ⭐0
+- `+` [Amr-devman/systemone-robotics](https://github.com/Amr-devman/systemone-robotics) — observed / apps-demos — ⭐0
