@@ -6661,3 +6661,21 @@
 - `+` [gusdom87/jev-graduated-autonomy](https://github.com/gusdom87/jev-graduated-autonomy) — inferred / routing-guardrails — ⭐0
 - `+` [am3lia-low/jev-project](https://github.com/am3lia-low/jev-project) — inferred / evaluation — ⭐0
 - `+` [Amr-devman/systemone-robotics](https://github.com/Amr-devman/systemone-robotics) — observed / apps-demos — ⭐0
+
+## 2026-10-27T02:40:10+08:00
+- 收录总数 **792**；本次更新新增 **15**
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐4
+- `+` [Engid/question-kit](https://github.com/Engid/question-kit) — observed / other — ⭐4
+- `+` [q3learners/jev-demofast](https://github.com/q3learners/jev-demofast) — inferred / apps-demos — ⭐3
+- `+` [evan-py-chen/jev-survey](https://github.com/evan-py-chen/jev-survey) — observed / research-models — ⭐1
+- `+` [criguex/jev-test-impact](https://github.com/criguex/jev-test-impact) — inferred / community-sdk — ⭐1
+- `+` [criguex/agent-eval-jev](https://github.com/criguex/agent-eval-jev) — inferred / agent-tooling — ⭐1
+- `+` [AriniRSM/Jev-experiments](https://github.com/AriniRSM/Jev-experiments) — observed / other — ⭐0
+- `+` [criguex/playwright-jev](https://github.com/criguex/playwright-jev) — inferred / other — ⭐0
+- `+` [criguex/jev-ci-triage](https://github.com/criguex/jev-ci-triage) — inferred / routing-guardrails — ⭐0
+- `+` [shuenrui/tetris-vs-jev](https://github.com/shuenrui/tetris-vs-jev) — inferred / other — ⭐0
+- `+` [RatelXD/JevPilot](https://github.com/RatelXD/JevPilot) — inferred / agent-tooling — ⭐0
+- `+` [harmoniqs/arJev](https://github.com/harmoniqs/arJev) — inferred / routing-guardrails — ⭐0
+- `+` [Sachin-chaurasiya/scam-checker-with-jev](https://github.com/Sachin-chaurasiya/scam-checker-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+- `+` [ilanvys/jev-mekomil-study](https://github.com/ilanvys/jev-mekomil-study) — inferred / agent-tooling — ⭐0
