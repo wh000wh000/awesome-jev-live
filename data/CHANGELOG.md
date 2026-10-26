@@ -6623,3 +6623,24 @@
 - `+` [Poojithcodes/jev-calibration-study](https://github.com/Poojithcodes/jev-calibration-study) — inferred / evaluation — ⭐0
 - `+` [thejasrao262003/jev-compositional-uncertainty](https://github.com/thejasrao262003/jev-compositional-uncertainty) — inferred / agent-tooling — ⭐0
 - …另有 8 条新增
+
+## 2026-10-26T22:20:07+08:00
+- 收录总数 **791**；本次更新新增 **18**
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐121
+- `+` [dannote/jev](https://github.com/dannote/jev) — inferred / community-sdk — ⭐36
+- `+` [manifoldor/xtags](https://github.com/manifoldor/xtags) — inferred / other — ⭐11
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐8
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [juanlentino/tribar-connector-for-typesafe-jev](https://github.com/juanlentino/tribar-connector-for-typesafe-jev) — inferred / agent-tooling — ⭐4
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [zhirschtritt/typesafe-go](https://github.com/zhirschtritt/typesafe-go) — inferred / community-sdk — ⭐4
+- `+` [Butochnikov/laravel-typesafe-jev](https://github.com/Butochnikov/laravel-typesafe-jev) — inferred / community-sdk — ⭐3
+- `+` [Ask HN: Everyone was Jev-maxxing. Why not CDMs now?](https://news.ycombinator.com/item?id=50242523) — observed / media-discussions — ⭐3
+- `+` [MattiooFR/mcp-server-jev](https://github.com/MattiooFR/mcp-server-jev) — inferred / community-sdk — ⭐2
+- `+` [AboveColin/jevclient](https://github.com/AboveColin/jevclient) — inferred / community-sdk — ⭐2
+- `+` [rickcrawford/jev-relevancy](https://github.com/rickcrawford/jev-relevancy) — inferred / community-sdk — ⭐1
+- `+` [CMaintz/jev-eval](https://github.com/CMaintz/jev-eval) — inferred / routing-guardrails — ⭐0
+- `+` [shohei81/jev-tos-checker](https://github.com/shohei81/jev-tos-checker) — inferred / other — ⭐0
+- `+` [juanlentino/comment-analysis-for-typesafe-jev](https://github.com/juanlentino/comment-analysis-for-typesafe-jev) — inferred / agent-tooling — ⭐0
+- `+` [LimePencil/jev-observer-web](https://github.com/LimePencil/jev-observer-web) — inferred / other — ⭐0
