@@ -6695,3 +6695,22 @@
 - `+` [SargeDev/Solar-Decision-JEV-27B-V2-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2-NVFP4-FP8) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B-V2-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2-GGUF) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B-V2](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V2) — observed / research-models — ⭐0
+
+## 2026-10-27T06:54:14+08:00
+- 收录总数 **805**；本次更新新增 **16**
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐38
+- `+` [kaustav1996/reflex](https://github.com/kaustav1996/reflex) — unverified / agent-tooling — ⭐7
+- `+` [sable-inc/jev-linter-action](https://github.com/sable-inc/jev-linter-action) — inferred / other — ⭐1
+- `+` [srknkrbb/jev-ecc](https://github.com/srknkrbb/jev-ecc) — inferred / agent-tooling — ⭐0
+- `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
+- `+` [g-stavrakis/Jev_System_One_Model](https://github.com/g-stavrakis/Jev_System_One_Model) — observed / other — ⭐0
+- `+` [ayax79/jev_nethack](https://github.com/ayax79/jev_nethack) — inferred / apps-demos — ⭐0
+- `+` [clamdown2020/jev-vs-opus-doc-classification](https://github.com/clamdown2020/jev-vs-opus-doc-classification) — inferred / agent-tooling — ⭐0
+- `+` [SargeDev/Solar-JEV-27B-R32](https://huggingface.co/SargeDev/Solar-JEV-27B-R32) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-JEV-27B-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-JEV-27B-NVFP4-FP8) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-JEV-27B-GGUF](https://huggingface.co/SargeDev/Solar-JEV-27B-GGUF) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-JEV-27B](https://huggingface.co/SargeDev/Solar-JEV-27B) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-VL-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-VL-GGUF) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-VL](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-VL) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B) — observed / research-models — ⭐0
