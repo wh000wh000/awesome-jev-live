@@ -6714,3 +6714,18 @@
 - `+` [SargeDev/Solar-Decision-JEV-27B-VL](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-VL) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B) — observed / research-models — ⭐0
+
+## 2026-10-27T09:02:11+08:00
+- 收录总数 **810**；本次更新新增 **12**
+- `+` [JamesANZ/JevPromptShield](https://github.com/JamesANZ/JevPromptShield) — inferred / agent-tooling — ⭐202
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐12
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐9
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [peculiar-ragdoll/callosum](https://github.com/peculiar-ragdoll/callosum) — unverified / agent-tooling — ⭐3
+- `+` [Temikus/lgtm](https://github.com/Temikus/lgtm) — unverified / other — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [hyspacex/jev-router](https://github.com/hyspacex/jev-router) — inferred / routing-guardrails — ⭐1
+- `+` [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) — inferred / agent-tooling — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
