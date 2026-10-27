@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-27T09:02:11+08:00",
- "count": 2717,
+ "updated_at": "2026-10-27T11:09:45+08:00",
+ "count": 2721,
  "policy": {
   "min_stars": 5,
   "min_description_chars": 40
@@ -200,7 +200,7 @@
    "description_chars": 21,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-22T04:01:28+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T18:43:20+08:00",
@@ -500,7 +500,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T04:47:49+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-16T15:28:21+08:00",
@@ -581,7 +581,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-16T09:02:25+08:00",
@@ -649,7 +649,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T21:05:21+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-05T23:30:35+08:00",
@@ -964,7 +964,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-23T00:08:35+08:00",
@@ -1080,7 +1080,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-29T02:09:04+08:00",
-   "last_seen_dropped": "2026-10-26T22:20:07+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-26T20:12:18+08:00",
@@ -1290,7 +1290,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-26T04:26:50+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T18:12:24+08:00",
@@ -1508,7 +1508,7 @@
    "description_chars": 18,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-14T03:37:52+08:00",
-   "last_seen_dropped": "2026-10-17T12:35:48+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-30T10:44:38+08:00",
@@ -1944,7 +1944,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-15T13:33:43+08:00",
-   "last_seen_dropped": "2026-10-16T19:42:50+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-02T15:38:19+08:00",
@@ -2093,7 +2093,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-26T04:26:50+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T14:33:29+08:00",
@@ -2509,7 +2509,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-23T11:40:29+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-05T03:24:05+08:00",
@@ -4140,7 +4140,8 @@
    "evidence": "inferred",
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-10-27T09:02:11+08:00"
+   "first_dropped": "2026-10-27T09:02:11+08:00",
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-06T01:40:55+08:00",
@@ -4338,7 +4339,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T04:47:49+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-05T22:57:55+08:00",
@@ -4647,7 +4648,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T14:25:40+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-15T17:54:22+08:00",
@@ -4902,7 +4903,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T06:54:14+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-28T08:33:57+08:00",
@@ -5081,7 +5082,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-13T06:19:32+08:00",
@@ -5631,7 +5632,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T23:49:39+08:00",
@@ -6924,7 +6925,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-19T14:27:55+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-19T01:41:00+08:00",
@@ -7005,7 +7006,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-29T13:45:18+08:00",
@@ -7394,7 +7395,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T20:43:50+08:00",
@@ -7510,7 +7511,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-01T21:12:04+08:00",
@@ -7936,7 +7937,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-04T23:12:01+08:00",
@@ -8129,7 +8130,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-20T16:09:58+08:00",
@@ -9448,7 +9449,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-26T07:20:23+08:00",
@@ -9680,7 +9681,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-04T01:06:48+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T18:12:24+08:00",
@@ -9906,7 +9907,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-26T04:26:50+08:00",
-   "last_seen_dropped": "2026-10-27T04:47:49+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-13T23:23:16+08:00",
@@ -10121,7 +10122,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-30T22:37:23+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-01T16:38:39+08:00",
@@ -10133,7 +10134,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-30T20:11:10+08:00",
@@ -10156,7 +10157,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-23T02:17:14+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-17T04:14:50+08:00",
@@ -10273,7 +10274,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-16T11:12:49+08:00",
-   "last_seen_dropped": "2026-10-23T06:42:25+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-17T16:50:52+08:00",
@@ -10607,6 +10608,17 @@
    "first_dropped": "2026-10-01T05:32:08+08:00"
   },
   {
+   "at": "2026-10-27T11:09:45+08:00",
+   "id": "gh:ai-nexus-jp/jev-vs-decision1-benchmark",
+   "name": "ai-nexus-jp/jev-vs-decision1-benchmark",
+   "url": "https://github.com/ai-nexus-jp/jev-vs-decision1-benchmark",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-27T11:09:45+08:00"
+  },
+  {
    "at": "2026-10-23T04:32:41+08:00",
    "id": "gh:aiainui/jev-research",
    "name": "aiainui/jev-research",
@@ -10652,7 +10664,7 @@
    "description_chars": 37,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T13:01:56+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-05T22:57:55+08:00",
@@ -11458,7 +11470,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-22T15:40:25+08:00",
@@ -11655,7 +11667,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T21:01:36+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-04T14:52:13+08:00",
@@ -12087,7 +12099,7 @@
    "description_chars": 8,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-29T02:09:04+08:00",
@@ -12749,6 +12761,17 @@
    "first_dropped": "2026-09-19T20:06:43+08:00"
   },
   {
+   "at": "2026-10-27T11:09:45+08:00",
+   "id": "gh:bym6096/Jev_game2",
+   "name": "bym6096/Jev_game2",
+   "url": "https://github.com/bym6096/Jev_game2",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-27T11:09:45+08:00"
+  },
+  {
    "at": "2026-09-29T18:36:39+08:00",
    "id": "gh:bytemonk-academy/jev-decision-lab",
    "name": "bytemonk-academy/jev-decision-lab",
@@ -12827,7 +12850,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T04:01:28+08:00",
@@ -13507,7 +13530,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T04:47:49+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-30T01:37:43+08:00",
@@ -13991,7 +14014,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T21:08:19+08:00",
@@ -14049,7 +14072,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T06:54:14+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-29T02:09:04+08:00",
@@ -14516,7 +14539,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T10:46:47+08:00",
@@ -14849,7 +14872,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-12T17:33:42+08:00",
@@ -15059,7 +15082,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-09-30T10:44:38+08:00"
+   "first_dropped": "2026-09-30T10:44:38+08:00",
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-29T20:51:38+08:00",
@@ -15107,7 +15131,7 @@
    "description_chars": 30,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-09T00:39:24+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-02T22:30:40+08:00",
@@ -15560,7 +15584,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-19T20:06:43+08:00",
@@ -15803,7 +15827,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-22T06:16:28+08:00",
@@ -16024,7 +16048,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T13:01:56+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T10:46:47+08:00",
@@ -16188,7 +16212,7 @@
    "description_chars": 2,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-21T21:01:36+08:00",
@@ -16607,7 +16631,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-06T16:31:34+08:00",
@@ -16675,7 +16699,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T17:52:18+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-01T18:54:31+08:00",
@@ -16824,7 +16848,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-25T17:05:04+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-19T18:42:57+08:00",
@@ -17636,7 +17660,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-23T04:43:33+08:00",
@@ -18967,7 +18991,8 @@
    "evidence": "inferred",
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
-   "first_dropped": "2026-10-27T09:02:11+08:00"
+   "first_dropped": "2026-10-27T09:02:11+08:00",
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T11:53:32+08:00",
@@ -19270,7 +19295,7 @@
    "description_chars": 35,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T21:15:28+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-21T15:37:07+08:00",
@@ -19353,7 +19378,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-04T17:41:35+08:00",
@@ -19400,7 +19425,7 @@
    "description_chars": 28,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-20T23:32:35+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-28T01:58:45+08:00",
@@ -19733,7 +19758,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-26T11:42:44+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T20:43:50+08:00",
@@ -20444,7 +20469,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-12T13:01:56+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-22T15:40:25+08:00",
@@ -20604,7 +20629,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-14T10:04:04+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-16T19:42:50+08:00",
@@ -20815,7 +20840,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-26T04:26:50+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-30T20:11:10+08:00",
@@ -21091,7 +21116,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-27T04:47:49+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-06T20:47:21+08:00",
@@ -21646,7 +21671,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-26T02:39:08+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T15:56:14+08:00",
@@ -23947,7 +23972,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-20T05:25:34+08:00",
@@ -24480,7 +24505,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-23T09:14:44+08:00",
@@ -24503,7 +24528,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-26T02:39:08+08:00",
@@ -24887,7 +24912,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-30T17:49:46+08:00",
@@ -24899,7 +24924,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-30T17:49:46+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-21T21:01:36+08:00",
@@ -25234,6 +25259,17 @@
    "first_dropped": "2026-09-21T08:58:14+08:00"
   },
   {
+   "at": "2026-10-27T11:09:45+08:00",
+   "id": "gh:rht-alexlee/jev-tetris-demo",
+   "name": "rht-alexlee/jev-tetris-demo",
+   "url": "https://github.com/rht-alexlee/jev-tetris-demo",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-27T11:09:45+08:00"
+  },
+  {
    "at": "2026-09-27T08:01:29+08:00",
    "id": "gh:rickyweb1029/jev-local-manufacturing",
    "name": "rickyweb1029/jev-local-manufacturing",
@@ -25414,7 +25450,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-27T03:28:01+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-23T19:50:48+08:00",
@@ -25946,7 +25982,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-21T08:58:14+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T15:39:29+08:00",
@@ -26085,7 +26121,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-01T16:38:39+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-20T09:39:36+08:00",
@@ -26516,7 +26552,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-19T12:48:37+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-23T09:14:44+08:00",
@@ -27859,7 +27895,7 @@
    "description_chars": 39,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-20T07:38:23+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-23T02:17:14+08:00",
@@ -27884,6 +27920,17 @@
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-22T10:46:47+08:00",
    "last_seen_dropped": "2026-10-23T04:32:41+08:00"
+  },
+  {
+   "at": "2026-10-27T11:09:45+08:00",
+   "id": "gh:syouun/Jev",
+   "name": "syouun/Jev",
+   "url": "https://github.com/syouun/Jev",
+   "stars": 0,
+   "evidence": "inferred",
+   "description_chars": 0,
+   "reason": "no traction, no independent evidence, no description",
+   "first_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-06T16:31:34+08:00",
@@ -27918,7 +27965,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-30T13:03:02+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-22T10:35:19+08:00",
@@ -28898,7 +28945,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-18T14:49:04+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-17T23:20:10+08:00",
@@ -30497,7 +30544,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-09-28T21:05:21+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-27T16:42:35+08:00",
@@ -30636,7 +30683,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-19T18:42:57+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-10-12T13:01:56+08:00",
@@ -30695,7 +30742,7 @@
    "description_chars": 0,
    "reason": "no traction, no independent evidence, no description",
    "first_dropped": "2026-10-20T05:25:34+08:00",
-   "last_seen_dropped": "2026-10-27T09:02:11+08:00"
+   "last_seen_dropped": "2026-10-27T11:09:45+08:00"
   },
   {
    "at": "2026-09-22T04:01:28+08:00",

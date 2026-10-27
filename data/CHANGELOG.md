@@ -6729,3 +6729,11 @@
 - `+` [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) — inferred / agent-tooling — ⭐1
 - `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
 - `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
+
+## 2026-10-27T11:09:45+08:00
+- 收录总数 **805**；本次更新新增 **5**
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / research-models — ⭐2
+- `+` [freezetheflame/jev-ecosystem-research](https://github.com/freezetheflame/jev-ecosystem-research) — inferred / routing-guardrails — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
