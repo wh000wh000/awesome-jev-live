@@ -6925,3 +6925,22 @@
 - `+` [COMMAND-LABS/welcome-to-jev](https://github.com/COMMAND-LABS/welcome-to-jev) — inferred / other — ⭐0
 - `+` [lawrence3699/jev-style-2b](https://github.com/lawrence3699/jev-style-2b) — inferred / other — ⭐0
 - `+` [TechPreacher/jev_router](https://github.com/TechPreacher/jev_router) — inferred / agent-tooling — ⭐0
+
+## 2026-10-28T06:39:57+08:00
+- 收录总数 **800**；本次更新新增 **16**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐3126
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / routing-guardrails — ⭐205
+- `+` [iapp-technology/openthai-systemone](https://github.com/iapp-technology/openthai-systemone) — unverified / other — ⭐68
+- `+` [bilune/jev-design](https://github.com/bilune/jev-design) — inferred / apps-demos — ⭐62
+- `+` [Abhinavexists/lev](https://github.com/Abhinavexists/lev) — inferred / other — ⭐58
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐25
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [jimmyLC/jev-outlook-cleaner](https://github.com/jimmyLC/jev-outlook-cleaner) — inferred / other — ⭐0
+- `+` [hendrik77/cap-jev](https://github.com/hendrik77/cap-jev) — observed / agent-tooling — ⭐0
+- `+` [theroich/jev-client](https://github.com/theroich/jev-client) — inferred / community-sdk — ⭐0
+- `+` [fly-jev/jev-workshop](https://github.com/fly-jev/jev-workshop) — inferred / agent-tooling — ⭐0
+- `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / community-sdk — ⭐0
+- `+` [d0ng231/jev-gtw](https://github.com/d0ng231/jev-gtw) — inferred / agent-tooling — ⭐0
+- `+` [ggonzalezaleman/inbox-jev-site](https://github.com/ggonzalezaleman/inbox-jev-site) — inferred / community-sdk — ⭐0
+- `+` [Y-B-1/jev-compaction](https://github.com/Y-B-1/jev-compaction) — inferred / agent-tooling — ⭐0
