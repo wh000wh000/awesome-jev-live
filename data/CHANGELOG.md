@@ -6754,3 +6754,30 @@
 - `+` [jonathanhecl/jev-chat-agent](https://github.com/jonathanhecl/jev-chat-agent) — inferred / agent-tooling — ⭐0
 - `+` [CreativeMonke/JevRouting](https://github.com/CreativeMonke/JevRouting) — inferred / routing-guardrails — ⭐0
 - `+` [vortex-001/JevQL_The_Confluence](https://github.com/vortex-001/JevQL_The_Confluence) — inferred / community-sdk — ⭐0
+
+## 2026-10-27T17:31:14+08:00
+- 收录总数 **775**；本次更新新增 **24**
+- `+` [sumleo/RLCDAlignBench](https://github.com/sumleo/RLCDAlignBench) — unverified / routing-guardrails — ⭐30
+- `+` [arnabgho/rlcd-lite](https://github.com/arnabgho/rlcd-lite) — unverified / evaluation — ⭐10
+- `+` [Astro-Han/decision-head-rlcd](https://github.com/Astro-Han/decision-head-rlcd) — unverified / research-models — ⭐6
+- `+` [JimmyWesley/rlcd-gateway](https://github.com/JimmyWesley/rlcd-gateway) — inferred / community-sdk — ⭐4
+- `+` [vicksiyi/qwen-2.5-1b-rlcd](https://github.com/vicksiyi/qwen-2.5-1b-rlcd) — unverified / research-models — ⭐4
+- `+` [freepik-company/jev-mcp](https://github.com/freepik-company/jev-mcp) — inferred / community-sdk — ⭐3
+- `+` [yangshun2005/laya-cn](https://github.com/yangshun2005/laya-cn) — unverified / research-models — ⭐3
+- `+` [teyhouse/jev-secret-detection](https://github.com/teyhouse/jev-secret-detection) — inferred / evaluation — ⭐2
+- `+` [patelvishwa112/jev-system-one-rlcd](https://github.com/patelvishwa112/jev-system-one-rlcd) — inferred / evaluation — ⭐1
+- `+` [jimmyLC/jev-outlook-cleaner](https://github.com/jimmyLC/jev-outlook-cleaner) — inferred / other — ⭐0
+- `+` [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) — observed / agent-tooling — ⭐0
+- `+` [CallMeHFK/jev-kernel](https://github.com/CallMeHFK/jev-kernel) — inferred / agent-tooling — ⭐0
+- `+` [Zorien-ai/dsh-jev-highlight](https://github.com/Zorien-ai/dsh-jev-highlight) — inferred / agent-tooling — ⭐0
+- `+` [irvan-putra/jev-moderator](https://github.com/irvan-putra/jev-moderator) — inferred / routing-guardrails — ⭐0
+- `+` [Aladincz/Jev-Content-Filter](https://github.com/Aladincz/Jev-Content-Filter) — inferred / routing-guardrails — ⭐0
+- `+` [Shijiuwei/jev-ultrafast-mirror-709](https://github.com/Shijiuwei/jev-ultrafast-mirror-709) — inferred / apps-demos — ⭐0
+- `+` [Shijiuwei/SemIf-OpenJev-mirror-583](https://github.com/Shijiuwei/SemIf-OpenJev-mirror-583) — inferred / other — ⭐0
+- `+` [akiiwa-games/lark-mbti-jev](https://github.com/akiiwa-games/lark-mbti-jev) — inferred / other — ⭐0
+- `+` [lintaojlu/jev_test](https://github.com/lintaojlu/jev_test) — inferred / routing-guardrails — ⭐0
+- `+` [stevenke1981/jev](https://github.com/stevenke1981/jev) — inferred / agent-tooling — ⭐0
+- `+` [Asmadey/Telegram-Google-Auth-Jev-verify-bot](https://github.com/Asmadey/Telegram-Google-Auth-Jev-verify-bot) — inferred / routing-guardrails — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+- `+` [ChenZihua-cn/spinJev](https://github.com/ChenZihua-cn/spinJev) — inferred / agent-tooling — ⭐0
+- `+` [mradermacher/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/mradermacher/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
