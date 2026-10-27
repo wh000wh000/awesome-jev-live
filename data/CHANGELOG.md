@@ -6897,3 +6897,31 @@
 - `+` [barral0/jev-ad-pattern-lab](https://github.com/barral0/jev-ad-pattern-lab) — inferred / other — ⭐0
 - `+` [Dinesh-Sunny/jev-tokensaver](https://github.com/Dinesh-Sunny/jev-tokensaver) — inferred / community-sdk — ⭐0
 - …另有 12 条新增
+
+## 2026-10-28T04:32:43+08:00
+- 收录总数 **811**；本次更新新增 **25**
+- `+` [akivet/Mica](https://github.com/akivet/Mica) — inferred / agent-tooling — ⭐49
+- `+` [jev-sec/jev-ids](https://github.com/jev-sec/jev-ids) — observed / other — ⭐26
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐17
+- `+` [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) — inferred / agent-tooling — ⭐10
+- `+` [diegoag64/jev-devtools](https://github.com/diegoag64/jev-devtools) — inferred / other — ⭐7
+- `+` [DataGobes/jev-demos](https://github.com/DataGobes/jev-demos) — inferred / apps-demos — ⭐4
+- `+` [shimo4228/jev-research-pipeline](https://github.com/shimo4228/jev-research-pipeline) — inferred / community-sdk — ⭐4
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) — inferred / agent-tooling — ⭐3
+- `+` [ondata/vd-jev](https://github.com/ondata/vd-jev) — inferred / community-sdk — ⭐2
+- `+` [jyje/pilot-typesafeai-jev](https://github.com/jyje/pilot-typesafeai-jev) — inferred / other — ⭐2
+- `+` [ForestMars/Will-It-Jev](https://github.com/ForestMars/Will-It-Jev) — inferred / routing-guardrails — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [criguex/jev-ci-triage](https://github.com/criguex/jev-ci-triage) — inferred / routing-guardrails — ⭐0
+- `+` [shuenrui/tetris-vs-jev](https://github.com/shuenrui/tetris-vs-jev) — inferred / other — ⭐0
+- `+` [tchesa/jev-scalper](https://github.com/tchesa/jev-scalper) — inferred / research-models — ⭐0
+- `+` [Bafise-nh/jev-cua-android](https://github.com/Bafise-nh/jev-cua-android) — inferred / agent-tooling — ⭐0
+- `+` [senthilsweb/jev-pii](https://github.com/senthilsweb/jev-pii) — inferred / community-sdk — ⭐0
+- `+` [wordsbyvaclav-boop/jev-triage](https://github.com/wordsbyvaclav-boop/jev-triage) — inferred / agent-tooling — ⭐0
+- `+` [johanmatsgard/jev-svenska-triage](https://github.com/johanmatsgard/jev-svenska-triage) — inferred / routing-guardrails — ⭐0
+- `+` [RahulM0912/jev-oracle](https://github.com/RahulM0912/jev-oracle) — inferred / apps-demos — ⭐0
+- `+` [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) — inferred / other — ⭐0
+- `+` [COMMAND-LABS/welcome-to-jev](https://github.com/COMMAND-LABS/welcome-to-jev) — inferred / other — ⭐0
+- `+` [lawrence3699/jev-style-2b](https://github.com/lawrence3699/jev-style-2b) — inferred / other — ⭐0
+- `+` [TechPreacher/jev_router](https://github.com/TechPreacher/jev_router) — inferred / agent-tooling — ⭐0
