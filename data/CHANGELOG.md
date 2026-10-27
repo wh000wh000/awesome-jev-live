@@ -6781,3 +6781,32 @@
 - `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
 - `+` [ChenZihua-cn/spinJev](https://github.com/ChenZihua-cn/spinJev) — inferred / agent-tooling — ⭐0
 - `+` [mradermacher/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/mradermacher/Solar-Decision-JEV-27B-GGUF) — observed / research-models — ⭐0
+
+## 2026-10-27T19:39:10+08:00
+- 收录总数 **790**；本次更新新增 **37**
+- `+` [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) — inferred / agent-tooling — ⭐97
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐32
+- `+` [ruban-24/switchboard](https://github.com/ruban-24/switchboard) — inferred / community-sdk — ⭐18
+- `+` [keta1930/what-the-jev](https://github.com/keta1930/what-the-jev) — inferred / evaluation — ⭐12
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Ryenhails/rerank-as-decision](https://github.com/Ryenhails/rerank-as-decision) — inferred / evaluation — ⭐6
+- `+` [teilomillet/wyat](https://github.com/teilomillet/wyat) — observed / agent-tooling — ⭐4
+- `+` [AutreMachine/bosco](https://github.com/AutreMachine/bosco) — unverified / community-sdk — ⭐4
+- `+` [AI-Ascension/jev-factorio-agent](https://github.com/AI-Ascension/jev-factorio-agent) — inferred / agent-tooling — ⭐4
+- `+` [Gerry9000/awesome-jev](https://github.com/Gerry9000/awesome-jev) — inferred / evaluation — ⭐4
+- `+` [dfranco-projects/jev-guardbench](https://github.com/dfranco-projects/jev-guardbench) — observed / agent-tooling — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [bismawy/pi-jev-eye](https://github.com/bismawy/pi-jev-eye) — inferred / agent-tooling — ⭐1
+- `+` [jbatra-umeey/jev-decisionops](https://github.com/jbatra-umeey/jev-decisionops) — inferred / agent-tooling — ⭐1
+- `+` [bhanuprakashk90-tech/jev-agent-guardrail](https://github.com/bhanuprakashk90-tech/jev-agent-guardrail) — inferred / agent-tooling — ⭐1
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [stevenke1981/jev-sol-terra](https://github.com/stevenke1981/jev-sol-terra) — inferred / agent-tooling — ⭐0
+- `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
+- `+` [MaekawaAo0604/jev-ux-poc](https://github.com/MaekawaAo0604/jev-ux-poc) — inferred / agent-tooling — ⭐0
+- `+` [JUTZUGC/jev-ultrafast-deploy-guide](https://github.com/JUTZUGC/jev-ultrafast-deploy-guide) — inferred / agent-tooling — ⭐0
+- `+` [lintaojlu/jev-router](https://github.com/lintaojlu/jev-router) — inferred / routing-guardrails — ⭐0
+- `+` [Zuexx/agent-jev-integration](https://github.com/Zuexx/agent-jev-integration) — inferred / community-sdk — ⭐0
+- `+` [HKUST-KnowComp/jev-guardrail](https://github.com/HKUST-KnowComp/jev-guardrail) — inferred / agent-tooling — ⭐0
+- `+` [Mainakcris7/agent-guardrail-with-jev](https://github.com/Mainakcris7/agent-guardrail-with-jev) — observed / agent-tooling — ⭐0
+- …另有 12 条新增
