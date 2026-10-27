@@ -6868,3 +6868,32 @@
 - `+` [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) — inferred / agent-tooling — ⭐627
 - `+` [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) — inferred / other — ⭐627
 - …另有 177 条新增
+
+## 2026-10-28T02:24:45+08:00
+- 收录总数 **801**；本次更新新增 **37**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐3125
+- `+` [Mapika/decider](https://github.com/Mapika/decider) — observed / evaluation — ⭐1158
+- `+` [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) — observed / apps-demos — ⭐261
+- `+` [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) — observed / other — ⭐206
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / routing-guardrails — ⭐205
+- `+` [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) — observed / research-models — ⭐174
+- `+` [iapp-technology/openthai-systemone](https://github.com/iapp-technology/openthai-systemone) — unverified / other — ⭐68
+- `+` [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) — inferred / agent-tooling — ⭐66
+- `+` [bilune/jev-design](https://github.com/bilune/jev-design) — inferred / apps-demos — ⭐62
+- `+` [Abhinavexists/lev](https://github.com/Abhinavexists/lev) — inferred / other — ⭐58
+- `+` [bodepudimuneendra-netizen/laya-jev-GraphRAG](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) — observed / community-sdk — ⭐51
+- `+` [hotchpotch/bekko-system-one](https://github.com/hotchpotch/bekko-system-one) — unverified / evaluation — ⭐37
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐32
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐25
+- `+` [sqliteai/blink](https://github.com/sqliteai/blink) — observed / other — ⭐23
+- `+` [keta1930/what-the-jev](https://github.com/keta1930/what-the-jev) — inferred / evaluation — ⭐12
+- `+` [jackie-cqz/dsh-jev-plugin](https://github.com/jackie-cqz/dsh-jev-plugin) — inferred / agent-tooling — ⭐9
+- `+` [Ryenhails/rerank-as-decision](https://github.com/Ryenhails/rerank-as-decision) — inferred / evaluation — ⭐6
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [theNetworkChuck/jev-guide](https://github.com/theNetworkChuck/jev-guide) — observed / agent-tooling — ⭐4
+- `+` [AI-Ascension/jev-factorio-agent](https://github.com/AI-Ascension/jev-factorio-agent) — inferred / agent-tooling — ⭐4
+- `+` [A Jev-style vision model is now OPEN SOURCE](https://news.ycombinator.com/item?id=50263017) — observed / media-discussions — ⭐2
+- `+` [iamvazghen/jev-governor](https://github.com/iamvazghen/jev-governor) — inferred / community-sdk — ⭐0
+- `+` [barral0/jev-ad-pattern-lab](https://github.com/barral0/jev-ad-pattern-lab) — inferred / other — ⭐0
+- `+` [Dinesh-Sunny/jev-tokensaver](https://github.com/Dinesh-Sunny/jev-tokensaver) — inferred / community-sdk — ⭐0
+- …另有 12 条新增
