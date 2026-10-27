@@ -6746,3 +6746,11 @@
 - `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
 - `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+
+## 2026-10-27T15:24:04+08:00
+- 收录总数 **788**；本次更新新增 **5**
+- `+` [integrate-your-mind/jev-codex-plugin](https://github.com/integrate-your-mind/jev-codex-plugin) — inferred / agent-tooling — ⭐12
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [jonathanhecl/jev-chat-agent](https://github.com/jonathanhecl/jev-chat-agent) — inferred / agent-tooling — ⭐0
+- `+` [CreativeMonke/JevRouting](https://github.com/CreativeMonke/JevRouting) — inferred / routing-guardrails — ⭐0
+- `+` [vortex-001/JevQL_The_Confluence](https://github.com/vortex-001/JevQL_The_Confluence) — inferred / community-sdk — ⭐0
