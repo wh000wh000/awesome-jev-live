@@ -6810,3 +6810,32 @@
 - `+` [HKUST-KnowComp/jev-guardrail](https://github.com/HKUST-KnowComp/jev-guardrail) — inferred / agent-tooling — ⭐0
 - `+` [Mainakcris7/agent-guardrail-with-jev](https://github.com/Mainakcris7/agent-guardrail-with-jev) — observed / agent-tooling — ⭐0
 - …另有 12 条新增
+
+## 2026-10-27T21:53:30+08:00
+- 收录总数 **680**；本次更新新增 **72**
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐22
+- `+` [miniLV/Jev-Auto-Router](https://github.com/miniLV/Jev-Auto-Router) — inferred / agent-tooling — ⭐9
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [kataras/jev](https://github.com/kataras/jev) — inferred / community-sdk — ⭐5
+- `+` [Amine-LG/IntentSQL](https://github.com/Amine-LG/IntentSQL) — inferred / community-sdk — ⭐4
+- `+` [mandu5/jevcompat](https://github.com/mandu5/jevcompat) — inferred / other — ⭐4
+- `+` [hazlema/jev-riffs](https://github.com/hazlema/jev-riffs) — inferred / apps-demos — ⭐4
+- `+` [jamilxt/typesafe-ai-java](https://github.com/jamilxt/typesafe-ai-java) — inferred / community-sdk — ⭐4
+- `+` [bragamat/jevkit](https://github.com/bragamat/jevkit) — inferred / community-sdk — ⭐3
+- `+` [poponline63/north-star](https://github.com/poponline63/north-star) — inferred / agent-tooling — ⭐3
+- `+` [unownone/jevsume](https://github.com/unownone/jevsume) — unverified / other — ⭐3
+- `+` [portlandhodl/jev-cli](https://github.com/portlandhodl/jev-cli) — observed / community-sdk — ⭐2
+- `+` [juanegido/jev-pr-judge](https://github.com/juanegido/jev-pr-judge) — inferred / routing-guardrails — ⭐2
+- `+` [southleft/component-charades](https://github.com/southleft/component-charades) — observed / apps-demos — ⭐2
+- `+` [PromptEngineer48/my-jev](https://github.com/PromptEngineer48/my-jev) — inferred / evaluation — ⭐2
+- `+` [sebastianbennis/jev-system-one-reference](https://github.com/sebastianbennis/jev-system-one-reference) — inferred / agent-tooling — ⭐2
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [JingHao-Leon/awesome-jev-apps](https://github.com/JingHao-Leon/awesome-jev-apps) — inferred / community-sdk — ⭐1
+- `+` [PenglongHuang/jev-demo](https://github.com/PenglongHuang/jev-demo) — inferred / agent-tooling — ⭐1
+- `+` [yasdelayu/jev-crypto-scout](https://github.com/yasdelayu/jev-crypto-scout) — inferred / community-sdk — ⭐1
+- `+` [pochang6/jev-buzzword-rush](https://github.com/pochang6/jev-buzzword-rush) — inferred / agent-tooling — ⭐1
+- `+` [weiping/jev-pi](https://github.com/weiping/jev-pi) — inferred / agent-tooling — ⭐1
+- `+` [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) — inferred / agent-tooling — ⭐1
+- `+` [jakeknowlton/jev.zig](https://github.com/jakeknowlton/jev.zig) — inferred / community-sdk — ⭐1
+- …另有 47 条新增
