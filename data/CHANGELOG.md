@@ -7094,3 +7094,16 @@
 - `+` [Nijal-AI/jev-lab](https://github.com/Nijal-AI/jev-lab) — inferred / evaluation — ⭐0
 - `+` [Pinutss/jev-memory-selector](https://github.com/Pinutss/jev-memory-selector) — inferred / agent-tooling — ⭐0
 - `+` [palermoalfio94/JevVision](https://github.com/palermoalfio94/JevVision) — inferred / apps-demos — ⭐0
+
+## 2026-10-29T06:45:13+08:00
+- 收录总数 **808**；本次更新新增 **10**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐18
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [maxtrezzi/jev4s](https://github.com/maxtrezzi/jev4s) — inferred / community-sdk — ⭐2
+- `+` [ondata/vd-jev](https://github.com/ondata/vd-jev) — inferred / community-sdk — ⭐2
+- `+` [illescasDaniel/jev-mem](https://github.com/illescasDaniel/jev-mem) — inferred / community-sdk — ⭐2
+- `+` [SaFo-Lab/FlipJev](https://github.com/SaFo-Lab/FlipJev) — inferred / research-models — ⭐2
+- `+` [CMaintz/jev-triage](https://github.com/CMaintz/jev-triage) — observed / routing-guardrails — ⭐1
+- `+` [chewbaccasthong/jev-depth](https://github.com/chewbaccasthong/jev-depth) — inferred / other — ⭐0
+- `+` [Arbues/tesis1-jev-confidence](https://github.com/Arbues/tesis1-jev-confidence) — inferred / other — ⭐0
+- `+` [carollia-99/jev-determinism-and-abstraction](https://github.com/carollia-99/jev-determinism-and-abstraction) — inferred / research-models — ⭐0
