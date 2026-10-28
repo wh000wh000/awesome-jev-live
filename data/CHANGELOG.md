@@ -7067,3 +7067,19 @@
 - `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
 - `+` [jbellsolutions/jev-assistant](https://github.com/jbellsolutions/jev-assistant) — inferred / community-sdk — ⭐0
 - …另有 25 条新增
+
+## 2026-10-29T01:58:19+08:00
+- 收录总数 **809**；本次更新新增 **13**
+- `+` [brainstormity/Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) — observed / other — ⭐226
+- `+` [hybridgroup/jeyzma](https://github.com/hybridgroup/jeyzma) — observed / apps-demos — ⭐14
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [diegoag64/jev-devtools](https://github.com/diegoag64/jev-devtools) — inferred / other — ⭐7
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [q3learners/jev-demofast](https://github.com/q3learners/jev-demofast) — inferred / apps-demos — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [brent-phillips/jev-for-marketers](https://github.com/brent-phillips/jev-for-marketers) — inferred / agent-tooling — ⭐0
+- `+` [AsgardMuninn/jev-norma](https://github.com/AsgardMuninn/jev-norma) — inferred / community-sdk — ⭐0
+- `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
+- `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
+- `+` [paritosh100/jev-job-scorer](https://github.com/paritosh100/jev-job-scorer) — inferred / research-models — ⭐0

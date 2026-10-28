@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-10-28T23:44:46+08:00",
- "total": 810,
- "new_this_tick": 50,
+ "generated_at": "2026-10-29T01:58:19+08:00",
+ "total": 809,
+ "new_this_tick": 13,
  "by_category": {
   "official-sdk": 7,
   "community-sdk": 128,
-  "agent-tooling": 242,
-  "routing-guardrails": 64,
-  "evaluation": 92,
-  "research-models": 66,
-  "apps-demos": 44,
-  "media-discussions": 83,
-  "other": 84
+  "agent-tooling": 238,
+  "routing-guardrails": 63,
+  "evaluation": 91,
+  "research-models": 65,
+  "apps-demos": 46,
+  "media-discussions": 86,
+  "other": 85
  },
  "by_evidence": {
   "official": 18,
-  "observed": 227,
-  "inferred": 492,
-  "unverified": 73
+  "observed": 230,
+  "inferred": 489,
+  "unverified": 72
  },
  "by_tier": {
   "official": 7,
-  "community": 803
+  "community": 802
  },
  "by_language": {
   "Python": 348,
-  "TypeScript": 135,
-  "JavaScript": 66,
+  "TypeScript": 134,
+  "JavaScript": 68,
   "Rust": 31,
-  "HTML": 29,
+  "HTML": 27,
   "Jupyter": 12,
   "Go": 12,
   "C#": 8,
@@ -46,12 +46,13 @@
   "CSS": 2,
   "Pascal": 1,
   "Haskell": 1,
+  "MQL5": 1,
   "Nushell": 1,
   "Astro": 1,
   "C++": 1
  },
- "repos": 723,
- "models": 17,
- "discussions": 21,
- "total_stars": 188162
+ "repos": 722,
+ "models": 15,
+ "discussions": 23,
+ "total_stars": 188428
 }
