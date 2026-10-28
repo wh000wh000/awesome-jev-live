@@ -7034,3 +7034,7 @@
 - `+` [SvenKunkka/browser-use-jev-bridge](https://github.com/SvenKunkka/browser-use-jev-bridge) — inferred / community-sdk — ⭐0
 - `+` [u7chan/jev-evals](https://github.com/u7chan/jev-evals) — inferred / evaluation — ⭐0
 - `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+
+## 2026-10-28T21:35:45+08:00
+- 收录总数 **761**；本次更新新增 **1**
+- `+` [juanlentino/tribar-connector-for-typesafe-jev](https://github.com/juanlentino/tribar-connector-for-typesafe-jev) — inferred / agent-tooling — ⭐4
