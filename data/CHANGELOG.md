@@ -7019,3 +7019,18 @@
 - `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / community-sdk — ⭐0
 - `+` [Innowayshinesps/JEV-LangswitchPOC](https://github.com/Innowayshinesps/JEV-LangswitchPOC) — inferred / agent-tooling — ⭐0
 - `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
+
+## 2026-10-28T19:26:41+08:00
+- 收录总数 **812**；本次更新新增 **12**
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [OmniJev/Flide](https://github.com/OmniJev/Flide) — inferred / agent-tooling — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- `+` [00200200/jev-judge](https://github.com/00200200/jev-judge) — inferred / community-sdk — ⭐1
+- `+` [akamai-developers/jev-model-router](https://github.com/akamai-developers/jev-model-router) — inferred / routing-guardrails — ⭐1
+- `+` [hendrik77/cap-decisions](https://github.com/hendrik77/cap-decisions) — observed / agent-tooling — ⭐0
+- `+` [raniellimontagna/jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp) — inferred / agent-tooling — ⭐0
+- `+` [stevenke1981/jev-gpt](https://github.com/stevenke1981/jev-gpt) — inferred / agent-tooling — ⭐0
+- `+` [SvenKunkka/browser-use-jev-bridge](https://github.com/SvenKunkka/browser-use-jev-bridge) — inferred / community-sdk — ⭐0
+- `+` [u7chan/jev-evals](https://github.com/u7chan/jev-evals) — inferred / evaluation — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
