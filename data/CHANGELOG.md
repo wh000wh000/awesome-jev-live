@@ -6944,3 +6944,18 @@
 - `+` [d0ng231/jev-gtw](https://github.com/d0ng231/jev-gtw) — inferred / agent-tooling — ⭐0
 - `+` [ggonzalezaleman/inbox-jev-site](https://github.com/ggonzalezaleman/inbox-jev-site) — inferred / community-sdk — ⭐0
 - `+` [Y-B-1/jev-compaction](https://github.com/Y-B-1/jev-compaction) — inferred / agent-tooling — ⭐0
+
+## 2026-10-28T08:46:19+08:00
+- 收录总数 **801**；本次更新新增 **12**
+- `+` [akivet/Mica](https://github.com/akivet/Mica) — inferred / agent-tooling — ⭐50
+- `+` [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — inferred / community-sdk — ⭐9
+- `+` [hugo-alves/jev-router-playground](https://github.com/hugo-alves/jev-router-playground) — inferred / routing-guardrails — ⭐2
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [some45bucks/jev-guide](https://github.com/some45bucks/jev-guide) — inferred / other — ⭐0
+- `+` [milojarow/jev-skills](https://github.com/milojarow/jev-skills) — inferred / community-sdk — ⭐0
+- `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
+- `+` [bitskc/jev-agent-kit](https://github.com/bitskc/jev-agent-kit) — inferred / agent-tooling — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
+- `+` [velvetchief/jev-airbag](https://github.com/velvetchief/jev-airbag) — inferred / agent-tooling — ⭐0
+- `+` [leejisabella/system_one_explanability](https://github.com/leejisabella/system_one_explanability) — observed / other — ⭐0
