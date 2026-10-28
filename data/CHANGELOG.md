@@ -6985,3 +6985,18 @@
 - `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
 - `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
 - `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+
+## 2026-10-28T15:09:47+08:00
+- 收录总数 **807**；本次更新新增 **12**
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐10
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [A Jev-style vision model is now OPEN SOURCE](https://news.ycombinator.com/item?id=50263017) — observed / media-discussions — ⭐2
+- `+` [System One models like Jev can train their own replacements](https://news.ycombinator.com/item?id=49959504) — observed / media-discussions — ⭐2
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [n9omi/jev-calibration-audit](https://github.com/n9omi/jev-calibration-audit) — inferred / evaluation — ⭐0
+- `+` [nick7nlp/jev-selection-bias](https://github.com/nick7nlp/jev-selection-bias) — observed / evaluation — ⭐0
+- `+` [dereknex/fast-jev-compaction](https://github.com/dereknex/fast-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [RobGruhl/jev-learnings](https://github.com/RobGruhl/jev-learnings) — inferred / media-discussions — ⭐0
+- `+` [Jou21/AutoJev](https://github.com/Jou21/AutoJev) — inferred / other — ⭐0
+- `+` [hari7993/hey-jev](https://github.com/hari7993/hey-jev) — inferred / agent-tooling — ⭐0
