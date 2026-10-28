@@ -7038,3 +7038,32 @@
 ## 2026-10-28T21:35:45+08:00
 - 收录总数 **761**；本次更新新增 **1**
 - `+` [juanlentino/tribar-connector-for-typesafe-jev](https://github.com/juanlentino/tribar-connector-for-typesafe-jev) — inferred / agent-tooling — ⭐4
+
+## 2026-10-28T23:44:46+08:00
+- 收录总数 **810**；本次更新新增 **50**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐143
+- `+` [QiqianFu/Qev](https://github.com/QiqianFu/Qev) — unverified / other — ⭐25
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐8
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [StellarieX/Heliotrope](https://github.com/StellarieX/Heliotrope) — unverified / other — ⭐5
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [MarcelRoozekrans/Minos.NET](https://github.com/MarcelRoozekrans/Minos.NET) — unverified / community-sdk — ⭐3
+- `+` [7starsseeker/dsh-fact-check](https://github.com/7starsseeker/dsh-fact-check) — inferred / agent-tooling — ⭐3
+- `+` [czyczy23/astrbot_plugin_jev](https://github.com/czyczy23/astrbot_plugin_jev) — inferred / agent-tooling — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [hellolitebox/litebox-inbox-jev](https://github.com/hellolitebox/litebox-inbox-jev) — inferred / routing-guardrails — ⭐2
+- `+` [Shearerbeard/jev-driver](https://github.com/Shearerbeard/jev-driver) — inferred / other — ⭐2
+- `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / agent-tooling — ⭐2
+- `+` [isaacbitran/jev-bias-audit](https://github.com/isaacbitran/jev-bias-audit) — inferred / research-models — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [frederikvonsperling/sanity-plugin-jev-fields](https://github.com/frederikvonsperling/sanity-plugin-jev-fields) — inferred / agent-tooling — ⭐1
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐1
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [Simonlee711/MedJev](https://github.com/Simonlee711/MedJev) — inferred / evaluation — ⭐1
+- `+` [isaacbitran/jev-society](https://github.com/isaacbitran/jev-society) — inferred / agent-tooling — ⭐1
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) — inferred / routing-guardrails — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [jbellsolutions/jev-assistant](https://github.com/jbellsolutions/jev-assistant) — inferred / community-sdk — ⭐0
+- …另有 25 条新增
