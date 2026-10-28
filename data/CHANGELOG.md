@@ -6971,3 +6971,17 @@
 - `+` [lioncitydevops/jev-momentum-radar](https://github.com/lioncitydevops/jev-momentum-radar) — inferred / other — ⭐0
 - `+` [project-blockwarriors/dreamweaver-jev-starter](https://github.com/project-blockwarriors/dreamweaver-jev-starter) — inferred / apps-demos — ⭐0
 - `+` [InterStella0/jev-email-labeller](https://github.com/InterStella0/jev-email-labeller) — inferred / other — ⭐0
+
+## 2026-10-28T12:59:58+08:00
+- 收录总数 **804**；本次更新新增 **11**
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐12
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [exponen-agi/jev-playground](https://github.com/exponen-agi/jev-playground) — inferred / apps-demos — ⭐2
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / research-models — ⭐2
+- `+` [LimePencil/jev-observer](https://github.com/LimePencil/jev-observer) — inferred / apps-demos — ⭐1
+- `+` [Simonlee711/MedJev](https://github.com/Simonlee711/MedJev) — inferred / evaluation — ⭐1
+- `+` [zirubak/ziru-jev-codex-router](https://github.com/zirubak/ziru-jev-codex-router) — inferred / agent-tooling — ⭐1
+- `+` [LimePencil/jev-observer-web](https://github.com/LimePencil/jev-observer-web) — inferred / other — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
