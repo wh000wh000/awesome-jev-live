@@ -7083,3 +7083,14 @@
 - `+` [nadavsbz/jev-xauusd](https://github.com/nadavsbz/jev-xauusd) — inferred / routing-guardrails — ⭐0
 - `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
 - `+` [paritosh100/jev-job-scorer](https://github.com/paritosh100/jev-job-scorer) — inferred / research-models — ⭐0
+
+## 2026-10-29T04:24:13+08:00
+- 收录总数 **807**；本次更新新增 **8**
+- `+` [akivet/Mica](https://github.com/akivet/Mica) — inferred / agent-tooling — ⭐53
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [alexsosn/tf-jev](https://github.com/alexsosn/tf-jev) — inferred / other — ⭐1
+- `+` [Pinutss/jev-mcp-router](https://github.com/Pinutss/jev-mcp-router) — inferred / agent-tooling — ⭐1
+- `+` [willirath/2026_jev-box-demo](https://github.com/willirath/2026_jev-box-demo) — inferred / routing-guardrails — ⭐0
+- `+` [Nijal-AI/jev-lab](https://github.com/Nijal-AI/jev-lab) — inferred / evaluation — ⭐0
+- `+` [Pinutss/jev-memory-selector](https://github.com/Pinutss/jev-memory-selector) — inferred / agent-tooling — ⭐0
+- `+` [palermoalfio94/JevVision](https://github.com/palermoalfio94/JevVision) — inferred / apps-demos — ⭐0

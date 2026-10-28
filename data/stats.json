@@ -1,42 +1,42 @@
 {
- "generated_at": "2026-10-29T01:58:19+08:00",
- "total": 809,
- "new_this_tick": 13,
+ "generated_at": "2026-10-29T04:24:13+08:00",
+ "total": 807,
+ "new_this_tick": 8,
  "by_category": {
   "official-sdk": 7,
   "community-sdk": 128,
-  "agent-tooling": 238,
+  "agent-tooling": 237,
   "routing-guardrails": 63,
   "evaluation": 91,
-  "research-models": 65,
-  "apps-demos": 46,
-  "media-discussions": 86,
-  "other": 85
+  "research-models": 64,
+  "apps-demos": 48,
+  "media-discussions": 83,
+  "other": 86
  },
  "by_evidence": {
   "official": 18,
-  "observed": 230,
+  "observed": 228,
   "inferred": 489,
   "unverified": 72
  },
  "by_tier": {
   "official": 7,
-  "community": 802
+  "community": 800
  },
  "by_language": {
-  "Python": 348,
-  "TypeScript": 134,
-  "JavaScript": 68,
+  "Python": 350,
+  "TypeScript": 133,
+  "JavaScript": 69,
   "Rust": 31,
   "HTML": 27,
   "Jupyter": 12,
   "Go": 12,
-  "C#": 8,
-  "PHP": 7,
+  "C#": 9,
+  "PHP": 6,
   "Java": 5,
   "Elixir": 5,
-  "TeX": 5,
   "Swift": 4,
+  "TeX": 4,
   "Shell": 3,
   "C": 3,
   "Ruby": 2,
@@ -51,8 +51,8 @@
   "Astro": 1,
   "C++": 1
  },
- "repos": 722,
+ "repos": 723,
  "models": 15,
- "discussions": 23,
- "total_stars": 188428
+ "discussions": 20,
+ "total_stars": 188516
 }
