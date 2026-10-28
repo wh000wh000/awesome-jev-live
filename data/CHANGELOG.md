@@ -7000,3 +7000,22 @@
 - `+` [RobGruhl/jev-learnings](https://github.com/RobGruhl/jev-learnings) — inferred / media-discussions — ⭐0
 - `+` [Jou21/AutoJev](https://github.com/Jou21/AutoJev) — inferred / other — ⭐0
 - `+` [hari7993/hey-jev](https://github.com/hari7993/hey-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-10-28T17:18:58+08:00
+- 收录总数 **812**；本次更新新增 **16**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐122
+- `+` [alexei-led/claude-router](https://github.com/alexei-led/claude-router) — inferred / agent-tooling — ⭐34
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐24
+- `+` [HsiangNianian/jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup) — inferred / apps-demos — ⭐4
+- `+` [oluies/jev-vs-spacy](https://github.com/oluies/jev-vs-spacy) — inferred / routing-guardrails — ⭐3
+- `+` [Agnuxo1/JEV-ORBITA-BuildArena-S02](https://github.com/Agnuxo1/JEV-ORBITA-BuildArena-S02) — inferred / agent-tooling — ⭐1
+- `+` [edamlabs/e-jev](https://github.com/edamlabs/e-jev) — inferred / agent-tooling — ⭐0
+- `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
+- `+` [nick7nlp/Jev-Selection-Bias](https://github.com/nick7nlp/Jev-Selection-Bias) — observed / evaluation — ⭐0
+- `+` [jagadeeswara-reddy-p/jev-demos](https://github.com/jagadeeswara-reddy-p/jev-demos) — inferred / apps-demos — ⭐0
+- `+` [mojlnmijh/--JEV-AI-](https://github.com/mojlnmijh/--JEV-AI-) — inferred / other — ⭐0
+- `+` [xfgggggd111/JEV-AI-](https://github.com/xfgggggd111/JEV-AI-) — inferred / other — ⭐0
+- `+` [tancy-920/jev-agentic-wiki](https://github.com/tancy-920/jev-agentic-wiki) — inferred / community-sdk — ⭐0
+- `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / community-sdk — ⭐0
+- `+` [Innowayshinesps/JEV-LangswitchPOC](https://github.com/Innowayshinesps/JEV-LangswitchPOC) — inferred / agent-tooling — ⭐0
+- `+` [superagent-ai/dfip](https://github.com/superagent-ai/dfip) — observed / community-sdk — ⭐0
