@@ -6959,3 +6959,15 @@
 - `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
 - `+` [velvetchief/jev-airbag](https://github.com/velvetchief/jev-airbag) — inferred / agent-tooling — ⭐0
 - `+` [leejisabella/system_one_explanability](https://github.com/leejisabella/system_one_explanability) — observed / other — ⭐0
+
+## 2026-10-28T10:53:05+08:00
+- 收录总数 **803**；本次更新新增 **9**
+- `+` [QiqianFu/Qev](https://github.com/QiqianFu/Qev) — unverified / other — ⭐25
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [KanishkaGD/decision-rerank](https://github.com/KanishkaGD/decision-rerank) — unverified / evaluation — ⭐3
+- `+` [Create your own Jev using Voyage models](https://news.ycombinator.com/item?id=50267832) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [Maynor996/typesafe-jev-1-14-guide](https://github.com/Maynor996/typesafe-jev-1-14-guide) — observed / other — ⭐0
+- `+` [lioncitydevops/jev-momentum-radar](https://github.com/lioncitydevops/jev-momentum-radar) — inferred / other — ⭐0
+- `+` [project-blockwarriors/dreamweaver-jev-starter](https://github.com/project-blockwarriors/dreamweaver-jev-starter) — inferred / apps-demos — ⭐0
+- `+` [InterStella0/jev-email-labeller](https://github.com/InterStella0/jev-email-labeller) — inferred / other — ⭐0
