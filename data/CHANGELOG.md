@@ -7231,3 +7231,32 @@
 - `+` [sjungwon03/jev-tetris-arena](https://github.com/sjungwon03/jev-tetris-arena) — inferred / apps-demos — ⭐0
 - `+` [blacksoxx/system-one-aiops-demo](https://github.com/blacksoxx/system-one-aiops-demo) — observed / routing-guardrails — ⭐0
 - `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
+
+## 2026-10-30T03:01:31+08:00
+- 收录总数 **823**；本次更新新增 **83**
+- `+` [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) — inferred / community-sdk — ⭐312
+- `+` [rokbenko/quackd](https://github.com/rokbenko/quackd) — unverified / community-sdk — ⭐283
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐121
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐49
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [blakestone-x/jev-mcp](https://github.com/blakestone-x/jev-mcp) — inferred / agent-tooling — ⭐25
+- `+` [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) — inferred / agent-tooling — ⭐20
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐9
+- `+` [jacks3tr/Jev-Desktop](https://github.com/jacks3tr/Jev-Desktop) — inferred / community-sdk — ⭐9
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐8
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐7
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [HiepPP/hiep-paseo-plugin](https://github.com/HiepPP/hiep-paseo-plugin) — unverified / agent-tooling — ⭐6
+- `+` [hiyoku/jev-orc](https://github.com/hiyoku/jev-orc) — inferred / other — ⭐5
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [smixs/jevchik](https://github.com/smixs/jevchik) — unverified / research-models — ⭐4
+- `+` [I Couldn't Build Jev at OpenAI – Diogo Almeida, TypeSafe Co-Founder and CEO [video]](https://news.ycombinator.com/item?id=49817923) — observed / media-discussions — ⭐4
+- `+` [q3learners/jev-demofast](https://github.com/q3learners/jev-demofast) — inferred / apps-demos — ⭐3
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [Show HN: onesie – An expressive Unix-pipeable CLI for System One models like Jev](https://news.ycombinator.com/item?id=49876472) — observed / media-discussions — ⭐3
+- `+` [Show HN: Knowledge Signal – A JEV-powered rubric assessment tool for study notes](https://news.ycombinator.com/item?id=49840561) — observed / media-discussions — ⭐3
+- `+` [MattiooFR/mcp-server-jev](https://github.com/MattiooFR/mcp-server-jev) — inferred / community-sdk — ⭐2
+- `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
+- …另有 58 条新增
