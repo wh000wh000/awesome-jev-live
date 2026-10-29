@@ -7191,3 +7191,26 @@
 - `+` [dsfgfdg12345/JEV-AI-a](https://github.com/dsfgfdg12345/JEV-AI-a) — inferred / other — ⭐0
 - `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
 - `+` [ZJU-OmniAI/Awesome-Jev](https://github.com/ZJU-OmniAI/Awesome-Jev) — inferred / agent-tooling — ⭐0
+
+## 2026-10-29T22:28:39+08:00
+- 收录总数 **813**；本次更新新增 **20**
+- `+` [erendikmenn/jev-rag-benchmark](https://github.com/erendikmenn/jev-rag-benchmark) — inferred / evaluation — ⭐20
+- `+` [bgrablin/hermes-switchyard](https://github.com/bgrablin/hermes-switchyard) — inferred / agent-tooling — ⭐10
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [fini/warped-sys1-lab](https://github.com/fini/warped-sys1-lab) — unverified / community-sdk — ⭐4
+- `+` [Show HN: Nouli – A multi-turn decision graph harness for System One models](https://news.ycombinator.com/item?id=50288442) — observed / media-discussions — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [KratosLee-6/open-source-model-deploy](https://github.com/KratosLee-6/open-source-model-deploy) — unverified / community-sdk — ⭐3
+- `+` [docwilde/doxa](https://github.com/docwilde/doxa) — inferred / community-sdk — ⭐3
+- `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [asimali004/build-your-own-jev](https://github.com/asimali004/build-your-own-jev) — inferred / other — ⭐1
+- `+` [praveen-hari/codestudio-jev-sdk](https://github.com/praveen-hari/codestudio-jev-sdk) — inferred / community-sdk — ⭐1
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) — inferred / agent-tooling — ⭐1
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [pmontp19/flama-roja-jev](https://github.com/pmontp19/flama-roja-jev) — inferred / other — ⭐0
+- `+` [maccagnit/pi-jev-compact](https://github.com/maccagnit/pi-jev-compact) — inferred / other — ⭐0
+- `+` [XiaoRui114514/jev-chat-windows-custom-jev](https://github.com/XiaoRui114514/jev-chat-windows-custom-jev) — inferred / other — ⭐0
+- `+` [zyqzyq18521/JEV-AI-](https://github.com/zyqzyq18521/JEV-AI-) — inferred / other — ⭐0
