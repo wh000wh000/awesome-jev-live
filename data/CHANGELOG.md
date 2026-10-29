@@ -7121,3 +7121,32 @@
 - `+` [Ong-pogs/ai-vs-ai-prediction-markets](https://github.com/Ong-pogs/ai-vs-ai-prediction-markets) — observed / agent-tooling — ⭐0
 - `+` [suprkco/jev-serp-opportunity-lab](https://github.com/suprkco/jev-serp-opportunity-lab) — inferred / routing-guardrails — ⭐0
 - `+` [evandroamparo/system-one](https://github.com/evandroamparo/system-one) — observed / community-sdk — ⭐0
+
+## 2026-10-29T13:24:04+08:00
+- 收录总数 **719**；本次更新新增 **48**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐144
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐37
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐18
+- `+` [diegoag64/jev-devtools](https://github.com/diegoag64/jev-devtools) — inferred / other — ⭐7
+- `+` [gudcks0305/jev-java](https://github.com/gudcks0305/jev-java) — inferred / community-sdk — ⭐6
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [HsiangNianian/jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup) — inferred / apps-demos — ⭐4
+- `+` [czyczy23/astrbot_plugin_jev](https://github.com/czyczy23/astrbot_plugin_jev) — inferred / agent-tooling — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [pozapas/awesome-system-one-models](https://github.com/pozapas/awesome-system-one-models) — observed / evaluation — ⭐3
+- `+` [tinypi-extension/tinysubagent](https://github.com/tinypi-extension/tinysubagent) — inferred / agent-tooling — ⭐3
+- `+` [SaFo-Lab/FlipJev](https://github.com/SaFo-Lab/FlipJev) — inferred / research-models — ⭐2
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / research-models — ⭐2
+- `+` [alexsosn/tf-jev](https://github.com/alexsosn/tf-jev) — inferred / other — ⭐1
+- `+` [isaacbitran/jev-bias-audit](https://github.com/isaacbitran/jev-bias-audit) — inferred / research-models — ⭐1
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐1
+- `+` [freakngenius/jev-workspace](https://github.com/freakngenius/jev-workspace) — inferred / other — ⭐0
+- `+` [CMaintz/jev-eval](https://github.com/CMaintz/jev-eval) — inferred / routing-guardrails — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [THEROCKSSS/awesome-jev](https://github.com/THEROCKSSS/awesome-jev) — inferred / routing-guardrails — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- …另有 23 条新增
