@@ -7179,3 +7179,15 @@
 - `+` [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) — inferred / agent-tooling — ⭐661
 - `+` [gargpratyush/jev-router](https://github.com/gargpratyush/jev-router) — inferred / agent-tooling — ⭐630
 - …另有 85 条新增
+
+## 2026-10-29T18:15:55+08:00
+- 收录总数 **817**；本次更新新增 **9**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐7035
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐10
+- `+` [AppliedMachineLearning-Lab/jev-benchmarking](https://github.com/AppliedMachineLearning-Lab/jev-benchmarking) — inferred / evaluation — ⭐7
+- `+` [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) — inferred / agent-tooling — ⭐3
+- `+` [ankshvayt/jev-motion](https://github.com/ankshvayt/jev-motion) — inferred / apps-demos — ⭐0
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
+- `+` [dsfgfdg12345/JEV-AI-a](https://github.com/dsfgfdg12345/JEV-AI-a) — inferred / other — ⭐0
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+- `+` [ZJU-OmniAI/Awesome-Jev](https://github.com/ZJU-OmniAI/Awesome-Jev) — inferred / agent-tooling — ⭐0
