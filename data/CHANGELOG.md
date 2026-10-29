@@ -7107,3 +7107,17 @@
 - `+` [chewbaccasthong/jev-depth](https://github.com/chewbaccasthong/jev-depth) — inferred / other — ⭐0
 - `+` [Arbues/tesis1-jev-confidence](https://github.com/Arbues/tesis1-jev-confidence) — inferred / other — ⭐0
 - `+` [carollia-99/jev-determinism-and-abstraction](https://github.com/carollia-99/jev-determinism-and-abstraction) — inferred / research-models — ⭐0
+
+## 2026-10-29T11:03:23+08:00
+- 收录总数 **767**；本次更新新增 **11**
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [AlperKartkaya/FlightBench](https://github.com/AlperKartkaya/FlightBench) — inferred / evaluation — ⭐3
+- `+` [pozapas/system-one-models-survey](https://github.com/pozapas/system-one-models-survey) — observed / evaluation — ⭐0
+- `+` [nbur4556/automated_zettelkasten_note_analysis](https://github.com/nbur4556/automated_zettelkasten_note_analysis) — observed / other — ⭐0
+- `+` [YuyaForest/JEV-Prompt-Injection-Guardian](https://github.com/YuyaForest/JEV-Prompt-Injection-Guardian) — observed / evaluation — ⭐0
+- `+` [jshaam7/system-one-models-research](https://github.com/jshaam7/system-one-models-research) — observed / evaluation — ⭐0
+- `+` [YuyaForest/JEV-Dual-Spectrum-Phishing-Guardian](https://github.com/YuyaForest/JEV-Dual-Spectrum-Phishing-Guardian) — inferred / other — ⭐0
+- `+` [theroich/opencode-jev-pruner](https://github.com/theroich/opencode-jev-pruner) — inferred / agent-tooling — ⭐0
+- `+` [Ong-pogs/ai-vs-ai-prediction-markets](https://github.com/Ong-pogs/ai-vs-ai-prediction-markets) — observed / agent-tooling — ⭐0
+- `+` [suprkco/jev-serp-opportunity-lab](https://github.com/suprkco/jev-serp-opportunity-lab) — inferred / routing-guardrails — ⭐0
+- `+` [evandroamparo/system-one](https://github.com/evandroamparo/system-one) — observed / community-sdk — ⭐0
