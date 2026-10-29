@@ -7260,3 +7260,17 @@
 - `+` [MattiooFR/mcp-server-jev](https://github.com/MattiooFR/mcp-server-jev) — inferred / community-sdk — ⭐2
 - `+` [What TypeSafe Got Right with the Jev Launch](https://news.ycombinator.com/item?id=49891067) — observed / media-discussions — ⭐2
 - …另有 58 条新增
+
+## 2026-10-30T07:16:04+08:00
+- 收录总数 **812**；本次更新新增 **11**
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐49
+- `+` [lukstei/slop-grader](https://github.com/lukstei/slop-grader) — inferred / community-sdk — ⭐37
+- `+` [King4s/Jev-AI-Skill](https://github.com/King4s/Jev-AI-Skill) — inferred / agent-tooling — ⭐4
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — observed / community-sdk — ⭐3
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [JingYao152/jev-claude-gate](https://github.com/JingYao152/jev-claude-gate) — inferred / agent-tooling — ⭐0
+- `+` [Hosam-Ashraf-Abdelfattah/System-one-model---Arabic_article_classifier](https://github.com/Hosam-Ashraf-Abdelfattah/System-one-model---Arabic_article_classifier) — observed / media-discussions — ⭐0
+- `+` [justintout/systemone](https://github.com/justintout/systemone) — observed / other — ⭐0
+- `+` [justinramos101/ask-jev](https://github.com/justinramos101/ask-jev) — inferred / agent-tooling — ⭐0
+- `+` [internet-projects/autotrust-jev27b-mlx](https://github.com/internet-projects/autotrust-jev27b-mlx) — inferred / research-models — ⭐0
+- `+` [internet-projects/autotrust-jev35b-mlx](https://github.com/internet-projects/autotrust-jev35b-mlx) — inferred / evaluation — ⭐0
