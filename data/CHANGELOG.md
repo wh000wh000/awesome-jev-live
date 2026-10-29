@@ -7214,3 +7214,20 @@
 - `+` [maccagnit/pi-jev-compact](https://github.com/maccagnit/pi-jev-compact) — inferred / other — ⭐0
 - `+` [XiaoRui114514/jev-chat-windows-custom-jev](https://github.com/XiaoRui114514/jev-chat-windows-custom-jev) — inferred / other — ⭐0
 - `+` [zyqzyq18521/JEV-AI-](https://github.com/zyqzyq18521/JEV-AI-) — inferred / other — ⭐0
+
+## 2026-10-30T00:41:21+08:00
+- 收录总数 **750**；本次更新新增 **14**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐125
+- `+` [tamnd/kime](https://github.com/tamnd/kime) — unverified / agent-tooling — ⭐8
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [1000luca/FlexDM](https://github.com/1000luca/FlexDM) — unverified / research-models — ⭐5
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐4
+- `+` [CosmoIknosLab/PathJev](https://github.com/CosmoIknosLab/PathJev) — inferred / evaluation — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- `+` [fly-jev/jev-workshop](https://github.com/fly-jev/jev-workshop) — inferred / agent-tooling — ⭐0
+- `+` [hojeongna/jev-agent-memory](https://github.com/hojeongna/jev-agent-memory) — inferred / agent-tooling — ⭐0
+- `+` [webtech-network/workshop-jev](https://github.com/webtech-network/workshop-jev) — inferred / other — ⭐0
+- `+` [sjungwon03/jev-tetris-arena](https://github.com/sjungwon03/jev-tetris-arena) — inferred / apps-demos — ⭐0
+- `+` [blacksoxx/system-one-aiops-demo](https://github.com/blacksoxx/system-one-aiops-demo) — observed / routing-guardrails — ⭐0
+- `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
