@@ -7372,3 +7372,17 @@
 - `+` [thiago-lage/jev-claud](https://github.com/thiago-lage/jev-claud) — inferred / agent-tooling — ⭐0
 - `+` [kkwelfare/jev-route-screening-public](https://github.com/kkwelfare/jev-route-screening-public) — inferred / agent-tooling — ⭐0
 - `+` [naicoi92/pi-jev-pilot](https://github.com/naicoi92/pi-jev-pilot) — inferred / other — ⭐0
+
+## 2026-10-31T03:02:23+08:00
+- 收录总数 **819**；本次更新新增 **11**
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [legostin/jev-mcp](https://github.com/legostin/jev-mcp) — inferred / agent-tooling — ⭐5
+- `+` [rusharlabs/house-party-protocol](https://github.com/rusharlabs/house-party-protocol) — inferred / community-sdk — ⭐5
+- `+` [Nefelim584/JEV_Judge](https://github.com/Nefelim584/JEV_Judge) — inferred / evaluation — ⭐2
+- `+` [Tanish-o9/ResolveIQ-by-Jev](https://github.com/Tanish-o9/ResolveIQ-by-Jev) — inferred / routing-guardrails — ⭐1
+- `+` [misaalya/snbt-jev-bench](https://github.com/misaalya/snbt-jev-bench) — inferred / evaluation — ⭐1
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [romain-cll/reflex-rag](https://github.com/romain-cll/reflex-rag) — observed / community-sdk — ⭐0
+- `+` [LinkedInLearning/Jev-Getting-Started-with-Decision-Models-30043116](https://github.com/LinkedInLearning/Jev-Getting-Started-with-Decision-Models-30043116) — inferred / other — ⭐0
+- `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
+- `+` [FrancescoDesiderato/Devfest_SystemOneModel](https://github.com/FrancescoDesiderato/Devfest_SystemOneModel) — observed / other — ⭐0
