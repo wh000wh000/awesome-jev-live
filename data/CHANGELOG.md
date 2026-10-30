@@ -7359,3 +7359,16 @@
 - `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
 - `+` [adityavsb/narrative-audit-jev](https://github.com/adityavsb/narrative-audit-jev) — inferred / routing-guardrails — ⭐0
 - `+` [Caph-dev/pi-jev-router](https://github.com/Caph-dev/pi-jev-router) — inferred / agent-tooling — ⭐0
+
+## 2026-10-31T00:41:07+08:00
+- 收录总数 **818**；本次更新新增 **10**
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐22
+- `+` [talmago/fast_gliner](https://github.com/talmago/fast_gliner) — inferred / community-sdk — ⭐15
+- `+` [Sivasuthan9/fovea](https://github.com/Sivasuthan9/fovea) — inferred / other — ⭐9
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [ShaneLiu04/edge-jev](https://github.com/ShaneLiu04/edge-jev) — inferred / routing-guardrails — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [thiago-lage/jev-claud](https://github.com/thiago-lage/jev-claud) — inferred / agent-tooling — ⭐0
+- `+` [kkwelfare/jev-route-screening-public](https://github.com/kkwelfare/jev-route-screening-public) — inferred / agent-tooling — ⭐0
+- `+` [naicoi92/pi-jev-pilot](https://github.com/naicoi92/pi-jev-pilot) — inferred / other — ⭐0
