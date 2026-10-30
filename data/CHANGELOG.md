@@ -7291,3 +7291,14 @@
 - `+` [SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B-V3-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-GGUF) — observed / research-models — ⭐0
 - `+` [SargeDev/Solar-Decision-JEV-27B-V3](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3) — observed / research-models — ⭐0
+
+## 2026-10-30T11:35:34+08:00
+- 收录总数 **815**；本次更新新增 **8**
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐13
+- `+` [SaFo-Lab/FlipJev](https://github.com/SaFo-Lab/FlipJev) — inferred / research-models — ⭐3
+- `+` [amyrmahdy/decima](https://github.com/amyrmahdy/decima) — inferred / routing-guardrails — ⭐3
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐2
+- `+` [iDiagoValeta/jev-decision-gate](https://github.com/iDiagoValeta/jev-decision-gate) — inferred / agent-tooling — ⭐1
+- `+` [dulin20240919-dot/jev](https://github.com/dulin20240919-dot/jev) — observed / apps-demos — ⭐0
+- `+` [Vlad0n1m/youtube-jev-filter](https://github.com/Vlad0n1m/youtube-jev-filter) — inferred / routing-guardrails — ⭐0
+- `+` [geekychris/open_jev_toolkit](https://github.com/geekychris/open_jev_toolkit) — inferred / community-sdk — ⭐0
