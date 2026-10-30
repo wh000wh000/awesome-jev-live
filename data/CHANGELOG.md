@@ -7334,3 +7334,17 @@
 - `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
 - `+` [skhlo/jev-a2a](https://github.com/skhlo/jev-a2a) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-30T20:13:41+08:00
+- 收录总数 **826**；本次更新新增 **11**
+- `+` [SihanLv/AudioJev-Inference](https://github.com/SihanLv/AudioJev-Inference) — inferred / community-sdk — ⭐14
+- `+` [jesset/pi-verdict](https://github.com/jesset/pi-verdict) — inferred / agent-tooling — ⭐13
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [The Hitchhiker's Guide to System One Models](https://news.ycombinator.com/item?id=50301027) — observed / media-discussions — ⭐2
+- `+` [anondo1969/jev-evidence-triage](https://github.com/anondo1969/jev-evidence-triage) — inferred / routing-guardrails — ⭐0
+- `+` [sash-ua/jev-experiments](https://github.com/sash-ua/jev-experiments) — inferred / agent-tooling — ⭐0
+- `+` [api-evangelist/jev-agent](https://github.com/api-evangelist/jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [jerichosiahaya/Naluri-561M-jev-distilled](https://huggingface.co/jerichosiahaya/Naluri-561M-jev-distilled) — observed / research-models — ⭐0
