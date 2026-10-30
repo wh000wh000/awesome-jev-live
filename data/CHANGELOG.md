@@ -7386,3 +7386,17 @@
 - `+` [LinkedInLearning/Jev-Getting-Started-with-Decision-Models-30043116](https://github.com/LinkedInLearning/Jev-Getting-Started-with-Decision-Models-30043116) — inferred / other — ⭐0
 - `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
 - `+` [FrancescoDesiderato/Devfest_SystemOneModel](https://github.com/FrancescoDesiderato/Devfest_SystemOneModel) — observed / other — ⭐0
+
+## 2026-10-31T05:33:34+08:00
+- 收录总数 **824**；本次更新新增 **11**
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [a742987/JevLens](https://github.com/a742987/JevLens) — inferred / agent-tooling — ⭐1
+- `+` [eduardo-xyz/jev-browser-mcp](https://github.com/eduardo-xyz/jev-browser-mcp) — inferred / agent-tooling — ⭐0
+- `+` [QuesoMan/jev-router](https://github.com/QuesoMan/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [VivekChoudhary77/JEV-AWS-Agent](https://github.com/VivekChoudhary77/JEV-AWS-Agent) — inferred / agent-tooling — ⭐0
+- `+` [Tuxik/pi-jev-mgt](https://github.com/Tuxik/pi-jev-mgt) — inferred / routing-guardrails — ⭐0
+- `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [marcus-souza-soares/triage-jev-app](https://github.com/marcus-souza-soares/triage-jev-app) — inferred / routing-guardrails — ⭐0
+- `+` [Murat-Selim/jev_doc_router](https://github.com/Murat-Selim/jev_doc_router) — inferred / community-sdk — ⭐0
+- `+` [Banshal-Yadav/laya-cuda](https://github.com/Banshal-Yadav/laya-cuda) — observed / community-sdk — ⭐0
