@@ -7302,3 +7302,22 @@
 - `+` [dulin20240919-dot/jev](https://github.com/dulin20240919-dot/jev) — observed / apps-demos — ⭐0
 - `+` [Vlad0n1m/youtube-jev-filter](https://github.com/Vlad0n1m/youtube-jev-filter) — inferred / routing-guardrails — ⭐0
 - `+` [geekychris/open_jev_toolkit](https://github.com/geekychris/open_jev_toolkit) — inferred / community-sdk — ⭐0
+
+## 2026-10-30T15:44:28+08:00
+- 收录总数 **823**；本次更新新增 **16**
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [JieMaMagic/FastJEV](https://github.com/JieMaMagic/FastJEV) — inferred / evaluation — ⭐7
+- `+` [bokuweb/omg](https://github.com/bokuweb/omg) — unverified / other — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐3
+- `+` [Torturing Jev](https://news.ycombinator.com/item?id=50299835) — observed / media-discussions — ⭐3
+- `+` [System One models like Jev can train their own replacements](https://news.ycombinator.com/item?id=49959504) — observed / media-discussions — ⭐2
+- `+` [left0ver/jev-proxy-pool](https://github.com/left0ver/jev-proxy-pool) — inferred / other — ⭐1
+- `+` [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) — inferred / agent-tooling — ⭐1
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+- `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
+- `+` [ZhenchuanWu/SCOPE-Jev](https://github.com/ZhenchuanWu/SCOPE-Jev) — inferred / other — ⭐0
+- `+` [seika-afk/jev-npc](https://github.com/seika-afk/jev-npc) — inferred / apps-demos — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [AyushChauhan9389/fast-jev-compaction](https://github.com/AyushChauhan9389/fast-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [ShaneLiu04/edge-jev](https://github.com/ShaneLiu04/edge-jev) — inferred / routing-guardrails — ⭐0
