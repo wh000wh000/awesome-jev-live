@@ -7274,3 +7274,20 @@
 - `+` [justinramos101/ask-jev](https://github.com/justinramos101/ask-jev) — inferred / agent-tooling — ⭐0
 - `+` [internet-projects/autotrust-jev27b-mlx](https://github.com/internet-projects/autotrust-jev27b-mlx) — inferred / research-models — ⭐0
 - `+` [internet-projects/autotrust-jev35b-mlx](https://github.com/internet-projects/autotrust-jev35b-mlx) — inferred / evaluation — ⭐0
+
+## 2026-10-30T09:26:55+08:00
+- 收录总数 **821**；本次更新新增 **14**
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [solvi-ai/solvi](https://github.com/solvi-ai/solvi) — observed / agent-tooling — ⭐4
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [WeBuildDatabases/jev-job-by-job](https://github.com/WeBuildDatabases/jev-job-by-job) — inferred / other — ⭐0
+- `+` [NateFoxtrot/jev-stack](https://github.com/NateFoxtrot/jev-stack) — inferred / routing-guardrails — ⭐0
+- `+` [YagoAlcocer/jev-trading-desk](https://github.com/YagoAlcocer/jev-trading-desk) — inferred / research-models — ⭐0
+- `+` [mrodgersjs-web/jev-route](https://github.com/mrodgersjs-web/jev-route) — inferred / community-sdk — ⭐0
+- `+` [Guilhermeb-Ferrarezi/quiz-jev](https://github.com/Guilhermeb-Ferrarezi/quiz-jev) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [JosephCai-Meridian/Jev_pipeline](https://github.com/JosephCai-Meridian/Jev_pipeline) — inferred / evaluation — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V3-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-GGUF) — observed / research-models — ⭐0
+- `+` [SargeDev/Solar-Decision-JEV-27B-V3](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3) — observed / research-models — ⭐0
