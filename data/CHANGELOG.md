@@ -7348,3 +7348,14 @@
 - `+` [sash-ua/jev-experiments](https://github.com/sash-ua/jev-experiments) — inferred / agent-tooling — ⭐0
 - `+` [api-evangelist/jev-agent](https://github.com/api-evangelist/jev-agent) — inferred / agent-tooling — ⭐0
 - `+` [jerichosiahaya/Naluri-561M-jev-distilled](https://huggingface.co/jerichosiahaya/Naluri-561M-jev-distilled) — observed / research-models — ⭐0
+
+## 2026-10-30T22:25:28+08:00
+- 收录总数 **815**；本次更新新增 **8**
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [sanamhub/typesafe-dotnet](https://github.com/sanamhub/typesafe-dotnet) — inferred / community-sdk — ⭐5
+- `+` [What it costs to moderate 500 daily doodles with Jev](https://news.ycombinator.com/item?id=50302722) — observed / media-discussions — ⭐3
+- `+` [awun8191/jev-resume-analyzer](https://github.com/awun8191/jev-resume-analyzer) — inferred / other — ⭐1
+- `+` [Madheshvivekanandan/jev-vs-cosine](https://github.com/Madheshvivekanandan/jev-vs-cosine) — inferred / routing-guardrails — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [adityavsb/narrative-audit-jev](https://github.com/adityavsb/narrative-audit-jev) — inferred / routing-guardrails — ⭐0
+- `+` [Caph-dev/pi-jev-router](https://github.com/Caph-dev/pi-jev-router) — inferred / agent-tooling — ⭐0
