@@ -7400,3 +7400,16 @@
 - `+` [marcus-souza-soares/triage-jev-app](https://github.com/marcus-souza-soares/triage-jev-app) — inferred / routing-guardrails — ⭐0
 - `+` [Murat-Selim/jev_doc_router](https://github.com/Murat-Selim/jev_doc_router) — inferred / community-sdk — ⭐0
 - `+` [Banshal-Yadav/laya-cuda](https://github.com/Banshal-Yadav/laya-cuda) — observed / community-sdk — ⭐0
+
+## 2026-10-31T07:54:05+08:00
+- 收录总数 **827**；本次更新新增 **10**
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Show HN: Fastbrowse, Browser agent that picks clicks with a System One model](https://news.ycombinator.com/item?id=50311029) — observed / media-discussions — ⭐3
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [ahmed35636/jev-triage](https://github.com/ahmed35636/jev-triage) — inferred / routing-guardrails — ⭐0
+- `+` [pyxl-dev/jev-router](https://github.com/pyxl-dev/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [leedonwoo2827-ship-it/jev-revision-agent](https://github.com/leedonwoo2827-ship-it/jev-revision-agent) — inferred / agent-tooling — ⭐0
+- `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
+- `+` [YagoAlcocer/jev-trading-desk](https://github.com/YagoAlcocer/jev-trading-desk) — inferred / research-models — ⭐0
