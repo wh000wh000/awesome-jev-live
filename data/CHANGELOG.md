@@ -7321,3 +7321,16 @@
 - `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
 - `+` [AyushChauhan9389/fast-jev-compaction](https://github.com/AyushChauhan9389/fast-jev-compaction) — inferred / agent-tooling — ⭐0
 - `+` [ShaneLiu04/edge-jev](https://github.com/ShaneLiu04/edge-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-30T17:55:58+08:00
+- 收录总数 **825**；本次更新新增 **10**
+- `+` [Brainwires/jevwire](https://github.com/Brainwires/jevwire) — unverified / community-sdk — ⭐24
+- `+` [AppliedMachineLearning-Lab/jev-benchmarking](https://github.com/AppliedMachineLearning-Lab/jev-benchmarking) — inferred / evaluation — ⭐7
+- `+` [franciscocarloserra/jev-attack-surface-analysis](https://github.com/franciscocarloserra/jev-attack-surface-analysis) — inferred / other — ⭐3
+- `+` [SykkoAtHome/MCP_Typesafe_JEV](https://github.com/SykkoAtHome/MCP_Typesafe_JEV) — inferred / community-sdk — ⭐0
+- `+` [amadzai/think-fast-jev](https://github.com/amadzai/think-fast-jev) — inferred / other — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [hasnain1241/llm-as-jev](https://github.com/hasnain1241/llm-as-jev) — inferred / research-models — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [skhlo/jev-a2a](https://github.com/skhlo/jev-a2a) — inferred / routing-guardrails — ⭐0
