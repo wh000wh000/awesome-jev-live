@@ -7421,3 +7421,15 @@
 - `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
 - `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-10-31T12:32:56+08:00
+- 收录总数 **830**；本次更新新增 **9**
+- `+` [muxso/Shepherd](https://github.com/muxso/Shepherd) — inferred / agent-tooling — ⭐14
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐13
+- `+` [DataZooDE/anofox-decide](https://github.com/DataZooDE/anofox-decide) — unverified / evaluation — ⭐3
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐3
+- `+` [Video deconstructing how Jev works](https://news.ycombinator.com/item?id=50312710) — observed / media-discussions — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [ARCS-inc/jev-game-blog](https://github.com/ARCS-inc/jev-game-blog) — inferred / apps-demos — ⭐0
+- `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
+- `+` [pomykalakyle/jev-youtube-filter](https://github.com/pomykalakyle/jev-youtube-filter) — inferred / routing-guardrails — ⭐0
