@@ -7455,3 +7455,11 @@
 - `+` [jevalan/jev-hub-catalog](https://github.com/jevalan/jev-hub-catalog) — inferred / evaluation — ⭐0
 - `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
 - `+` [ShotaTanemura/system-one-model-play-switch-demo](https://github.com/ShotaTanemura/system-one-model-play-switch-demo) — observed / apps-demos — ⭐0
+
+## 2026-10-31T19:05:08+08:00
+- 收录总数 **826**；本次更新新增 **5**
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐15
+- `+` [Tanish-o9/ResolveIQ-by-Jev](https://github.com/Tanish-o9/ResolveIQ-by-Jev) — inferred / routing-guardrails — ⭐1
+- `+` [heyk1njo/jev-mobile-pilot](https://github.com/heyk1njo/jev-mobile-pilot) — inferred / agent-tooling — ⭐0
+- `+` [ironsweet/jev-shadow](https://github.com/ironsweet/jev-shadow) — inferred / community-sdk — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
