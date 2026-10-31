@@ -7433,3 +7433,14 @@
 - `+` [ARCS-inc/jev-game-blog](https://github.com/ARCS-inc/jev-game-blog) — inferred / apps-demos — ⭐0
 - `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
 - `+` [pomykalakyle/jev-youtube-filter](https://github.com/pomykalakyle/jev-youtube-filter) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-31T14:42:07+08:00
+- 收录总数 **830**；本次更新新增 **8**
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [swami8791/private-jev](https://github.com/swami8791/private-jev) — inferred / community-sdk — ⭐0
+- `+` [nshazly/jev-ai-system-one-tutorial](https://github.com/nshazly/jev-ai-system-one-tutorial) — inferred / routing-guardrails — ⭐0
+- `+` [maxtmiller/sureshot](https://github.com/maxtmiller/sureshot) — observed / agent-tooling — ⭐0
+- `+` [rajkundalia/expense-approval-using-jev](https://github.com/rajkundalia/expense-approval-using-jev) — inferred / routing-guardrails — ⭐0
