@@ -7463,3 +7463,13 @@
 - `+` [heyk1njo/jev-mobile-pilot](https://github.com/heyk1njo/jev-mobile-pilot) — inferred / agent-tooling — ⭐0
 - `+` [ironsweet/jev-shadow](https://github.com/ironsweet/jev-shadow) — inferred / community-sdk — ⭐0
 - `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+
+## 2026-10-31T21:14:30+08:00
+- 收录总数 **822**；本次更新新增 **7**
+- `+` [coenliu/TimesJev](https://github.com/coenliu/TimesJev) — inferred / other — ⭐4
+- `+` [MehradYaghoubi/jev-research-engineering](https://github.com/MehradYaghoubi/jev-research-engineering) — inferred / agent-tooling — ⭐2
+- `+` [AJackTi/antigravity-jev-skills](https://github.com/AJackTi/antigravity-jev-skills) — inferred / agent-tooling — ⭐1
+- `+` [bojansandhaus/dsh-jev-mcp](https://github.com/bojansandhaus/dsh-jev-mcp) — inferred / community-sdk — ⭐1
+- `+` [sunyasheng/JevProver](https://github.com/sunyasheng/JevProver) — inferred / other — ⭐1
+- `+` [Motunrayo244/jev-wavelength](https://github.com/Motunrayo244/jev-wavelength) — inferred / other — ⭐0
+- `+` [saurabh49548/JEV-Powered-Review-Analyzer](https://github.com/saurabh49548/JEV-Powered-Review-Analyzer) — inferred / apps-demos — ⭐0
