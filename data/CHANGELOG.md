@@ -7444,3 +7444,14 @@
 - `+` [nshazly/jev-ai-system-one-tutorial](https://github.com/nshazly/jev-ai-system-one-tutorial) — inferred / routing-guardrails — ⭐0
 - `+` [maxtmiller/sureshot](https://github.com/maxtmiller/sureshot) — observed / agent-tooling — ⭐0
 - `+` [rajkundalia/expense-approval-using-jev](https://github.com/rajkundalia/expense-approval-using-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-10-31T16:54:31+08:00
+- 收录总数 **827**；本次更新新增 **8**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [amidabuddha/jev-decision-mcp](https://github.com/amidabuddha/jev-decision-mcp) — inferred / community-sdk — ⭐1
+- `+` [typesafe-inc/JEV-27B-Desktop](https://github.com/typesafe-inc/JEV-27B-Desktop) — observed / agent-tooling — ⭐1
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐1
+- `+` [Plant-Hackathon-2026/fuse-jev-gate](https://github.com/Plant-Hackathon-2026/fuse-jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [jevalan/jev-hub-catalog](https://github.com/jevalan/jev-hub-catalog) — inferred / evaluation — ⭐0
+- `+` [shaduf-labs/jev-catalog](https://github.com/shaduf-labs/jev-catalog) — inferred / other — ⭐0
+- `+` [ShotaTanemura/system-one-model-play-switch-demo](https://github.com/ShotaTanemura/system-one-model-play-switch-demo) — observed / apps-demos — ⭐0
