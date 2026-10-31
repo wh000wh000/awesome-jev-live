@@ -7506,3 +7506,10 @@
 - `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
 - `+` [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) — inferred / agent-tooling — ⭐0
 - `+` [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) — observed / agent-tooling — ⭐0
+
+## 2026-11-01T05:53:37+08:00
+- 收录总数 **833**；本次更新新增 **4**
+- `+` [AlperKartkaya/FlightBench](https://github.com/AlperKartkaya/FlightBench) — inferred / evaluation — ⭐3
+- `+` [joaohppenha/otimizador_jev](https://github.com/joaohppenha/otimizador_jev) — inferred / routing-guardrails — ⭐0
+- `+` [frederico-kluser/jev-droid](https://github.com/frederico-kluser/jev-droid) — inferred / agent-tooling — ⭐0
+- `+` [aryamahadik/jev-qwen35-4b-finetune](https://github.com/aryamahadik/jev-qwen35-4b-finetune) — inferred / evaluation — ⭐0
