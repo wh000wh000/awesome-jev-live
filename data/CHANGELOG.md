@@ -7496,3 +7496,13 @@
 - `+` [Meerav29/jev-sweep](https://github.com/Meerav29/jev-sweep) — inferred / other — ⭐0
 - `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
 - `+` [valuecodes/jev-on-air](https://github.com/valuecodes/jev-on-air) — inferred / apps-demos — ⭐0
+
+## 2026-11-01T03:41:06+08:00
+- 收录总数 **838**；本次更新新增 **7**
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [SamuelSacco/jev-exploration](https://github.com/SamuelSacco/jev-exploration) — inferred / apps-demos — ⭐3
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) — inferred / agent-tooling — ⭐0
+- `+` [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) — observed / agent-tooling — ⭐0
