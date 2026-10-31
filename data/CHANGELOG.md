@@ -7473,3 +7473,15 @@
 - `+` [sunyasheng/JevProver](https://github.com/sunyasheng/JevProver) — inferred / other — ⭐1
 - `+` [Motunrayo244/jev-wavelength](https://github.com/Motunrayo244/jev-wavelength) — inferred / other — ⭐0
 - `+` [saurabh49548/JEV-Powered-Review-Analyzer](https://github.com/saurabh49548/JEV-Powered-Review-Analyzer) — inferred / apps-demos — ⭐0
+
+## 2026-10-31T23:24:43+08:00
+- 收录总数 **828**；本次更新新增 **9**
+- `+` [GeekLinkDev/jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator) — inferred / community-sdk — ⭐10
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [ShaneLiu04/edge-jev](https://github.com/ShaneLiu04/edge-jev) — inferred / routing-guardrails — ⭐3
+- `+` [arkulinskis/jev-buddy](https://github.com/arkulinskis/jev-buddy) — inferred / apps-demos — ⭐0
+- `+` [warsang/jev-web](https://github.com/warsang/jev-web) — inferred / evaluation — ⭐0
+- `+` [HangChi/JevRouter](https://github.com/HangChi/JevRouter) — inferred / agent-tooling — ⭐0
+- `+` [igormorais123/JEV](https://github.com/igormorais123/JEV) — inferred / other — ⭐0
+- `+` [Lucasrrafael/system-one-model-fine-tuning](https://github.com/Lucasrrafael/system-one-model-fine-tuning) — observed / other — ⭐0
+- `+` [Armanzahedi/fulcrum](https://github.com/Armanzahedi/fulcrum) — observed / other — ⭐0
