@@ -7413,3 +7413,11 @@
 - `+` [leedonwoo2827-ship-it/jev-revision-agent](https://github.com/leedonwoo2827-ship-it/jev-revision-agent) — inferred / agent-tooling — ⭐0
 - `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
 - `+` [YagoAlcocer/jev-trading-desk](https://github.com/YagoAlcocer/jev-trading-desk) — inferred / research-models — ⭐0
+
+## 2026-10-31T10:12:03+08:00
+- 收录总数 **831**；本次更新新增 **5**
+- `+` [henryklunaris/hey-jev](https://github.com/henryklunaris/hey-jev) — inferred / other — ⭐118
+- `+` [JiaWeiXie/jev-enhanced-plugin](https://github.com/JiaWeiXie/jev-enhanced-plugin) — observed / agent-tooling — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
