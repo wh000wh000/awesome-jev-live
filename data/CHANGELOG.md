@@ -7485,3 +7485,14 @@
 - `+` [igormorais123/JEV](https://github.com/igormorais123/JEV) — inferred / other — ⭐0
 - `+` [Lucasrrafael/system-one-model-fine-tuning](https://github.com/Lucasrrafael/system-one-model-fine-tuning) — observed / other — ⭐0
 - `+` [Armanzahedi/fulcrum](https://github.com/Armanzahedi/fulcrum) — observed / other — ⭐0
+
+## 2026-11-01T01:32:11+08:00
+- 收录总数 **832**；本次更新新增 **8**
+- `+` [zcoder-run/rust-sysone](https://github.com/zcoder-run/rust-sysone) — unverified / community-sdk — ⭐4
+- `+` [dsaad68/fuzzy-jev](https://github.com/dsaad68/fuzzy-jev) — inferred / community-sdk — ⭐2
+- `+` [swami8791/jev-judge-mcp](https://github.com/swami8791/jev-judge-mcp) — inferred / community-sdk — ⭐0
+- `+` [rocktane/humain-vs-jev](https://github.com/rocktane/humain-vs-jev) — inferred / other — ⭐0
+- `+` [akshathaprabhu22/Faster-cheaper-classification-is-a-decision-model-good-enough-Jev-vs-Claude](https://github.com/akshathaprabhu22/Faster-cheaper-classification-is-a-decision-model-good-enough-Jev-vs-Claude) — inferred / agent-tooling — ⭐0
+- `+` [Meerav29/jev-sweep](https://github.com/Meerav29/jev-sweep) — inferred / other — ⭐0
+- `+` [dantetekanem/pi-jev-lazy-load](https://github.com/dantetekanem/pi-jev-lazy-load) — inferred / agent-tooling — ⭐0
+- `+` [valuecodes/jev-on-air](https://github.com/valuecodes/jev-on-air) — inferred / apps-demos — ⭐0
