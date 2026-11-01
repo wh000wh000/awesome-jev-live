@@ -7602,3 +7602,15 @@
 - `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
 - `+` [shetautnetjer/jev-cli](https://github.com/shetautnetjer/jev-cli) — inferred / community-sdk — ⭐0
 - `+` [dddd2024/jev-structured-evidence-conflict-data](https://github.com/dddd2024/jev-structured-evidence-conflict-data) — inferred / research-models — ⭐0
+
+## 2026-11-01T23:56:10+08:00
+- 收录总数 **833**；本次更新新增 **9**
+- `+` [filedcom/playjev](https://github.com/filedcom/playjev) — inferred / apps-demos — ⭐18
+- `+` [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) — inferred / agent-tooling — ⭐3
+- `+` [huytranvan2010/master-typesafe-jev](https://github.com/huytranvan2010/master-typesafe-jev) — inferred / other — ⭐1
+- `+` [jqueryscript/awesome-jev](https://github.com/jqueryscript/awesome-jev) — observed / community-sdk — ⭐1
+- `+` [rogueprocess13/jev-ops-experiment](https://github.com/rogueprocess13/jev-ops-experiment) — inferred / evaluation — ⭐1
+- `+` [gkvoelkl/python-streamlit-jev-ant](https://github.com/gkvoelkl/python-streamlit-jev-ant) — inferred / agent-tooling — ⭐0
+- `+` [gm2211/jev-polls](https://github.com/gm2211/jev-polls) — inferred / apps-demos — ⭐0
+- `+` [yehezkielgunawan/jev-paper](https://github.com/yehezkielgunawan/jev-paper) — inferred / research-models — ⭐0
+- `+` [saurabh49548/JEV-Powered-Review-Analyzer](https://github.com/saurabh49548/JEV-Powered-Review-Analyzer) — inferred / apps-demos — ⭐0
