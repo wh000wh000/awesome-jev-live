@@ -7513,3 +7513,16 @@
 - `+` [joaohppenha/otimizador_jev](https://github.com/joaohppenha/otimizador_jev) — inferred / routing-guardrails — ⭐0
 - `+` [frederico-kluser/jev-droid](https://github.com/frederico-kluser/jev-droid) — inferred / agent-tooling — ⭐0
 - `+` [aryamahadik/jev-qwen35-4b-finetune](https://github.com/aryamahadik/jev-qwen35-4b-finetune) — inferred / evaluation — ⭐0
+
+## 2026-11-01T08:03:21+08:00
+- 收录总数 **831**；本次更新新增 **10**
+- `+` [talmago/fast_gliner](https://github.com/talmago/fast_gliner) — inferred / community-sdk — ⭐15
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [System One models like Jev can train their own replacements](https://news.ycombinator.com/item?id=49959504) — observed / media-discussions — ⭐2
+- `+` [NatersGonnaN8/talk-to-jev](https://github.com/NatersGonnaN8/talk-to-jev) — inferred / routing-guardrails — ⭐1
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [MichelePolo/jev-mcp](https://github.com/MichelePolo/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [acbharath14/ollama-jev-decision-demo](https://github.com/acbharath14/ollama-jev-decision-demo) — inferred / evaluation — ⭐0
+- `+` [jonathanj321/jev-testing-ground](https://github.com/jonathanj321/jev-testing-ground) — inferred / evaluation — ⭐0
+- `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
