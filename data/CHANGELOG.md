@@ -7614,3 +7614,15 @@
 - `+` [gm2211/jev-polls](https://github.com/gm2211/jev-polls) — inferred / apps-demos — ⭐0
 - `+` [yehezkielgunawan/jev-paper](https://github.com/yehezkielgunawan/jev-paper) — inferred / research-models — ⭐0
 - `+` [saurabh49548/JEV-Powered-Review-Analyzer](https://github.com/saurabh49548/JEV-Powered-Review-Analyzer) — inferred / apps-demos — ⭐0
+
+## 2026-11-02T02:11:03+08:00
+- 收录总数 **827**；本次更新新增 **9**
+- `+` [saberfazliahmadi/clinguard-laya-rag](https://github.com/saberfazliahmadi/clinguard-laya-rag) — unverified / evaluation — ⭐5
+- `+` [maxtrezzi/jev4s](https://github.com/maxtrezzi/jev4s) — inferred / community-sdk — ⭐2
+- `+` [bit-cook/Jev-X-Blocker](https://github.com/bit-cook/Jev-X-Blocker) — inferred / routing-guardrails — ⭐1
+- `+` [vkehfdl1/jev-reranker](https://github.com/vkehfdl1/jev-reranker) — inferred / evaluation — ⭐1
+- `+` [veermshah/jev-calibration-lab](https://github.com/veermshah/jev-calibration-lab) — inferred / agent-tooling — ⭐0
+- `+` [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) — inferred / agent-tooling — ⭐0
+- `+` [Kr4is/jev-decision-lab](https://github.com/Kr4is/jev-decision-lab) — inferred / other — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [heyoonyoon/jev-quiz-solver](https://github.com/heyoonyoon/jev-quiz-solver) — inferred / other — ⭐0
