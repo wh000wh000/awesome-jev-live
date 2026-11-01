@@ -7567,3 +7567,16 @@
 - `+` [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) — inferred / agent-tooling — ⭐1
 - `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
 - …另有 46 条新增
+
+## 2026-11-01T17:22:29+08:00
+- 收录总数 **831**；本次更新新增 **10**
+- `+` [lsp199308/Jev-Chat-for-WeChat](https://github.com/lsp199308/Jev-Chat-for-WeChat) — inferred / other — ⭐14
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [nouli-ai/nouli](https://github.com/nouli-ai/nouli) — inferred / community-sdk — ⭐6
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [manjufkanavi/jev-harness](https://github.com/manjufkanavi/jev-harness) — inferred / routing-guardrails — ⭐0
+- `+` [Bobbywasabi31/jev-paper-test](https://github.com/Bobbywasabi31/jev-paper-test) — inferred / evaluation — ⭐0
+- `+` [UdaraChamidu/AI-Job-Match-Checker-JEV-Make.com-](https://github.com/UdaraChamidu/AI-Job-Match-Checker-JEV-Make.com-) — inferred / other — ⭐0
+- `+` [jevalan/jev-hub-catalog](https://github.com/jevalan/jev-hub-catalog) — inferred / evaluation — ⭐0
+- `+` [Asmadey/jev-miner](https://github.com/Asmadey/jev-miner) — inferred / agent-tooling — ⭐0
