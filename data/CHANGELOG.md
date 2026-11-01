@@ -7526,3 +7526,10 @@
 - `+` [acbharath14/ollama-jev-decision-demo](https://github.com/acbharath14/ollama-jev-decision-demo) — inferred / evaluation — ⭐0
 - `+` [jonathanj321/jev-testing-ground](https://github.com/jonathanj321/jev-testing-ground) — inferred / evaluation — ⭐0
 - `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
+
+## 2026-11-01T10:12:27+08:00
+- 收录总数 **826**；本次更新新增 **4**
+- `+` [audichuang/jev-skill-suggestion](https://github.com/audichuang/jev-skill-suggestion) — inferred / agent-tooling — ⭐1
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [Mike-Animal-Counseling/laya-jev-lab](https://github.com/Mike-Animal-Counseling/laya-jev-lab) — inferred / community-sdk — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
