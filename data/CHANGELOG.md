@@ -7626,3 +7626,14 @@
 - `+` [Kr4is/jev-decision-lab](https://github.com/Kr4is/jev-decision-lab) — inferred / other — ⭐0
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [heyoonyoon/jev-quiz-solver](https://github.com/heyoonyoon/jev-quiz-solver) — inferred / other — ⭐0
+
+## 2026-11-02T04:28:43+08:00
+- 收录总数 **828**；本次更新新增 **8**
+- `+` [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) — inferred / other — ⭐134
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [VivekChoudhary77/JEV-AWS-Agent](https://github.com/VivekChoudhary77/JEV-AWS-Agent) — inferred / agent-tooling — ⭐0
+- `+` [valuecodes/jev-on-air](https://github.com/valuecodes/jev-on-air) — inferred / apps-demos — ⭐0
+- `+` [BILLKISHORE/opensysone](https://github.com/BILLKISHORE/opensysone) — observed / evaluation — ⭐0
