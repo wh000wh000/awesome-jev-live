@@ -7592,3 +7592,13 @@
 - `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
 - `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
 - `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-01T21:39:29+08:00
+- 收录总数 **832**；本次更新新增 **7**
+- `+` [jev-chat/jev-chat-jarvis-ios](https://github.com/jev-chat/jev-chat-jarvis-ios) — inferred / apps-demos — ⭐61
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [souta-lab/minecraft-jev-agent](https://github.com/souta-lab/minecraft-jev-agent) — inferred / agent-tooling — ⭐2
+- `+` [Laaaaksh/jev-playground](https://github.com/Laaaaksh/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [shetautnetjer/jev-cli](https://github.com/shetautnetjer/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [dddd2024/jev-structured-evidence-conflict-data](https://github.com/dddd2024/jev-structured-evidence-conflict-data) — inferred / research-models — ⭐0
