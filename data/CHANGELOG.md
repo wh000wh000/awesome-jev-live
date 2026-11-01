@@ -7637,3 +7637,13 @@
 - `+` [VivekChoudhary77/JEV-AWS-Agent](https://github.com/VivekChoudhary77/JEV-AWS-Agent) — inferred / agent-tooling — ⭐0
 - `+` [valuecodes/jev-on-air](https://github.com/valuecodes/jev-on-air) — inferred / apps-demos — ⭐0
 - `+` [BILLKISHORE/opensysone](https://github.com/BILLKISHORE/opensysone) — observed / evaluation — ⭐0
+
+## 2026-11-02T06:46:05+08:00
+- 收录总数 **824**；本次更新新增 **7**
+- `+` [AIAnytime/Jev-Router](https://github.com/AIAnytime/Jev-Router) — inferred / community-sdk — ⭐0
+- `+` [charles-forsyth/jev-decision-wall](https://github.com/charles-forsyth/jev-decision-wall) — inferred / apps-demos — ⭐0
+- `+` [ChanghaoLiao/jev-rpa-assistant](https://github.com/ChanghaoLiao/jev-rpa-assistant) — inferred / community-sdk — ⭐0
+- `+` [happydesk213124/JevArchive](https://github.com/happydesk213124/JevArchive) — inferred / other — ⭐0
+- `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
+- `+` [divyekant/jev-qa](https://github.com/divyekant/jev-qa) — inferred / community-sdk — ⭐0
+- `+` [debuffjp/decidejs](https://github.com/debuffjp/decidejs) — observed / evaluation — ⭐0
