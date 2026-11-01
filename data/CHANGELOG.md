@@ -7580,3 +7580,15 @@
 - `+` [UdaraChamidu/AI-Job-Match-Checker-JEV-Make.com-](https://github.com/UdaraChamidu/AI-Job-Match-Checker-JEV-Make.com-) — inferred / other — ⭐0
 - `+` [jevalan/jev-hub-catalog](https://github.com/jevalan/jev-hub-catalog) — inferred / evaluation — ⭐0
 - `+` [Asmadey/jev-miner](https://github.com/Asmadey/jev-miner) — inferred / agent-tooling — ⭐0
+
+## 2026-11-01T19:31:20+08:00
+- 收录总数 **831**；本次更新新增 **9**
+- `+` [tak-bro/local-jev-bench](https://github.com/tak-bro/local-jev-bench) — inferred / evaluation — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐3
+- `+` [dharmeshgurnani/CodeOtter](https://github.com/dharmeshgurnani/CodeOtter) — observed / routing-guardrails — ⭐3
+- `+` [minorun365/jev-cloud-quiz](https://github.com/minorun365/jev-cloud-quiz) — inferred / community-sdk — ⭐2
+- `+` [ayaan0604/vibe-check](https://github.com/ayaan0604/vibe-check) — observed / other — ⭐0
+- `+` [palermoalfio94/JevVision](https://github.com/palermoalfio94/JevVision) — inferred / apps-demos — ⭐0
+- `+` [vb2250158/dsh-jev-context-gate](https://github.com/vb2250158/dsh-jev-context-gate) — inferred / agent-tooling — ⭐0
+- `+` [alancoppin1/jev-bot-clock](https://github.com/alancoppin1/jev-bot-clock) — inferred / research-models — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
