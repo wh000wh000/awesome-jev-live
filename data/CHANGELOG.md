@@ -7533,3 +7533,8 @@
 - `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
 - `+` [Mike-Animal-Counseling/laya-jev-lab](https://github.com/Mike-Animal-Counseling/laya-jev-lab) — inferred / community-sdk — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-01T12:29:02+08:00
+- 收录总数 **759**；本次更新新增 **2**
+- `+` [yzfly/edgejev](https://github.com/yzfly/edgejev) — inferred / evaluation — ⭐34
+- `+` [Normansrule/jev-jepa-studio](https://github.com/Normansrule/jev-jepa-studio) — inferred / apps-demos — ⭐0
