@@ -7538,3 +7538,32 @@
 - 收录总数 **759**；本次更新新增 **2**
 - `+` [yzfly/edgejev](https://github.com/yzfly/edgejev) — inferred / evaluation — ⭐34
 - `+` [Normansrule/jev-jepa-studio](https://github.com/Normansrule/jev-jepa-studio) — inferred / apps-demos — ⭐0
+
+## 2026-11-01T14:41:14+08:00
+- 收录总数 **826**；本次更新新增 **71**
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐121
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐51
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐45
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐40
+- `+` [Brainwires/jevwire](https://github.com/Brainwires/jevwire) — unverified / community-sdk — ⭐24
+- `+` [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) — inferred / agent-tooling — ⭐20
+- `+` [sunyasheng/JevGPT](https://github.com/sunyasheng/JevGPT) — inferred / agent-tooling — ⭐14
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐9
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐7
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [smixs/jevchik](https://github.com/smixs/jevchik) — unverified / research-models — ⭐6
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) — inferred / community-sdk — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [themusebook/clawd-jev-trading-machine](https://github.com/themusebook/clawd-jev-trading-machine) — observed / research-models — ⭐1
+- `+` [Frank-Funney/mini-jev](https://github.com/Frank-Funney/mini-jev) — inferred / research-models — ⭐1
+- `+` [welcomeenjoy75-hue/mini-jev](https://github.com/welcomeenjoy75-hue/mini-jev) — inferred / research-models — ⭐1
+- `+` [alperenerol/jev-1.13-mini-benchmark](https://github.com/alperenerol/jev-1.13-mini-benchmark) — observed / routing-guardrails — ⭐1
+- `+` [SENZO-NCEKANA/jev-triage-benchmark](https://github.com/SENZO-NCEKANA/jev-triage-benchmark) — inferred / routing-guardrails — ⭐1
+- `+` [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) — inferred / agent-tooling — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- …另有 46 条新增
