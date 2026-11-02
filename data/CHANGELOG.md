@@ -7781,3 +7781,14 @@
 - `+` [CharTyr/MaiBot-JevPreprocessor](https://github.com/CharTyr/MaiBot-JevPreprocessor) — inferred / agent-tooling — ⭐0
 - `+` [maccagnit/pi-jev-compact](https://github.com/maccagnit/pi-jev-compact) — inferred / other — ⭐0
 - `+` [neelguha/jev-for-statutes](https://github.com/neelguha/jev-for-statutes) — inferred / other — ⭐0
+
+## 2026-11-03T04:23:32+08:00
+- 收录总数 **820**；本次更新新增 **8**
+- `+` [Civalski/claujev](https://github.com/Civalski/claujev) — inferred / agent-tooling — ⭐6
+- `+` [Show HN: I used Jev to build an off-topic detector for meetings](https://news.ycombinator.com/item?id=50342630) — observed / media-discussions — ⭐3
+- `+` [frederikvonsperling/sanity-plugin-jev-fields](https://github.com/frederikvonsperling/sanity-plugin-jev-fields) — inferred / agent-tooling — ⭐1
+- `+` [aosus/mirsad](https://github.com/aosus/mirsad) — observed / routing-guardrails — ⭐1
+- `+` [BronOS/cc-cockpit-jev](https://github.com/BronOS/cc-cockpit-jev) — inferred / agent-tooling — ⭐0
+- `+` [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) — inferred / other — ⭐0
+- `+` [gryszzz/jev-paper](https://github.com/gryszzz/jev-paper) — inferred / research-models — ⭐0
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐0
