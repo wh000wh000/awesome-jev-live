@@ -7692,3 +7692,17 @@
 - `+` [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) — inferred / evaluation — ⭐7
 - `+` [KanishkaGD/decision-rerank](https://github.com/KanishkaGD/decision-rerank) — unverified / evaluation — ⭐5
 - …另有 115 条新增
+
+## 2026-11-02T13:30:58+08:00
+- 收录总数 **826**；本次更新新增 **11**
+- `+` [cipherTing/sael](https://github.com/cipherTing/sael) — unverified / community-sdk — ⭐5
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [chaosxingxc-orion/nga](https://github.com/chaosxingxc-orion/nga) — unverified / agent-tooling — ⭐3
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐3
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Meerav29/jev-sweep](https://github.com/Meerav29/jev-sweep) — inferred / other — ⭐0
+- `+` [landeqiming666/jev-stocks](https://github.com/landeqiming666/jev-stocks) — inferred / other — ⭐0
+- `+` [ragman53/pi-jev-orchestrator](https://github.com/ragman53/pi-jev-orchestrator) — inferred / routing-guardrails — ⭐0
+- `+` [lysandre/JEV-27B-VL](https://huggingface.co/lysandre/JEV-27B-VL) — observed / research-models — ⭐0
