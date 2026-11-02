@@ -7768,3 +7768,16 @@
 - `+` [delikesance/jev-highlighter](https://github.com/delikesance/jev-highlighter) — inferred / other — ⭐0
 - `+` [relliex/fake_jev_webuse](https://github.com/relliex/fake_jev_webuse) — inferred / agent-tooling — ⭐0
 - `+` [dentjaiai/jev-skill-routing](https://github.com/dentjaiai/jev-skill-routing) — inferred / agent-tooling — ⭐0
+
+## 2026-11-03T02:16:19+08:00
+- 收录总数 **815**；本次更新新增 **10**
+- `+` [Mushroom-Systems/lichen-v1](https://github.com/Mushroom-Systems/lichen-v1) — observed / other — ⭐59
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐21
+- `+` [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) — observed / media-discussions — ⭐6
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [pozapas/awesome-system-one-models](https://github.com/pozapas/awesome-system-one-models) — observed / evaluation — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐1
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
+- `+` [CharTyr/MaiBot-JevPreprocessor](https://github.com/CharTyr/MaiBot-JevPreprocessor) — inferred / agent-tooling — ⭐0
+- `+` [maccagnit/pi-jev-compact](https://github.com/maccagnit/pi-jev-compact) — inferred / other — ⭐0
+- `+` [neelguha/jev-for-statutes](https://github.com/neelguha/jev-for-statutes) — inferred / other — ⭐0
