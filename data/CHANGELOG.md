@@ -7753,3 +7753,18 @@
 - `+` [laxtiz/opencode-vllm-sr-auth](https://github.com/laxtiz/opencode-vllm-sr-auth) — unverified / agent-tooling — ⭐5
 - `+` [How to Build a Decision Model Like Jev](https://news.ycombinator.com/item?id=50336359) — observed / media-discussions — ⭐2
 - `+` [eshitakundu/jev-flow](https://github.com/eshitakundu/jev-flow) — inferred / agent-tooling — ⭐0
+
+## 2026-11-03T00:09:26+08:00
+- 收录总数 **816**；本次更新新增 **12**
+- `+` [daseinlabs/open-jev](https://github.com/daseinlabs/open-jev) — inferred / other — ⭐134
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [ShaneLiu04/edge-jev](https://github.com/ShaneLiu04/edge-jev) — inferred / routing-guardrails — ⭐3
+- `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
+- `+` [beskvladimir-create/ru-jev](https://github.com/beskvladimir-create/ru-jev) — inferred / evaluation — ⭐0
+- `+` [mbzuai-oryx/EO-Jev](https://github.com/mbzuai-oryx/EO-Jev) — inferred / evaluation — ⭐0
+- `+` [KANGSIK-SEO/jev](https://github.com/KANGSIK-SEO/jev) — inferred / other — ⭐0
+- `+` [Joshhuang123/jev-rsi](https://github.com/Joshhuang123/jev-rsi) — inferred / other — ⭐0
+- `+` [TechPreacher/jev-router-copilot](https://github.com/TechPreacher/jev-router-copilot) — inferred / community-sdk — ⭐0
+- `+` [delikesance/jev-highlighter](https://github.com/delikesance/jev-highlighter) — inferred / other — ⭐0
+- `+` [relliex/fake_jev_webuse](https://github.com/relliex/fake_jev_webuse) — inferred / agent-tooling — ⭐0
+- `+` [dentjaiai/jev-skill-routing](https://github.com/dentjaiai/jev-skill-routing) — inferred / agent-tooling — ⭐0
