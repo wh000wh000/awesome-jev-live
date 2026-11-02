@@ -7730,3 +7730,18 @@
 - `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
 - `+` [dddd2024/jev-structured-evidence-conflict-data](https://github.com/dddd2024/jev-structured-evidence-conflict-data) — inferred / research-models — ⭐0
 - `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
+
+## 2026-11-02T19:54:51+08:00
+- 收录总数 **826**；本次更新新增 **12**
+- `+` [bodepudimuneendra-netizen/ConsciousDB](https://github.com/bodepudimuneendra-netizen/ConsciousDB) — observed / community-sdk — ⭐53
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [8itlab/reflex-computer-use](https://github.com/8itlab/reflex-computer-use) — inferred / agent-tooling — ⭐4
+- `+` [Torturing Jev](https://news.ycombinator.com/item?id=50299835) — observed / media-discussions — ⭐4
+- `+` [What it costs to moderate 500 daily doodles with Jev](https://news.ycombinator.com/item?id=50302722) — observed / media-discussions — ⭐3
+- `+` [ali-master/jev-browser-agent](https://github.com/ali-master/jev-browser-agent) — inferred / agent-tooling — ⭐2
+- `+` [Video deconstructing how Jev works](https://news.ycombinator.com/item?id=50312710) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [keiffff/jev-kit](https://github.com/keiffff/jev-kit) — inferred / agent-tooling — ⭐1
+- `+` [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) — inferred / agent-tooling — ⭐0
+- `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
+- `+` [corolin/vibrato](https://github.com/corolin/vibrato) — observed / media-discussions — ⭐0
