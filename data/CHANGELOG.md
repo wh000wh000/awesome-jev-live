@@ -7647,3 +7647,19 @@
 - `+` [axel-sirota/getting_started_jev](https://github.com/axel-sirota/getting_started_jev) — inferred / other — ⭐0
 - `+` [divyekant/jev-qa](https://github.com/divyekant/jev-qa) — inferred / community-sdk — ⭐0
 - `+` [debuffjp/decidejs](https://github.com/debuffjp/decidejs) — observed / evaluation — ⭐0
+
+## 2026-11-02T08:58:45+08:00
+- 收录总数 **699**；本次更新新增 **13**
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐12
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [skydiving94/klint](https://github.com/skydiving94/klint) — inferred / research-models — ⭐5
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [anderson188/jev-people-search-api-examples](https://github.com/anderson188/jev-people-search-api-examples) — inferred / apps-demos — ⭐1
+- `+` [neko-rr/physical-ai-final-jev-quad](https://github.com/neko-rr/physical-ai-final-jev-quad) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [chepyle/jev-test](https://github.com/chepyle/jev-test) — inferred / evaluation — ⭐0
+- `+` [debuffjp/decidekit](https://github.com/debuffjp/decidekit) — observed / evaluation — ⭐0
+- `+` [Ong-pogs/ai-vs-ai-prediction-markets](https://github.com/Ong-pogs/ai-vs-ai-prediction-markets) — observed / agent-tooling — ⭐0
+- `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
