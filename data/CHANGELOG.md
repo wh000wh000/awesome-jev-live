@@ -7792,3 +7792,17 @@
 - `+` [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) — inferred / other — ⭐0
 - `+` [gryszzz/jev-paper](https://github.com/gryszzz/jev-paper) — inferred / research-models — ⭐0
 - `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐0
+
+## 2026-11-03T06:29:46+08:00
+- 收录总数 **824**；本次更新新增 **11**
+- `+` [taeold/djev-run](https://github.com/taeold/djev-run) — unverified / evaluation — ⭐586
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Endgame-Labs/understudy](https://github.com/Endgame-Labs/understudy) — observed / research-models — ⭐5
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [hectorj2f/jev-router](https://github.com/hectorj2f/jev-router) — inferred / agent-tooling — ⭐1
+- `+` [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) — inferred / agent-tooling — ⭐1
+- `+` [QuaanNguyen/xor](https://github.com/QuaanNguyen/xor) — observed / agent-tooling — ⭐1
+- `+` [davidpobi/JevTown](https://github.com/davidpobi/JevTown) — inferred / agent-tooling — ⭐0
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
