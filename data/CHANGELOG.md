@@ -7706,3 +7706,12 @@
 - `+` [landeqiming666/jev-stocks](https://github.com/landeqiming666/jev-stocks) — inferred / other — ⭐0
 - `+` [ragman53/pi-jev-orchestrator](https://github.com/ragman53/pi-jev-orchestrator) — inferred / routing-guardrails — ⭐0
 - `+` [lysandre/JEV-27B-VL](https://huggingface.co/lysandre/JEV-27B-VL) — observed / research-models — ⭐0
+
+## 2026-11-02T15:41:42+08:00
+- 收录总数 **816**；本次更新新增 **6**
+- `+` [OmniJev/Flide](https://github.com/OmniJev/Flide) — inferred / agent-tooling — ⭐8
+- `+` [gisbi-kim/jev-mnist-tutorial](https://github.com/gisbi-kim/jev-mnist-tutorial) — inferred / research-models — ⭐1
+- `+` [sgstq0811/VerdictAD-Jev-AD](https://github.com/sgstq0811/VerdictAD-Jev-AD) — inferred / evaluation — ⭐1
+- `+` [liangkingjin/jev-demo](https://github.com/liangkingjin/jev-demo) — inferred / apps-demos — ⭐0
+- `+` [nani-stack/gmail-auto-cleanup](https://github.com/nani-stack/gmail-auto-cleanup) — observed / routing-guardrails — ⭐0
+- `+` [WaynezProg/jev-kit](https://github.com/WaynezProg/jev-kit) — inferred / agent-tooling — ⭐0
