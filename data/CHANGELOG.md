@@ -7663,3 +7663,32 @@
 - `+` [debuffjp/decidekit](https://github.com/debuffjp/decidekit) — observed / evaluation — ⭐0
 - `+` [Ong-pogs/ai-vs-ai-prediction-markets](https://github.com/Ong-pogs/ai-vs-ai-prediction-markets) — observed / agent-tooling — ⭐0
 - `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
+
+## 2026-11-02T11:13:11+08:00
+- 收录总数 **824**；本次更新新增 **140**
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐121
+- `+` [theNetworkChuck/jev-guide](https://github.com/theNetworkChuck/jev-guide) — observed / agent-tooling — ⭐62
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐51
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐40
+- `+` [Brainwires/jevwire](https://github.com/Brainwires/jevwire) — unverified / community-sdk — ⭐25
+- `+` [Singularity-Compute/super-decider](https://github.com/Singularity-Compute/super-decider) — inferred / agent-tooling — ⭐19
+- `+` [everafterlabs/jes](https://github.com/everafterlabs/jes) — unverified / agent-tooling — ⭐17
+- `+` [shibing624/train-jev](https://github.com/shibing624/train-jev) — inferred / evaluation — ⭐17
+- `+` [TrustifAI/typed_evals](https://github.com/TrustifAI/typed_evals) — observed / agent-tooling — ⭐16
+- `+` [SamratDuttaOfficial/WaterSheep](https://github.com/SamratDuttaOfficial/WaterSheep) — inferred / evaluation — ⭐14
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐13
+- `+` [genai-craft/openvons](https://github.com/genai-craft/openvons) — unverified / evaluation — ⭐13
+- `+` [Nhahan/Xevn](https://github.com/Nhahan/Xevn) — inferred / evaluation — ⭐13
+- `+` [leofmarciano/groot](https://github.com/leofmarciano/groot) — inferred / routing-guardrails — ⭐13
+- `+` [GeekLinkDev/jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator) — inferred / community-sdk — ⭐10
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐10
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐10
+- `+` [alexei-led/pi-model-router](https://github.com/alexei-led/pi-model-router) — inferred / agent-tooling — ⭐10
+- `+` [miniLV/Jev-Auto-Router](https://github.com/miniLV/Jev-Auto-Router) — inferred / agent-tooling — ⭐10
+- `+` [anisselbd/jev-phishing-bench](https://github.com/anisselbd/jev-phishing-bench) — inferred / agent-tooling — ⭐10
+- `+` [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — inferred / community-sdk — ⭐9
+- `+` [tamnd/kime](https://github.com/tamnd/kime) — unverified / agent-tooling — ⭐8
+- `+` [coderexpert123/jev-browser-wingman](https://github.com/coderexpert123/jev-browser-wingman) — inferred / agent-tooling — ⭐7
+- `+` [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) — inferred / evaluation — ⭐7
+- `+` [KanishkaGD/decision-rerank](https://github.com/KanishkaGD/decision-rerank) — unverified / evaluation — ⭐5
+- …另有 115 条新增
