@@ -7745,3 +7745,11 @@
 - `+` [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) — inferred / agent-tooling — ⭐0
 - `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
 - `+` [corolin/vibrato](https://github.com/corolin/vibrato) — observed / media-discussions — ⭐0
+
+## 2026-11-02T22:01:42+08:00
+- 收录总数 **817**；本次更新新增 **5**
+- `+` [socai-io/jev-social](https://github.com/socai-io/jev-social) — inferred / community-sdk — ⭐195
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [laxtiz/opencode-vllm-sr-auth](https://github.com/laxtiz/opencode-vllm-sr-auth) — unverified / agent-tooling — ⭐5
+- `+` [How to Build a Decision Model Like Jev](https://news.ycombinator.com/item?id=50336359) — observed / media-discussions — ⭐2
+- `+` [eshitakundu/jev-flow](https://github.com/eshitakundu/jev-flow) — inferred / agent-tooling — ⭐0
