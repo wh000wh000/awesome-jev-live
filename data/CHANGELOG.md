@@ -7715,3 +7715,18 @@
 - `+` [liangkingjin/jev-demo](https://github.com/liangkingjin/jev-demo) — inferred / apps-demos — ⭐0
 - `+` [nani-stack/gmail-auto-cleanup](https://github.com/nani-stack/gmail-auto-cleanup) — observed / routing-guardrails — ⭐0
 - `+` [WaynezProg/jev-kit](https://github.com/WaynezProg/jev-kit) — inferred / agent-tooling — ⭐0
+
+## 2026-11-02T17:48:25+08:00
+- 收录总数 **825**；本次更新新增 **12**
+- `+` [HC-Guo/Self-Evolving_HealthJev](https://github.com/HC-Guo/Self-Evolving_HealthJev) — inferred / agent-tooling — ⭐138
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [0mis/astra-jev-new-vegas](https://github.com/0mis/astra-jev-new-vegas) — inferred / agent-tooling — ⭐2
+- `+` [harmanbassi/jev-agent-browser](https://github.com/harmanbassi/jev-agent-browser) — inferred / community-sdk — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [baldellimtt/systemone-lab](https://github.com/baldellimtt/systemone-lab) — observed / routing-guardrails — ⭐1
+- `+` [0mis/astra-jev-left4dead2](https://github.com/0mis/astra-jev-left4dead2) — inferred / apps-demos — ⭐0
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
+- `+` [dddd2024/jev-structured-evidence-conflict-data](https://github.com/dddd2024/jev-structured-evidence-conflict-data) — inferred / research-models — ⭐0
+- `+` [ranpin/jevCabin](https://github.com/ranpin/jevCabin) — inferred / other — ⭐0
