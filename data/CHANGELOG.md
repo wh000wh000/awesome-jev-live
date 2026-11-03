@@ -7927,3 +7927,15 @@
 - `+` [happydesk213124/JevArchive2](https://github.com/happydesk213124/JevArchive2) — inferred / other — ⭐0
 - `+` [clawgeek/jev-trader-replica](https://github.com/clawgeek/jev-trader-replica) — inferred / apps-demos — ⭐0
 - `+` [filip-a-9/jev-prompt](https://github.com/filip-a-9/jev-prompt) — inferred / agent-tooling — ⭐0
+
+## 2026-11-04T03:34:22+08:00
+- 收录总数 **807**；本次更新新增 **9**
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐32
+- `+` [Alex-Alas/jev-guard](https://github.com/Alex-Alas/jev-guard) — inferred / other — ⭐0
+- `+` [pyck-ai/jev-cli](https://github.com/pyck-ai/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [m-esm/jev-model-router](https://github.com/m-esm/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [tomyhareb-512/jev-gemini-csv-mapping](https://github.com/tomyhareb-512/jev-gemini-csv-mapping) — inferred / evaluation — ⭐0
+- `+` [mahirmalik030/Jev-vs-LLMs](https://github.com/mahirmalik030/Jev-vs-LLMs) — observed / evaluation — ⭐0
+- `+` [lucasgm1997/automation_with_llm_and_jev](https://github.com/lucasgm1997/automation_with_llm_and_jev) — inferred / apps-demos — ⭐0
+- `+` [ys-qu/jev-ad-website](https://github.com/ys-qu/jev-ad-website) — inferred / other — ⭐0
+- `+` [mradermacher/JEV-27B-VL-GGUF](https://huggingface.co/mradermacher/JEV-27B-VL-GGUF) — observed / research-models — ⭐0
