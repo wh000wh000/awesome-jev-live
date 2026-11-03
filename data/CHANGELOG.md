@@ -7939,3 +7939,13 @@
 - `+` [lucasgm1997/automation_with_llm_and_jev](https://github.com/lucasgm1997/automation_with_llm_and_jev) — inferred / apps-demos — ⭐0
 - `+` [ys-qu/jev-ad-website](https://github.com/ys-qu/jev-ad-website) — inferred / other — ⭐0
 - `+` [mradermacher/JEV-27B-VL-GGUF](https://huggingface.co/mradermacher/JEV-27B-VL-GGUF) — observed / research-models — ⭐0
+
+## 2026-11-04T05:40:33+08:00
+- 收录总数 **808**；本次更新新增 **7**
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐12
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [mcgalleg/grokbot-jev-jobs](https://github.com/mcgalleg/grokbot-jev-jobs) — inferred / routing-guardrails — ⭐2
+- `+` [darup67/jev-client](https://github.com/darup67/jev-client) — inferred / community-sdk — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / agent-tooling — ⭐1
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+- `+` [andrevandal/pi-classifier-tools-skills](https://github.com/andrevandal/pi-classifier-tools-skills) — observed / agent-tooling — ⭐0
