@@ -7806,3 +7806,16 @@
 - `+` [QuaanNguyen/xor](https://github.com/QuaanNguyen/xor) — observed / agent-tooling — ⭐1
 - `+` [davidpobi/JevTown](https://github.com/davidpobi/JevTown) — inferred / agent-tooling — ⭐0
 - `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+
+## 2026-11-03T08:36:04+08:00
+- 收录总数 **829**；本次更新新增 **10**
+- `+` [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) — inferred / community-sdk — ⭐50
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [Create your own Jev using embeddings](https://news.ycombinator.com/item?id=50345316) — observed / media-discussions — ⭐2
+- `+` [yo4e/JevPip](https://github.com/yo4e/JevPip) — inferred / research-models — ⭐0
+- `+` [microsoft/amplifier-module-provider-jev](https://github.com/microsoft/amplifier-module-provider-jev) — inferred / other — ⭐0
+- `+` [ciaran-slow/jev-basics](https://github.com/ciaran-slow/jev-basics) — inferred / agent-tooling — ⭐0
+- `+` [Ramolisdenneyous/Drone-Commander-Powered-by-Jev](https://github.com/Ramolisdenneyous/Drone-Commander-Powered-by-Jev) — inferred / apps-demos — ⭐0
+- `+` [c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees) — inferred / agent-tooling — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [bertran2born/jev-classifier](https://github.com/bertran2born/jev-classifier) — inferred / other — ⭐0
