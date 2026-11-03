@@ -7912,3 +7912,18 @@
 - `+` [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) — inferred / evaluation — ⭐7
 - `+` [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) — observed / media-discussions — ⭐6
 - …另有 107 条新增
+
+## 2026-11-04T01:27:48+08:00
+- 收录总数 **809**；本次更新新增 **12**
+- `+` [jiwidi/jiwo](https://github.com/jiwidi/jiwo) — unverified / evaluation — ⭐316
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐38
+- `+` [hndrr/ComfyUI-Jev](https://github.com/hndrr/ComfyUI-Jev) — inferred / other — ⭐7
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐5
+- `+` [novacon/ohmyjev](https://github.com/novacon/ohmyjev) — inferred / agent-tooling — ⭐3
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [elcann7/jev-issue-triage](https://github.com/elcann7/jev-issue-triage) — inferred / routing-guardrails — ⭐0
+- `+` [KevinZjYang/jev-assistant-cn](https://github.com/KevinZjYang/jev-assistant-cn) — inferred / other — ⭐0
+- `+` [seika-afk/jev-npc](https://github.com/seika-afk/jev-npc) — inferred / apps-demos — ⭐0
+- `+` [happydesk213124/JevArchive2](https://github.com/happydesk213124/JevArchive2) — inferred / other — ⭐0
+- `+` [clawgeek/jev-trader-replica](https://github.com/clawgeek/jev-trader-replica) — inferred / apps-demos — ⭐0
+- `+` [filip-a-9/jev-prompt](https://github.com/filip-a-9/jev-prompt) — inferred / agent-tooling — ⭐0
