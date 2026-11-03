@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <b>繁體中文</b> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **即時索引** · 上次同步: `2026-11-03T12:44:59+08:00` (UTC+8)
-> · 條目: **824** · 本輪新增: **17** · 實作語言: **28**
+> **即時索引** · 上次同步: `2026-11-03T14:50:53+08:00` (UTC+8)
+> · 條目: **824** · 本輪新增: **5** · 實作語言: **28**
 
 <sub>以下每個條目都由本儲存庫的管線收集、篩選並複查。數字與時間戳記均來自資料來源，而非手工撰寫的快照。</sub>
 
@@ -75,14 +75,14 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/superagents-lab--jev-search/142baf14936c1714.png" width="100%" alt="TianyuCodings/NanoJev">
 <b>🎮 <a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b>
-<sub>⭐552 · TypeScript · 👁️ observed</sub>
+<sub>⭐553 · TypeScript · 👁️ observed</sub>
 <sub>使用 TypeSafe 的 Jev 搜尋網路：來源選擇、查詢理解與相關性排序。使用 Search1API 建置。</sub>
 </td>
 <td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/RobGruhl/jev-learnings/main/docs/media/what-are-we-asking-for-rock-thumbnail.png" width="100%" alt="superagents-lab/jev-search">
-<b>📰 <a href="https://github.com/RobGruhl/jev-learnings">RobGruhl/jev-learnings</a></b>
-<sub>⭐0 · HTML · 🔎 inferred</sub>
-<sub>Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to engineering a code → decision model → LLM → human cascade</sub>
+<img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/imrishit98--jev.aitools.fyi/44d7d65e69a55c03.png" width="100%" alt="superagents-lab/jev-search">
+<b>📰 <a href="https://github.com/imrishit98/jev.aitools.fyi">imrishit98/jev.aitools.fyi</a></b>
+<sub>⭐3 · TypeScript · 🔎 inferred</sub>
+<sub>Jev is all the rage right now and this directory lists all things Jev! Docs, SDKs, and the full tool map one click away.</sub>
 </td>
 </tr>
 </table>
@@ -93,13 +93,13 @@
 - [條目分級方式](#條目分級方式)
 - [官方 SDK 與開發者工具](#官方-sdk-與開發者工具) — **6**
 - [社群客戶端、SDK 與轉接器](#社群客戶端sdk-與轉接器) — **140**
-- [Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent](#agent-工具鏈mcp鉤子閘門與編碼-agent) — **251**
+- [Agent 工具鏈：MCP、鉤子、閘門與編碼 Agent](#agent-工具鏈mcp鉤子閘門與編碼-agent) — **249**
 - [路由、護欄與核准](#路由護欄與核准) — **67**
 - [評估、校準與基準測試](#評估校準與基準測試) — **92**
 - [開放重現、權重與架構研究](#開放重現權重與架構研究) — **56**
-- [應用程式、遊戲、機器人與互動示範](#應用程式遊戲機器人與互動示範) — **51**
+- [應用程式、遊戲、機器人與互動示範](#應用程式遊戲機器人與互動示範) — **52**
 - [文章、討論與同類清單](#文章討論與同類清單) — **83**
-- [其他專案](#其他專案) — **78**
+- [其他專案](#其他專案) — **79**
 - [依實作語言劃分的專案](#依實作語言劃分的專案)
 
 ## Jev 是什麼？
@@ -132,7 +132,7 @@ Jev 是 TypeSafe AI 的第一個 **System One model**。它不寫散文。它接
 全數由 TypeSafe 官方發布。從這裡開始。
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2864 · ✅ official · 10 天 · ⭐-1</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2864 · ✅ official · 10 天</summary>
 
 ##### 📝 摘要
 
@@ -149,11 +149,11 @@ Jev 是 TypeSafe AI 的第一個 **System One model**。它不寫散文。它接
 
 ##### 📊 資料
 
-| 指標     | 值            |
-| -------- | ------------- |
-| Star 數  | **2864** (-1) |
-| 最近推送 | 2026-10-23    |
-| 首次收錄 | 2026-09-18    |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **2864**   |
+| 最近推送 | 2026-10-23 |
+| 首次收錄 | 2026-09-18 |
 
 </details>
 
@@ -299,7 +299,7 @@ evals.typesafe.ai 工作流程程式碼已發布
 針對 System One 端點的型別化客戶端，涵蓋社群已經著手的各種語言。
 
 <details>
-<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐182 · Jupyter · 👁️ observed · 45 天</summary>
+<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐183 · Jupyter · 👁️ observed · 45 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -315,11 +315,11 @@ Typesafe.ai System One Model Jev 透過使用相鄰關係分類器瀏覽 Neo4j �
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **182**    |
-| 最近推送 | 2026-09-18 |
-| 首次收錄 | 2026-10-28 |
+| 指標     | 值           |
+| -------- | ------------ |
+| Star 數  | **183** (+1) |
+| 最近推送 | 2026-09-18   |
+| 首次收錄 | 2026-10-28   |
 
 </details>
 
@@ -382,7 +382,7 @@ grep，但模式是一段描述。使用 TypeSafe 的 Jev 決策模型依意義�
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/john-rocky/coreai-kit">john-rocky/coreai-kit</a></b> · ⭐123 · Swift · 👁️ observed · 1 天</summary>
+<summary>🧰 <b><a href="https://github.com/john-rocky/coreai-kit">john-rocky/coreai-kit</a></b> · ⭐123 · Swift · 👁️ observed · 2 天</summary>
 
 ##### 📝 摘要
 
@@ -677,7 +677,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐13457 · Python · 🔎 inferred · 0 天 · ⭐+10</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐13462 · Python · 🔎 inferred · 0 天 · ⭐+5</summary>
 
 ##### 📝 摘要
 
@@ -693,11 +693,11 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 
 ##### 📊 資料
 
-| 指標     | 值              |
-| -------- | --------------- |
-| Star 數  | **13457** (+10) |
-| 最近推送 | 2026-11-03      |
-| 首次收錄 | 2026-09-20      |
+| 指標     | 值             |
+| -------- | -------------- |
+| Star 數  | **13462** (+5) |
+| 最近推送 | 2026-11-03     |
+| 首次收錄 | 2026-09-20     |
 
 🏷 `agent` · `backtesting` · `binance` · `crypto` · `exchange` · `finance` · `fintech` · `forex`
 
@@ -711,7 +711,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐3157 · TypeScript · 🔎 inferred · 1 天 · ⭐+2</summary>
+<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐3158 · TypeScript · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -729,7 +729,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 
 | 指標     | 值            |
 | -------- | ------------- |
-| Star 數  | **3157** (+2) |
+| Star 數  | **3158** (+1) |
 | 最近推送 | 2026-11-01    |
 | 首次收錄 | 2026-10-29    |
 
@@ -926,6 +926,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 - [chayan-bit/Jev-Frame](https://github.com/chayan-bit/Jev-Frame) - Typed, auditable Jev decisions for Python agents, with an optional shared…
 - [exfoca/decision-model-lab-4JEV](https://github.com/exfoca/decision-model-lab-4JEV) - DML is a reproducible harness for evaluating small, local decision models under…
 - [Hyper-AI-Lab/openclaw-jev](https://github.com/Hyper-AI-Lab/openclaw-jev) - OpenClaw agents 的生產控制平面：使用 Jev 進行接收路由、Temporal 編排、每次回覆前的 Process Evaluator…
+- [lee-lou2/jev-tree](https://github.com/lee-lou2/jev-tree) - Hierarchical knowledge service: a model carries context down a taxonomy tree to…
 - [abirshhishirroy/mini-jev](https://github.com/abirshhishirroy/mini-jev) - A custom Jev-style decision model built from scratch on Qwen2.5-3B.
 - [AIAnytime/Jev-Router](https://github.com/AIAnytime/Jev-Router) - Decision-first, OpenAI-compatible AI router powered by Jev typed decisions.
 - [CMaintz/jev-tools](https://github.com/CMaintz/jev-tools) - 建構於 TypeSafe AI 的 Jev 之上的 TypeScript 工具：代理工具呼叫防護欄、GitHub 問題分流 Action，以及大量分類…
@@ -942,7 +943,6 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 - [Ridlo543/jev-judge](https://github.com/Ridlo543/jev-judge) - Universal Model Context Protocol (MCP) server and CLI runner for TypeSafe Jev…
 - [royalskynet/jev-gate-mcp](https://github.com/royalskynet/jev-gate-mcp) - Governed Jev decision gateway for GPT, Claude, and MCP clients。
 - [shetautnetjer/jev-cli](https://github.com/shetautnetjer/jev-cli) - Clean-room CLI for TypeSafe System One / Jev Decision Contracts, search, and…
-- [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) - Retrieve and score Stellar ecosystem source evidence with Jev.
 - [sunjongos/jev-typesafe-gatekeeper](https://github.com/sunjongos/jev-typesafe-gatekeeper) - World-Class Pure System 1 AI Decision &amp; 90/10 Hybrid Gatekeeper Skill powered…
 - [swami8791/jev-judge-mcp](https://github.com/swami8791/jev-judge-mcp) - Owner-private ChatGPT integration for TypeSafe Jev structured evaluations.
 - [SykkoAtHome/MCP_Typesafe_JEV](https://github.com/SykkoAtHome/MCP_Typesafe_JEV) - Domain-agnostic MCP server for TypeSafe Jev (System One) evaluation engine…
@@ -983,7 +983,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 成長最快的分類：在 Agent 的下一個動作之前放入型別化判斷的鉤子、MCP 伺服器與閘門。
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7835 · TypeScript · 🔎 inferred · 45 天 · ⭐+3</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7834 · TypeScript · 🔎 inferred · 46 天 · ⭐-1</summary>
 
 ##### 📝 摘要
 
@@ -1003,7 +1003,7 @@ Claude Code 外掛程式，以 Jev 個決策取代壓縮摘要：每次工具呼
 
 | 指標     | 值            |
 | -------- | ------------- |
-| Star 數  | **7835** (+3) |
+| Star 數  | **7834** (-1) |
 | 最近推送 | 2026-09-18    |
 | 首次收錄 | 2026-10-29    |
 
@@ -1044,7 +1044,7 @@ Claude Code 外掛程式，以 Jev 個決策取代壓縮摘要：每次工具呼
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐274 · JavaScript · 🔎 inferred · 41 天 · ⭐-1</summary>
+<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐274 · JavaScript · 🔎 inferred · 41 天</summary>
 
 ##### 📝 摘要
 
@@ -1062,11 +1062,11 @@ Claude Code 外掛程式，以 Jev 個決策取代壓縮摘要：每次工具呼
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **274** (-1) |
-| 最近推送 | 2026-09-22   |
-| 首次收錄 | 2026-10-28   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **274**    |
+| 最近推送 | 2026-09-22 |
+| 首次收錄 | 2026-10-28 |
 
 🏷 `ai` · `codex` · `jev` · `llm` · `macos` · `routing` · `typesafe`
 
@@ -1223,7 +1223,7 @@ Awesome Jev：一份有來源支持的 TypeSafe 的 System One 模型實地指�
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/walidboulanouar/awesome-jev-use-cases">walidboulanouar/awesome-jev-use-cases</a></b> · ⭐478 · 👁️ observed · 37 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/walidboulanouar/awesome-jev-use-cases">walidboulanouar/awesome-jev-use-cases</a></b> · ⭐478 · 👁️ observed · 37 天</summary>
 
 ##### 📝 摘要
 
@@ -1240,18 +1240,18 @@ TypeSafe AI Jev 使用案例的 Awesome 清單：74 個依 likes 排名的 demos
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **478** (+1) |
-| 最近推送 | 2026-09-26   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **478**    |
+| 最近推送 | 2026-09-26 |
+| 首次收錄 | 2026-10-29 |
 
 🏷 `ai-guardrails` · `ai-router` · `awesome` · `awesome-list` · `classification` · `claude-code` · `decision-model` · `examples`
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/kraayenjon/awesome-jev">kraayenjon/awesome-jev</a></b> · ⭐204 · 👁️ observed · 36 天</summary>
+<summary>🤖 <b><a href="https://github.com/kraayenjon/awesome-jev">kraayenjon/awesome-jev</a></b> · ⭐204 · 👁️ observed · 37 天</summary>
 
 ##### 📝 摘要
 
@@ -1308,7 +1308,7 @@ TypeSafe AI Jev 使用案例的 Awesome 清單：74 個依 likes 排名的 demos
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/jev-pruner">tamaratran/jev-pruner</a></b> · ⭐167 · TypeScript · 👁️ observed · 33 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/jev-pruner">tamaratran/jev-pruner</a></b> · ⭐167 · TypeScript · 👁️ observed · 33 天</summary>
 
 ##### 📝 摘要
 
@@ -1326,11 +1326,11 @@ Claude Code 外掛：在模型看到冗長的 Bash 輸出前，使用 TypeSafe J
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **167** (+1) |
-| 最近推送 | 2026-09-30   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **167**    |
+| 最近推送 | 2026-09-30 |
+| 首次收錄 | 2026-10-29 |
 
 </details>
 
@@ -1437,7 +1437,7 @@ System One 模型（TypeSafe Jev，開源 Kev）能否在 agent guardrail callba
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/dolevhayut/resurface">dolevhayut/resurface</a></b> · TypeScript · 👁️ observed · 30 天</summary>
+<summary>🤖 <b><a href="https://github.com/dolevhayut/resurface">dolevhayut/resurface</a></b> · TypeScript · 👁️ observed · 31 天</summary>
 
 ##### 📝 摘要
 
@@ -1471,7 +1471,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24102 · Python · 🔎 inferred · 2 天 · ⭐+5</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24107 · Python · 🔎 inferred · 2 天 · ⭐+5</summary>
 
 ##### 📝 摘要
 
@@ -1489,7 +1489,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 
 | 指標     | 值             |
 | -------- | -------------- |
-| Star 數  | **24102** (+5) |
+| Star 數  | **24107** (+5) |
 | 最近推送 | 2026-10-31     |
 | 首次收錄 | 2026-10-29     |
 
@@ -1503,7 +1503,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8255 · Go · 🔎 inferred · 15 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8256 · Go · 🔎 inferred · 15 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -1521,7 +1521,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 
 | 指標     | 值            |
 | -------- | ------------- |
-| Star 數  | **8255** (+1) |
+| Star 數  | **8256** (+1) |
 | 最近推送 | 2026-10-19    |
 | 首次收錄 | 2026-10-29    |
 
@@ -1539,7 +1539,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 233</sub></summary>
+<summary><b>本分類更多項目</b> <sub>· 231</sub></summary>
 
 - [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) - 將 TypeSafe Jev 作為 Pi coding agent 的決策層：經測量的工具呼叫閘門，加上 jev_ask，以取得具類型且經校準的答案。
 - [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) - 用於撰寫及改進呼叫 Jev（TypeSafe 的 System One 模型）之程式的技能。
@@ -1676,6 +1676,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [jms-dcksn/jev-pii-guardrail](https://github.com/jms-dcksn/jev-pii-guardrail) - 一個 UiPath 編碼代理，在 LLM 邊界上使用自訂 PII 偵測防護欄，並以 TypeSafe Jev 模型作為 LangChain…
 - [majiayu000/awesome-jev](https://github.com/majiayu000/awesome-jev) - 精選的 Jev／TypeSafe System One 專案、SDKs、教學與評估清單。英文和簡體中文.
 - [mywwave/cursor-jev](https://github.com/mywwave/cursor-jev) - 透過 TypeSafe Jev 路由子 Agent 並將 Choice、Score 與 Noul 公開為 MCP 工具的 Cursor 外掛.
+- [pyxl-dev/jev-router](https://github.com/pyxl-dev/jev-router) - Claude Code mod: Jev picks the reasoning effort of each message。
 - [rahilmavani/piedpiper-jev-buildathon](https://github.com/rahilmavani/piedpiper-jev-buildathon) - Team piedpiper：failproofai + Jev guardrails，阻止 Helix IT 代理失敗（Jev Buildathon）。
 - [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) - DeepSeek Harness WSL plugin: TypeSafe Jev / OpenRouter System One。
 - [17671454333/jev-cognitive-mcp](https://github.com/17671454333/jev-cognitive-mcp) - 3+1 Cognitive Hierarchy Toolkit &amp; Model Context Protocol (MCP) Server for…
@@ -1697,10 +1698,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [jbatra-umeey/jev-decisionops](https://github.com/jbatra-umeey/jev-decisionops) - 適用於代理式 AI 的六種 Jev 決策工作流程：模型路由、防護機制、工具呼叫閘控、重新排序、輸出評估，以及基於信心的自主性.
 - [JoaoClemer/jev-lab](https://github.com/JoaoClemer/jev-lab) - O Jev（TypeSafe AI）作為即時 guardrail，以及作為商務對話代理的預評估器.
 - [keiffff/jev-kit](https://github.com/keiffff/jev-kit) - Jev toolkit for building fast, testable AI decision points for agent…
-- [Lanternko/jev-hearthstone](https://github.com/Lanternko/jev-hearthstone) - 讓 Jev 模型打爐石戰記的機器人：讀 Power.log 判讀盤面，規則與搜尋剪枝後由模型選一步，再用滑鼠點出來。含棄牌術打法與無人值守天梯腳本.
 - [lijiawei255/jev-tune](https://github.com/lijiawei255/jev-tune) - Jev-inspired calibrated decision &amp; safety shell for typed PID autotuning…
-- [Pinutss/jev-mcp-router](https://github.com/Pinutss/jev-mcp-router) - Select relevant MCP tools under a context-token budget, without executing them.
-- [pyxl-dev/jev-router](https://github.com/pyxl-dev/jev-router) - Claude Code mod: Jev picks the reasoning effort of each message。
 - [zhuyansen/awesome-typesafe-jev](https://github.com/zhuyansen/awesome-typesafe-jev) - 建置於 TypeSafe 的 Jev 決策模型之上的開源專案：開放複製品、代理程式、開發工具、SDKs 和 MCP 伺服器、應用程式.
 - [zirubak/ziru-jev-codex-router](https://github.com/zirubak/ziru-jev-codex-router) - Quality-aware model and effort routing for macOS Codex Desktop — private preview。
 - [ZJU-OmniAI/Awesome-Jev](https://github.com/ZJU-OmniAI/Awesome-Jev) - A curated survey of Jev: model foundations, agent applications, and embodied…
@@ -1871,7 +1869,7 @@ Eight minimal working examples of TypeSafe's Jev (a System One model) applied to
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/Sarim-MBZUAI/awesome-jev-security">Sarim-MBZUAI/awesome-jev-security</a></b> · ⭐7 · 👁️ observed · 11 天</summary>
+<summary>🛡️ <b><a href="https://github.com/Sarim-MBZUAI/awesome-jev-security">Sarim-MBZUAI/awesome-jev-security</a></b> · ⭐7 · 👁️ observed · 12 天</summary>
 
 ##### 📝 摘要
 
@@ -2099,7 +2097,7 @@ Jev（TypeSafe AI System One Model）研究 — 以韓文筆記和 TypeScript mo
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐34911 · Python · 🔎 inferred · 1 天 · ⭐+13</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐34915 · Python · 🔎 inferred · 1 天 · ⭐+4</summary>
 
 ##### 📝 摘要
 
@@ -2115,11 +2113,11 @@ Jev（TypeSafe AI System One Model）研究 — 以韓文筆記和 TypeScript mo
 
 ##### 📊 資料
 
-| 指標     | 值              |
-| -------- | --------------- |
-| Star 數  | **34911** (+13) |
-| 最近推送 | 2026-11-01      |
-| 首次收錄 | 2026-09-23      |
+| 指標     | 值             |
+| -------- | -------------- |
+| Star 數  | **34915** (+4) |
+| 最近推送 | 2026-11-01     |
+| 首次收錄 | 2026-09-23     |
 
 🏷 `calibration` · `classification` · `decision-model` · `huggingface` · `jev` · `modernbert` · `multilingual` · `nlp`
 
@@ -2690,7 +2688,7 @@ ReflexBench —— 用於 System One 模型與型別化決策引擎的開放基�
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/bydeng01/scientific-decision-eval">bydeng01/scientific-decision-eval</a></b> · ⭐4 · Python · 👁️ observed · 3 天</summary>
+<summary>🧪 <b><a href="https://github.com/bydeng01/scientific-decision-eval">bydeng01/scientific-decision-eval</a></b> · ⭐4 · Python · 👁️ observed · 4 天</summary>
 
 ##### 📝 摘要
 
@@ -2717,7 +2715,7 @@ Code and data for evaluating Jev, a System One model, on scientific decisions an
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/debuffjp/decidekit">debuffjp/decidekit</a></b> · ⭐3 · TypeScript · 👁️ observed · 0 天 · ⭐+2</summary>
+<summary>🧪 <b><a href="https://github.com/debuffjp/decidekit">debuffjp/decidekit</a></b> · ⭐4 · TypeScript · 👁️ observed · 0 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -2735,7 +2733,7 @@ A System One model in the browser: typed, calibrated text decisions on the user'
 
 | 指標     | 值         |
 | -------- | ---------- |
-| Star 數  | **3** (+2) |
+| Star 數  | **4** (+1) |
 | 最近推送 | 2026-11-02 |
 | 首次收錄 | 2026-11-02 |
 
@@ -2776,7 +2774,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1568 · Python · 🔎 inferred · 12 天 · ⭐+2</summary>
+<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1568 · Python · 🔎 inferred · 12 天</summary>
 
 ##### 📝 摘要
 
@@ -2792,11 +2790,11 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 
 ##### 📊 資料
 
-| 指標     | 值            |
-| -------- | ------------- |
-| Star 數  | **1568** (+2) |
-| 最近推送 | 2026-10-21    |
-| 首次收錄 | 2026-09-22    |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **1568**   |
+| 最近推送 | 2026-10-21 |
+| 首次收錄 | 2026-09-22 |
 
 🏷 `calibration` · `decision-model` · `jev` · `jev-model` · `llm` · `system-one` · `transformers` · `vllm`
 
@@ -2810,7 +2808,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐159 · Python · 🔎 inferred · 35 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐159 · Python · 🔎 inferred · 35 天</summary>
 
 ##### 📝 摘要
 
@@ -2826,11 +2824,11 @@ JevK5：TypeSafe Jev 的開放權重替代方案。一次前向傳播即可取�
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **159** (+1) |
-| 最近推送 | 2026-09-28   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **159**    |
+| 最近推送 | 2026-09-28 |
+| 首次收錄 | 2026-10-29 |
 
 🏷 `calibration` · `decision-model` · `jev` · `jev-alternative` · `jevbench` · `lora` · `qwen` · `system-one`
 
@@ -3336,7 +3334,7 @@ clawd-JEV-trading machine: JEV-on-Solana paper trader. TypeSafe jev-latest brain
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://huggingface.co/lysandre/JEV-27B-VL">lysandre/JEV-27B-VL</a></b> · model · 👁️ observed · 0 天</summary>
+<summary>🔬 <b><a href="https://huggingface.co/lysandre/JEV-27B-VL">lysandre/JEV-27B-VL</a></b> · model · 👁️ observed · 1 天</summary>
 
 ##### 📝 摘要
 
@@ -3384,7 +3382,7 @@ clawd-JEV-trading machine: JEV-on-Solana paper trader. TypeSafe jev-latest brain
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐7062 · Python · 🔎 inferred · 4 天</summary>
+<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐7061 · Python · 🔎 inferred · 4 天 · ⭐-1</summary>
 
 ##### 📝 摘要
 
@@ -3400,11 +3398,11 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **7062**   |
-| 最近推送 | 2026-10-29 |
-| 首次收錄 | 2026-10-29 |
+| 指標     | 值            |
+| -------- | ------------- |
+| Star 數  | **7061** (-1) |
+| 最近推送 | 2026-10-29    |
+| 首次收錄 | 2026-10-29    |
 
 🏷 `apple-silicon` · `decision-model` · `inference` · `laya` · `local-ai` · `machine-learning` · `mlx` · `modernbert`
 
@@ -3450,7 +3448,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐931 · Python · 🔎 inferred · 11 天 · ⭐+3</summary>
+<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐931 · Python · 🔎 inferred · 11 天</summary>
 
 ##### 📝 摘要
 
@@ -3466,11 +3464,11 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **931** (+3) |
-| 最近推送 | 2026-10-22   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **931**    |
+| 最近推送 | 2026-10-22 |
+| 首次收錄 | 2026-10-29 |
 
 ---
 
@@ -3636,7 +3634,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 遊戲、機器人、瀏覽器與儀表板。正是示範讓延遲與成本的說法變得可讀。
 
 <details>
-<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1031 · Astro · 👁️ observed · 15 天 · ⭐+9</summary>
+<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1033 · Astro · 👁️ observed · 15 天 · ⭐+2</summary>
 
 ##### 📝 摘要
 
@@ -3656,7 +3654,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 
 | 指標     | 值            |
 | -------- | ------------- |
-| Star 數  | **1031** (+9) |
+| Star 數  | **1033** (+2) |
 | 最近推送 | 2026-10-19    |
 | 首次收錄 | 2026-10-29    |
 
@@ -3665,7 +3663,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐552 · TypeScript · 👁️ observed · 12 天</summary>
+<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐553 · TypeScript · 👁️ observed · 12 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -3683,11 +3681,11 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **552**    |
-| 最近推送 | 2026-10-21 |
-| 首次收錄 | 2026-10-29 |
+| 指標     | 值           |
+| -------- | ------------ |
+| Star 數  | **553** (+1) |
+| 最近推送 | 2026-10-21   |
+| 首次收錄 | 2026-10-29   |
 
 ---
 
@@ -3699,7 +3697,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐287 · Python · 👁️ observed · 15 天</summary>
+<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐289 · Python · 👁️ observed · 15 天 · ⭐+2</summary>
 
 ##### 📝 摘要
 
@@ -3715,11 +3713,11 @@ VideoJev：用於影片理解與互動的System One Model
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **287**    |
-| 最近推送 | 2026-10-18 |
-| 首次收錄 | 2026-10-28 |
+| 指標     | 值           |
+| -------- | ------------ |
+| Star 數  | **289** (+2) |
+| 最近推送 | 2026-10-18   |
+| 首次收錄 | 2026-10-28   |
 
 ---
 
@@ -3970,7 +3968,7 @@ Control a robotic arm using systemone models
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/Anshul261/SystemOne_Demos">Anshul261/SystemOne_Demos</a></b> · Python · 👁️ observed · 4 天</summary>
+<summary>🎮 <b><a href="https://github.com/Anshul261/SystemOne_Demos">Anshul261/SystemOne_Demos</a></b> · Python · 👁️ observed · 5 天</summary>
 
 ##### 📝 摘要
 
@@ -4014,7 +4012,7 @@ Using Jev/SystemOne Models to build use cases
 | 指標     | 值         |
 | -------- | ---------- |
 | Star 數  | **0**      |
-| 最近推送 | 2026-11-02 |
+| 最近推送 | 2026-11-03 |
 | 首次收錄 | 2026-10-26 |
 
 🏷 `artificial-intelligence-algorithms` · `finance-dashboard` · `stock-analysis` · `stock-market` · `stock-prediction`
@@ -4105,7 +4103,7 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐365 · JavaScript · 🔎 inferred · 4 天 · ⭐-1</summary>
+<summary>🎮 <b><a href="https://github.com/jkudish/jev-browser">jkudish/jev-browser</a></b> · ⭐365 · JavaScript · 🔎 inferred · 4 天</summary>
 
 ##### 📝 摘要
 
@@ -4121,11 +4119,11 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **365** (-1) |
-| 最近推送 | 2026-10-30   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **365**    |
+| 最近推送 | 2026-10-30 |
+| 首次收錄 | 2026-10-29 |
 
 ---
 
@@ -4137,7 +4135,7 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐326 · Python · 🔎 inferred · 42 天</summary>
+<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐327 · Python · 🔎 inferred · 42 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -4153,11 +4151,11 @@ Apple Silicon 上類似 Jev 的教育性視覺推論實驗：共享上下文、�
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **326**    |
-| 最近推送 | 2026-09-21 |
-| 首次收錄 | 2026-10-29 |
+| 指標     | 值           |
+| -------- | ------------ |
+| Star 數  | **327** (+1) |
+| 最近推送 | 2026-09-21   |
+| 首次收錄 | 2026-10-29   |
 
 ---
 
@@ -4205,7 +4203,7 @@ Hyperliquid 上的即時 Jev 交易者
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 33</sub></summary>
+<summary><b>本分類更多項目</b> <sub>· 34</sub></summary>
 
 - [bobbylite/jev-system-one-model-primitives](https://github.com/bobbylite/jev-system-one-model-primitives) - Basic sample app to demonstrate primitive types for system one models like…
 - [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) - A computer use harness for system one models。
@@ -4226,9 +4224,9 @@ Hyperliquid 上的即時 Jev 交易者
 - [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) - Community index of tools, models, and real-world use cases built on Jev.
 - [harsha89/jev-demo](https://github.com/harsha89/jev-demo) - 展示 TypeSafe JEV 對電子郵件進行分類：垃圾郵件（noul）、類別（choice）與緊急程度（score）——Next.js + MUI…
 - [PistachioAIHQ/jev-synergy-screening](https://github.com/PistachioAIHQ/jev-synergy-screening) - Jev（TypeSafe System One）× ASReview SYNERGY 摘要篩選示範——Choice/Noul 與黃金標籤比較。
+- [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) - Daily demo applying TypeSafe&#x27;s Jev model to Spain&#x27;s official gazette (BOE).
 - [Tommylegen/jev-laya-toolkit](https://github.com/Tommylegen/jev-laya-toolkit) - Dashboard and local proxy for SystemOne decision models - Jev (TypeSafe API)…
 - [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) - Run efficient local Choice, Score, and Noul services with KaLM-Reranker-V1-R2…
-- [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) - Daily demo applying TypeSafe&#x27;s Jev model to Spain&#x27;s official gazette (BOE).
 - [0mis/astra-jev-left4dead2](https://github.com/0mis/astra-jev-left4dead2) - Supervised game-controller experiment with asynchronous decisions, a VScript…
 - [arkulinskis/jev-buddy](https://github.com/arkulinskis/jev-buddy) - Jev Buddy: the developer guide to Jev, the AI decision model。
 - [BrendanH18/jev-lab](https://github.com/BrendanH18/jev-lab) - Six small apps and a workbench that show what TypeSafe。
@@ -4239,6 +4237,7 @@ Hyperliquid 上的即時 Jev 交易者
 - [netcode001/jev](https://github.com/netcode001/jev) - 非官方 Jev AI 資訊中心——存取指南、定價、免費 BYOK 遊樂場。線上：jev-ai.live。
 - [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) - Run a Pokémon Champions battle arena locally with Jev, TypeSafe, and Pokémon…
 - [Ramolisdenneyous/Drone-Commander-Powered-by-Jev](https://github.com/Ramolisdenneyous/Drone-Commander-Powered-by-Jev) - This version of Drone commander was built to test out using Jev to control the…
+- [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) - Playwright + TypeSafe Jev (System One) decision-map demo for semantic test…
 - [sorrycc/typesafe-snake](https://github.com/sorrycc/typesafe-snake) - 由 TypeSafe 的 Jev 模型自動遊玩的 Snake：每個 tick 做出一個 System One 選擇，合法走法與事實由程式碼產生。
 
 </details>
@@ -4514,7 +4513,7 @@ preview 端點 `/preview/evaluation` → 穩定版 **`POST /v1/systemone`**；`p
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2529 · Python · 👁️ observed · 3 天 · ⭐+1</summary>
+<summary>📰 <b><a href="https://github.com/yibie/awesome-jev">yibie/awesome-jev</a></b> · ⭐2529 · Python · 👁️ observed · 3 天</summary>
 
 ##### 📝 摘要
 
@@ -4530,13 +4529,45 @@ preview 端點 `/preview/evaluation` → 穩定版 **`POST /v1/systemone`**；`p
 
 ##### 📊 資料
 
-| 指標     | 值            |
-| -------- | ------------- |
-| Star 數  | **2529** (+1) |
-| 最近推送 | 2026-10-31    |
-| 首次收錄 | 2026-09-18    |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **2529**   |
+| 最近推送 | 2026-10-31 |
+| 首次收錄 | 2026-09-18 |
 
 🏷 `awesome` · `awesome-list` · `jev` · `llm`
+
+</details>
+
+<details>
+<summary>📰 <b><a href="https://github.com/imrishit98/jev.aitools.fyi">imrishit98/jev.aitools.fyi</a></b> · ⭐3 · TypeScript · 🔎 inferred · 0 天 · **NEW**</summary>
+
+##### 📝 摘要
+
+Jev is all the rage right now and this directory lists all things Jev! Docs, SDKs, and the full tool map one click away.
+
+##### 📌 基本資訊
+
+| 欄位 | 值                     |
+| ---- | ---------------------- |
+| 分類 | `文章、討論與同類清單` |
+| 證據 | `inferred`             |
+| 語言 | TypeScript             |
+
+##### 📊 資料
+
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **3**      |
+| 最近推送 | 2026-11-03 |
+| 首次收錄 | 2026-11-03 |
+
+---
+
+<table><tr><th align="center" width="50%">🖼 圖片</th><th align="center" width="50%">🎬 影片</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/imrishit98--jev.aitools.fyi/44d7d65e69a55c03.png" width="100%" alt="imrishit98/jev.aitools.fyi screenshot"></td>
+<td align="center" valign="top"><sub>未發布媒體</sub></td>
+</tr></table>
 
 </details>
 
@@ -4575,7 +4606,7 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 70</sub></summary>
+<summary><b>本分類更多項目</b> <sub>· 69</sub></summary>
 
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - 以 Jev 建置的、經精選且有來源依據的專案清單；TypeSafe AI 用於具型別決策的 System One 模型.
 - [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)
@@ -4586,7 +4617,6 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 - [What Is RLCD? The Secret Behind Jev](https://news.ycombinator.com/item?id=49829625)
 - [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443)
 - [aliaihub/awesome-jev-usecases](https://github.com/aliaihub/awesome-jev-usecases) - 使用 Jev、TypeSafe AI 的 System One 模型進行建置時，以證據為依據的使用案例、模式與指南。每項主張均有標籤並附上來源.
-- [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686)
 - [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920)
 - [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) - A curated projects built with Jev, TypeSafe。
 - [Show HN: Fastbrowse, Browser agent that picks clicks with a System One model](https://news.ycombinator.com/item?id=50311029) - Hi HN, I&amp;#x27;m Furqan founder of Nebula.
@@ -4725,7 +4755,7 @@ JevChat-Windows：掛在聊天視窗旁的回覆輔助。視窗截圖 + 本地�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/datawhalechina/jev-cookbook">datawhalechina/jev-cookbook</a></b> · ⭐569 · Jupyter · 👁️ observed · 3 天 · ⭐+3</summary>
+<summary>🧩 <b><a href="https://github.com/datawhalechina/jev-cookbook">datawhalechina/jev-cookbook</a></b> · ⭐570 · Jupyter · 👁️ observed · 3 天 · ⭐+1</summary>
 
 ##### 📝 摘要
 
@@ -4745,7 +4775,7 @@ JevChat-Windows：掛在聊天視窗旁的回覆輔助。視窗截圖 + 本地�
 
 | 指標     | 值           |
 | -------- | ------------ |
-| Star 數  | **569** (+3) |
+| Star 數  | **570** (+1) |
 | 最近推送 | 2026-10-30   |
 | 首次收錄 | 2026-10-29   |
 
@@ -4761,7 +4791,7 @@ JevChat-Windows：掛在聊天視窗旁的回覆輔助。視窗截圖 + 本地�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐479 · Python · 👁️ observed · 18 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/Yinsongxu/LLM2Jev">Yinsongxu/LLM2Jev</a></b> · ⭐479 · Python · 👁️ observed · 18 天</summary>
 
 ##### 📝 摘要
 
@@ -4779,11 +4809,11 @@ JevChat-Windows：掛在聊天視窗旁的回覆輔助。視窗截圖 + 本地�
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **479** (+1) |
-| 最近推送 | 2026-10-16   |
-| 首次收錄 | 2026-10-29   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **479**    |
+| 最近推送 | 2026-10-16 |
+| 首次收錄 | 2026-10-29 |
 
 🏷 `jev` · `llm` · `mllm`
 
@@ -4858,7 +4888,7 @@ An on-demand crypto market intelligence and decision-support terminal powered by
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐226 · Python · 👁️ observed · 16 天 · ⭐+2</summary>
+<summary>🧩 <b><a href="https://github.com/LiQiiiii/Jeva">LiQiiiii/Jeva</a></b> · ⭐226 · Python · 👁️ observed · 16 天</summary>
 
 ##### 📝 摘要
 
@@ -4874,11 +4904,11 @@ Jeva: System One Models from First Principles
 
 ##### 📊 資料
 
-| 指標     | 值           |
-| -------- | ------------ |
-| Star 數  | **226** (+2) |
-| 最近推送 | 2026-10-17   |
-| 首次收錄 | 2026-10-28   |
+| 指標     | 值         |
+| -------- | ---------- |
+| Star 數  | **226**    |
+| 最近推送 | 2026-10-17 |
+| 首次收錄 | 2026-10-28 |
 
 ---
 
@@ -4890,7 +4920,7 @@ Jeva: System One Models from First Principles
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐133 · Python · 👁️ observed · 42 天</summary>
+<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐132 · Python · 👁️ observed · 42 天 · ⭐-1</summary>
 
 ##### 📝 摘要
 
@@ -4906,11 +4936,11 @@ typesafe.ai 註冊機，極致最佳化，無限 jev
 
 ##### 📊 資料
 
-| 指標     | 值         |
-| -------- | ---------- |
-| Star 數  | **133**    |
-| 最近推送 | 2026-09-21 |
-| 首次收錄 | 2026-10-29 |
+| 指標     | 值           |
+| -------- | ------------ |
+| Star 數  | **132** (-1) |
+| 最近推送 | 2026-09-21   |
+| 首次收錄 | 2026-10-29   |
 
 ---
 
@@ -5008,7 +5038,7 @@ Jev 的本地、相容於 API 的替代品，即 TypeSafe 的 System One 模型
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jev-sec/jev-ids">jev-sec/jev-ids</a></b> · ⭐30 · Python · 👁️ observed · 0 天 · **NEW**</summary>
+<summary>🧩 <b><a href="https://github.com/jev-sec/jev-ids">jev-sec/jev-ids</a></b> · ⭐30 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 摘要
 
@@ -5176,7 +5206,7 @@ TypeSafe Jev 1.14.0 使用教程：System One 决策 API 从入门到 box 定位
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9778 · Python · 🔎 inferred · 0 天 · ⭐+7</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9781 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
 
 ##### 📝 摘要
 
@@ -5194,7 +5224,7 @@ TypeSafe Jev 1.14.0 使用教程：System One 决策 API 从入门到 box 定位
 
 | 指標     | 值            |
 | -------- | ------------- |
-| Star 數  | **9778** (+7) |
+| Star 數  | **9781** (+3) |
 | 最近推送 | 2026-11-03    |
 | 首次收錄 | 2026-10-29    |
 
@@ -5244,7 +5274,7 @@ TypeLLM：具備型別安全生成的 LLMs
 </details>
 
 <details>
-<summary><b>本分類更多項目</b> <sub>· 60</sub></summary>
+<summary><b>本分類更多項目</b> <sub>· 61</sub></summary>
 
 - [talmago/fast_gliner](https://github.com/talmago/fast_gliner) - Fast ONNX inference for GLiNER, GLiClass, GLiFormer, and System One — Python…
 - [SoundBlaster/SwiftJev](https://github.com/SoundBlaster/SwiftJev) - 用於存取由 TypeSafe.ai 提供的 Jev System One 模型的 Swift 框架。
@@ -5287,13 +5317,14 @@ TypeLLM：具備型別安全生成的 LLMs
 - [amadzai/think-fast-jev](https://github.com/amadzai/think-fast-jev) - Single-pass decision models (Jev, Kev) against a frontier LLM at the decision…
 - [bertran2born/jev-classifier](https://github.com/bertran2born/jev-classifier) - Classification statistique des études PDF avec Jev et explorateur HTML local…
 - [cfu288/jev-vs-ml-classifiers](https://github.com/cfu288/jev-vs-ml-classifiers) - How well does the latest JEV model do against classical ML classifier models…
+- [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) - A pi package that trims stale tool output with Jev when pi。
 - [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) - Ask a shelf of PDF rulebooks questions.
+- [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) - Five-in-a-row vs a Jev AI: Three.js 3D board, orbit camera, stone bowls, win…
 - [Joshhuang123/jev-rsi](https://github.com/Joshhuang123/jev-rsi) - Qwen3.5-4B 能不能直接当 jev 用？零训练基线 67.3%（官方微调后 88%），外加冻结主干 + 小头 + 自我改进循环的消融实验.
 - [LiLittleCat/jev-playlist-classify](https://github.com/LiLittleCat/jev-playlist-classify) - Classify large playlists by song language with TypeSafe AI。
 - [microsoft/amplifier-module-provider-jev](https://github.com/microsoft/amplifier-module-provider-jev) - Optional Jev decision-model provider for Amplifier。
 - [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) - TypeSafe Jev 오픈소스 구현을 매일 모아 한국어로 정리하는 레이더 (radar-index/1)。
 - [ranpin/jevCabin](https://github.com/ranpin/jevCabin) - 车载座舱人员/身份/座位信息提取——Jev 类型化决策模型（Laya 后端）替代巨型 LLM prompt，零样本 F1 0.916、单条 44ms、纯本地。
-- [some45bucks/jev-guide](https://github.com/some45bucks/jev-guide) - Chrome extension that highlights the next thing to click to reach a goal on a…
 - [xiaotian1171/jev-trolley-switch](https://github.com/xiaotian1171/jev-trolley-switch) - Interactive Trolley Problem decision lab powered by Pollinations POST…
 - [receptron/laya](https://github.com/receptron/laya) - 透過 ONNX Runtime，從 Node.js / TypeScript 執行 Laya，這個開源且相容 Jev 的 System-1 決策模型。
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - 對 Jev 的開放、本機詮釋：來自 LLM 的型別化決策，不生成任何一個 token。
@@ -5317,9 +5348,9 @@ TypeLLM：具備型別安全生成的 LLMs
 
 | 語言       | 條目 | 範例                                                                                                     |
 | ---------- | ---- | -------------------------------------------------------------------------------------------------------- |
-| Python     | 370  | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals`  |
-| TypeScript | 130  | `typesafe-ai/typesafe-sdk-js`, `qkal/Canny`, `erik-hedstrom/loadout`                                     |
-| JavaScript | 77   | `clouatre-labs/decisions-judge-mcp`, `socai-io/jev-social`, `Ying-Kai-Liao/jev-browser`                  |
+| Python     | 368  | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals`  |
+| TypeScript | 133  | `typesafe-ai/typesafe-sdk-js`, `qkal/Canny`, `erik-hedstrom/loadout`                                     |
+| JavaScript | 76   | `clouatre-labs/decisions-judge-mcp`, `socai-io/jev-social`, `Ying-Kai-Liao/jev-browser`                  |
 | Rust       | 36   | `chussenot/judgment`, `ollaya-dev/ollaya`, `supercorp-ai/supercov`                                       |
 | HTML       | 29   | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`           |
 | Go         | 12   | `frodi-karlsson/onesie`, `devbackend/jevgo`, `JimmyWesley/rlcd-gateway`                                  |
@@ -5356,4 +5387,4 @@ TypeLLM：具備型別安全生成的 LLMs
 
 <sub>獨立社群專案。與 TypeSafe AI 無隸屬關係，未獲其背書或審閱。產品行為、定價、限制與模型別名均可能隨時變更；任何關鍵依賴請以官方文件為準。資源歸其上游專案所有，僅在授權允許的情況下轉載。</sub>
 
-<sub>產生工具 · 2026-11-03T12:44:59+08:00</sub>
+<sub>產生工具 · 2026-11-03T14:50:53+08:00</sub>

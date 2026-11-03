@@ -7839,3 +7839,11 @@
 - `+` [BronOS/cc-cockpit-jev-triage](https://github.com/BronOS/cc-cockpit-jev-triage) — inferred / agent-tooling — ⭐0
 - `+` [clamdown2020/jev-vs-opus-doc-classification](https://github.com/clamdown2020/jev-vs-opus-doc-classification) — inferred / agent-tooling — ⭐0
 - `+` [wendyeq/dsh-jev-router](https://github.com/wendyeq/dsh-jev-router) — inferred / agent-tooling — ⭐0
+
+## 2026-11-03T14:49:56+08:00
+- 收录总数 **824**；本次更新新增 **5**
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐3
+- `+` [lee-lou2/jev-tree](https://github.com/lee-lou2/jev-tree) — inferred / community-sdk — ⭐1
+- `+` [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) — inferred / apps-demos — ⭐0
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
