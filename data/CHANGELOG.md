@@ -7869,3 +7869,17 @@
 - `+` [byte5ai/omadia-jev-plugin](https://github.com/byte5ai/omadia-jev-plugin) — inferred / agent-tooling — ⭐0
 - `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
 - `+` [RicardoZ-kisara/cyber-jev](https://github.com/RicardoZ-kisara/cyber-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-03T21:10:00+08:00
+- 收录总数 **679**；本次更新新增 **11**
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐37
+- `+` [jonymusky/jev-browser-qa](https://github.com/jonymusky/jev-browser-qa) — inferred / community-sdk — ⭐4
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [Thneoly/r2r-jev](https://github.com/Thneoly/r2r-jev) — inferred / agent-tooling — ⭐1
+- `+` [Wrenik/jev-toolkit](https://github.com/Wrenik/jev-toolkit) — inferred / agent-tooling — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [antirepas/GoGoJevMCP](https://github.com/antirepas/GoGoJevMCP) — inferred / agent-tooling — ⭐0
+- `+` [basi/typesafe-ai-php-client](https://github.com/basi/typesafe-ai-php-client) — observed / community-sdk — ⭐0
+- `+` [YoYo-XYZ/menti-jev](https://github.com/YoYo-XYZ/menti-jev) — observed / routing-guardrails — ⭐0
+- `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
+- `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
