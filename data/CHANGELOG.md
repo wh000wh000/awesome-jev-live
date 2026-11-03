@@ -7861,3 +7861,11 @@
 - `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
 - `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
 - `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+
+## 2026-11-03T19:02:50+08:00
+- 收录总数 **809**；本次更新新增 **5**
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [CosmoIknosLab/EarthJev](https://github.com/CosmoIknosLab/EarthJev) — inferred / evaluation — ⭐1
+- `+` [byte5ai/omadia-jev-plugin](https://github.com/byte5ai/omadia-jev-plugin) — inferred / agent-tooling — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [RicardoZ-kisara/cyber-jev](https://github.com/RicardoZ-kisara/cyber-jev) — inferred / routing-guardrails — ⭐0
