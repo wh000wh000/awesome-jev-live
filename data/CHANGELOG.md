@@ -7819,3 +7819,23 @@
 - `+` [c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees) — inferred / agent-tooling — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [bertran2born/jev-classifier](https://github.com/bertran2born/jev-classifier) — inferred / other — ⭐0
+
+## 2026-11-03T12:42:31+08:00
+- 收录总数 **824**；本次更新新增 **17**
+- `+` [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) — inferred / community-sdk — ⭐314
+- `+` [jev-sec/jev-ids](https://github.com/jev-sec/jev-ids) — observed / other — ⭐30
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐17
+- `+` [ABLingss/MUQ-JEV](https://github.com/ABLingss/MUQ-JEV) — inferred / apps-demos — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [jev-sec/jev-sec.github.io](https://github.com/jev-sec/jev-sec.github.io) — inferred / evaluation — ⭐2
+- `+` [mikecann/magic-jev-ball](https://github.com/mikecann/magic-jev-ball) — inferred / routing-guardrails — ⭐2
+- `+` [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) — inferred / agent-tooling — ⭐1
+- `+` [pyxl-dev/jev-router](https://github.com/pyxl-dev/jev-router) — inferred / agent-tooling — ⭐1
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [TEC10101/Claude-JEV-auto-effort-plugin](https://github.com/TEC10101/Claude-JEV-auto-effort-plugin) — inferred / agent-tooling — ⭐0
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [Wuzheng02/Jev-Agent-Workflows](https://github.com/Wuzheng02/Jev-Agent-Workflows) — inferred / agent-tooling — ⭐0
+- `+` [Michael-RDev/jev-as-router](https://github.com/Michael-RDev/jev-as-router) — inferred / routing-guardrails — ⭐0
+- `+` [BronOS/cc-cockpit-jev-triage](https://github.com/BronOS/cc-cockpit-jev-triage) — inferred / agent-tooling — ⭐0
+- `+` [clamdown2020/jev-vs-opus-doc-classification](https://github.com/clamdown2020/jev-vs-opus-doc-classification) — inferred / agent-tooling — ⭐0
+- `+` [wendyeq/dsh-jev-router](https://github.com/wendyeq/dsh-jev-router) — inferred / agent-tooling — ⭐0
