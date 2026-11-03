@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-824-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-821-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <b>Українська</b></sub></p>
 
 > [!NOTE]
-> **Живий індекс** · Остання синхронізація: `2026-11-03T14:50:53+08:00` (UTC+8)
-> · Записи: **824** · Нові за цей цикл: **5** · Мови реалізації: **28**
+> **Живий індекс** · Остання синхронізація: `2026-11-03T16:57:26+08:00` (UTC+8)
+> · Записи: **821** · Нові за цей цикл: **11** · Мови реалізації: **28**
 
 <sub>Кожен запис нижче було зібрано, відфільтровано й повторно перевірено конвеєром у цьому репозиторії. Числа та часові позначки походять із джерел, а не з написаного вручну знімка.</sub>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" valign="top">
 <b>🏛️ <a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b>
-<sub>⭐2864 · ✅ official</sub>
+<sub>⭐2865 · ✅ official</sub>
 <sub>Навички агента для створення рішень за допомогою TypeSafe System One API</sub>
 </td>
 <td width="50%" valign="top">
@@ -93,13 +93,13 @@
 - [Як оцінюються записи](#як-оцінюються-записи)
 - [Офіційні SDK та інструменти для розробників](#офіційні-sdk-та-інструменти-для-розробників) — **6**
 - [Клієнти, SDK та адаптери спільноти](#клієнти-sdk-та-адаптери-спільноти) — **140**
-- [Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти](#інструменти-для-агентів-mcp-хуки-шлюзи-та-агенти-програмісти) — **249**
-- [Маршрутизація, запобіжники та затвердження](#маршрутизація-запобіжники-та-затвердження) — **67**
+- [Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти](#інструменти-для-агентів-mcp-хуки-шлюзи-та-агенти-програмісти) — **244**
+- [Маршрутизація, запобіжники та затвердження](#маршрутизація-запобіжники-та-затвердження) — **65**
 - [Оцінювання, калібрування та бенчмарки](#оцінювання-калібрування-та-бенчмарки) — **92**
 - [Відкриті відтворення, ваги та дослідження архітектури](#відкриті-відтворення-ваги-та-дослідження-архітектури) — **56**
-- [Застосунки, ігри, робототехніка та інтерактивні демо](#застосунки-ігри-робототехніка-та-інтерактивні-демо) — **52**
-- [Тексти, обговорення та споріднені списки](#тексти-обговорення-та-споріднені-списки) — **83**
-- [Інші проєкти](#інші-проєкти) — **79**
+- [Застосунки, ігри, робототехніка та інтерактивні демо](#застосунки-ігри-робототехніка-та-інтерактивні-демо) — **51**
+- [Тексти, обговорення та споріднені списки](#тексти-обговорення-та-споріднені-списки) — **90**
+- [Інші проєкти](#інші-проєкти) — **77**
 - [Проєкти за мовою реалізації](#проєкти-за-мовою-реалізації)
 
 ## Що таке Jev?
@@ -132,7 +132,7 @@ Jev — перша **System One model** від TypeSafe AI. Вона не пиш
 Усе, що публікує сам TypeSafe. Почніть звідси.
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2864 · ✅ official · 10 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/skills">typesafe-ai/skills</a></b> · ⭐2865 · ✅ official · 10 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -149,11 +149,11 @@ Jev — перша **System One model** від TypeSafe AI. Вона не пиш
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **2864**   |
-| Останній push   | 2026-10-23 |
-| Уперше в списку | 2026-09-18 |
+| Метрика         | Значення      |
+| --------------- | ------------- |
+| Зірки           | **2865** (+1) |
+| Останній push   | 2026-10-23    |
+| Уперше в списку | 2026-09-18    |
 
 </details>
 
@@ -187,7 +187,7 @@ Jev — перша **System One model** від TypeSafe AI. Вона не пиш
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐307 · Python · ✅ official · 19 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐308 · Python · ✅ official · 19 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -207,11 +207,11 @@ Jev — перша **System One model** від TypeSafe AI. Вона не пиш
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **307**    |
-| Останній push   | 2026-10-14 |
-| Уперше в списку | 2026-10-23 |
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **308** (+1) |
+| Останній push   | 2026-10-14   |
+| Уперше в списку | 2026-10-23   |
 
 </details>
 
@@ -299,7 +299,7 @@ Jev — перша **System One model** від TypeSafe AI. Вона не пиш
 Типізовані клієнти для ендпойнта System One — стількома мовами, скількома встигла спільнота.
 
 <details>
-<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐183 · Jupyter · 👁️ observed · 45 天 · ⭐+1</summary>
+<summary>🧰 <b><a href="https://github.com/jexp/neo4jev">jexp/neo4jev</a></b> · ⭐183 · Jupyter · 👁️ observed · 45 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -315,11 +315,11 @@ Typesafe.ai System One Model Jev, що переміщується графом N
 
 ##### 📊 Дані
 
-| Метрика         | Значення     |
-| --------------- | ------------ |
-| Зірки           | **183** (+1) |
-| Останній push   | 2026-09-18   |
-| Уперше в списку | 2026-10-28   |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **183**    |
+| Останній push   | 2026-09-18 |
+| Уперше в списку | 2026-10-28 |
 
 </details>
 
@@ -677,7 +677,7 @@ Federated knowledge retrieval engine for AI agents. Routes queries across specia
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐13462 · Python · 🔎 inferred · 0 天 · ⭐+5</summary>
+<summary>🧰 <b><a href="https://github.com/OpenByteInc/QuantDinger">OpenByteInc/QuantDinger</a></b> · ⭐13468 · Python · 🔎 inferred · 0 天 · ⭐+6</summary>
 
 ##### 📝 Стислий опис
 
@@ -695,7 +695,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 
 | Метрика         | Значення       |
 | --------------- | -------------- |
-| Зірки           | **13462** (+5) |
+| Зірки           | **13468** (+6) |
 | Останній push   | 2026-11-03     |
 | Уперше в списку | 2026-09-20     |
 
@@ -711,7 +711,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐3158 · TypeScript · 🔎 inferred · 1 天 · ⭐+1</summary>
+<summary>🧰 <b><a href="https://github.com/dzhng/jevgrep">dzhng/jevgrep</a></b> · ⭐3159 · TypeScript · 🔎 inferred · 1 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -729,7 +729,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 
 | Метрика         | Значення      |
 | --------------- | ------------- |
-| Зірки           | **3158** (+1) |
+| Зірки           | **3159** (+1) |
 | Останній push   | 2026-11-01    |
 | Уперше в списку | 2026-10-29    |
 
@@ -891,7 +891,6 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 - [nouli-ai/nouli](https://github.com/nouli-ai/nouli) - A ledger-backed decision network that records AI decisions and connects them to…
 - [saibimajdi/typesafeai-dotnet-sdk](https://github.com/saibimajdi/typesafeai-dotnet-sdk) - Спільнотний .NET SDK для TypeSafe AI System One API — типізовані запитання…
 - [Elue-dev/jev_elixir](https://github.com/Elue-dev/jev_elixir) - jev_elixir — це невеликий, ідіоматичний інтерфейс для прийняття типізованих…
-- [GeekLinkDev/jev-subtitle-translator](https://github.com/GeekLinkDev/jev-subtitle-translator) - Translate SRT subtitles with structured LLM output and check every translation…
 - [ansidium/jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) - Jev model and reasoning-effort routing for Codex Desktop and CLI.
 - [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) - Навичка агента та CLI, які перетворюють природну мову, промпт LLM або код, що…
 - [devbackend/jevgo](https://github.com/devbackend/jevgo) - Неофіційний клієнт Go для TypeSafe AI System One API (Jev) — типізовані…
@@ -958,6 +957,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 - [Brainwires/jevwire](https://github.com/Brainwires/jevwire) - Jev decision layer for agents: MCP server, embeddable DecisionModel library…
 - [zhulinchng/jevper](https://github.com/zhulinchng/jevper) - Обгортка класифікації у формі Jev (TypeSafe System One) над клієнтами…
 - [schainks/system_one_client](https://github.com/schainks/system_one_client) - Клієнт Elixir для моделей рішень System One: TypeSafe Jev, Cloudflare Clef…
+- [iamngoni/veyra](https://github.com/iamngoni/veyra) - Autonomous, provider-neutral trading service in Rust.
 - [gilljon/typesafe-ai-rs](https://github.com/gilljon/typesafe-ai-rs) - Незалежний асинхронний і блокувальний Rust SDK для TypeSafe AI System One API.
 - [AutreMachine/bosco](https://github.com/AutreMachine/bosco) - Router and proxy for OpenAI compatible LLMs machines - 1 url to rule them all !
 - [cipherTing/sael](https://github.com/cipherTing/sael) - Go client for the TypeSafe System One API (Jev) — the first piece of sael, a…
@@ -983,7 +983,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 Категорія, що зростає найшвидше: хуки, сервери MCP і шлюзи, які ставлять типізоване рішення перед наступною дією агента.
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7834 · TypeScript · 🔎 inferred · 46 天 · ⭐-1</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7834 · TypeScript · 🔎 inferred · 46 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -1001,11 +1001,11 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 
 ##### 📊 Дані
 
-| Метрика         | Значення      |
-| --------------- | ------------- |
-| Зірки           | **7834** (-1) |
-| Останній push   | 2026-09-18    |
-| Уперше в списку | 2026-10-29    |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **7834**   |
+| Останній push   | 2026-09-18 |
+| Уперше в списку | 2026-10-29 |
 
 </details>
 
@@ -1044,7 +1044,7 @@ Open-source AI Trading OS, агентна торгівля та vibe trading з 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐274 · JavaScript · 🔎 inferred · 41 天</summary>
+<summary>🤖 <b><a href="https://github.com/0xNatoshi/jev-codex-router">0xNatoshi/jev-codex-router</a></b> · ⭐274 · JavaScript · 🔎 inferred · 42 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -1165,35 +1165,6 @@ Awesome Jev: підкріплений джерелами польовий дов
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/kydlikebtc/awesome-jev">kydlikebtc/awesome-jev</a></b> · ⭐596 · Python · 👁️ observed · 0 天</summary>
-
-##### 📝 Стислий опис
-
-1207 публічних ресурсів для Jev, модель прийняття рішень System One від TypeSafe AI, проіндексованих за шаблоном рішення. Цитування джерел, перевірки посилань із датами та заплановані перевірки тексту в місцях виклику; час виконання й продуктивність тут незалежно не тестуються. EN/中文, схема JSON і сумісність із платформами.
-
-<sub>🔧 Виявлено використання в коді: `scripts/_github.py`</sub>
-
-##### 📌 Основні факти
-
-| Поле      | Значення                                                          |
-| --------- | ----------------------------------------------------------------- |
-| Категорія | `Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти` |
-| Докази    | `observed`                                                        |
-| Мова      | Python                                                            |
-
-##### 📊 Дані
-
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **596**    |
-| Останній push   | 2026-11-03 |
-| Уперше в списку | 2026-09-22 |
-
-🏷 `agent-tools` · `ai-agents` · `awesome` · `awesome-list` · `calibration` · `catalog` · `classification` · `context-compaction`
-
-</details>
-
-<details>
 <summary>🤖 <b><a href="https://github.com/jkudish/jev-mcp">jkudish/jev-mcp</a></b> · ⭐567 · JavaScript · 👁️ observed · 4 天</summary>
 
 ##### 📝 Стислий опис
@@ -1223,7 +1194,7 @@ Awesome Jev: підкріплений джерелами польовий дов
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/walidboulanouar/awesome-jev-use-cases">walidboulanouar/awesome-jev-use-cases</a></b> · ⭐478 · 👁️ observed · 37 天</summary>
+<summary>🤖 <b><a href="https://github.com/walidboulanouar/awesome-jev-use-cases">walidboulanouar/awesome-jev-use-cases</a></b> · ⭐479 · 👁️ observed · 37 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -1240,11 +1211,11 @@ Awesome Jev: підкріплений джерелами польовий дов
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **478**    |
-| Останній push   | 2026-09-26 |
-| Уперше в списку | 2026-10-29 |
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **479** (+1) |
+| Останній push   | 2026-09-26   |
+| Уперше в списку | 2026-10-29   |
 
 🏷 `ai-guardrails` · `ai-router` · `awesome` · `awesome-list` · `classification` · `claude-code` · `decision-model` · `examples`
 
@@ -1308,7 +1279,7 @@ Awesome Jev: підкріплений джерелами польовий дов
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/jev-pruner">tamaratran/jev-pruner</a></b> · ⭐167 · TypeScript · 👁️ observed · 33 天</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/jev-pruner">tamaratran/jev-pruner</a></b> · ⭐167 · TypeScript · 👁️ observed · 34 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -1331,6 +1302,71 @@ Awesome Jev: підкріплений джерелами польовий дов
 | Зірки           | **167**    |
 | Останній push   | 2026-09-30 |
 | Уперше в списку | 2026-10-29 |
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/y0usaf/pi-jev">y0usaf/pi-jev</a></b> · ⭐167 · TypeScript · 👁️ observed · 2 天 · ⭐+2</summary>
+
+##### 📝 Стислий опис
+
+TypeSafe Jev як рівень прийняття рішень для агента програмування Pi: вимірюваний шлюз викликів інструментів і jev_ask для типізованих, каліброваних відповідей
+
+<sub>🔧 Виявлено використання в коді: `README.md`</sub>
+
+##### 📌 Основні факти
+
+| Поле      | Значення                                                          |
+| --------- | ----------------------------------------------------------------- |
+| Категорія | `Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти` |
+| Докази    | `observed`                                                        |
+| Мова      | TypeScript                                                        |
+
+##### 📊 Дані
+
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **167** (+2) |
+| Останній push   | 2026-10-31   |
+| Уперше в списку | 2026-10-29   |
+
+🏷 `guardrails` · `jev` · `pi-extension` · `pi-package` · `typesafe`
+
+</details>
+
+<details>
+<summary>🤖 <b><a href="https://github.com/Shanghua-Gao/RSI-Jev">Shanghua-Gao/RSI-Jev</a></b> · ⭐130 · HTML · 👁️ observed · 23 天</summary>
+
+##### 📝 Стислий опис
+
+Моделі типізованих рішень (noul / choice / score), навчені циклом самовдосконалення AI-агентів — контрольні точки, код, який їх створив, і кожна версія, що зазнала невдачі.
+
+<sub>🔧 Виявлено використання в коді: `docs/inference.md`</sub>
+
+##### 📌 Основні факти
+
+| Поле      | Значення                                                          |
+| --------- | ----------------------------------------------------------------- |
+| Категорія | `Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти` |
+| Докази    | `observed`                                                        |
+| Мова      | HTML                                                              |
+
+##### 📊 Дані
+
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **130**    |
+| Останній push   | 2026-10-10 |
+| Уперше в списку | 2026-09-26 |
+
+🏷 `ai-agents` · `autonomous-research` · `decision-model` · `jev` · `llm` · `recursive-self-improvement` · `system-one` · `typed-decisions`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/shanghua-gao--rsi-jev/24df3b1ed511239d.webp" width="100%" alt="Shanghua-Gao/RSI-Jev screenshot"></td>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/shanghua-gao--rsi-jev/39d8926bb683adfa.gif" width="100%" alt="Shanghua-Gao/RSI-Jev animation"><br><sub>анімований запис</sub></td>
+</tr></table>
 
 </details>
 
@@ -1471,7 +1507,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24107 · Python · 🔎 inferred · 2 天 · ⭐+5</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24108 · Python · 🔎 inferred · 2 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -1489,7 +1525,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 
 | Метрика         | Значення       |
 | --------------- | -------------- |
-| Зірки           | **24107** (+5) |
+| Зірки           | **24108** (+1) |
 | Останній push   | 2026-10-31     |
 | Уперше в списку | 2026-10-29     |
 
@@ -1503,51 +1539,14 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/YaoApp/yao">YaoApp/yao</a></b> · ⭐8256 · Go · 🔎 inferred · 15 天 · ⭐+1</summary>
+<summary><b>Більше в цій категорії</b> <sub>· 226</sub></summary>
 
-##### 📝 Стислий опис
-
-✨ Усі ваші агенти та робочі простори в одному місці, на кожному вашому пристрої. Відстежуйте завдання на дошці, доступній із настільного комп’ютера, мобільного пристрою, браузера або API. Самостійне розгортання.
-
-##### 📌 Основні факти
-
-| Поле      | Значення                                                          |
-| --------- | ----------------------------------------------------------------- |
-| Категорія | `Інструменти для агентів: MCP, хуки, шлюзи та агенти-програмісти` |
-| Докази    | `inferred`                                                        |
-| Мова      | Go                                                                |
-
-##### 📊 Дані
-
-| Метрика         | Значення      |
-| --------------- | ------------- |
-| Зірки           | **8256** (+1) |
-| Останній push   | 2026-10-19    |
-| Уперше в списку | 2026-10-29    |
-
-🏷 `agent-harness` · `agent-orchestration` · `agent-skills` · `agent-workspaces` · `ai-agents` · `ai-native` · `claude-code` · `coding-agent`
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://assets.yaoagents.com/en/kanban/09-kanban-daily-en-dark.png" width="100%" alt="YaoApp/yao screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-<sub>Ресурс підключено гарячим посиланням із вихідного репозиторію, оскільки ліцензію, що дозволяє розповсюдження, не заявлено.</sub>
-
-</details>
-
-<details>
-<summary><b>Більше в цій категорії</b> <sub>· 231</sub></summary>
-
-- [y0usaf/pi-jev](https://github.com/y0usaf/pi-jev) - TypeSafe Jev як рівень прийняття рішень для агента програмування Pi…
 - [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) - Навичка для написання та вдосконалення програм, які викликають Jev, модель…
 - [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) - jevmem зберігає рішення, правила та невдалі підходи з ваших чатів Claude Code у…
 - [GhalebDweikat/winnow](https://github.com/GhalebDweikat/winnow) - Каліброване сито контексту для Claude Code: кожен результат інструмента…
+- [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals) - Оцінювання агентів і обмеження як рішення Jev: один запит на трасування, частка…
 - [PerryLink/jevcore](https://github.com/PerryLink/jevcore) - TypeSafe Jev для DeepSeek Harness, Model Context Protocol і звичайного Node…
 - [Nisaka520/JevIntent](https://github.com/Nisaka520/JevIntent) - WeChat (плагін FkWeChat): утримуйте повідомлення, щоб проаналізувати намір /…
-- [theNetworkChuck/jev-guide](https://github.com/theNetworkChuck/jev-guide) - Companion guide for the NetworkChuck video &#x27;You need to learn Jev RIGHT NOW&#x27;…
 - [andyrewlee/awesome-system-one](https://github.com/andyrewlee/awesome-system-one) - Список моделей System One (також званих моделями прийняття рішень): Jev, перша…
 - [Li-Evan/awesome-jev](https://github.com/Li-Evan/awesome-jev) - Найповніша галерея того, що люди створюють за допомогою Jev, моделі System One…
 - [ChenneyZhuang/laya-browser-agent](https://github.com/ChenneyZhuang/laya-browser-agent) - Локальна альтернативна система Jev з відкритим кодом: рішення браузерного…
@@ -1571,7 +1570,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [lucast4049/openjev](https://github.com/lucast4049/openjev) - Запускайте швидкі, калібровані, типізовані рішення на відкритих моделях System…
 - [maxtmiller/sureshot](https://github.com/maxtmiller/sureshot) - Fast, calibrated decisions from a System One model, with escalation to Claude…
 - [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) - A FederationLib plugin that reviews reports, evidence and entities with a…
-- [WilsonArchanjoJunior/spyrraw](https://github.com/WilsonArchanjoJunior/spyrraw) - AI-powered mobile network vulnerability scanner for auditing physical payment…
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Усі ваші агенти та робочі простори в одному місці, на кожному вашому…
 - [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) - Асистент рішень для чату: перш ніж ви відповісте, Jev читає чат, оцінює намір і…
 - [reticlehq/reticle](https://github.com/reticlehq/reticle) - AI-агенти можуть генерувати код, але все ще насилу розуміють те, що будують.
 - [kerpopule/hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills) - Маршрутизація моделей, пам.
@@ -1580,6 +1579,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [devagrawal09/jev-review](https://github.com/devagrawal09/jev-review) - Поетапний робочий процес перевірки коду та локальна панель моніторингу…
 - [AnotiaWang/awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) - Добірний список моделей прийняття рішень.
 - [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) - Чудова колекція варіантів використання, робочих процесів і навичок агентів для…
+- [kydlikebtc/awesome-jev](https://github.com/kydlikebtc/awesome-jev) - 1207 публічних ресурсів для Jev, модель прийняття рішень System One від…
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod — це сервер із власним розгортанням, який видаляє рекламу ще до того…
 - [BillionsBobby/JevRouter](https://github.com/BillionsBobby/JevRouter) - Легкий маршрутизатор на основі Jev для моделей, інструментів і субагентів.
 - [malevrigns/agent-jev](https://github.com/malevrigns/agent-jev) - AgentJev-0.6B — швидка модель рішень «System One» для AI Agents: передайте їй…
@@ -1595,8 +1595,6 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [UditAkhourii/quicksilver](https://github.com/UditAkhourii/quicksilver) - Навичка Claude Code: передавайте масові рішення Jev.
 - [cookiespiggy/agentic-rl](https://github.com/cookiespiggy/agentic-rl) - Підручник з Agentic RL китайською мовою без попередніх знань (33 розділи): від…
 - [kyegomez/open-jev](https://github.com/kyegomez/open-jev) - Реконструкція ідей, що лежать в основі TypeSafe AI Jev, з відкритим кодом і…
-- [Shanghua-Gao/RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) - Моделі типізованих рішень (noul / choice / score), навчені циклом…
-- [openlayer-ai/jevals](https://github.com/openlayer-ai/jevals) - Оцінювання агентів і обмеження як рішення Jev: один запит на трасування, частка…
 - [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) - Кількісні ML-дослідження в PyTorch: 213 факторів, корекція зміщення…
 - [jonathanavis96/jev-kit](https://github.com/jonathanavis96/jev-kit) - Усе необхідне для запуску TypeSafe Jev за допомогою Claude Code: захист…
 - [charlesdove977/claude-x-jev](https://github.com/charlesdove977/claude-x-jev) - Швидкі, дешеві, типізовані рішення для Claude Code.
@@ -1634,10 +1632,10 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [SergeyBazhmin/krasivo-jev](https://github.com/SergeyBazhmin/krasivo-jev) - Training data and models for &quot;system one&quot; classifiers: one forward pass, no…
 - [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) - Conversation agent based on Laya, a multilingual, non-autoregressive System 1…
 - [ronitgupta138/Local-Jev](https://github.com/ronitgupta138/Local-Jev) - ⚡ 100% offline, zero-cost drop-in alternative to TypeSafe Jev System One…
+- [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) - JevHub · Jev 生态热榜 把值得关注的 Jev 项目、教程和讨论，汇到一页。 自动发现 · 每日更新 · 按 Stars 排序 · 中英双语.
 - [inso1337/revl](https://github.com/inso1337/revl) - Мова для безпечної, універсальної просторово-часової компонованості.
 - [Jessie-QingYu/jev-in-the-wild](https://github.com/Jessie-QingYu/jev-in-the-wild) - Реальні випадки використання Jev, проєкти з відкритим кодом, бенчмарки та…
 - [jmrenouard/MicroLLM](https://github.com/jmrenouard/MicroLLM) - Local Hybrid System-One Decision Engine.
-- [OmniJev/Flide](https://github.com/OmniJev/Flide) - 🔥🔥 Accelerating decision inference with exact state forking.
 - [ranjan2829/AskJev](https://github.com/ranjan2829/AskJev) - AskJev — автопілот Jev для будь-якого вебсайту + захист від незворотних…
 - [Civalski/claujev](https://github.com/Civalski/claujev) - Jev (TypeSafe AI) as a second pair of eyes for Claude Code: request triage…
 - [coderexpert123/jev-browser-wingman](https://github.com/coderexpert123/jev-browser-wingman) - Browser automation where TypeSafe.
@@ -1667,7 +1665,6 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [tinypi-extension/tinysubagent](https://github.com/tinypi-extension/tinysubagent) - Мінімальне herdr-native створення субагентів для pi — ролі агентів у markdown…
 - [wangkuangkuang/jev-mcp-server](https://github.com/wangkuangkuang/jev-mcp-server) - Сервер MCP для Jev (TypeSafe System One): три офіційні типи запитань — choice…
 - [xz-dev/pi-jev-todo-audit](https://github.com/xz-dev/pi-jev-todo-audit) - Pi extension that audits rpiv-todo board drift every 10 agent loops using…
-- [0mis/astra-jev-new-vegas](https://github.com/0mis/astra-jev-new-vegas) - Supervised Python agent-controller experiment: typed API decisions…
 - [1aifanatic/jev-uipath-coded-agent](https://github.com/1aifanatic/jev-uipath-coded-agent) - Демонстрація FINS: агент із кодом UiPath для сортування AML-сповіщень, де кожне…
 - [charetterat/awesome-jev-essentials](https://github.com/charetterat/awesome-jev-essentials) - Проєкти Jev, які справді варті вашого часу — відібрані, порівняні, актуальні.
 - [cnrai/openpave-jev](https://github.com/cnrai/openpave-jev) - Навичка PAVE для нерегресивних моделей прийняття рішень.
@@ -1728,7 +1725,6 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [hojeongna/jev-agent-memory](https://github.com/hojeongna/jev-agent-memory) - No vector DB. A fast decision model routes and picks your agent.
 - [iamdgarcia/jev-mini-bench](https://github.com/iamdgarcia/jev-mini-bench) - Pocket explorer of the tiny decision-model wave.
 - [jipika/dsh-jev-grep](https://github.com/jipika/dsh-jev-grep) - Search-flood adjudication plugin for DeepSeek Harness: ripgrep + TypeSafe Jev…
-- [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) - Community Jev skill market and assistant for automation testing, finance…
 - [KeepGlide/master-jev-hook](https://github.com/KeepGlide/master-jev-hook) - Hooks and MCP that make Claude Code, Claude Desktop and Codex delegate…
 - [kkwelfare/jev-route-screening-public](https://github.com/kkwelfare/jev-route-screening-public) - Експериментальний плагін Hermes Agent для обмежених контрольних точок Jev і…
 - [liyifan2004/obsidian-jev-inbox-router](https://github.com/liyifan2004/obsidian-jev-inbox-router) - Obsidian plugin: route incoming notes to the right folder using JEV.
@@ -1737,11 +1733,9 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [miketropi/pi-jev-model-manager](https://github.com/miketropi/pi-jev-model-manager) - Pi coding agent extension: Jev-powered model routing with a native TUI model…
 - [NeelakandanNC/jev-experiments](https://github.com/NeelakandanNC/jev-experiments) - Експерименти з Jev, моделлю ухвалення рішень TypeSafe, навченою на RLCD.
 - [PeriodBLUE/jev-project-atlas](https://github.com/PeriodBLUE/jev-project-atlas) - A source-verified atlas of GitHub projects built with JEV / TypeSafe System One.
-- [Pinutss/jev-memory-selector](https://github.com/Pinutss/jev-memory-selector) - Filters an agent.
 - [psthi/hermes-jev-routing](https://github.com/psthi/hermes-jev-routing) - Per-turn Jev model routing for Hermes Agent with native OpenRouter decision API…
 - [QuesoMan/jev-router](https://github.com/QuesoMan/jev-router) - Claude Code mod: routes every turn, subagent and ultracode workflow agent to a…
 - [raniellimontagna/jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp) - A guarded MCP layer for Jev-powered browser decisions with isolated Playwright…
-- [relliex/fake_jev_webuse](https://github.com/relliex/fake_jev_webuse) - 基于通用大模型复现 Jev 只做决策、不生成文本的高频极速浏览器操作 Agent.
 - [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) - TypeSafe Jev (System One) wired into Claude Code: a decision primitive for…
 - [TEC10101/Claude-JEV-auto-effort-plugin](https://github.com/TEC10101/Claude-JEV-auto-effort-plugin) - A Claude Code mod that picks the effort of each model request, with TypeSafe.
 - [TechPreacher/jev_router](https://github.com/TechPreacher/jev_router) - Jev Decides, Claude Writes: A Model Router for Claude Code.
@@ -1765,6 +1759,7 @@ TypeSafe JEV resume screening: LLM writes the questions, JEV (System One classif
 - [darwintechlab/openjev](https://github.com/darwintechlab/openjev) - OpenJev: плагін Opencode, який замінює рішення під час генерації тексту на Jev…
 - [Mawfyy/jevflow](https://github.com/Mawfyy/jevflow) - Імовірнісні рішення ШІ як компоновані примітиви бекенду — типізовані судження…
 - [47vigen/catherd](https://github.com/47vigen/catherd) - Herds coding agents: autopilot builds from your own Claude Code session…
+- [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) - Decision model (JEV) based harness to perform Desktop &amp; Browser automation.
 - [tamnd/kime](https://github.com/tamnd/kime) - Typed decisions over text in milliseconds.
 - [kaustav1996/reflex](https://github.com/kaustav1996/reflex) - A coding agent and personal assistant with System One reflexes (TypeSafe Jev)…
 - [laxtiz/opencode-vllm-sr-auth](https://github.com/laxtiz/opencode-vllm-sr-auth) - vLLM-SR Decision — System One decision models (choice/noul/score/box) for…
@@ -1977,7 +1972,7 @@ bot for matrix spam filtering using system one models.
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/baldellimtt/systemone-lab">baldellimtt/systemone-lab</a></b> · ⭐1 · HTML · 👁️ observed · 0 天</summary>
+<summary>🛡️ <b><a href="https://github.com/baldellimtt/systemone-lab">baldellimtt/systemone-lab</a></b> · ⭐1 · HTML · 👁️ observed · 1 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2011,38 +2006,6 @@ Hands-on System One decision lab: Jev-compatible Noul/Choice/Score over local op
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/blacksoxx/system-one-aiops-demo">blacksoxx/system-one-aiops-demo</a></b> · ⭐1 · Python · 👁️ observed · 3 天</summary>
-
-##### 📝 Стислий опис
-
-Alert triage with a System One model: a fake shop on kind, realistic incidents, and Laya answering five typed questions per alert with calibrated probabilities
-
-##### 📌 Основні факти
-
-| Поле      | Значення                                     |
-| --------- | -------------------------------------------- |
-| Категорія | `Маршрутизація, запобіжники та затвердження` |
-| Докази    | `observed`                                   |
-| Мова      | Python                                       |
-
-##### 📊 Дані
-
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **1**      |
-| Останній push   | 2026-10-30 |
-| Уперше в списку | 2026-10-30 |
-
----
-
-<table><tr><th align="center" width="50%">🖼 Зображення</th><th align="center" width="50%">🎬 Відео</th></tr><tr>
-<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/blacksoxx--system-one-aiops-demo/1c049a2afa100cd7.png" width="100%" alt="blacksoxx/system-one-aiops-demo screenshot"></td>
-<td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
-</tr></table>
-
-</details>
-
-<details>
 <summary>🛡️ <b><a href="https://github.com/nani-stack/gmail-auto-cleanup">nani-stack/gmail-auto-cleanup</a></b> · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Стислий опис
@@ -2070,34 +2033,7 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/wjdjdakf17/jev-vs-laya">wjdjdakf17/jev-vs-laya</a></b> · TypeScript · 👁️ observed · 25 天</summary>
-
-##### 📝 Стислий опис
-
-Дослідження Jev(TypeSafe AI System One Model) — типізовані рішення·RLCD·confidence-gated routing, упорядковані в нотатці корейською мовою та макеті TypeScript
-
-##### 📌 Основні факти
-
-| Поле      | Значення                                     |
-| --------- | -------------------------------------------- |
-| Категорія | `Маршрутизація, запобіжники та затвердження` |
-| Докази    | `observed`                                   |
-| Мова      | TypeScript                                   |
-
-##### 📊 Дані
-
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **0**      |
-| Останній push   | 2026-10-08 |
-| Уперше в списку | 2026-10-15 |
-
-🏷 `ai` · `decision-model` · `jev` · `jevlike` · `llm` · `study-notes` · `system-one-model` · `typesafe`
-
-</details>
-
-<details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐34915 · Python · 🔎 inferred · 1 天 · ⭐+4</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐34928 · Python · 🔎 inferred · 1 天 · ⭐+13</summary>
 
 ##### 📝 Стислий опис
 
@@ -2113,11 +2049,11 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 
 ##### 📊 Дані
 
-| Метрика         | Значення       |
-| --------------- | -------------- |
-| Зірки           | **34915** (+4) |
-| Останній push   | 2026-11-01     |
-| Уперше в списку | 2026-09-23     |
+| Метрика         | Значення        |
+| --------------- | --------------- |
+| Зірки           | **34928** (+13) |
+| Останній push   | 2026-11-01      |
+| Уперше в списку | 2026-09-23      |
 
 🏷 `calibration` · `classification` · `decision-model` · `huggingface` · `jev` · `modernbert` · `multilingual` · `nlp`
 
@@ -2127,6 +2063,58 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 <td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/nandhakishorm--laya/e01e49f0d842b461.png" width="100%" alt="NandhaKishorM/laya screenshot"></td>
 <td align="center" valign="top"><sub>медіа не опубліковано</sub></td>
 </tr></table>
+
+</details>
+
+<details>
+<summary>🛡️ <b><a href="https://github.com/slavabars/decision-cascade">slavabars/decision-cascade</a></b> · ⭐78 · Python · 🔎 inferred · 4 天</summary>
+
+##### 📝 Стислий опис
+
+Local decision engine with typed, calibrated outputs (Noul/Choice/Score): cheap→strong cascade, ECE/Brier calibration, SystemOne protocol interop. Apache-2.0.
+
+##### 📌 Основні факти
+
+| Поле      | Значення                                     |
+| --------- | -------------------------------------------- |
+| Категорія | `Маршрутизація, запобіжники та затвердження` |
+| Докази    | `inferred`                                   |
+| Мова      | Python                                       |
+
+##### 📊 Дані
+
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **78**     |
+| Останній push   | 2026-10-29 |
+| Уперше в списку | 2026-10-16 |
+
+🏷 `calibration` · `cascade` · `decision-making` · `fastapi` · `llm` · `model-routing` · `pytorch` · `systemone`
+
+</details>
+
+<details>
+<summary>🛡️ <b><a href="https://github.com/zhangcy122/OpenJev">zhangcy122/OpenJev</a></b> · ⭐44 · Python · 🔎 inferred · 35 天</summary>
+
+##### 📝 Стислий опис
+
+Саморозвивний когнітивний рушій прийняття рішень і альтернатива TypeSafe Jev. Дисциплінарний цикл прийняття рішень («спочатку дослідження, потім кристалізація», System 2→1) зі 100% інваріантністю до порядку варіантів. Типізований імовірнісний API (Choice, Noul, Score) для Open LLMs, Laya (ModernBERT) і комерційних Jev із каліброваними logprobs та адаптивними запобіжниками безпеки.
+
+##### 📌 Основні факти
+
+| Поле      | Значення                                     |
+| --------- | -------------------------------------------- |
+| Категорія | `Маршрутизація, запобіжники та затвердження` |
+| Докази    | `inferred`                                   |
+| Мова      | Python                                       |
+
+##### 📊 Дані
+
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **44**     |
+| Останній push   | 2026-09-29 |
+| Уперше в списку | 2026-10-23 |
 
 </details>
 
@@ -2197,7 +2185,7 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/rupeshpoojary9/poorjev">rupeshpoojary9/poorjev</a></b> · ⭐11 · Python · 🔎 inferred · 42 天</summary>
+<summary>🛡️ <b><a href="https://github.com/rupeshpoojary9/poorjev">rupeshpoojary9/poorjev</a></b> · ⭐11 · Python · 🔎 inferred · 43 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2231,7 +2219,7 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/eulogik/nirnay">eulogik/nirnay</a></b> · ⭐10 · Python · 🔎 inferred · 27 天</summary>
+<summary>🛡️ <b><a href="https://github.com/eulogik/nirnay">eulogik/nirnay</a></b> · ⭐10 · Python · 🔎 inferred · 28 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2335,10 +2323,8 @@ Eight decision models, measured as the candidate list grows, the option order ch
 </details>
 
 <details>
-<summary><b>Більше в цій категорії</b> <sub>· 49</sub></summary>
+<summary><b>Більше в цій категорії</b> <sub>· 47</sub></summary>
 
-- [slavabars/decision-cascade](https://github.com/slavabars/decision-cascade) - Local decision engine with typed, calibrated outputs (Noul/Choice/Score)…
-- [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) - Саморозвивний когнітивний рушій прийняття рішень і альтернатива TypeSafe Jev.
 - [bytelabs-oss/clash-jev](https://github.com/bytelabs-oss/clash-jev) - Бот Clash Royale без навченої політики: Jev (TypeSafe System One) приймає кожне…
 - [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) - Minimal grammY Telegram anti-spam bot powered by TypeSafe Jev.
 - [leofmarciano/groot](https://github.com/leofmarciano/groot) - 🌳 Groot 1 is a open typed-decision model, with a pure Bend engine.
@@ -2430,7 +2416,7 @@ Eight decision models, measured as the candidate list grows, the option order ch
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/v-modal/awesome-jev-tools">v-modal/awesome-jev-tools</a></b> · ⭐754 · 👁️ observed · 2 天</summary>
+<summary>🧪 <b><a href="https://github.com/v-modal/awesome-jev-tools">v-modal/awesome-jev-tools</a></b> · ⭐754 · 👁️ observed · 3 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2715,7 +2701,7 @@ Code and data for evaluating Jev, a System One model, on scientific decisions an
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/debuffjp/decidekit">debuffjp/decidekit</a></b> · ⭐4 · TypeScript · 👁️ observed · 0 天 · ⭐+1</summary>
+<summary>🧪 <b><a href="https://github.com/debuffjp/decidekit">debuffjp/decidekit</a></b> · ⭐4 · TypeScript · 👁️ observed · 1 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2733,7 +2719,7 @@ A System One model in the browser: typed, calibrated text decisions on the user'
 
 | Метрика         | Значення   |
 | --------------- | ---------- |
-| Зірки           | **4** (+1) |
+| Зірки           | **4**      |
 | Останній push   | 2026-11-02 |
 | Уперше в списку | 2026-11-02 |
 
@@ -2774,7 +2760,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1568 · Python · 🔎 inferred · 12 天</summary>
+<summary>🧪 <b><a href="https://github.com/nokia-applied-research/AnyJev">nokia-applied-research/AnyJev</a></b> · ⭐1569 · Python · 🔎 inferred · 12 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -2790,11 +2776,11 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **1568**   |
-| Останній push   | 2026-10-21 |
-| Уперше в списку | 2026-09-22 |
+| Метрика         | Значення      |
+| --------------- | ------------- |
+| Зірки           | **1569** (+1) |
+| Останній push   | 2026-10-21    |
+| Уперше в списку | 2026-09-22    |
 
 🏷 `calibration` · `decision-model` · `jev` · `jev-model` · `llm` · `system-one` · `transformers` · `vllm`
 
@@ -2808,7 +2794,7 @@ Distilling a calibrated decision model into Qwen3-1.7B: SFT vs. distillation vs.
 </details>
 
 <details>
-<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐159 · Python · 🔎 inferred · 35 天</summary>
+<summary>🧪 <b><a href="https://github.com/allebee/jevk5">allebee/jevk5</a></b> · ⭐159 · Python · 🔎 inferred · 36 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -2897,7 +2883,7 @@ JevK5: альтернатива TypeSafe Jev із відкритими вага�
 | Метрика         | Значення   |
 | --------------- | ---------- |
 | Зірки           | **37**     |
-| Останній push   | 2026-11-02 |
+| Останній push   | 2026-11-03 |
 | Уперше в списку | 2026-10-19 |
 
 🏷 `arxiv` · `biorxiv` · `github-actions` · `jev` · `literature-review` · `llm` · `paper-recommendation` · `python`
@@ -2977,11 +2963,11 @@ JevK5: альтернатива TypeSafe Jev із відкритими вага�
 - [divyanshudhruv/oev](https://github.com/divyanshudhruv/oev) - An 184M-parameter monolingual decision engine delivering calibrated…
 - [etsabary/jev-deterministic-benchmark](https://github.com/etsabary/jev-deterministic-benchmark) - Поведінковий бенчмарк Jev на 1 000 рішень у 25 детермінованих сімействах…
 - [jev-sec/jev-sec.github.io](https://github.com/jev-sec/jev-sec.github.io) - Jev IDS website: one flow. one request. one verdict.
+- [mbzuai-oryx/EO-Jev](https://github.com/mbzuai-oryx/EO-Jev) - EO-Jev: Decision Model for Earth Observation. Code for training and evaluation;
 - [Nefelim584/JEV_Judge](https://github.com/Nefelim584/JEV_Judge) - jev-lite: a ModernBERT-based typed decision model (Bool / Choice / Score) with…
 - [teyhouse/jev-secret-detection](https://github.com/teyhouse/jev-secret-detection) - Вимірює, наскільки добре модель RLCD-Jev TypeSafe виявляє справжні секретні…
 - [EnesDemir143/jev-laya-benchmark](https://github.com/EnesDemir143/jev-laya-benchmark) - Локальний бенчмарк, що порівнює TypeSafe Jev і Laya-MLX для структурованої…
 - [lewistouchtech/opencode-jev-safe-compact](https://github.com/lewistouchtech/opencode-jev-safe-compact) - JEV-guided context compaction for OpenCode, built on a measured finding: noul…
-- [mbzuai-oryx/EO-Jev](https://github.com/mbzuai-oryx/EO-Jev) - EO-Jev: Decision Model for Earth Observation. Code for training and evaluation;
 - [patelvishwa112/jev-system-one-rlcd](https://github.com/patelvishwa112/jev-system-one-rlcd) - Jev System One AI та RLCD Reproduction Engine: калібровані рішення менш ніж за…
 - [rogueprocess13/jev-ops-experiment](https://github.com/rogueprocess13/jev-ops-experiment) - Experimental benchmark: can Jev AI make bounded operational decisions from…
 - [Rushab1/gr-jev](https://github.com/Rushab1/gr-jev) - Code for.
@@ -3382,7 +3368,7 @@ clawd-JEV-trading machine: JEV-on-Solana paper trader. TypeSafe jev-latest brain
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐7061 · Python · 🔎 inferred · 4 天 · ⭐-1</summary>
+<summary>🔬 <b><a href="https://github.com/mizorewww/laya-mlx">mizorewww/laya-mlx</a></b> · ⭐7061 · Python · 🔎 inferred · 4 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -3398,11 +3384,11 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 
 ##### 📊 Дані
 
-| Метрика         | Значення      |
-| --------------- | ------------- |
-| Зірки           | **7061** (-1) |
-| Останній push   | 2026-10-29    |
-| Уперше в списку | 2026-10-29    |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **7061**   |
+| Останній push   | 2026-10-29 |
+| Уперше в списку | 2026-10-29 |
 
 🏷 `apple-silicon` · `decision-model` · `inference` · `laya` · `local-ai` · `machine-learning` · `mlx` · `modernbert`
 
@@ -3448,7 +3434,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐931 · Python · 🔎 inferred · 11 天</summary>
+<summary>🔬 <b><a href="https://github.com/mode-io/vllm-jev">mode-io/vllm-jev</a></b> · ⭐933 · Python · 🔎 inferred · 11 天 · ⭐+2</summary>
 
 ##### 📝 Стислий опис
 
@@ -3464,11 +3450,11 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **931**    |
-| Останній push   | 2026-10-22 |
-| Уперше в списку | 2026-10-29 |
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **933** (+2) |
+| Останній push   | 2026-10-22   |
+| Уперше в списку | 2026-10-29   |
 
 ---
 
@@ -3594,6 +3580,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 - [mars-tw/jev-trading-command-center](https://github.com/mars-tw/jev-trading-command-center) - Open-source paper-trading research app integrating TypeSafe Jev, animated 3D…
 - [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev)
 - [amithgc/local-jev](https://github.com/amithgc/local-jev) - Локальний офлайн-сервер System One, сумісний із TypeSafe.
+- [OpenLAIR/lev](https://github.com/OpenLAIR/lev) - Lev: Thinking Fast and Deep with Looped Decision Models.
 - [whyashthakker/awesome-jev-use-cases](https://github.com/whyashthakker/awesome-jev-use-cases) - Чудовий список варіантів використання Jev.
 - [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) - JEV-mini is a minimal learning project to train a fast decision-making model.
 - [pCwOrM/werr](https://github.com/pCwOrM/werr) - Zero-memory System-1 decision engine &amp; TypeSafe Jev runtime powered by Fractal…
@@ -3601,7 +3588,6 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 - [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) - MiniCPM5-2B-Jev: High-Speed System 1 Decision Model.
 - [0utKast/Jev_AI](https://github.com/0utKast/Jev_AI) - Curso completo, cuadernos Google Colab y guía bibliográfica sobre Jev.
 - [Frank-Funney/mini-jev](https://github.com/Frank-Funney/mini-jev) - A super lightweight structured decision engine for edge devices.
-- [gisbi-kim/jev-mnist-tutorial](https://github.com/gisbi-kim/jev-mnist-tutorial) - MNIST decision model experiment notes: Unsloth, Qwen3.5 LoRA, decision head…
 - [welcomeenjoy75-hue/mini-jev](https://github.com/welcomeenjoy75-hue/mini-jev) - A super lightweight structured decision engine for edge devicea.
 - [AbdelStark/reachy-jev](https://github.com/AbdelStark/reachy-jev) - Typed Jev decision primitives for Reachy Mini applications.
 - [AnilDeshpande/jev-youtube-demo](https://github.com/AnilDeshpande/jev-youtube-demo) - Jev (TypeSafe) vs GPT-4o-mini: classifying YouTube comments with a Judgement…
@@ -3634,7 +3620,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 Ігри, роботи, браузери та дашборди. Демо — це те, що робить твердження про затримку та вартість зрозумілими.
 
 <details>
-<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1033 · Astro · 👁️ observed · 15 天 · ⭐+2</summary>
+<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1034 · Astro · 👁️ observed · 15 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -3654,7 +3640,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 
 | Метрика         | Значення      |
 | --------------- | ------------- |
-| Зірки           | **1033** (+2) |
+| Зірки           | **1034** (+1) |
 | Останній push   | 2026-10-19    |
 | Уперше в списку | 2026-10-29    |
 
@@ -3663,7 +3649,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐553 · TypeScript · 👁️ observed · 12 天 · ⭐+1</summary>
+<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐553 · TypeScript · 👁️ observed · 12 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -3681,11 +3667,11 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 
 ##### 📊 Дані
 
-| Метрика         | Значення     |
-| --------------- | ------------ |
-| Зірки           | **553** (+1) |
-| Останній push   | 2026-10-21   |
-| Уперше в списку | 2026-10-29   |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **553**    |
+| Останній push   | 2026-10-21 |
+| Уперше в списку | 2026-10-29 |
 
 ---
 
@@ -3697,7 +3683,7 @@ A verified, community-maintained catalog of 992 open-source projects built with 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐289 · Python · 👁️ observed · 15 天 · ⭐+2</summary>
+<summary>🎮 <b><a href="https://github.com/MCG-NJU/VideoJev">MCG-NJU/VideoJev</a></b> · ⭐289 · Python · 👁️ observed · 16 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -3713,11 +3699,11 @@ VideoJev: System One Model для розуміння відео та взаєм�
 
 ##### 📊 Дані
 
-| Метрика         | Значення     |
-| --------------- | ------------ |
-| Зірки           | **289** (+2) |
-| Останній push   | 2026-10-18   |
-| Уперше в списку | 2026-10-28   |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **289**    |
+| Останній push   | 2026-10-18 |
+| Уперше в списку | 2026-10-28 |
 
 ---
 
@@ -3729,7 +3715,7 @@ VideoJev: System One Model для розуміння відео та взаєм�
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/mrnugget/jev-shell-history">mrnugget/jev-shell-history</a></b> · ⭐119 · TypeScript · 👁️ observed · 45 天</summary>
+<summary>🎮 <b><a href="https://github.com/mrnugget/jev-shell-history">mrnugget/jev-shell-history</a></b> · ⭐119 · TypeScript · 👁️ observed · 46 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -3860,7 +3846,7 @@ Go make a decision! Run System One models, 100% local in your browser using WebA
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/dfinke/Jev">dfinke/Jev</a></b> · ⭐11 · PowerShell · 👁️ observed · 17 天</summary>
+<summary>🎮 <b><a href="https://github.com/dfinke/Jev">dfinke/Jev</a></b> · ⭐11 · PowerShell · 👁️ observed · 18 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4029,7 +4015,7 @@ Using Jev/SystemOne Models to build use cases
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://x.com/tspy/status/2100864234523685146">Xtags — X intent labeller</a></b> · @tspy · 👁️ observed · 45 天</summary>
+<summary>🎮 <b><a href="https://x.com/tspy/status/2100864234523685146">Xtags — X intent labeller</a></b> · @tspy · 👁️ observed · 46 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4069,7 +4055,7 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/Valen-Team/Valen">Valen-Team/Valen</a></b> · ⭐900 · Python · 🔎 inferred · 4 天</summary>
+<summary>🎮 <b><a href="https://github.com/Valen-Team/Valen">Valen-Team/Valen</a></b> · ⭐901 · Python · 🔎 inferred · 5 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -4085,11 +4071,11 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **900**    |
-| Останній push   | 2026-10-29 |
-| Уперше в списку | 2026-10-29 |
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **901** (+1) |
+| Останній push   | 2026-10-29   |
+| Уперше в списку | 2026-10-29   |
 
 🏷 `decision-model` · `jev` · `system-one` · `typed-decisions`
 
@@ -4135,7 +4121,7 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐327 · Python · 🔎 inferred · 42 天 · ⭐+1</summary>
+<summary>🎮 <b><a href="https://github.com/hr98w/jev-visual">hr98w/jev-visual</a></b> · ⭐327 · Python · 🔎 inferred · 42 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4151,11 +4137,11 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 
 ##### 📊 Дані
 
-| Метрика         | Значення     |
-| --------------- | ------------ |
-| Зірки           | **327** (+1) |
-| Останній push   | 2026-09-21   |
-| Уперше в списку | 2026-10-29   |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **327**    |
+| Останній push   | 2026-09-21 |
+| Уперше в списку | 2026-10-29 |
 
 ---
 
@@ -4203,7 +4189,7 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 </details>
 
 <details>
-<summary><b>Більше в цій категорії</b> <sub>· 34</sub></summary>
+<summary><b>Більше в цій категорії</b> <sub>· 33</sub></summary>
 
 - [bobbylite/jev-system-one-model-primitives](https://github.com/bobbylite/jev-system-one-model-primitives) - Basic sample app to demonstrate primitive types for system one models like…
 - [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) - A computer use harness for system one models.
@@ -4236,7 +4222,6 @@ Open, lightweight multimodal decision models for text, images, and video. Train 
 - [mberliner/jev-lab](https://github.com/mberliner/jev-lab) - Laboratorio progresivo para aprender y demostrar Jev, el modelo de decisión…
 - [netcode001/jev](https://github.com/netcode001/jev) - Неофіційний інформаційний хаб Jev AI — посібник із доступу, ціни, безкоштовний…
 - [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) - Run a Pokémon Champions battle arena locally with Jev, TypeSafe, and Pokémon…
-- [Ramolisdenneyous/Drone-Commander-Powered-by-Jev](https://github.com/Ramolisdenneyous/Drone-Commander-Powered-by-Jev) - This version of Drone commander was built to test out using Jev to control the…
 - [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) - Playwright + TypeSafe Jev (System One) decision-map demo for semantic test…
 - [sorrycc/typesafe-snake](https://github.com/sorrycc/typesafe-snake) - Snake, автоматично керована моделлю Jev від TypeSafe: один вибір System One за…
 
@@ -4540,7 +4525,7 @@ preview endpoint `/preview/evaluation` → стабільна версія **`PO
 </details>
 
 <details>
-<summary>📰 <b><a href="https://github.com/imrishit98/jev.aitools.fyi">imrishit98/jev.aitools.fyi</a></b> · ⭐3 · TypeScript · 🔎 inferred · 0 天 · **NEW**</summary>
+<summary>📰 <b><a href="https://github.com/imrishit98/jev.aitools.fyi">imrishit98/jev.aitools.fyi</a></b> · ⭐3 · TypeScript · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4606,7 +4591,7 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 </details>
 
 <details>
-<summary><b>Більше в цій категорії</b> <sub>· 69</sub></summary>
+<summary><b>Більше в цій категорії</b> <sub>· 76</sub></summary>
 
 - [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev) - Кураторський список проєктів із підтвердженими джерелами, створених за…
 - [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450)
@@ -4617,7 +4602,12 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 - [What Is RLCD? The Secret Behind Jev](https://news.ycombinator.com/item?id=49829625)
 - [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443)
 - [aliaihub/awesome-jev-usecases](https://github.com/aliaihub/awesome-jev-usecases) - Підкріплені доказами варіанти використання, шаблони та рекомендації зі…
+- [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979)
+- [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) - Патерн моделі прийняття рішень / моделі System One був започаткований Jev…
+- [Show HN: I used Jev to build an off-topic detector for meetings](https://news.ycombinator.com/item?id=50342630)
+- [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686)
 - [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920)
+- [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879)
 - [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) - A curated projects built with Jev, TypeSafe.
 - [Show HN: Fastbrowse, Browser agent that picks clicks with a System One model](https://news.ycombinator.com/item?id=50311029) - Hi HN, I&amp;#x27;m Furqan founder of Nebula.
 - [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) - ! pip install jev-bisect ! export…
@@ -4629,7 +4619,9 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 - [Create your own Jev using embeddings](https://news.ycombinator.com/item?id=50345316)
 - [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296)
 - [Show HN: Decide – Jev decisions in the shell, scripts, and agent skills](https://news.ycombinator.com/item?id=49878492) - Усе програмне забезпечення ухвалює рішення. Код обробляє детерміновані рішення.
+- [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) - Нещодавно подивився відео veritasium на youtube про машину Enigma і…
 - [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132)
+- [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597)
 - [The Hitchhiker's Guide to System One Models](https://news.ycombinator.com/item?id=50301027)
 - [Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD](https://news.ycombinator.com/item?id=49734345)
 - [ozers/jevsome-projects](https://github.com/ozers/jevsome-projects) - Проєкти з відкритим кодом, які підтверджено викликають Jev, модель System One…
@@ -4717,7 +4709,7 @@ Decision Tier: a field guide to decision models (Jev and peers), from ELI5 to en
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐869 · Python · 👁️ observed · 35 天</summary>
+<summary>🧩 <b><a href="https://github.com/jev-chat/jev-chat-windows">jev-chat/jev-chat-windows</a></b> · ⭐870 · Python · 👁️ observed · 35 天 · ⭐+1</summary>
 
 ##### 📝 Стислий опис
 
@@ -4735,11 +4727,11 @@ JevChat-Windows: помічник для відповідей, закріпле�
 
 ##### 📊 Дані
 
-| Метрика         | Значення   |
-| --------------- | ---------- |
-| Зірки           | **869**    |
-| Останній push   | 2026-09-28 |
-| Уперше в списку | 2026-10-29 |
+| Метрика         | Значення     |
+| --------------- | ------------ |
+| Зірки           | **870** (+1) |
+| Останній push   | 2026-09-28   |
+| Уперше в списку | 2026-10-29   |
 
 🏷 `chat-assistant` · `jev` · `llm` · `local-first` · `ocr` · `privacy` · `pyqt` · `python`
 
@@ -4755,7 +4747,7 @@ JevChat-Windows: помічник для відповідей, закріпле�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/datawhalechina/jev-cookbook">datawhalechina/jev-cookbook</a></b> · ⭐570 · Jupyter · 👁️ observed · 3 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/datawhalechina/jev-cookbook">datawhalechina/jev-cookbook</a></b> · ⭐574 · Jupyter · 👁️ observed · 4 天 · ⭐+4</summary>
 
 ##### 📝 Стислий опис
 
@@ -4775,7 +4767,7 @@ JevChat-Windows: помічник для відповідей, закріпле�
 
 | Метрика         | Значення     |
 | --------------- | ------------ |
-| Зірки           | **570** (+1) |
+| Зірки           | **574** (+4) |
 | Останній push   | 2026-10-30   |
 | Уперше в списку | 2026-10-29   |
 
@@ -4856,7 +4848,7 @@ JevChat-Windows: помічник для відповідей, закріпле�
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/brainstormity/Jev-X-Sentiment-Analysis">brainstormity/Jev-X-Sentiment-Analysis</a></b> · ⭐227 · Python · 👁️ observed · 12 天</summary>
+<summary>🧩 <b><a href="https://github.com/brainstormity/Jev-X-Sentiment-Analysis">brainstormity/Jev-X-Sentiment-Analysis</a></b> · ⭐227 · Python · 👁️ observed · 13 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4920,7 +4912,7 @@ Jeva: моделі System One з перших принципів
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐132 · Python · 👁️ observed · 42 天 · ⭐-1</summary>
+<summary>🧩 <b><a href="https://github.com/Futureppo/typesafe_register">Futureppo/typesafe_register</a></b> · ⭐132 · Python · 👁️ observed · 42 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -4936,11 +4928,11 @@ Jeva: моделі System One з перших принципів
 
 ##### 📊 Дані
 
-| Метрика         | Значення     |
-| --------------- | ------------ |
-| Зірки           | **132** (-1) |
-| Останній push   | 2026-09-21   |
-| Уперше в списку | 2026-10-29   |
+| Метрика         | Значення   |
+| --------------- | ---------- |
+| Зірки           | **132**    |
+| Останній push   | 2026-09-21 |
+| Уперше в списку | 2026-10-29 |
 
 ---
 
@@ -4952,7 +4944,7 @@ Jeva: моделі System One з перших принципів
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/peterfriese/system-one-foundation-models">peterfriese/system-one-foundation-models</a></b> · ⭐124 · Swift · 👁️ observed · 24 天</summary>
+<summary>🧩 <b><a href="https://github.com/peterfriese/system-one-foundation-models">peterfriese/system-one-foundation-models</a></b> · ⭐124 · Swift · 👁️ observed · 25 天</summary>
 
 ##### 📝 Стислий опис
 
@@ -5206,7 +5198,7 @@ TypeSafe Jev 1.14.0 使用教程：System One 决策 API 从入门到 box 定位
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9781 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐9784 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
 
 ##### 📝 Стислий опис
 
@@ -5224,7 +5216,7 @@ TypeSafe Jev 1.14.0 使用教程：System One 决策 API 从入门到 box 定位
 
 | Метрика         | Значення      |
 | --------------- | ------------- |
-| Зірки           | **9781** (+3) |
+| Зірки           | **9784** (+3) |
 | Останній push   | 2026-11-03    |
 | Уперше в списку | 2026-10-29    |
 
@@ -5274,7 +5266,7 @@ TypeLLM: LLMs із типобезпечною генерацією
 </details>
 
 <details>
-<summary><b>Більше в цій категорії</b> <sub>· 61</sub></summary>
+<summary><b>Більше в цій категорії</b> <sub>· 59</sub></summary>
 
 - [talmago/fast_gliner](https://github.com/talmago/fast_gliner) - Fast ONNX inference for GLiNER, GLiClass, GLiFormer, and System One — Python…
 - [SoundBlaster/SwiftJev](https://github.com/SoundBlaster/SwiftJev) - Фреймворк Swift для доступу до моделі Jev System One від TypeSafe.ai.
@@ -5282,6 +5274,7 @@ TypeLLM: LLMs із типобезпечною генерацією
 - [soderlind/ai-provider-for-jev](https://github.com/soderlind/ai-provider-for-jev) - Підключіть WordPress до моделі TypeSafe.
 - [Shristi1611/systemone-testbed](https://github.com/Shristi1611/systemone-testbed) - A security test environment for Jev-compatible decision models.
 - [Armanzahedi/fulcrum](https://github.com/Armanzahedi/fulcrum) - Typed questions, ordered rules and committed outcomes for System One models in…
+- [amadzai/think-fast-jev](https://github.com/amadzai/think-fast-jev) - System One models vs an LLM at the decision steps of answering crypto market…
 - [DevItaliya22/jev-chess](https://github.com/DevItaliya22/jev-chess) - Jev.
 - [FrancescoDesiderato/Devfest_SystemOneModel](https://github.com/FrancescoDesiderato/Devfest_SystemOneModel) - Repository of Code for GDG DevFest 2026 Talk about &quot;System One Models&quot;.
 - [jakob-lilliemarck/komply](https://github.com/jakob-lilliemarck/komply) - Use SystemOne models to check compliance with architectural rules.
@@ -5314,8 +5307,6 @@ TypeLLM: LLMs із типобезпечною генерацією
 - [Lasimeri/Intel-Phi-Jev](https://github.com/Lasimeri/Intel-Phi-Jev) - XKEYSCORE for Jev: TypeSafe System One judgments (noul/choice/score) served…
 - [sergiecode/jev-test-si-o-no](https://github.com/sergiecode/jev-test-si-o-no) - Noul -&gt; Примітив для визначення, чи це так або ні.
 - [TanayPadar/gpt-vs-jev](https://github.com/TanayPadar/gpt-vs-jev) - Порівняння мови, згенерованої GPT, зі структурованими рішеннями JEV Noul на…
-- [amadzai/think-fast-jev](https://github.com/amadzai/think-fast-jev) - Single-pass decision models (Jev, Kev) against a frontier LLM at the decision…
-- [bertran2born/jev-classifier](https://github.com/bertran2born/jev-classifier) - Classification statistique des études PDF avec Jev et explorateur HTML local…
 - [cfu288/jev-vs-ml-classifiers](https://github.com/cfu288/jev-vs-ml-classifiers) - How well does the latest JEV model do against classical ML classifier models…
 - [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) - A pi package that trims stale tool output with Jev when pi.
 - [ConfusedSky/jev-tests](https://github.com/ConfusedSky/jev-tests) - Ask a shelf of PDF rulebooks questions.
@@ -5324,7 +5315,6 @@ TypeLLM: LLMs із типобезпечною генерацією
 - [LiLittleCat/jev-playlist-classify](https://github.com/LiLittleCat/jev-playlist-classify) - Classify large playlists by song language with TypeSafe AI.
 - [microsoft/amplifier-module-provider-jev](https://github.com/microsoft/amplifier-module-provider-jev) - Optional Jev decision-model provider for Amplifier.
 - [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) - TypeSafe Jev 오픈소스 구현을 매일 모아 한국어로 정리하는 레이더 (radar-index/1).
-- [ranpin/jevCabin](https://github.com/ranpin/jevCabin) - 车载座舱人员/身份/座位信息提取——Jev 类型化决策模型（Laya 后端）替代巨型 LLM prompt，零样本 F1 0.916、单条 44ms、纯本地.
 - [xiaotian1171/jev-trolley-switch](https://github.com/xiaotian1171/jev-trolley-switch) - Interactive Trolley Problem decision lab powered by Pollinations POST…
 - [receptron/laya](https://github.com/receptron/laya) - Запускайте Laya, відкриту System-1 модель ухвалення рішень, сумісну з Jev, з…
 - [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) - Відкрита локальна версія Jev: типізовані рішення від LLM без генерування…
@@ -5348,10 +5338,10 @@ TypeLLM: LLMs із типобезпечною генерацією
 
 | Мова       | Записи | Приклади                                                                                                 |
 | ---------- | ------ | -------------------------------------------------------------------------------------------------------- |
-| Python     | 368    | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals`  |
-| TypeScript | 133    | `typesafe-ai/typesafe-sdk-js`, `qkal/Canny`, `erik-hedstrom/loadout`                                     |
-| JavaScript | 76     | `clouatre-labs/decisions-judge-mcp`, `socai-io/jev-social`, `Ying-Kai-Liao/jev-browser`                  |
-| Rust       | 36     | `chussenot/judgment`, `ollaya-dev/ollaya`, `supercorp-ai/supercov`                                       |
+| Python     | 361    | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals`  |
+| TypeScript | 131    | `typesafe-ai/typesafe-sdk-js`, `qkal/Canny`, `erik-hedstrom/loadout`                                     |
+| JavaScript | 74     | `clouatre-labs/decisions-judge-mcp`, `socai-io/jev-social`, `Ying-Kai-Liao/jev-browser`                  |
+| Rust       | 38     | `chussenot/judgment`, `ollaya-dev/ollaya`, `supercorp-ai/supercov`                                       |
 | HTML       | 29     | `typesafe-ai/typesafe-ai.github.io`, `yzfly/awesome-jev-zh`, `AbdelStark/awesome-typesafe-jev`           |
 | Go         | 12     | `frodi-karlsson/onesie`, `devbackend/jevgo`, `JimmyWesley/rlcd-gateway`                                  |
 | Jupyter    | 12     | `jexp/neo4jev`, `GitHub30/OpenJev`, `Mainakcris7/agent-guardrail-with-jev`                               |
@@ -5387,4 +5377,4 @@ TypeLLM: LLMs із типобезпечною генерацією
 
 <sub>Незалежний проєкт спільноти. Не пов'язаний із TypeSafe AI, не схвалений і не перевірений нею. Поведінка продукту, ціни, обмеження та псевдоніми моделей змінюються без попередження; усе критично важливе звіряйте з офіційною документацією. Ресурси залишаються власністю своїх вихідних проєктів і відтворюються лише там, де це дозволяє ліцензія.</sub>
 
-<sub>Згенеровано за допомогою · 2026-11-03T14:50:53+08:00</sub>
+<sub>Згенеровано за допомогою · 2026-11-03T16:57:26+08:00</sub>

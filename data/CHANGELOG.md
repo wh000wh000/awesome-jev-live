@@ -7847,3 +7847,17 @@
 - `+` [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) — inferred / apps-demos — ⭐0
 - `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+
+## 2026-11-03T16:56:23+08:00
+- 收录总数 **821**；本次更新新增 **11**
+- `+` [OpenLAIR/lev](https://github.com/OpenLAIR/lev) — inferred / research-models — ⭐24
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐9
+- `+` [iamngoni/veyra](https://github.com/iamngoni/veyra) — unverified / community-sdk — ⭐8
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) — observed / media-discussions — ⭐6
+- `+` [Show HN: I used Jev to build an off-topic detector for meetings](https://news.ycombinator.com/item?id=50342630) — observed / media-discussions — ⭐5
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
