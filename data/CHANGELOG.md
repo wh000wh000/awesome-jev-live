@@ -7949,3 +7949,10 @@
 - `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / agent-tooling — ⭐1
 - `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
 - `+` [andrevandal/pi-classifier-tools-skills](https://github.com/andrevandal/pi-classifier-tools-skills) — observed / agent-tooling — ⭐0
+
+## 2026-11-04T07:46:47+08:00
+- 收录总数 **808**；本次更新新增 **4**
+- `+` [akiiwa-games/AgentCompass](https://github.com/akiiwa-games/AgentCompass) — inferred / community-sdk — ⭐3
+- `+` [VianneyMI/python-jev](https://github.com/VianneyMI/python-jev) — inferred / community-sdk — ⭐0
+- `+` [vilinski/jev](https://github.com/vilinski/jev) — inferred / community-sdk — ⭐0
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
