@@ -7956,3 +7956,16 @@
 - `+` [VianneyMI/python-jev](https://github.com/VianneyMI/python-jev) — inferred / community-sdk — ⭐0
 - `+` [vilinski/jev](https://github.com/vilinski/jev) — inferred / community-sdk — ⭐0
 - `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+
+## 2026-11-04T09:53:22+08:00
+- 收录总数 **807**；本次更新新增 **10**
+- `+` [chenmingtang830/jevgraph](https://github.com/chenmingtang830/jevgraph) — inferred / community-sdk — ⭐47
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [jimmy1340/jev-companion](https://github.com/jimmy1340/jev-companion) — inferred / other — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [kevinyin9/next-steps-jev](https://github.com/kevinyin9/next-steps-jev) — inferred / agent-tooling — ⭐0
+- `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
+- `+` [mxttbennett/jev-relay](https://github.com/mxttbennett/jev-relay) — inferred / agent-tooling — ⭐0
+- `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [wang-erica/system-one-sft](https://github.com/wang-erica/system-one-sft) — observed / other — ⭐0
