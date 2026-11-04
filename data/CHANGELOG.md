@@ -7969,3 +7969,11 @@
 - `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [wang-erica/system-one-sft](https://github.com/wang-erica/system-one-sft) — observed / other — ⭐0
+
+## 2026-11-04T12:01:41+08:00
+- 收录总数 **807**；本次更新新增 **5**
+- `+` [hndrr/ComfyUI-Jev](https://github.com/hndrr/ComfyUI-Jev) — inferred / other — ⭐6
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐4
+- `+` [dereknex/fast-jev-compaction](https://github.com/dereknex/fast-jev-compaction) — inferred / agent-tooling — ⭐0
+- `+` [JeromyJSmith/jev-trading-lab](https://github.com/JeromyJSmith/jev-trading-lab) — inferred / research-models — ⭐0
