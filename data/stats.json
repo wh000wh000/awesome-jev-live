@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-11-04T12:01:41+08:00",
- "total": 807,
- "new_this_tick": 5,
+ "generated_at": "2026-11-04T16:15:10+08:00",
+ "total": 803,
+ "new_this_tick": 10,
  "by_category": {
   "official-sdk": 7,
-  "community-sdk": 143,
-  "agent-tooling": 243,
-  "routing-guardrails": 60,
-  "evaluation": 97,
+  "community-sdk": 142,
+  "agent-tooling": 242,
+  "routing-guardrails": 61,
+  "evaluation": 96,
   "research-models": 57,
-  "apps-demos": 47,
-  "media-discussions": 80,
-  "other": 73
+  "apps-demos": 45,
+  "media-discussions": 79,
+  "other": 74
  },
  "by_evidence": {
   "official": 18,
-  "observed": 224,
-  "inferred": 494,
-  "unverified": 71
+  "observed": 223,
+  "inferred": 493,
+  "unverified": 69
  },
  "by_tier": {
   "official": 7,
-  "community": 800
+  "community": 796
  },
  "by_language": {
   "Python": 352,
-  "TypeScript": 131,
-  "JavaScript": 73,
-  "Rust": 39,
-  "HTML": 29,
+  "TypeScript": 129,
+  "JavaScript": 74,
+  "Rust": 36,
+  "HTML": 30,
   "Go": 12,
   "Jupyter": 11,
   "C#": 7,
@@ -46,7 +46,6 @@
   "TeX": 2,
   "Astro": 2,
   "Pascal": 1,
-  "Racket": 1,
   "Haskell": 1,
   "Scala": 1,
   "Svelte": 1,
@@ -54,8 +53,8 @@
   "Vue": 1,
   "C++": 1
  },
- "repos": 732,
+ "repos": 728,
  "models": 7,
  "discussions": 19,
- "total_stars": 199227
+ "total_stars": 199291
 }

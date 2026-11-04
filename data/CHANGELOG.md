@@ -7977,3 +7977,16 @@
 - `+` [RileyCarney/JevTools](https://github.com/RileyCarney/JevTools) — inferred / apps-demos — ⭐4
 - `+` [dereknex/fast-jev-compaction](https://github.com/dereknex/fast-jev-compaction) — inferred / agent-tooling — ⭐0
 - `+` [JeromyJSmith/jev-trading-lab](https://github.com/JeromyJSmith/jev-trading-lab) — inferred / research-models — ⭐0
+
+## 2026-11-04T16:15:10+08:00
+- 收录总数 **803**；本次更新新增 **10**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — observed / community-sdk — ⭐3
+- `+` [vortezwohl/JevNER](https://github.com/vortezwohl/JevNER) — inferred / community-sdk — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
+- `+` [Arohtea/jev-readout](https://github.com/Arohtea/jev-readout) — inferred / other — ⭐0
+- `+` [Sandesh-S-Dalvi/playwright-jev-testing-refactored](https://github.com/Sandesh-S-Dalvi/playwright-jev-testing-refactored) — inferred / agent-tooling — ⭐0
+- `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
+- `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
+- `+` [budityw23/fhir_jev](https://github.com/budityw23/fhir_jev) — inferred / routing-guardrails — ⭐0
