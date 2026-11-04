@@ -8035,3 +8035,11 @@
 - `+` [coderexpert123/jev-browser-wingman](https://github.com/coderexpert123/jev-browser-wingman) — inferred / agent-tooling — ⭐7
 - `+` [mertkayacs/jevalt](https://github.com/mertkayacs/jevalt) — inferred / evaluation — ⭐7
 - …另有 104 条新增
+
+## 2026-11-04T23:17:18+08:00
+- 收录总数 **802**；本次更新新增 **5**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐21
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [Davidasx/pi-typesafe-approve](https://github.com/Davidasx/pi-typesafe-approve) — inferred / routing-guardrails — ⭐3
+- `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
+- `+` [Gao-tech1/JevGNSS](https://github.com/Gao-tech1/JevGNSS) — inferred / research-models — ⭐0
