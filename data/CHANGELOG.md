@@ -7990,3 +7990,19 @@
 - `+` [lian-wsy/wsy-jev-uav-track](https://github.com/lian-wsy/wsy-jev-uav-track) — inferred / routing-guardrails — ⭐0
 - `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
 - `+` [budityw23/fhir_jev](https://github.com/budityw23/fhir_jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-04T18:23:03+08:00
+- 收录总数 **692**；本次更新新增 **13**
+- `+` [alexei-led/pi-model-router](https://github.com/alexei-led/pi-model-router) — inferred / agent-tooling — ⭐10
+- `+` [OpenAI Answers TypeSafe's Jev with a Decision API Built on Luna](https://news.ycombinator.com/item?id=49896979) — observed / media-discussions — ⭐7
+- `+` [Ask HN: Anyone using Jev / other decision models? What for?](https://news.ycombinator.com/item?id=50072702) — observed / media-discussions — ⭐6
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [hugues-vnsgn/jev-ios-bridge](https://github.com/hugues-vnsgn/jev-ios-bridge) — inferred / agent-tooling — ⭐3
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Show HN: Jev as the Bletchley Park Analyst: A Software Bombe on Enigma](https://news.ycombinator.com/item?id=49903792) — observed / media-discussions — ⭐2
+- `+` [01Joseph-Hwang10/pi-jev-router-pro](https://github.com/01Joseph-Hwang10/pi-jev-router-pro) — inferred / agent-tooling — ⭐0
+- `+` [Covre81/jev-router](https://github.com/Covre81/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [KANGSIK-SEO/jev](https://github.com/KANGSIK-SEO/jev) — inferred / other — ⭐0
+- `+` [Dominion-Academy/System-One-Models](https://github.com/Dominion-Academy/System-One-Models) — observed / other — ⭐0
+- `+` [发现迄今最成熟的开源 Jev 实现：`genai-craft/openvons`（原 open-Jev， 7）](https://github.com/genai-craft/openvons) — observed / media-discussions — ⭐0
