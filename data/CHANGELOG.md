@@ -8072,3 +8072,30 @@
 - `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-GGUF](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-GGUF) — inferred / other — ⭐0
 - `+` [lawrence3699/Jev-Style-2B-Decision-v3-MLX](https://github.com/lawrence3699/Jev-Style-2B-Decision-v3-MLX) — inferred / research-models — ⭐0
 - …另有 29 条新增
+
+## 2026-11-05T23:30:21+08:00
+- 收录总数 **705**；本次更新新增 **24**
+- `+` [myc0576/SmartMoney-Cub](https://github.com/myc0576/SmartMoney-Cub) — inferred / community-sdk — ⭐26
+- `+` [dirien/jev-router](https://github.com/dirien/jev-router) — inferred / community-sdk — ⭐18
+- `+` [mas-bandwidth/nova-sprint](https://github.com/mas-bandwidth/nova-sprint) — inferred / agent-tooling — ⭐12
+- `+` [laurentkempe/TypeSafeJevPlayground](https://github.com/laurentkempe/TypeSafeJevPlayground) — inferred / official-sdk — ⭐8
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐8
+- `+` [agentscope-ai/HarnessJevBench](https://github.com/agentscope-ai/HarnessJevBench) — inferred / agent-tooling — ⭐4
+- `+` [Shearerbeard/jev-driver](https://github.com/Shearerbeard/jev-driver) — inferred / other — ⭐2
+- `+` [dulin20240919-dot/jev](https://github.com/dulin20240919-dot/jev) — observed / apps-demos — ⭐1
+- `+` [aishwary-dongre/jev-xray](https://github.com/aishwary-dongre/jev-xray) — observed / evaluation — ⭐0
+- `+` [apex-ronin/DecaFleet-OS](https://github.com/apex-ronin/DecaFleet-OS) — observed / agent-tooling — ⭐0
+- `+` [gajaguar/typesafe-cli](https://github.com/gajaguar/typesafe-cli) — observed / community-sdk — ⭐0
+- `+` [j2launay/jev-decision-models-xai](https://github.com/j2launay/jev-decision-models-xai) — inferred / evaluation — ⭐0
+- `+` [mgd34msu/goodvibes-jev](https://github.com/mgd34msu/goodvibes-jev) — inferred / routing-guardrails — ⭐0
+- `+` [dirnbauer/typo3-webcon-jev](https://github.com/dirnbauer/typo3-webcon-jev) — inferred / routing-guardrails — ⭐0
+- `+` [JeromyJSmith/jev-first-hour-desk](https://github.com/JeromyJSmith/jev-first-hour-desk) — inferred / other — ⭐0
+- `+` [TomatenMarc/Sycophancy-System-One-Models](https://github.com/TomatenMarc/Sycophancy-System-One-Models) — observed / other — ⭐0
+- `+` [taiki00wo/jev-playground](https://github.com/taiki00wo/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [cwdx/chess-with-jev](https://github.com/cwdx/chess-with-jev) — inferred / community-sdk — ⭐0
+- `+` [royalskynet/jev-gate-lite](https://github.com/royalskynet/jev-gate-lite) — inferred / agent-tooling — ⭐0
+- `+` [GilBar2/jev-orchestration](https://github.com/GilBar2/jev-orchestration) — inferred / agent-tooling — ⭐0
+- `+` [fan56/dsh-jev-core](https://github.com/fan56/dsh-jev-core) — inferred / community-sdk — ⭐0
+- `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
+- `+` [`browser-use/jev-ultrafast`（ 2946）：决策层与生成层分离的标杆](https://github.com/browser-use/jev-ultrafast) — observed / media-discussions — ⭐0
+- `+` [`jarrodwatts/jev-trader`（ 600）：实时交易里的延迟与单次成本](https://github.com/jarrodwatts/jev-trader) — observed / media-discussions — ⭐0
