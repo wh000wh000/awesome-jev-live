@@ -8043,3 +8043,32 @@
 - `+` [Davidasx/pi-typesafe-approve](https://github.com/Davidasx/pi-typesafe-approve) — inferred / routing-guardrails — ⭐3
 - `+` [Yomiamy/jev-mobile-mcp](https://github.com/Yomiamy/jev-mobile-mcp) — inferred / agent-tooling — ⭐0
 - `+` [Gao-tech1/JevGNSS](https://github.com/Gao-tech1/JevGNSS) — inferred / research-models — ⭐0
+
+## 2026-11-05T12:01:15+08:00
+- 收录总数 **820**；本次更新新增 **54**
+- `+` [AkashPriyadarshii/jev-curate](https://github.com/AkashPriyadarshii/jev-curate) — inferred / community-sdk — ⭐107
+- `+` [AkashPriyadarshii/jev-seo](https://github.com/AkashPriyadarshii/jev-seo) — inferred / community-sdk — ⭐97
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐51
+- `+` [AkashPriyadarshii/jev-superpowers](https://github.com/AkashPriyadarshii/jev-superpowers) — inferred / community-sdk — ⭐38
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [Building Barista: Postgres, Embeddings, and Jev](https://news.ycombinator.com/item?id=50372564) — observed / media-discussions — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
+- `+` [kitoutou999/firefox-jev-mcp](https://github.com/kitoutou999/firefox-jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [udooz/mastering-jev-and-kev-book](https://github.com/udooz/mastering-jev-and-kev-book) — inferred / other — ⭐1
+- `+` [lawrence3699/Jev-Style-0.8B-Decision-v3-GGUF](https://github.com/lawrence3699/Jev-Style-0.8B-Decision-v3-GGUF) — inferred / other — ⭐1
+- `+` [Yibo-Wen/Pev](https://github.com/Yibo-Wen/Pev) — observed / other — ⭐1
+- `+` [mattbran87/jev-daemon](https://github.com/mattbran87/jev-daemon) — inferred / community-sdk — ⭐0
+- `+` [offneves/jev-pr-reviewer](https://github.com/offneves/jev-pr-reviewer) — inferred / community-sdk — ⭐0
+- `+` [jmurray10/jev_naics](https://github.com/jmurray10/jev_naics) — inferred / community-sdk — ⭐0
+- `+` [xiaoyaner0201/hermes-jev-thread-status](https://github.com/xiaoyaner0201/hermes-jev-thread-status) — inferred / agent-tooling — ⭐0
+- `+` [Joshita-s/ticket-triage-jev](https://github.com/Joshita-s/ticket-triage-jev) — inferred / routing-guardrails — ⭐0
+- `+` [lawrence3699/Jev-Style-2B-Decision-v4](https://github.com/lawrence3699/Jev-Style-2B-Decision-v4) — inferred / other — ⭐0
+- `+` [lawrence3699/Jev-Style-0.8B-Decision-v3](https://github.com/lawrence3699/Jev-Style-0.8B-Decision-v3) — inferred / other — ⭐0
+- `+` [lawrence3699/MacJev-0.8B-Decision-Data](https://github.com/lawrence3699/MacJev-0.8B-Decision-Data) — inferred / other — ⭐0
+- `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2-MLX-bf16](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2-MLX-bf16) — inferred / research-models — ⭐0
+- `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2-GGUF](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2-GGUF) — inferred / other — ⭐0
+- `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-v2) — inferred / other — ⭐0
+- `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-MLX-bf16](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-MLX-bf16) — inferred / research-models — ⭐0
+- `+` [lawrence3699/Jev-Style-Qwen3.5-2B-Decision-GGUF](https://github.com/lawrence3699/Jev-Style-Qwen3.5-2B-Decision-GGUF) — inferred / other — ⭐0
+- `+` [lawrence3699/Jev-Style-2B-Decision-v3-MLX](https://github.com/lawrence3699/Jev-Style-2B-Decision-v3-MLX) — inferred / research-models — ⭐0
+- …另有 29 条新增
