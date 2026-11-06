@@ -8128,3 +8128,32 @@
 - `+` [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) — unverified / agent-tooling — ⭐604
 - `+` [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — observed / other — ⭐599
 - …另有 103 条新增
+
+## 2026-11-06T07:42:26+08:00
+- 收录总数 **832**；本次更新新增 **44**
+- `+` [alexgreensh/eval-genius](https://github.com/alexgreensh/eval-genius) — inferred / agent-tooling — ⭐24
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [iDiagoValeta/jev-decision-gate](https://github.com/iDiagoValeta/jev-decision-gate) — inferred / agent-tooling — ⭐2
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [ethan-krich/jev-migrate](https://github.com/ethan-krich/jev-migrate) — inferred / other — ⭐1
+- `+` [Chetax/jev-ecommerce-reviews](https://github.com/Chetax/jev-ecommerce-reviews) — inferred / evaluation — ⭐0
+- `+` [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/pinot-jev](https://github.com/gbesse/pinot-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/jev-semantic-merge-gate](https://github.com/gbesse/jev-semantic-merge-gate) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/jev-workflow](https://github.com/gbesse/jev-workflow) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/flink-jev](https://github.com/gbesse/flink-jev) — inferred / community-sdk — ⭐0
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [Kr4is/jev-decision-lab](https://github.com/Kr4is/jev-decision-lab) — inferred / other — ⭐0
+- `+` [gbesse/obsidian-jev-decision-canvas](https://github.com/gbesse/obsidian-jev-decision-canvas) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/bevy-jev](https://github.com/gbesse/bevy-jev) — inferred / apps-demos — ⭐0
+- `+` [gbesse/debezium-jev-cdc](https://github.com/gbesse/debezium-jev-cdc) — inferred / other — ⭐0
+- `+` [gbesse/redpanda-connect-jev](https://github.com/gbesse/redpanda-connect-jev) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
+- `+` [gbesse/unity-jev-behavior](https://github.com/gbesse/unity-jev-behavior) — inferred / routing-guardrails — ⭐0
+- `+` [gaurish676/jev-made-simple](https://github.com/gaurish676/jev-made-simple) — inferred / apps-demos — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [gbesse/jev-premiere-markers](https://github.com/gbesse/jev-premiere-markers) — inferred / apps-demos — ⭐0
+- …另有 19 条新增
