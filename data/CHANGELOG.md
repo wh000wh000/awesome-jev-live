@@ -8157,3 +8157,15 @@
 - `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
 - `+` [gbesse/jev-premiere-markers](https://github.com/gbesse/jev-premiere-markers) — inferred / apps-demos — ⭐0
 - …另有 19 条新增
+
+## 2026-11-06T10:09:41+08:00
+- 收录总数 **834**；本次更新新增 **9**
+- `+` [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) — inferred / agent-tooling — ⭐93
+- `+` [agencyenterprise/jev-recipes](https://github.com/agencyenterprise/jev-recipes) — inferred / community-sdk — ⭐24
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐3
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [elizabethsiegle/jev-entire-demo](https://github.com/elizabethsiegle/jev-entire-demo) — inferred / agent-tooling — ⭐0
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+- `+` [JustinIanAI/Jev-E2E-WebTest](https://github.com/JustinIanAI/Jev-E2E-WebTest) — inferred / community-sdk — ⭐0
+- `+` [ANRGUSC/llm-safe-jev](https://github.com/ANRGUSC/llm-safe-jev) — inferred / routing-guardrails — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
