@@ -8169,3 +8169,32 @@
 - `+` [JustinIanAI/Jev-E2E-WebTest](https://github.com/JustinIanAI/Jev-E2E-WebTest) — inferred / community-sdk — ⭐0
 - `+` [ANRGUSC/llm-safe-jev](https://github.com/ANRGUSC/llm-safe-jev) — inferred / routing-guardrails — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-06T19:20:49+08:00
+- 收录总数 **832**；本次更新新增 **27**
+- `+` [Xiaooolong/vev](https://github.com/Xiaooolong/vev) — inferred / research-models — ⭐28
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [arcships/android-use](https://github.com/arcships/android-use) — inferred / community-sdk — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [My Take on Jev](https://news.ycombinator.com/item?id=50382308) — observed / media-discussions — ⭐3
+- `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐2
+- `+` [LHCWN/arkui-sem](https://github.com/LHCWN/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [xlennart/dsh-auto-review-jev](https://github.com/xlennart/dsh-auto-review-jev) — inferred / agent-tooling — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [takasek/jev-form-fill](https://github.com/takasek/jev-form-fill) — inferred / other — ⭐0
+- `+` [matsuikentaro1/jev-title-abstract-screening](https://github.com/matsuikentaro1/jev-title-abstract-screening) — observed / apps-demos — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [lian-wsy/harness-jev-uav-track](https://github.com/lian-wsy/harness-jev-uav-track) — inferred / research-models — ⭐0
+- `+` [taegi-hong/jev-museforge](https://github.com/taegi-hong/jev-museforge) — inferred / other — ⭐0
+- `+` [DreamBlooms/Jev-AutoYOLO](https://github.com/DreamBlooms/Jev-AutoYOLO) — inferred / research-models — ⭐0
+- `+` [taegi-hong/jev-privacare-ai-ai](https://github.com/taegi-hong/jev-privacare-ai-ai) — inferred / other — ⭐0
+- `+` [taegi-hong/jev-schoolsync-ai-ai](https://github.com/taegi-hong/jev-schoolsync-ai-ai) — inferred / other — ⭐0
+- `+` [Wrenik/Jev-toolkit-Compiler](https://github.com/Wrenik/Jev-toolkit-Compiler) — inferred / community-sdk — ⭐0
+- `+` [Wrenik/Jev-toolkit-usage](https://github.com/Wrenik/Jev-toolkit-usage) — inferred / agent-tooling — ⭐0
+- `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
+- `+` [cyriusweng/jev-tern](https://github.com/cyriusweng/jev-tern) — inferred / agent-tooling — ⭐0
+- `+` [chepyle/jev-test](https://github.com/chepyle/jev-test) — inferred / evaluation — ⭐0
+- `+` [taegi-hong/jev-locallink-ai-ai](https://github.com/taegi-hong/jev-locallink-ai-ai) — inferred / other — ⭐0
+- `+` [harlanljones/jev-roster-shapes](https://github.com/harlanljones/jev-roster-shapes) — inferred / research-models — ⭐0
+- …另有 2 条新增
