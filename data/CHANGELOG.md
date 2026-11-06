@@ -8198,3 +8198,32 @@
 - `+` [taegi-hong/jev-locallink-ai-ai](https://github.com/taegi-hong/jev-locallink-ai-ai) — inferred / other — ⭐0
 - `+` [harlanljones/jev-roster-shapes](https://github.com/harlanljones/jev-roster-shapes) — inferred / research-models — ⭐0
 - …另有 2 条新增
+
+## 2026-11-07T02:34:33+08:00
+- 收录总数 **826**；本次更新新增 **29**
+- `+` [ZeroTang05/Situation-Puzzle](https://github.com/ZeroTang05/Situation-Puzzle) — inferred / apps-demos — ⭐22
+- `+` [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps) — inferred / other — ⭐8
+- `+` [Sur-Cai/macos-computer-use-kit](https://github.com/Sur-Cai/macos-computer-use-kit) — observed / community-sdk — ⭐8
+- `+` [joch/jevman](https://github.com/joch/jevman) — inferred / apps-demos — ⭐7
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [VizuaraAI/system-one-from-scratch](https://github.com/VizuaraAI/system-one-from-scratch) — observed / evaluation — ⭐7
+- `+` [j1s4nn/jev-adaptive-granularity-WM](https://github.com/j1s4nn/jev-adaptive-granularity-WM) — inferred / routing-guardrails — ⭐6
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐5
+- `+` [mandu5/jevcompat](https://github.com/mandu5/jevcompat) — inferred / other — ⭐4
+- `+` [Show HN: Ru-Jev – an open model that scores caller-supplied options on CPU (MIT)](https://news.ycombinator.com/item?id=50395242) — observed / media-discussions — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [edgelesssys/privatemode-decisions-benchmark](https://github.com/edgelesssys/privatemode-decisions-benchmark) — unverified / evaluation — ⭐3
+- `+` [pinecone-io/using-typesafe-and-pinecone](https://github.com/pinecone-io/using-typesafe-and-pinecone) — inferred / community-sdk — ⭐3
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [Show HN: Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video]](https://news.ycombinator.com/item?id=50394904) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [olivier-motium/jev-doom](https://github.com/olivier-motium/jev-doom) — inferred / agent-tooling — ⭐1
+- `+` [Joshhuang123/jev-rsi](https://github.com/Joshhuang123/jev-rsi) — inferred / other — ⭐1
+- `+` [systemonemodels/noulxp](https://github.com/systemonemodels/noulxp) — observed / agent-tooling — ⭐1
+- `+` [chyiiiiiiiiiiii/jev-wingman](https://github.com/chyiiiiiiiiiiii/jev-wingman) — inferred / apps-demos — ⭐0
+- `+` [marshal-runtime/jev-runtime-extension](https://github.com/marshal-runtime/jev-runtime-extension) — inferred / other — ⭐0
+- `+` [c2c-Ride/JEV_sees](https://github.com/c2c-Ride/JEV_sees) — inferred / agent-tooling — ⭐0
+- `+` [aarmens702-hub/jev-benchmark](https://github.com/aarmens702-hub/jev-benchmark) — inferred / evaluation — ⭐0
+- `+` [evermake/ask-jev](https://github.com/evermake/ask-jev) — inferred / community-sdk — ⭐0
+- `+` [BronOS/cc-cockpit-jev-triage](https://github.com/BronOS/cc-cockpit-jev-triage) — inferred / agent-tooling — ⭐0
+- …另有 4 条新增
