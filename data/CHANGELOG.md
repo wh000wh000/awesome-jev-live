@@ -8227,3 +8227,21 @@
 - `+` [evermake/ask-jev](https://github.com/evermake/ask-jev) — inferred / community-sdk — ⭐0
 - `+` [BronOS/cc-cockpit-jev-triage](https://github.com/BronOS/cc-cockpit-jev-triage) — inferred / agent-tooling — ⭐0
 - …另有 4 条新增
+
+## 2026-11-07T07:39:00+08:00
+- 收录总数 **817**；本次更新新增 **15**
+- `+` [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://news.ycombinator.com/item?id=50397429) — observed / media-discussions — ⭐261
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐112
+- `+` [ZhangYiqun018/jev-dimabsa](https://github.com/ZhangYiqun018/jev-dimabsa) — inferred / evaluation — ⭐8
+- `+` [moeinheidari7829/Kev-Bio](https://github.com/moeinheidari7829/Kev-Bio) — observed / community-sdk — ⭐2
+- `+` [turenlabs/lisa](https://github.com/turenlabs/lisa) — observed / other — ⭐1
+- `+` [Harishrs2006/hari-jev](https://github.com/Harishrs2006/hari-jev) — inferred / routing-guardrails — ⭐1
+- `+` [cognixws/cognix-decisions-jev](https://github.com/cognixws/cognix-decisions-jev) — inferred / agent-tooling — ⭐0
+- `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
+- `+` [cogcloud-ai/cog-typesafe](https://github.com/cogcloud-ai/cog-typesafe) — observed / community-sdk — ⭐0
+- `+` [Gabriel-Abi-Acl/jev-study](https://github.com/Gabriel-Abi-Acl/jev-study) — inferred / other — ⭐0
+- `+` [Ridnois/jev-trader](https://github.com/Ridnois/jev-trader) — inferred / apps-demos — ⭐0
+- `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
+- `+` [daltonsi-dandelion/abstraction-jev](https://github.com/daltonsi-dandelion/abstraction-jev) — inferred / research-models — ⭐0
+- `+` [bghira/clef-spam-detection](https://github.com/bghira/clef-spam-detection) — observed / other — ⭐0
+- `+` [wang-erica/system-one-sft](https://github.com/wang-erica/system-one-sft) — observed / other — ⭐0
