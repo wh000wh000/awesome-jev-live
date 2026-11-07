@@ -8245,3 +8245,12 @@
 - `+` [daltonsi-dandelion/abstraction-jev](https://github.com/daltonsi-dandelion/abstraction-jev) — inferred / research-models — ⭐0
 - `+` [bghira/clef-spam-detection](https://github.com/bghira/clef-spam-detection) — observed / other — ⭐0
 - `+` [wang-erica/system-one-sft](https://github.com/wang-erica/system-one-sft) — observed / other — ⭐0
+
+## 2026-11-07T10:30:14+08:00
+- 收录总数 **817**；本次更新新增 **6**
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [ARCS-inc/jev-game-blog](https://github.com/ARCS-inc/jev-game-blog) — inferred / apps-demos — ⭐0
+- `+` [daryl-walsh/jev-decision-models](https://github.com/daryl-walsh/jev-decision-models) — inferred / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
