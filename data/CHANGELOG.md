@@ -8289,3 +8289,32 @@
 - `+` [abhishekashokvkumar/jev-mcp-dispatcher](https://github.com/abhishekashokvkumar/jev-mcp-dispatcher) — inferred / agent-tooling — ⭐4
 - `+` [XingQiPan/rwkv-jev](https://github.com/XingQiPan/rwkv-jev) — inferred / other — ⭐4
 - …另有 27 条新增
+
+## 2026-11-07T22:58:25+08:00
+- 收录总数 **710**；本次更新新增 **62**
+- `+` [dzhng/jevgrep](https://github.com/dzhng/jevgrep) — inferred / community-sdk — ⭐3195
+- `+` [DeepAleph/jevreel](https://github.com/DeepAleph/jevreel) — inferred / agent-tooling — ⭐54
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐44
+- `+` [KikeVen/zerikai_memory](https://github.com/KikeVen/zerikai_memory) — observed / agent-tooling — ⭐36
+- `+` [NekomyaDev/nudge](https://github.com/NekomyaDev/nudge) — inferred / agent-tooling — ⭐20
+- `+` [VizuaraAI/system-one-from-scratch](https://github.com/VizuaraAI/system-one-from-scratch) — observed / evaluation — ⭐13
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐13
+- `+` [47vigen/catherd](https://github.com/47vigen/catherd) — unverified / agent-tooling — ⭐10
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐8
+- `+` [solvi-ai/solvi](https://github.com/solvi-ai/solvi) — observed / agent-tooling — ⭐4
+- `+` [Yibo-Wen/Pev](https://github.com/Yibo-Wen/Pev) — observed / other — ⭐3
+- `+` [KratosLee-6/open-source-model-deploy](https://github.com/KratosLee-6/open-source-model-deploy) — unverified / community-sdk — ⭐3
+- `+` [ziyu/system-one-sdk](https://github.com/ziyu/system-one-sdk) — observed / community-sdk — ⭐2
+- `+` [LHCWN/arkui-sem](https://github.com/LHCWN/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
+- `+` [AJackTi/antigravity-jev-skills](https://github.com/AJackTi/antigravity-jev-skills) — inferred / agent-tooling — ⭐1
+- `+` [CMaintz/jev-dotnet](https://github.com/CMaintz/jev-dotnet) — observed / community-sdk — ⭐1
+- `+` [frederico-kluser/jev-agent-skill](https://github.com/frederico-kluser/jev-agent-skill) — inferred / agent-tooling — ⭐1
+- `+` [danieleteti/systemone-delphi](https://github.com/danieleteti/systemone-delphi) — observed / community-sdk — ⭐1
+- `+` [2426269/ComfyUI-Jev-Decision](https://github.com/2426269/ComfyUI-Jev-Decision) — inferred / agent-tooling — ⭐1
+- `+` [kitoutou999/firefox-jev-mcp](https://github.com/kitoutou999/firefox-jev-mcp) — inferred / agent-tooling — ⭐1
+- `+` [apixly-ai/jev-filter](https://github.com/apixly-ai/jev-filter) — inferred / community-sdk — ⭐1
+- `+` [ItsAnhReal/jev-codex-hermes](https://github.com/ItsAnhReal/jev-codex-hermes) — inferred / community-sdk — ⭐1
+- `+` [kofanlabs/jev-browser-chrome](https://github.com/kofanlabs/jev-browser-chrome) — inferred / agent-tooling — ⭐0
+- `+` [devgomesai/jev-python](https://github.com/devgomesai/jev-python) — inferred / routing-guardrails — ⭐0
+- …另有 37 条新增
