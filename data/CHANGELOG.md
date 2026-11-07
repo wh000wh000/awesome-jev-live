@@ -8254,3 +8254,9 @@
 - `+` [ARCS-inc/jev-game-blog](https://github.com/ARCS-inc/jev-game-blog) — inferred / apps-demos — ⭐0
 - `+` [daryl-walsh/jev-decision-models](https://github.com/daryl-walsh/jev-decision-models) — inferred / other — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-07T13:14:40+08:00
+- 收录总数 **766**；本次更新新增 **3**
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
+- `+` [cyriusweng/jev-tern](https://github.com/cyriusweng/jev-tern) — inferred / agent-tooling — ⭐0
