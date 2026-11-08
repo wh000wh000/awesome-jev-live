@@ -8373,3 +8373,27 @@
 - `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
 - `+` [svend4/milogic-jev](https://github.com/svend4/milogic-jev) — inferred / apps-demos — ⭐0
 - `+` [bkper/open-systemone](https://github.com/bkper/open-systemone) — observed / other — ⭐0
+
+## 2026-11-08T23:38:23+08:00
+- 收录总数 **789**；本次更新新增 **21**
+- `+` [OmniJev/Flide](https://github.com/OmniJev/Flide) — inferred / agent-tooling — ⭐29
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐21
+- `+` [d-date/swift-jev](https://github.com/d-date/swift-jev) — inferred / community-sdk — ⭐17
+- `+` [muxso/Shepherd](https://github.com/muxso/Shepherd) — inferred / agent-tooling — ⭐14
+- `+` [jerryfane/omp-jev-compaction](https://github.com/jerryfane/omp-jev-compaction) — inferred / routing-guardrails — ⭐13
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐5
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐3
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [twilso24/jev_router](https://github.com/twilso24/jev_router) — inferred / agent-tooling — ⭐1
+- `+` [ttdua/pi-jev-pilot](https://github.com/ttdua/pi-jev-pilot) — inferred / agent-tooling — ⭐0
+- `+` [sususu98/pi-jev-navigator](https://github.com/sususu98/pi-jev-navigator) — inferred / community-sdk — ⭐0
+- `+` [tunacetinkaya/Jev-AI](https://github.com/tunacetinkaya/Jev-AI) — inferred / routing-guardrails — ⭐0
+- `+` [xiaoyaner0201/hermes-jev-thread-status](https://github.com/xiaoyaner0201/hermes-jev-thread-status) — inferred / agent-tooling — ⭐0
+- `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
+- `+` [AdilAabideen/MedJev](https://github.com/AdilAabideen/MedJev) — inferred / other — ⭐0
+- `+` [Nish344/payrecover-jev](https://github.com/Nish344/payrecover-jev) — inferred / community-sdk — ⭐0
+- `+` [Xunmei-liu/jev-adm-benchmark-summary](https://github.com/Xunmei-liu/jev-adm-benchmark-summary) — inferred / evaluation — ⭐0
+- `+` [opensystemoneorg/opensystemone](https://github.com/opensystemoneorg/opensystemone) — observed / other — ⭐0
+- `+` [STAIxBWLB/agent-decide](https://github.com/STAIxBWLB/agent-decide) — observed / agent-tooling — ⭐0
