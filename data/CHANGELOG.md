@@ -8366,3 +8366,10 @@
 - `+` [Ridnois/jev-trader](https://github.com/Ridnois/jev-trader) — inferred / apps-demos — ⭐0
 - `+` [vishnugamini/email-jev-labeller](https://github.com/vishnugamini/email-jev-labeller) — inferred / other — ⭐0
 - `+` [alejandroparis17/router-jev](https://github.com/alejandroparis17/router-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-08T11:17:31+08:00
+- 收录总数 **815**；本次更新新增 **4**
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [svend4/milogic-jev](https://github.com/svend4/milogic-jev) — inferred / apps-demos — ⭐0
+- `+` [bkper/open-systemone](https://github.com/bkper/open-systemone) — observed / other — ⭐0
