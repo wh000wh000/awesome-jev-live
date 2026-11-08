@@ -8347,3 +8347,22 @@
 - `+` [datawhalechina/jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — observed / other — ⭐618
 - `+` [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) — unverified / agent-tooling — ⭐604
 - …另有 86 条新增
+
+## 2026-11-08T08:25:09+08:00
+- 收录总数 **818**；本次更新新增 **16**
+- `+` [Nasrallah-AL/jev-cli](https://github.com/Nasrallah-AL/jev-cli) — inferred / community-sdk — ⭐23
+- `+` [Testing Jev and other decision models on search-related tasks](https://news.ycombinator.com/item?id=50109686) — observed / media-discussions — ⭐5
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [lalitsonawane/jev-snake](https://github.com/lalitsonawane/jev-snake) — inferred / apps-demos — ⭐1
+- `+` [marchexe/jev-evaluation-lab](https://github.com/marchexe/jev-evaluation-lab) — inferred / evaluation — ⭐1
+- `+` [jmflorent/dsh-swarm-jev](https://github.com/jmflorent/dsh-swarm-jev) — inferred / agent-tooling — ⭐1
+- `+` [Agnuxo1/JEV-ORBITA-BuildArena-S02](https://github.com/Agnuxo1/JEV-ORBITA-BuildArena-S02) — inferred / agent-tooling — ⭐1
+- `+` [Kc1t/alethe-jev](https://github.com/Kc1t/alethe-jev) — inferred / agent-tooling — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-prune-kit](https://github.com/CompleteTech-LLC-AI-Research/jev-prune-kit) — inferred / agent-tooling — ⭐1
+- `+` [CompleteTech-LLC-AI-Research/jev-context-fabric](https://github.com/CompleteTech-LLC-AI-Research/jev-context-fabric) — inferred / agent-tooling — ⭐1
+- `+` [mattbran87/jev-daemon](https://github.com/mattbran87/jev-daemon) — inferred / community-sdk — ⭐0
+- `+` [j-ctang/claude-code-jev-prune](https://github.com/j-ctang/claude-code-jev-prune) — inferred / agent-tooling — ⭐0
+- `+` [Ridnois/jev-trader](https://github.com/Ridnois/jev-trader) — inferred / apps-demos — ⭐0
+- `+` [vishnugamini/email-jev-labeller](https://github.com/vishnugamini/email-jev-labeller) — inferred / other — ⭐0
+- `+` [alejandroparis17/router-jev](https://github.com/alejandroparis17/router-jev) — inferred / agent-tooling — ⭐0
