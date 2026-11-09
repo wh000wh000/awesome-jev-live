@@ -8426,3 +8426,32 @@
 - `+` [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) — inferred / agent-tooling — ⭐1
 - `+` [Talya1412/jev-harness](https://github.com/Talya1412/jev-harness) — inferred / community-sdk — ⭐1
 - …另有 30 条新增
+
+## 2026-11-10T07:19:58+08:00
+- 收录总数 **818**；本次更新新增 **38**
+- `+` [qbeka/jev-job-search](https://github.com/qbeka/jev-job-search) — inferred / agent-tooling — ⭐333
+- `+` [Promethe-us/awesome-jev](https://github.com/Promethe-us/awesome-jev) — inferred / agent-tooling — ⭐149
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐11
+- `+` [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps) — inferred / other — ⭐8
+- `+` [Sarim-MBZUAI/awesome-jev-security](https://github.com/Sarim-MBZUAI/awesome-jev-security) — observed / routing-guardrails — ⭐7
+- `+` [Enntity/sparkscore](https://github.com/Enntity/sparkscore) — inferred / evaluation — ⭐7
+- `+` [raydocs/egolite-jev](https://github.com/raydocs/egolite-jev) — inferred / agent-tooling — ⭐5
+- `+` [mmornati/system-one-router](https://github.com/mmornati/system-one-router) — unverified / community-sdk — ⭐4
+- `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
+- `+` [laguagu/jev-skills](https://github.com/laguagu/jev-skills) — inferred / agent-tooling — ⭐3
+- `+` [zchee/decision-model-sdk-rust](https://github.com/zchee/decision-model-sdk-rust) — inferred / community-sdk — ⭐3
+- `+` [brightshore/jev-net](https://github.com/brightshore/jev-net) — inferred / community-sdk — ⭐3
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐2
+- `+` [thiago-lage/jev-claud](https://github.com/thiago-lage/jev-claud) — inferred / agent-tooling — ⭐1
+- `+` [roma-vibe/jev-governor](https://github.com/roma-vibe/jev-governor) — inferred / agent-tooling — ⭐1
+- `+` [TuoZhang0902/JEVLab](https://github.com/TuoZhang0902/JEVLab) — inferred / other — ⭐1
+- `+` [Jessie-jzn/jev-ai-organizer](https://github.com/Jessie-jzn/jev-ai-organizer) — inferred / agent-tooling — ⭐1
+- `+` [semperos/typesafe-sdk-gleam](https://github.com/semperos/typesafe-sdk-gleam) — observed / community-sdk — ⭐0
+- `+` [mattbran87/jev-daemon](https://github.com/mattbran87/jev-daemon) — inferred / community-sdk — ⭐0
+- `+` [mission-control-panel/jev-tic-tac-toe](https://github.com/mission-control-panel/jev-tic-tac-toe) — inferred / other — ⭐0
+- `+` [MinjaeKIM753/jev-llmcall](https://github.com/MinjaeKIM753/jev-llmcall) — inferred / routing-guardrails — ⭐0
+- …另有 13 条新增
