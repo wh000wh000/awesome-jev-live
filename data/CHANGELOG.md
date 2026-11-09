@@ -8397,3 +8397,32 @@
 - `+` [Xunmei-liu/jev-adm-benchmark-summary](https://github.com/Xunmei-liu/jev-adm-benchmark-summary) — inferred / evaluation — ⭐0
 - `+` [opensystemoneorg/opensystemone](https://github.com/opensystemoneorg/opensystemone) — observed / other — ⭐0
 - `+` [STAIxBWLB/agent-decide](https://github.com/STAIxBWLB/agent-decide) — observed / agent-tooling — ⭐0
+
+## 2026-11-09T18:10:22+08:00
+- 收录总数 **808**；本次更新新增 **55**
+- `+` [Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://news.ycombinator.com/item?id=50421155) — observed / media-discussions — ⭐27
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐19
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐13
+- `+` [erkamyaman/jev-enforce](https://github.com/erkamyaman/jev-enforce) — inferred / agent-tooling — ⭐12
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — unverified / evaluation — ⭐11
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [7starsseeker/dsh-fact-check](https://github.com/7starsseeker/dsh-fact-check) — inferred / agent-tooling — ⭐5
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐5
+- `+` [supermanc417-alt/awesome-jev-hub](https://github.com/supermanc417-alt/awesome-jev-hub) — inferred / agent-tooling — ⭐4
+- `+` [Davidasx/pi-typesafe-approve](https://github.com/Davidasx/pi-typesafe-approve) — inferred / routing-guardrails — ⭐4
+- `+` [jtnkminimal/awesome-jev](https://github.com/jtnkminimal/awesome-jev) — observed / media-discussions — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [edgelesssys/privatemode-decisions-benchmark](https://github.com/edgelesssys/privatemode-decisions-benchmark) — unverified / evaluation — ⭐3
+- `+` [KratosLee-6/open-source-model-deploy](https://github.com/KratosLee-6/open-source-model-deploy) — unverified / community-sdk — ⭐3
+- `+` [gordan-code/dsh-jev-advisor](https://github.com/gordan-code/dsh-jev-advisor) — inferred / agent-tooling — ⭐3
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [minorun365/jev-cloud-quiz](https://github.com/minorun365/jev-cloud-quiz) — inferred / community-sdk — ⭐2
+- `+` [dgarridou/KaLM-Jev](https://github.com/dgarridou/KaLM-Jev) — inferred / apps-demos — ⭐2
+- `+` [AlekseiUL/jev-broker](https://github.com/AlekseiUL/jev-broker) — inferred / agent-tooling — ⭐1
+- `+` [factbag/factbag](https://github.com/factbag/factbag) — observed / other — ⭐1
+- `+` [173787247/dsh-wsl-jev](https://github.com/173787247/dsh-wsl-jev) — inferred / agent-tooling — ⭐1
+- `+` [Talya1412/jev-harness](https://github.com/Talya1412/jev-harness) — inferred / community-sdk — ⭐1
+- …另有 30 条新增
