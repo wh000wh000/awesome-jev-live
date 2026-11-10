@@ -8455,3 +8455,13 @@
 - `+` [mission-control-panel/jev-tic-tac-toe](https://github.com/mission-control-panel/jev-tic-tac-toe) — inferred / other — ⭐0
 - `+` [MinjaeKIM753/jev-llmcall](https://github.com/MinjaeKIM753/jev-llmcall) — inferred / routing-guardrails — ⭐0
 - …另有 13 条新增
+
+## 2026-11-10T10:22:46+08:00
+- 收录总数 **816**；本次更新新增 **7**
+- `+` [Testing Jev for IAM Access Decisions](https://news.ycombinator.com/item?id=50433274) — observed / media-discussions — ⭐4
+- `+` [freepik-company/jev-mcp](https://github.com/freepik-company/jev-mcp) — inferred / community-sdk — ⭐3
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐1
+- `+` [lee-lou2/jev-tree](https://github.com/lee-lou2/jev-tree) — inferred / community-sdk — ⭐1
+- `+` [rohan-prasen/jev](https://github.com/rohan-prasen/jev) — inferred / community-sdk — ⭐0
+- `+` [Running-Snail-GO/esp32s3-iphone-jev-public](https://github.com/Running-Snail-GO/esp32s3-iphone-jev-public) — inferred / agent-tooling — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
