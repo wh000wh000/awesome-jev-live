@@ -8505,3 +8505,16 @@
 - `+` [Dias8777/mdlt-jev-slm](https://github.com/Dias8777/mdlt-jev-slm) — inferred / routing-guardrails — ⭐0
 - `+` [gm2211/jev-polls](https://github.com/gm2211/jev-polls) — inferred / apps-demos — ⭐0
 - `+` [krishnakumar11oct1995-star/enterprise-jarvis-jev-scanner](https://github.com/krishnakumar11oct1995-star/enterprise-jarvis-jev-scanner) — inferred / agent-tooling — ⭐0
+
+## 2026-11-11T16:45:10+08:00
+- 收录总数 **821**；本次更新新增 **10**
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [Agnuxo1/Universal-Cognitive-Architecture-JEV-v2](https://github.com/Agnuxo1/Universal-Cognitive-Architecture-JEV-v2) — inferred / community-sdk — ⭐4
+- `+` [Cutting LLM Token Costs with Currents News API and TypeSafe Jev Pre-Filtering](https://news.ycombinator.com/item?id=50450911) — observed / media-discussions — ⭐2
+- `+` [Jack and Jill Cut Candidate Screening Costs by 88% with Jev](https://news.ycombinator.com/item?id=50450433) — observed / media-discussions — ⭐2
+- `+` [Wrenik/Jev-toolkit-Monitor](https://github.com/Wrenik/Jev-toolkit-Monitor) — inferred / agent-tooling — ⭐1
+- `+` [Wrenik/Jev-toolkit-Scanner](https://github.com/Wrenik/Jev-toolkit-Scanner) — inferred / agent-tooling — ⭐1
+- `+` [revoirb612/codex-jev-router](https://github.com/revoirb612/codex-jev-router) — inferred / community-sdk — ⭐0
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
