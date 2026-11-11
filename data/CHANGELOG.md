@@ -8465,3 +8465,32 @@
 - `+` [rohan-prasen/jev](https://github.com/rohan-prasen/jev) — inferred / community-sdk — ⭐0
 - `+` [Running-Snail-GO/esp32s3-iphone-jev-public](https://github.com/Running-Snail-GO/esp32s3-iphone-jev-public) — inferred / agent-tooling — ⭐0
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+
+## 2026-11-11T12:04:29+08:00
+- 收录总数 **817**；本次更新新增 **60**
+- `+` [JamesANZ/JevPromptShield](https://github.com/JamesANZ/JevPromptShield) — inferred / agent-tooling — ⭐203
+- `+` [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) — inferred / community-sdk — ⭐51
+- `+` [alexei-led/claude-router](https://github.com/alexei-led/claude-router) — inferred / agent-tooling — ⭐41
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [NicoSKOOL/jev-internal-links](https://github.com/NicoSKOOL/jev-internal-links) — inferred / agent-tooling — ⭐18
+- `+` [sgstq0811/VerdictAD-Jev-AD](https://github.com/sgstq0811/VerdictAD-Jev-AD) — inferred / evaluation — ⭐16
+- `+` [backant-io/jevelry](https://github.com/backant-io/jevelry) — inferred / agent-tooling — ⭐13
+- `+` [KiritoKing/midscene-jev-runner](https://github.com/KiritoKing/midscene-jev-runner) — inferred / community-sdk — ⭐13
+- `+` [sgyaqing/verdict](https://github.com/sgyaqing/verdict) — observed / evaluation — ⭐13
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐12
+- `+` [itsoltech/basal-rs](https://github.com/itsoltech/basal-rs) — unverified / evaluation — ⭐10
+- `+` [Civalski/claujev](https://github.com/Civalski/claujev) — inferred / agent-tooling — ⭐8
+- `+` [Da1daidaidai/EarthJev](https://github.com/Da1daidaidai/EarthJev) — inferred / apps-demos — ⭐8
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [tak-bro/local-jev-bench](https://github.com/tak-bro/local-jev-bench) — inferred / evaluation — ⭐5
+- `+` [ItsOdeLeo/MLX-Direct-Decider](https://github.com/ItsOdeLeo/MLX-Direct-Decider) — inferred / routing-guardrails — ⭐5
+- `+` [reindent/jauvex](https://github.com/reindent/jauvex) — unverified / agent-tooling — ⭐5
+- `+` [1000luca/FlexDM](https://github.com/1000luca/FlexDM) — unverified / research-models — ⭐5
+- `+` [NicoSKOOL/jev-cannibalization](https://github.com/NicoSKOOL/jev-cannibalization) — inferred / agent-tooling — ⭐4
+- `+` [vibefilter/filament](https://github.com/vibefilter/filament) — inferred / community-sdk — ⭐4
+- `+` [moudrkat/probascope](https://github.com/moudrkat/probascope) — unverified / other — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — observed / community-sdk — ⭐3
+- `+` [AronAxe/GraphPaper](https://github.com/AronAxe/GraphPaper) — inferred / community-sdk — ⭐3
+- `+` [psyb0t/decidealot](https://github.com/psyb0t/decidealot) — inferred / agent-tooling — ⭐3
+- …另有 35 条新增
