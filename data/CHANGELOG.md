@@ -8528,3 +8528,11 @@
 - `+` [Sealkeeper/jev-chat-private](https://github.com/Sealkeeper/jev-chat-private) — inferred / community-sdk — ⭐0
 - `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
 - `+` [putraridho/jev-switch](https://github.com/putraridho/jev-switch) — inferred / agent-tooling — ⭐0
+
+## 2026-11-11T21:08:46+08:00
+- 收录总数 **812**；本次更新新增 **5**
+- `+` [ilyamk/jev-gmail-ai-spam-filter-and-labeling](https://github.com/ilyamk/jev-gmail-ai-spam-filter-and-labeling) — inferred / routing-guardrails — ⭐25
+- `+` [native-bond-lab/Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction) — inferred / agent-tooling — ⭐6
+- `+` [albri/nxk](https://github.com/albri/nxk) — inferred / agent-tooling — ⭐4
+- `+` [chrismarchant/jev-router](https://github.com/chrismarchant/jev-router) — observed / community-sdk — ⭐0
+- `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
