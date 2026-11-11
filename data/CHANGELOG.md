@@ -8494,3 +8494,14 @@
 - `+` [AronAxe/GraphPaper](https://github.com/AronAxe/GraphPaper) — inferred / community-sdk — ⭐3
 - `+` [psyb0t/decidealot](https://github.com/psyb0t/decidealot) — inferred / agent-tooling — ⭐3
 - …另有 35 条新增
+
+## 2026-11-11T14:34:57+08:00
+- 收录总数 **822**；本次更新新增 **8**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [nexscope-ai/jev-amazon-keyword-checker](https://github.com/nexscope-ai/jev-amazon-keyword-checker) — inferred / evaluation — ⭐2
+- `+` [a742987/JevLens](https://github.com/a742987/JevLens) — inferred / agent-tooling — ⭐1
+- `+` [Dias8777/mdlt-jev-slm](https://github.com/Dias8777/mdlt-jev-slm) — inferred / routing-guardrails — ⭐0
+- `+` [gm2211/jev-polls](https://github.com/gm2211/jev-polls) — inferred / apps-demos — ⭐0
+- `+` [krishnakumar11oct1995-star/enterprise-jarvis-jev-scanner](https://github.com/krishnakumar11oct1995-star/enterprise-jarvis-jev-scanner) — inferred / agent-tooling — ⭐0
