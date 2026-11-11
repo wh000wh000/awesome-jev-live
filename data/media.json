@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:45:13+08:00",
+ "generated_at": "2026-11-11T18:53:56+08:00",
  "entries": {
   "gh:typesafe-ai/skills": {
    "bundled": false,
@@ -620,7 +620,7 @@
     "videos": 0,
     "external": 40
    },
-   "pushed_at": "2026-11-10T09:57:58Z"
+   "pushed_at": "2026-11-11T09:31:45Z"
   },
   "gh:rhc98/awesome-jev": {
    "bundled": false,
@@ -1233,7 +1233,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:04:54Z"
+   "pushed_at": "2026-11-11T09:05:54Z"
   },
   "gh:zamax14/Laya-Finetune": {
    "bundled": true,
@@ -1356,24 +1356,25 @@
    "pushed_at": "2026-11-11T01:09:54Z"
   },
   "gh:slavabars/decision-cascade": {
-   "bundled": false,
+   "bundled": true,
    "license_ok": true,
    "license": "Apache-2.0",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
+   "image": "media/slavabars--decision-cascade/80a53f13b95b5cdb.gif",
+   "image_alt": "slavabars/decision-cascade screenshot",
+   "image_source": "https://raw.githubusercontent.com/slavabars/decision-cascade/main/examples/games/maze/demo.gif",
    "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
+    "state": "animated",
+    "src": "media/slavabars--decision-cascade/80a53f13b95b5cdb.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/slavabars/decision-cascade/main/examples/games/maze/demo.gif"
    },
    "source": "readme",
    "candidates": {
-    "images": 0,
+    "images": 2,
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:12:19Z"
+   "pushed_at": "2026-11-11T10:40:44Z"
   },
   "gh:jmagly/aiwg": {
    "bundled": true,
@@ -1474,7 +1475,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:39:17Z"
+   "pushed_at": "2026-11-11T08:51:50Z"
   },
   "gh:ThinkFlowLab/system1-agents": {
    "bundled": true,
@@ -2092,7 +2093,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T02:29:23Z"
+   "pushed_at": "2026-11-11T10:49:16Z"
   },
   "gh:StartLuxLabs/StartLux-Prism": {
    "bundled": false,
@@ -4183,7 +4184,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-10T16:59:19Z"
+   "pushed_at": "2026-11-11T09:48:06Z"
   },
   "gh:MarcelRoozekrans/Minos.NET": {
    "bundled": true,
@@ -8166,26 +8167,6 @@
    },
    "pushed_at": "2026-10-23T12:45:17Z"
   },
-  "gh:hyspacex/jev-router": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-02T18:17:58Z"
-  },
   "gh:gazelle93/decision-models-under-pressure": {
    "bundled": false,
    "license_ok": false,
@@ -9041,7 +9022,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-10T23:12:18Z"
+   "pushed_at": "2026-11-11T10:13:42Z"
   },
   "gh:neurogabo/jev-arena": {
    "bundled": false,
@@ -9444,7 +9425,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-10T20:42:21Z"
+   "pushed_at": "2026-11-11T08:54:41Z"
   },
   "gh:turenlabs/lisa": {
    "bundled": false,
@@ -9729,26 +9710,6 @@
    },
    "pushed_at": "2026-11-06T07:55:07Z"
   },
-  "gh:solvi-ai/solvi": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-07T01:47:16Z"
-  },
   "gh:LHCWN/arkui-sem": {
    "bundled": false,
    "license_ok": false,
@@ -9767,7 +9728,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:26:05Z"
+   "pushed_at": "2026-11-11T08:49:37Z"
   },
   "gh:CrowBe/weave": {
    "bundled": false,
@@ -9847,7 +9808,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T07:32:19Z"
+   "pushed_at": "2026-11-11T08:58:23Z"
   },
   "gh:2426269/ComfyUI-Jev-Decision": {
    "bundled": false,
@@ -9927,7 +9888,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T07:12:38Z"
+   "pushed_at": "2026-11-11T09:08:36Z"
   },
   "gh:duketopceo/jev-compact": {
    "bundled": false,
@@ -11002,7 +10963,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:38:09Z"
+   "pushed_at": "2026-11-11T10:38:10Z"
   },
   "gh:mywwave/cursor-jev": {
    "bundled": false,
@@ -12371,7 +12332,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-07T22:28:48Z"
+   "pushed_at": "2026-11-11T10:44:43Z"
   },
   "gh:marchexe/jev-evaluation-lab": {
    "bundled": false,
@@ -12877,7 +12838,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:08:14Z"
+   "pushed_at": "2026-11-11T10:02:14Z"
   },
   "gh:duyet/aidr": {
    "bundled": false,
@@ -13029,7 +12990,7 @@
     "poster": ""
    },
    "source": "no-readme",
-   "pushed_at": "2026-11-11T08:34:30Z"
+   "pushed_at": "2026-11-11T08:42:21Z"
   },
   "gh:binary-husky/qwen-jev-rsi": {
    "bundled": false,
@@ -13049,7 +13010,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:33:19Z"
+   "pushed_at": "2026-11-11T09:20:14Z"
   },
   "gh:semperos/typesafe-sdk-gleam": {
    "bundled": false,
@@ -13338,7 +13299,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-11T08:32:23Z"
+   "pushed_at": "2026-11-11T09:52:26Z"
   },
   "gh:andletenkov/decisium": {
    "bundled": true,
@@ -13724,7 +13685,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-10T16:07:24Z"
+   "pushed_at": "2026-11-11T10:26:07Z"
   },
   "gh:NicoSKOOL/jev-internal-links": {
    "bundled": true,
@@ -14627,8 +14588,109 @@
     "external": 0
    },
    "pushed_at": "2026-11-11T07:57:15Z"
+  },
+  "gh:rusharlabs/house-party-protocol": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/rusharlabs--house-party-protocol/062cb83cf67b0b85.gif",
+   "image_alt": "rusharlabs/house-party-protocol screenshot",
+   "image_source": "https://raw.githubusercontent.com/rusharlabs/house-party-protocol/main/assets/ui/lane-dashboard.gif",
+   "video": {
+    "state": "animated",
+    "src": "media/rusharlabs--house-party-protocol/062cb83cf67b0b85.gif",
+    "poster": "",
+    "source_url": "https://raw.githubusercontent.com/rusharlabs/house-party-protocol/main/assets/ui/lane-dashboard.gif"
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 9,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-11T10:22:52Z"
+  },
+  "gh:Sealkeeper/jev-chat-private": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "NOASSERTION",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-11T09:56:35Z"
+  },
+  "gh:putraridho/jev-switch": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-07T13:00:42Z"
+  },
+  "gh:sdogantekin/jev-orchestrator": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-11T10:22:55Z"
+  },
+  "gh:Saviskar/schema-mapping-bench": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-11T07:58:53Z"
   }
  },
- "bundled_bytes": 171107421,
- "bundled_files": 245
+ "bundled_bytes": 172115344,
+ "bundled_files": 247
 }

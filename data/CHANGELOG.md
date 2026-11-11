@@ -8518,3 +8518,13 @@
 - `+` [revoirb612/codex-jev-router](https://github.com/revoirb612/codex-jev-router) — inferred / community-sdk — ⭐0
 - `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-11T18:53:46+08:00
+- 收录总数 **826**；本次更新新增 **7**
+- `+` [rusharlabs/house-party-protocol](https://github.com/rusharlabs/house-party-protocol) — inferred / community-sdk — ⭐5
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [sdogantekin/jev-orchestrator](https://github.com/sdogantekin/jev-orchestrator) — inferred / routing-guardrails — ⭐0
+- `+` [Sealkeeper/jev-chat-private](https://github.com/Sealkeeper/jev-chat-private) — inferred / community-sdk — ⭐0
+- `+` [Saviskar/schema-mapping-bench](https://github.com/Saviskar/schema-mapping-bench) — observed / evaluation — ⭐0
+- `+` [putraridho/jev-switch](https://github.com/putraridho/jev-switch) — inferred / agent-tooling — ⭐0
