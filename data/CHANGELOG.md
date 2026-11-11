@@ -8575,3 +8575,19 @@
 - `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
 - `+` [AsgardMuninn/jev-norma](https://github.com/AsgardMuninn/jev-norma) — inferred / community-sdk — ⭐0
 - `+` [raniellimontagna/jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp) — inferred / agent-tooling — ⭐0
+
+## 2026-11-12T05:49:19+08:00
+- 收录总数 **814**；本次更新新增 **13**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐135
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: Thread Police eliminates stray replies in Slack channels with Jev](https://news.ycombinator.com/item?id=50457264) — observed / media-discussions — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [lewisyang3/LEO](https://github.com/lewisyang3/LEO) — observed / agent-tooling — ⭐1
+- `+` [Rams901/amira-brightwater-ai-suite](https://github.com/Rams901/amira-brightwater-ai-suite) — observed / agent-tooling — ⭐0
+- `+` [gcipolla1402/jev-smart-router](https://github.com/gcipolla1402/jev-smart-router) — inferred / routing-guardrails — ⭐0
+- `+` [lealvona/jev-playground](https://github.com/lealvona/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [JavadDogani/jev-retrieval](https://github.com/JavadDogani/jev-retrieval) — inferred / evaluation — ⭐0
