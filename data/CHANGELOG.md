@@ -8564,3 +8564,14 @@
 - `+` [keyanwu256-eng/Jev-Korean-Sentiment-Analysis](https://github.com/keyanwu256-eng/Jev-Korean-Sentiment-Analysis) — inferred / other — ⭐0
 - `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
 - `+` [Sealkeeper/jev-chat-private](https://github.com/Sealkeeper/jev-chat-private) — inferred / community-sdk — ⭐0
+
+## 2026-11-12T01:35:49+08:00
+- 收录总数 **818**；本次更新新增 **8**
+- `+` [tshmieldev/sharp](https://github.com/tshmieldev/sharp) — inferred / routing-guardrails — ⭐32
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐13
+- `+` [Sauhard74/mem-jev](https://github.com/Sauhard74/mem-jev) — inferred / agent-tooling — ⭐3
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [AsgardMuninn/jev-norma](https://github.com/AsgardMuninn/jev-norma) — inferred / community-sdk — ⭐0
+- `+` [raniellimontagna/jev-guard-mcp](https://github.com/raniellimontagna/jev-guard-mcp) — inferred / agent-tooling — ⭐0
