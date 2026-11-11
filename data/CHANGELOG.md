@@ -8536,3 +8536,31 @@
 - `+` [albri/nxk](https://github.com/albri/nxk) — inferred / agent-tooling — ⭐4
 - `+` [chrismarchant/jev-router](https://github.com/chrismarchant/jev-router) — observed / community-sdk — ⭐0
 - `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-11T23:22:24+08:00
+- 收录总数 **825**；本次更新新增 **25**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [nidhi-singh02/agent-router](https://github.com/nidhi-singh02/agent-router) — inferred / community-sdk — ⭐124
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐57
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐10
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐8
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [MojoAI-King/jev-paper-trader](https://github.com/MojoAI-King/jev-paper-trader) — inferred / agent-tooling — ⭐3
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [abhisheksharma001/jev-skill](https://github.com/abhisheksharma001/jev-skill) — inferred / community-sdk — ⭐2
+- `+` [ZJU-OmniAI/Awesome-Jev](https://github.com/ZJU-OmniAI/Awesome-Jev) — inferred / agent-tooling — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [dsk1134162538-hash/jev-quant](https://github.com/dsk1134162538-hash/jev-quant) — inferred / other — ⭐1
+- `+` [pnguyennhatha-ux/trend-radar-jev-treg](https://github.com/pnguyennhatha-ux/trend-radar-jev-treg) — inferred / agent-tooling — ⭐1
+- `+` [chenxianfu1378817/jev-shortcuts-config](https://github.com/chenxianfu1378817/jev-shortcuts-config) — inferred / other — ⭐1
+- `+` [kevinyin9/next-steps-jev](https://github.com/kevinyin9/next-steps-jev) — inferred / agent-tooling — ⭐0
+- `+` [mxdmichael1-code/jev-slide-switcher](https://github.com/mxdmichael1-code/jev-slide-switcher) — inferred / other — ⭐0
+- `+` [luw2007/pi-jev-suggest](https://github.com/luw2007/pi-jev-suggest) — inferred / other — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [lsxblh/open-jev-multiquestion](https://github.com/lsxblh/open-jev-multiquestion) — inferred / evaluation — ⭐0
+- `+` [keyanwu256-eng/Jev-Korean-Sentiment-Analysis](https://github.com/keyanwu256-eng/Jev-Korean-Sentiment-Analysis) — inferred / other — ⭐0
+- `+` [social-jev/social-jev.github.io](https://github.com/social-jev/social-jev.github.io) — inferred / other — ⭐0
+- `+` [Sealkeeper/jev-chat-private](https://github.com/Sealkeeper/jev-chat-private) — inferred / community-sdk — ⭐0
