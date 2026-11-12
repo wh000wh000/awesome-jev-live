@@ -8598,3 +8598,11 @@
 - `+` [raydocs/egolite-jev](https://github.com/raydocs/egolite-jev) — inferred / agent-tooling — ⭐5
 - `+` [gcipolla1402/jev-2048-strategy-lab](https://github.com/gcipolla1402/jev-2048-strategy-lab) — inferred / evaluation — ⭐0
 - `+` [mattbran87/jev-daemon](https://github.com/mattbran87/jev-daemon) — inferred / community-sdk — ⭐0
+
+## 2026-11-12T10:28:20+08:00
+- 收录总数 **809**；本次更新新增 **5**
+- `+` [madxmike/gallant](https://github.com/madxmike/gallant) — observed / other — ⭐24
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
