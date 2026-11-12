@@ -8688,3 +8688,20 @@
 - `+` [meetrais/system-one-models](https://github.com/meetrais/system-one-models) — observed / other — ⭐0
 - `+` [w00fx/jev-plays-firered](https://github.com/w00fx/jev-plays-firered) — inferred / agent-tooling — ⭐0
 - `+` [Potest04/wsn-edge-slm-jev](https://github.com/Potest04/wsn-edge-slm-jev) — inferred / apps-demos — ⭐0
+
+## 2026-11-13T01:46:35+08:00
+- 收录总数 **816**；本次更新新增 **14**
+- `+` [utk2103/jev-studio](https://github.com/utk2103/jev-studio) — inferred / community-sdk — ⭐16
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐11
+- `+` [Ask HN: Why use Jev/decision models at all?](https://news.ycombinator.com/item?id=50470591) — observed / media-discussions — ⭐4
+- `+` [llachat/llav](https://github.com/llachat/llav) — unverified / evaluation — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon) — inferred / agent-tooling — ⭐2
+- `+` [timjonez/jev-gate](https://github.com/timjonez/jev-gate) — inferred / routing-guardrails — ⭐1
+- `+` [kylehovance-ai/jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) — inferred / community-sdk — ⭐1
+- `+` [dennisonbertram/jev-browser](https://github.com/dennisonbertram/jev-browser) — inferred / agent-tooling — ⭐1
+- `+` [Aaryan6/jev-vs-gemini-chess](https://github.com/Aaryan6/jev-vs-gemini-chess) — inferred / research-models — ⭐0
+- `+` [PacktPublishing/TypeSafe-AI-Jev-Essentials---Building-Decision-Systems](https://github.com/PacktPublishing/TypeSafe-AI-Jev-Essentials---Building-Decision-Systems) — inferred / other — ⭐0
+- `+` [DiHughes-Relay/jev-skill-evaluator](https://github.com/DiHughes-Relay/jev-skill-evaluator) — inferred / agent-tooling — ⭐0
+- `+` [krishnakanthb13/JEV-testing](https://github.com/krishnakanthb13/JEV-testing) — inferred / apps-demos — ⭐0
