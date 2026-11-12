@@ -8606,3 +8606,28 @@
 - `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
 - `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-12T12:45:54+08:00
+- 收录总数 **819**；本次更新新增 **22**
+- `+` [AskTheWay/dsh-jev-interceptor](https://github.com/AskTheWay/dsh-jev-interceptor) — inferred / agent-tooling — ⭐33
+- `+` [sunyasheng/JevGPT](https://github.com/sunyasheng/JevGPT) — inferred / agent-tooling — ⭐31
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐19
+- `+` [erkamyaman/jev-enforce](https://github.com/erkamyaman/jev-enforce) — inferred / agent-tooling — ⭐13
+- `+` [moeinheidari7829/Kev-Bio](https://github.com/moeinheidari7829/Kev-Bio) — observed / community-sdk — ⭐5
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [hpend2373/bio-discovery-with-jev](https://github.com/hpend2373/bio-discovery-with-jev) — inferred / agent-tooling — ⭐1
+- `+` [chyiiiiiiiiiiii/flutter-jev](https://github.com/chyiiiiiiiiiiii/flutter-jev) — inferred / evaluation — ⭐1
+- `+` [PineappleBingo/jev-radar](https://github.com/PineappleBingo/jev-radar) — inferred / other — ⭐0
+- `+` [Arnabest/embeddinggemma-2-jev](https://github.com/Arnabest/embeddinggemma-2-jev) — inferred / community-sdk — ⭐0
+- `+` [keyanwu256-eng/Jev-Korean-Sentiment-Analysis](https://github.com/keyanwu256-eng/Jev-Korean-Sentiment-Analysis) — inferred / other — ⭐0
+- `+` [joshaustintech/claude-jev-mods](https://github.com/joshaustintech/claude-jev-mods) — inferred / agent-tooling — ⭐0
+- `+` [dys-org/pi-jev-gate](https://github.com/dys-org/pi-jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [rendydev404/jev-ultrafast](https://github.com/rendydev404/jev-ultrafast) — inferred / community-sdk — ⭐0
+- `+` [lsxblh/open-jev-multiquestion](https://github.com/lsxblh/open-jev-multiquestion) — inferred / evaluation — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+- `+` [Lokesh-102214/ASEE-JEV](https://github.com/Lokesh-102214/ASEE-JEV) — inferred / agent-tooling — ⭐0
+- `+` [nithiljn/System-One-Models](https://github.com/nithiljn/System-One-Models) — observed / research-models — ⭐0
+- `+` [ameya-panchpor/jev-2048](https://github.com/ameya-panchpor/jev-2048) — inferred / evaluation — ⭐0
+- `+` [charles-forsyth/jev-decision-wall](https://github.com/charles-forsyth/jev-decision-wall) — inferred / apps-demos — ⭐0
+- `+` [haohan84/v-jev1.4](https://huggingface.co/haohan84/v-jev1.4) — observed / research-models — ⭐0
