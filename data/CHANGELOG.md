@@ -8591,3 +8591,10 @@
 - `+` [gcipolla1402/jev-smart-router](https://github.com/gcipolla1402/jev-smart-router) — inferred / routing-guardrails — ⭐0
 - `+` [lealvona/jev-playground](https://github.com/lealvona/jev-playground) — inferred / apps-demos — ⭐0
 - `+` [JavadDogani/jev-retrieval](https://github.com/JavadDogani/jev-retrieval) — inferred / evaluation — ⭐0
+
+## 2026-11-12T08:04:13+08:00
+- 收录总数 **814**；本次更新新增 **4**
+- `+` [StartLuxLabs/StartLux-Prism](https://github.com/StartLuxLabs/StartLux-Prism) — unverified / community-sdk — ⭐441
+- `+` [raydocs/egolite-jev](https://github.com/raydocs/egolite-jev) — inferred / agent-tooling — ⭐5
+- `+` [gcipolla1402/jev-2048-strategy-lab](https://github.com/gcipolla1402/jev-2048-strategy-lab) — inferred / evaluation — ⭐0
+- `+` [mattbran87/jev-daemon](https://github.com/mattbran87/jev-daemon) — inferred / community-sdk — ⭐0
