@@ -8679,3 +8679,12 @@
 - `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
 - `+` [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) — inferred / apps-demos — ⭐0
 - `+` [EilinLux/gemini-decisions-and-jev-lab](https://github.com/EilinLux/gemini-decisions-and-jev-lab) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-12T23:38:59+08:00
+- 收录总数 **808**；本次更新新增 **6**
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐87
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [meetrais/system-one-models](https://github.com/meetrais/system-one-models) — observed / other — ⭐0
+- `+` [w00fx/jev-plays-firered](https://github.com/w00fx/jev-plays-firered) — inferred / agent-tooling — ⭐0
+- `+` [Potest04/wsn-edge-slm-jev](https://github.com/Potest04/wsn-edge-slm-jev) — inferred / apps-demos — ⭐0
