@@ -8665,3 +8665,17 @@
 - `+` [romankulev/jev-pre-llm](https://github.com/romankulev/jev-pre-llm) — inferred / other — ⭐0
 - `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
 - `+` [BreezeHavana/reliable-jev-paper](https://github.com/BreezeHavana/reliable-jev-paper) — inferred / agent-tooling — ⭐0
+
+## 2026-11-12T21:29:52+08:00
+- 收录总数 **812**；本次更新新增 **11**
+- `+` [teo-nex/jev-codex-harness](https://github.com/teo-nex/jev-codex-harness) — inferred / agent-tooling — ⭐17
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐10
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐3
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐2
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / research-models — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
+- `+` [Sandesh-S-Dalvi/playwright-jev-demo](https://github.com/Sandesh-S-Dalvi/playwright-jev-demo) — inferred / apps-demos — ⭐0
+- `+` [EilinLux/gemini-decisions-and-jev-lab](https://github.com/EilinLux/gemini-decisions-and-jev-lab) — inferred / routing-guardrails — ⭐0
