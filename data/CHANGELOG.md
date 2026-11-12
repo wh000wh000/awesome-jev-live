@@ -8631,3 +8631,16 @@
 - `+` [ameya-panchpor/jev-2048](https://github.com/ameya-panchpor/jev-2048) — inferred / evaluation — ⭐0
 - `+` [charles-forsyth/jev-decision-wall](https://github.com/charles-forsyth/jev-decision-wall) — inferred / apps-demos — ⭐0
 - `+` [haohan84/v-jev1.4](https://huggingface.co/haohan84/v-jev1.4) — observed / research-models — ⭐0
+
+## 2026-11-12T15:00:06+08:00
+- 收录总数 **824**；本次更新新增 **10**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [SoniaMehta14/paved-gate](https://github.com/SoniaMehta14/paved-gate) — inferred / agent-tooling — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [giovannirco/jev-playground](https://github.com/giovannirco/jev-playground) — inferred / apps-demos — ⭐0
+- `+` [martinrogersabol-dot/paperclip-plugin-jev-lokalni](https://github.com/martinrogersabol-dot/paperclip-plugin-jev-lokalni) — inferred / agent-tooling — ⭐0
+- `+` [sglmr/jev-bilingual-ticket-classification](https://github.com/sglmr/jev-bilingual-ticket-classification) — inferred / agent-tooling — ⭐0
+- `+` [jasonsuhari/razer-jev](https://github.com/jasonsuhari/razer-jev) — inferred / other — ⭐0

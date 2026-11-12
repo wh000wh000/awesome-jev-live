@@ -1,38 +1,38 @@
 {
- "generated_at": "2026-11-12T12:45:54+08:00",
- "total": 819,
- "new_this_tick": 22,
+ "generated_at": "2026-11-12T15:00:06+08:00",
+ "total": 824,
+ "new_this_tick": 10,
  "by_category": {
   "official-sdk": 6,
   "community-sdk": 142,
-  "agent-tooling": 253,
-  "routing-guardrails": 65,
-  "evaluation": 91,
+  "agent-tooling": 254,
+  "routing-guardrails": 64,
+  "evaluation": 90,
   "research-models": 62,
-  "apps-demos": 47,
-  "media-discussions": 74,
+  "apps-demos": 48,
+  "media-discussions": 79,
   "other": 79
  },
  "by_evidence": {
   "official": 17,
-  "observed": 227,
+  "observed": 232,
   "inferred": 510,
   "unverified": 65
  },
  "by_tier": {
   "official": 6,
-  "community": 813
+  "community": 818
  },
  "by_language": {
-  "Python": 362,
+  "Python": 360,
   "TypeScript": 132,
   "JavaScript": 73,
   "Rust": 34,
-  "HTML": 31,
+  "HTML": 32,
   "Go": 18,
   "Jupyter": 13,
   "PHP": 7,
-  "Swift": 5,
+  "Swift": 6,
   "C#": 5,
   "Elixir": 5,
   "Java": 4,
@@ -53,6 +53,6 @@
  },
  "repos": 742,
  "models": 13,
- "discussions": 15,
- "total_stars": 181882
+ "discussions": 20,
+ "total_stars": 182378
 }
