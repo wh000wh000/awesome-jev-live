@@ -8655,3 +8655,13 @@
 - `+` [paulopasso/jev-test](https://github.com/paulopasso/jev-test) — inferred / research-models — ⭐0
 - `+` [JDChi/jev-rednote](https://github.com/JDChi/jev-rednote) — inferred / routing-guardrails — ⭐0
 - `+` [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) — observed / apps-demos — ⭐0
+
+## 2026-11-12T19:20:56+08:00
+- 收录总数 **816**；本次更新新增 **7**
+- `+` [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) — unverified / apps-demos — ⭐10
+- `+` [AlphaPerseii3000/jev-effort-router](https://github.com/AlphaPerseii3000/jev-effort-router) — inferred / agent-tooling — ⭐8
+- `+` [Show HN: Thread Police eliminates stray replies in Slack channels with Jev](https://news.ycombinator.com/item?id=50457264) — observed / media-discussions — ⭐5
+- `+` [sir-ad/codex-jev-task-router](https://github.com/sir-ad/codex-jev-task-router) — inferred / agent-tooling — ⭐0
+- `+` [romankulev/jev-pre-llm](https://github.com/romankulev/jev-pre-llm) — inferred / other — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [BreezeHavana/reliable-jev-paper](https://github.com/BreezeHavana/reliable-jev-paper) — inferred / agent-tooling — ⭐0
