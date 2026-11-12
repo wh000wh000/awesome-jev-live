@@ -8644,3 +8644,14 @@
 - `+` [martinrogersabol-dot/paperclip-plugin-jev-lokalni](https://github.com/martinrogersabol-dot/paperclip-plugin-jev-lokalni) — inferred / agent-tooling — ⭐0
 - `+` [sglmr/jev-bilingual-ticket-classification](https://github.com/sglmr/jev-bilingual-ticket-classification) — inferred / agent-tooling — ⭐0
 - `+` [jasonsuhari/razer-jev](https://github.com/jasonsuhari/razer-jev) — inferred / other — ⭐0
+
+## 2026-11-12T17:10:35+08:00
+- 收录总数 **818**；本次更新新增 **8**
+- `+` [yusukebe/hono-jev-router](https://github.com/yusukebe/hono-jev-router) — inferred / routing-guardrails — ⭐54
+- `+` [Das-rebel/a3m-router](https://github.com/Das-rebel/a3m-router) — unverified / community-sdk — ⭐18
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [moudrkat/probascope](https://github.com/moudrkat/probascope) — unverified / other — ⭐4
+- `+` [Blackteaxx/DecisionForge](https://github.com/Blackteaxx/DecisionForge) — unverified / agent-tooling — ⭐3
+- `+` [paulopasso/jev-test](https://github.com/paulopasso/jev-test) — inferred / research-models — ⭐0
+- `+` [JDChi/jev-rednote](https://github.com/JDChi/jev-rednote) — inferred / routing-guardrails — ⭐0
+- `+` [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) — observed / apps-demos — ⭐0
