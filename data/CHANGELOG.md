@@ -8705,3 +8705,32 @@
 - `+` [PacktPublishing/TypeSafe-AI-Jev-Essentials---Building-Decision-Systems](https://github.com/PacktPublishing/TypeSafe-AI-Jev-Essentials---Building-Decision-Systems) — inferred / other — ⭐0
 - `+` [DiHughes-Relay/jev-skill-evaluator](https://github.com/DiHughes-Relay/jev-skill-evaluator) — inferred / agent-tooling — ⭐0
 - `+` [krishnakanthb13/JEV-testing](https://github.com/krishnakanthb13/JEV-testing) — inferred / apps-demos — ⭐0
+
+## 2026-11-13T11:59:21+08:00
+- 收录总数 **834**；本次更新新增 **52**
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — inferred / evaluation — ⭐11
+- `+` [Jev-Engineering/TypeWright](https://github.com/Jev-Engineering/TypeWright) — inferred / community-sdk — ⭐7
+- `+` [DataZooDE/anofox-decide](https://github.com/DataZooDE/anofox-decide) — unverified / evaluation — ⭐4
+- `+` [dbt-labs/dbt-decisions](https://github.com/dbt-labs/dbt-decisions) — unverified / community-sdk — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [docwilde/doxa](https://github.com/docwilde/doxa) — inferred / community-sdk — ⭐3
+- `+` [fivetaku/golla-jev](https://github.com/fivetaku/golla-jev) — inferred / agent-tooling — ⭐1
+- `+` [gbesse/shopify-jev-flow](https://github.com/gbesse/shopify-jev-flow) — inferred / other — ⭐1
+- `+` [HimuroSenalyc/Jev-Fog](https://github.com/HimuroSenalyc/Jev-Fog) — inferred / agent-tooling — ⭐1
+- `+` [yuseisakai/jev-adblock](https://github.com/yuseisakai/jev-adblock) — inferred / apps-demos — ⭐1
+- `+` [rmax-ai/jev-vs-clef](https://github.com/rmax-ai/jev-vs-clef) — inferred / evaluation — ⭐0
+- `+` [gbesse/meilisearch-jev](https://github.com/gbesse/meilisearch-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/pinot-jev](https://github.com/gbesse/pinot-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/jev-workflow](https://github.com/gbesse/jev-workflow) — inferred / agent-tooling — ⭐0
+- `+` [gbesse/flink-jev](https://github.com/gbesse/flink-jev) — inferred / community-sdk — ⭐0
+- `+` [gbesse/mariadb-jev](https://github.com/gbesse/mariadb-jev) — inferred / community-sdk — ⭐0
+- `+` [rgryta/jev-mcp](https://github.com/rgryta/jev-mcp) — inferred / agent-tooling — ⭐0
+- `+` [HillPhelmuth/JevDotNet](https://github.com/HillPhelmuth/JevDotNet) — inferred / community-sdk — ⭐0
+- `+` [aishwary-dongre/jev-xray](https://github.com/aishwary-dongre/jev-xray) — observed / evaluation — ⭐0
+- `+` [mailzwj/ComfyUI-JEV](https://github.com/mailzwj/ComfyUI-JEV) — inferred / agent-tooling — ⭐0
+- `+` [stunningtoo/jev-wechat](https://github.com/stunningtoo/jev-wechat) — inferred / other — ⭐0
+- `+` [willemhelmet/jev-world](https://github.com/willemhelmet/jev-world) — inferred / apps-demos — ⭐0
+- `+` [gbesse/redpanda-connect-jev](https://github.com/gbesse/redpanda-connect-jev) — inferred / routing-guardrails — ⭐0
+- `+` [gbesse/bevy-jev](https://github.com/gbesse/bevy-jev) — inferred / apps-demos — ⭐0
+- `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
+- …另有 27 条新增
