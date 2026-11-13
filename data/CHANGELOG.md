@@ -8786,3 +8786,23 @@
 - `+` [首份关于 Jev 概率的强反证：`jev-does-not-play-dice`](https://github.com/KantaHayashiAI/jev-does-not-play-dice) — observed / media-discussions — ⭐0
 - `+` [发现与本库做同一件事的 agent skill：`decision-first`](https://github.com/harrymunro/decision-first) — observed / media-discussions — ⭐0
 - …另有 34 条新增
+
+## 2026-11-13T22:46:20+08:00
+- 收录总数 **813**；本次更新新增 **17**
+- `+` [yibie/jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) — inferred / agent-tooling — ⭐229
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐115
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐87
+- `+` [shiftynick/jev-axi](https://github.com/shiftynick/jev-axi) — inferred / community-sdk — ⭐49
+- `+` [hybridgroup/jeyzma](https://github.com/hybridgroup/jeyzma) — observed / apps-demos — ⭐16
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐14
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [serrynaimo/stunning-md](https://github.com/serrynaimo/stunning-md) — inferred / other — ⭐6
+- `+` [kittimzhe/dsh-jev-goal-judge](https://github.com/kittimzhe/dsh-jev-goal-judge) — inferred / agent-tooling — ⭐1
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
+- `+` [yuu551/agentcore-gateway-jev-interceptor](https://github.com/yuu551/agentcore-gateway-jev-interceptor) — inferred / agent-tooling — ⭐0
+- `+` [Meirdrarel/mcp-systemone](https://github.com/Meirdrarel/mcp-systemone) — observed / agent-tooling — ⭐0
+- `+` [dctongsheng/jev-elevator-dispatch](https://github.com/dctongsheng/jev-elevator-dispatch) — inferred / research-models — ⭐0
+- `+` [ido-foundation/jev-tab-switcher](https://github.com/ido-foundation/jev-tab-switcher) — inferred / other — ⭐0
+- `+` [rolki-png/JevArena](https://github.com/rolki-png/JevArena) — inferred / agent-tooling — ⭐0
+- `+` [gupolicarpo/jev-graphify](https://github.com/gupolicarpo/jev-graphify) — inferred / community-sdk — ⭐0
+- `+` [iJaack/jev-calendar-rust](https://github.com/iJaack/jev-calendar-rust) — inferred / routing-guardrails — ⭐0
