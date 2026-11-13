@@ -8748,3 +8748,12 @@
 - `+` [SimplyVisio/jev-ai-agent-platform](https://github.com/SimplyVisio/jev-ai-agent-platform) — inferred / community-sdk — ⭐0
 - `+` [luw2007/pi-jev-suggest](https://github.com/luw2007/pi-jev-suggest) — inferred / other — ⭐0
 - `+` [joshaustintech/claude-jev-mods](https://github.com/joshaustintech/claude-jev-mods) — inferred / agent-tooling — ⭐0
+
+## 2026-11-13T16:23:06+08:00
+- 收录总数 **785**；本次更新新增 **6**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [shinpr/jev-reranker](https://github.com/shinpr/jev-reranker) — inferred / community-sdk — ⭐4
+- `+` [dsk1134162538-hash/jev-quant](https://github.com/dsk1134162538-hash/jev-quant) — inferred / other — ⭐1
+- `+` [heiwa4126/jev-node1](https://github.com/heiwa4126/jev-node1) — inferred / community-sdk — ⭐0
+- `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
+- `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
