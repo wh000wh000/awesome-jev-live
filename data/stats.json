@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-14T00:55:21+08:00",
+ "generated_at": "2026-11-14T03:03:47+08:00",
  "total": 821,
- "new_this_tick": 15,
+ "new_this_tick": 5,
  "by_category": {
   "official-sdk": 6,
-  "community-sdk": 145,
-  "agent-tooling": 246,
+  "community-sdk": 144,
+  "agent-tooling": 248,
   "routing-guardrails": 61,
   "evaluation": 86,
-  "research-models": 68,
+  "research-models": 67,
   "apps-demos": 48,
   "media-discussions": 80,
   "other": 81
@@ -25,8 +25,8 @@
  },
  "by_language": {
   "Python": 354,
-  "TypeScript": 125,
-  "JavaScript": 82,
+  "TypeScript": 123,
+  "JavaScript": 83,
   "Rust": 36,
   "HTML": 31,
   "Go": 14,
@@ -39,12 +39,12 @@
   "PHP": 4,
   "Kotlin": 3,
   "Ruby": 2,
+  "Shell": 2,
   "PowerShell": 2,
   "XS": 2,
   "CSS": 2,
   "TeX": 2,
   "Pascal": 1,
-  "Shell": 1,
   "Haskell": 1,
   "C": 1,
   "Nushell": 1,
@@ -53,5 +53,5 @@
  "repos": 737,
  "models": 13,
  "discussions": 22,
- "total_stars": 182910
+ "total_stars": 182922
 }

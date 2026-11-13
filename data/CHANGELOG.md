@@ -8824,3 +8824,11 @@
 - `+` [daltonsi-dandelion/abstraction-jev](https://github.com/daltonsi-dandelion/abstraction-jev) — inferred / research-models — ⭐0
 - `+` [chengyixu/jev-clean](https://github.com/chengyixu/jev-clean) — inferred / research-models — ⭐0
 - `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
+
+## 2026-11-14T03:03:47+08:00
+- 收录总数 **821**；本次更新新增 **5**
+- `+` [anpicasso/hermes-jev-approvals](https://github.com/anpicasso/hermes-jev-approvals) — inferred / agent-tooling — ⭐25
+- `+` [anpicasso/hermes-jev-curator](https://github.com/anpicasso/hermes-jev-curator) — inferred / other — ⭐3
+- `+` [kylehovance-ai/jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) — inferred / community-sdk — ⭐1
+- `+` [Vultwo/dsh-jev-auto-approve](https://github.com/Vultwo/dsh-jev-auto-approve) — inferred / agent-tooling — ⭐0
+- `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
