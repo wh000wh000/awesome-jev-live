@@ -8734,3 +8734,17 @@
 - `+` [gbesse/bevy-jev](https://github.com/gbesse/bevy-jev) — inferred / apps-demos — ⭐0
 - `+` [gbesse/jev-unreal-statetree](https://github.com/gbesse/jev-unreal-statetree) — inferred / apps-demos — ⭐0
 - …另有 27 条新增
+
+## 2026-11-13T14:12:47+08:00
+- 收录总数 **838**；本次更新新增 **11**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [tontoko/jev-browser](https://github.com/tontoko/jev-browser) — inferred / community-sdk — ⭐13
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [poisson-labs/jev-replay](https://github.com/poisson-labs/jev-replay) — inferred / evaluation — ⭐0
+- `+` [SimplyVisio/jev-ai-agent-platform](https://github.com/SimplyVisio/jev-ai-agent-platform) — inferred / community-sdk — ⭐0
+- `+` [luw2007/pi-jev-suggest](https://github.com/luw2007/pi-jev-suggest) — inferred / other — ⭐0
+- `+` [joshaustintech/claude-jev-mods](https://github.com/joshaustintech/claude-jev-mods) — inferred / agent-tooling — ⭐0
