@@ -8806,3 +8806,21 @@
 - `+` [rolki-png/JevArena](https://github.com/rolki-png/JevArena) — inferred / agent-tooling — ⭐0
 - `+` [gupolicarpo/jev-graphify](https://github.com/gupolicarpo/jev-graphify) — inferred / community-sdk — ⭐0
 - `+` [iJaack/jev-calendar-rust](https://github.com/iJaack/jev-calendar-rust) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-14T00:55:21+08:00
+- 收录总数 **821**；本次更新新增 **15**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [deep-diver/mini-jev](https://github.com/deep-diver/mini-jev) — inferred / research-models — ⭐5
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Show HN: Decide – decision model CLI for analyzing large codebases with Jev](https://news.ycombinator.com/item?id=50485000) — observed / media-discussions — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [alexsosn/tf-jev](https://github.com/alexsosn/tf-jev) — inferred / other — ⭐1
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [raptatinha/twr-jev-nov2026](https://github.com/raptatinha/twr-jev-nov2026) — observed / apps-demos — ⭐0
+- `+` [oneryalcin/hunch](https://github.com/oneryalcin/hunch) — observed / other — ⭐0
+- `+` [daltonsi-dandelion/abstraction-jev](https://github.com/daltonsi-dandelion/abstraction-jev) — inferred / research-models — ⭐0
+- `+` [chengyixu/jev-clean](https://github.com/chengyixu/jev-clean) — inferred / research-models — ⭐0
+- `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
