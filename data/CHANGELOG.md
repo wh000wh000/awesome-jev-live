@@ -8832,3 +8832,12 @@
 - `+` [kylehovance-ai/jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) — inferred / community-sdk — ⭐1
 - `+` [Vultwo/dsh-jev-auto-approve](https://github.com/Vultwo/dsh-jev-auto-approve) — inferred / agent-tooling — ⭐0
 - `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
+
+## 2026-11-14T05:12:22+08:00
+- 收录总数 **816**；本次更新新增 **6**
+- `+` [PenDraga/paperless-jev](https://github.com/PenDraga/paperless-jev) — inferred / agent-tooling — ⭐6
+- `+` [Wrenik/Jev-toolkit-usage](https://github.com/Wrenik/Jev-toolkit-usage) — inferred / agent-tooling — ⭐1
+- `+` [danvega/jev-feedback-triage](https://github.com/danvega/jev-feedback-triage) — inferred / routing-guardrails — ⭐0
+- `+` [cnYanqing/mini-jev-moderation](https://github.com/cnYanqing/mini-jev-moderation) — inferred / routing-guardrails — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [Haku0002/fast-jev-compaction-enhanced](https://github.com/Haku0002/fast-jev-compaction-enhanced) — inferred / other — ⭐0
