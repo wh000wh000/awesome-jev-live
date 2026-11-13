@@ -8757,3 +8757,32 @@
 - `+` [heiwa4126/jev-node1](https://github.com/heiwa4126/jev-node1) — inferred / community-sdk — ⭐0
 - `+` [ab2webco/orca-jev-advisor](https://github.com/ab2webco/orca-jev-advisor) — inferred / agent-tooling — ⭐0
 - `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
+
+## 2026-11-13T18:35:28+08:00
+- 收录总数 **830**；本次更新新增 **59**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [DreamBlooms/dohnuts.cpp](https://github.com/DreamBlooms/dohnuts.cpp) — observed / other — ⭐12
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [jangtrinh/design-os-generative-ui](https://github.com/jangtrinh/design-os-generative-ui) — unverified / agent-tooling — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [bariskisir/JevSharp](https://github.com/bariskisir/JevSharp) — inferred / community-sdk — ⭐0
+- `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [TypeSafe 新增 Team 页 + 导航新增 `Enterprise` 入口（产品化/商业化信号）](https://typesafe.ai/team) — official / media-discussions — ⭐0
+- `+` [`classifier.dev`：建在 Jev 上的免费零样本分类服务（含 agent skill）](https://classifier.dev) — observed / media-discussions — ⭐0
+- `+` [官方文档索引与限流/上下文/定制政策全部核实](https://docs.typesafe.ai/models) — official / media-discussions — ⭐0
+- `+` [confidence 的官方语义确认](https://docs.typesafe.ai/confidence) — official / media-discussions — ⭐0
+- `+` [9 类已知缺陷（jaggedness）](https://docs.typesafe.ai/model-jaggedness/jev-1.13) — official / media-discussions — ⭐0
+- `+` [发现并抓取 18 篇官方 cookbook 实战配方（此前完全缺失）](https://docs.typesafe.ai/llms.txt) — official / media-discussions — ⭐0
+- `+` [`consistency_choice` cookbook 正式回答了"重复调用结果会变"](https://docs.typesafe.ai/cookbooks/consistency_choice_cookbook) — official / media-discussions — ⭐0
+- `+` [`clownware/bouncer` 提供目前最硬的第三方独立标定数据](https://github.com/clownware/bouncer) — observed / media-discussions — ⭐0
+- `+` [安装官方 agent skill `typesafe-ai` — ，MIT）](https://github.com/typesafe-ai/skills（⭐128) — official / media-discussions — ⭐0
+- `+` [补齐官方缺失页：迁移到 v1 API](https://docs.typesafe.ai/migrating-to-v1) — official / media-discussions — ⭐0
+- `+` [发现社区维护的完整索引 `AbdelStark/awesome-typesafe`（ 103）](https://github.com/AbdelStark/awesome-typesafe) — observed / media-discussions — ⭐0
+- `+` [`calibre`：独立标定实验证明"阈值参数不跨数据集迁移"](https://github.com/FirasSX914/calibre) — observed / media-discussions — ⭐0
+- `+` [首份关于 Jev 概率的强反证：`jev-does-not-play-dice`](https://github.com/KantaHayashiAI/jev-does-not-play-dice) — observed / media-discussions — ⭐0
+- `+` [发现与本库做同一件事的 agent skill：`decision-first`](https://github.com/harrymunro/decision-first) — observed / media-discussions — ⭐0
+- …另有 34 条新增
