@@ -8841,3 +8841,15 @@
 - `+` [cnYanqing/mini-jev-moderation](https://github.com/cnYanqing/mini-jev-moderation) — inferred / routing-guardrails — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [Haku0002/fast-jev-compaction-enhanced](https://github.com/Haku0002/fast-jev-compaction-enhanced) — inferred / other — ⭐0
+
+## 2026-11-14T07:19:55+08:00
+- 收录总数 **820**；本次更新新增 **9**
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐132
+- `+` [mattt/AnyDecisionModel](https://github.com/mattt/AnyDecisionModel) — inferred / research-models — ⭐58
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐13
+- `+` [A2D-Agentic-Asset-Designer/Mule4-Wrapper-Jev-for-OpenAI](https://github.com/A2D-Agentic-Asset-Designer/Mule4-Wrapper-Jev-for-OpenAI) — inferred / community-sdk — ⭐0
+- `+` [7hemas7er/jev-hooks](https://github.com/7hemas7er/jev-hooks) — inferred / agent-tooling — ⭐0
+- `+` [ferrousaurus/system-one-mcp](https://github.com/ferrousaurus/system-one-mcp) — observed / agent-tooling — ⭐0
+- `+` [YoussefBastawisy/build-your-own-jev](https://github.com/YoussefBastawisy/build-your-own-jev) — inferred / apps-demos — ⭐0
+- `+` [Arwin-K/jev-llm-gateway](https://github.com/Arwin-K/jev-llm-gateway) — inferred / routing-guardrails — ⭐0
+- `+` [Dinesh-Das/run-jev-inside-agent-harness](https://github.com/Dinesh-Das/run-jev-inside-agent-harness) — inferred / community-sdk — ⭐0
