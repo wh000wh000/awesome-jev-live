@@ -8922,3 +8922,21 @@
 - `+` [devsoniclk/jev-polymarket-executor](https://github.com/devsoniclk/jev-polymarket-executor) — inferred / research-models — ⭐0
 - `+` [dhanushkapg/IT-Ticket-Analyzer-using-JEV](https://github.com/dhanushkapg/IT-Ticket-Analyzer-using-JEV) — inferred / other — ⭐0
 - `+` [pavanjava/system-one-model-from-scratch](https://github.com/pavanjava/system-one-model-from-scratch) — observed / other — ⭐0
+
+## 2026-11-15T02:25:08+08:00
+- 收录总数 **834**；本次更新新增 **15**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐91
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [AIAnytime/jev-crash-course](https://github.com/AIAnytime/jev-crash-course) — inferred / other — ⭐20
+- `+` [tinyhumansai/tinycomputer](https://github.com/tinyhumansai/tinycomputer) — unverified / agent-tooling — ⭐11
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [yamadashy/jev-labeler-action](https://github.com/yamadashy/jev-labeler-action) — inferred / other — ⭐3
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [dsk1134162538-hash/jev-quant](https://github.com/dsk1134162538-hash/jev-quant) — inferred / other — ⭐1
+- `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
+- `+` [honeyychawla/jev](https://github.com/honeyychawla/jev) — inferred / apps-demos — ⭐0
+- `+` [tohtana/jev-gpu-tests](https://github.com/tohtana/jev-gpu-tests) — inferred / other — ⭐0
+- `+` [honeyychawla/jev-inbox](https://github.com/honeyychawla/jev-inbox) — inferred / routing-guardrails — ⭐0
