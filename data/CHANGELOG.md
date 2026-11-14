@@ -8901,3 +8901,24 @@
 - `+` [Saadtamari/blink-jev-agent](https://github.com/Saadtamari/blink-jev-agent) — inferred / agent-tooling — ⭐0
 - `+` [Mrmimee/codex-jev](https://github.com/Mrmimee/codex-jev) — inferred / agent-tooling — ⭐0
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+
+## 2026-11-15T00:17:33+08:00
+- 收录总数 **823**；本次更新新增 **18**
+- `+` [ZJU-REAL/CUA-JEV](https://github.com/ZJU-REAL/CUA-JEV) — inferred / agent-tooling — ⭐28
+- `+` [tanxarx/awesome-jev](https://github.com/tanxarx/awesome-jev) — inferred / media-discussions — ⭐25
+- `+` [aifabrice/jev-rag](https://github.com/aifabrice/jev-rag) — inferred / community-sdk — ⭐19
+- `+` [Valen-Team/JevalKit](https://github.com/Valen-Team/JevalKit) — inferred / evaluation — ⭐11
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐9
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐4
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [devsoniclk/jev-polymarket](https://github.com/devsoniclk/jev-polymarket) — inferred / research-models — ⭐1
+- `+` [mjvmsteixeira/jev-browser-mcp](https://github.com/mjvmsteixeira/jev-browser-mcp) — inferred / agent-tooling — ⭐0
+- `+` [avi720/jev-chromium-use](https://github.com/avi720/jev-chromium-use) — inferred / agent-tooling — ⭐0
+- `+` [devsoniclk/jev-crypto-decisions](https://github.com/devsoniclk/jev-crypto-decisions) — observed / research-models — ⭐0
+- `+` [superlowburn/hermes-jev-cron-gate](https://github.com/superlowburn/hermes-jev-cron-gate) — inferred / agent-tooling — ⭐0
+- `+` [FMXExpress/JevBan](https://github.com/FMXExpress/JevBan) — inferred / other — ⭐0
+- `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
+- `+` [devsoniclk/jev-polymarket-executor](https://github.com/devsoniclk/jev-polymarket-executor) — inferred / research-models — ⭐0
+- `+` [dhanushkapg/IT-Ticket-Analyzer-using-JEV](https://github.com/dhanushkapg/IT-Ticket-Analyzer-using-JEV) — inferred / other — ⭐0
+- `+` [pavanjava/system-one-model-from-scratch](https://github.com/pavanjava/system-one-model-from-scratch) — observed / other — ⭐0
