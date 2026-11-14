@@ -8853,3 +8853,9 @@
 - `+` [YoussefBastawisy/build-your-own-jev](https://github.com/YoussefBastawisy/build-your-own-jev) — inferred / apps-demos — ⭐0
 - `+` [Arwin-K/jev-llm-gateway](https://github.com/Arwin-K/jev-llm-gateway) — inferred / routing-guardrails — ⭐0
 - `+` [Dinesh-Das/run-jev-inside-agent-harness](https://github.com/Dinesh-Das/run-jev-inside-agent-harness) — inferred / community-sdk — ⭐0
+
+## 2026-11-14T09:27:39+08:00
+- 收录总数 **819**；本次更新新增 **3**
+- `+` [SampleBias/Jev_Onco_Statistical_Hierarchy](https://github.com/SampleBias/Jev_Onco_Statistical_Hierarchy) — inferred / community-sdk — ⭐4
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
