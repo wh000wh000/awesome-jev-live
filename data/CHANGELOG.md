@@ -8940,3 +8940,13 @@
 - `+` [honeyychawla/jev](https://github.com/honeyychawla/jev) — inferred / apps-demos — ⭐0
 - `+` [tohtana/jev-gpu-tests](https://github.com/tohtana/jev-gpu-tests) — inferred / other — ⭐0
 - `+` [honeyychawla/jev-inbox](https://github.com/honeyychawla/jev-inbox) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-15T04:32:11+08:00
+- 收录总数 **831**；本次更新新增 **7**
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐2
+- `+` [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) — observed / agent-tooling — ⭐0
+- `+` [haggler3/jev-hierarchical-planner](https://github.com/haggler3/jev-hierarchical-planner) — inferred / evaluation — ⭐0
+- `+` [vikawork/decision-models-calibration](https://github.com/vikawork/decision-models-calibration) — observed / evaluation — ⭐0
+- `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
+- `+` [KemalG-u/jev-demo](https://github.com/KemalG-u/jev-demo) — inferred / apps-demos — ⭐0
+- `+` [KemalG-u/jev-teknik-arastirma](https://github.com/KemalG-u/jev-teknik-arastirma) — inferred / other — ⭐0
