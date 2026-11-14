@@ -8886,3 +8886,9 @@
 - `+` [pikuto1125-pixel/agy-jev-harness](https://github.com/pikuto1125-pixel/agy-jev-harness) — inferred / agent-tooling — ⭐0
 - `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐0
 - `+` [mradermacher/JEV-9B-GGUF](https://huggingface.co/mradermacher/JEV-9B-GGUF) — observed / research-models — ⭐0
+
+## 2026-11-14T18:00:55+08:00
+- 收录总数 **827**；本次更新新增 **3**
+- `+` [zfkarl/MedJev](https://github.com/zfkarl/MedJev) — inferred / other — ⭐0
+- `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐0
+- `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
