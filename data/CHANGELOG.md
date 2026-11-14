@@ -8892,3 +8892,12 @@
 - `+` [zfkarl/MedJev](https://github.com/zfkarl/MedJev) — inferred / other — ⭐0
 - `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐0
 - `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-14T20:09:34+08:00
+- 收录总数 **825**；本次更新新增 **6**
+- `+` [DreamBlooms/Jev-AutoYOLO](https://github.com/DreamBlooms/Jev-AutoYOLO) — inferred / research-models — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [scholarly360/Microsoft-Decision-1-on-Microsoft-Foundry](https://github.com/scholarly360/Microsoft-Decision-1-on-Microsoft-Foundry) — observed / other — ⭐0
+- `+` [Saadtamari/blink-jev-agent](https://github.com/Saadtamari/blink-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [Mrmimee/codex-jev](https://github.com/Mrmimee/codex-jev) — inferred / agent-tooling — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
