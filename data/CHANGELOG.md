@@ -8878,3 +8878,11 @@
 - `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
 - `+` [ZSN2024/AgenticJevNav](https://github.com/ZSN2024/AgenticJevNav) — inferred / agent-tooling — ⭐0
 - `+` [joe-sida/jev-job-search-windows](https://github.com/joe-sida/jev-job-search-windows) — inferred / agent-tooling — ⭐0
+
+## 2026-11-14T15:51:27+08:00
+- 收录总数 **829**；本次更新新增 **5**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [Jimuelle07/eclipse-near](https://github.com/Jimuelle07/eclipse-near) — unverified / agent-tooling — ⭐4
+- `+` [pikuto1125-pixel/agy-jev-harness](https://github.com/pikuto1125-pixel/agy-jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐0
+- `+` [mradermacher/JEV-9B-GGUF](https://huggingface.co/mradermacher/JEV-9B-GGUF) — observed / research-models — ⭐0
