@@ -8859,3 +8859,11 @@
 - `+` [SampleBias/Jev_Onco_Statistical_Hierarchy](https://github.com/SampleBias/Jev_Onco_Statistical_Hierarchy) — inferred / community-sdk — ⭐4
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
+
+## 2026-11-14T11:34:41+08:00
+- 收录总数 **820**；本次更新新增 **5**
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
+- `+` [diegoag64/jev-inspector](https://github.com/diegoag64/jev-inspector) — inferred / apps-demos — ⭐0
+- `+` [siddhanttiwary25-eng/same-bet-jev](https://github.com/siddhanttiwary25-eng/same-bet-jev) — inferred / other — ⭐0
+- `+` [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) — observed / agent-tooling — ⭐0
