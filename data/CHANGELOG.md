@@ -8867,3 +8867,14 @@
 - `+` [diegoag64/jev-inspector](https://github.com/diegoag64/jev-inspector) — inferred / apps-demos — ⭐0
 - `+` [siddhanttiwary25-eng/same-bet-jev](https://github.com/siddhanttiwary25-eng/same-bet-jev) — inferred / other — ⭐0
 - `+` [gorock007/jev-atlas](https://github.com/gorock007/jev-atlas) — observed / agent-tooling — ⭐0
+
+## 2026-11-14T13:44:23+08:00
+- 收录总数 **825**；本次更新新增 **8**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [ZSN2024/AgenticJevNav](https://github.com/ZSN2024/AgenticJevNav) — inferred / agent-tooling — ⭐0
+- `+` [joe-sida/jev-job-search-windows](https://github.com/joe-sida/jev-job-search-windows) — inferred / agent-tooling — ⭐0
