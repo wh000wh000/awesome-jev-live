@@ -8998,3 +8998,12 @@
 - `+` [devsoniclk/jev-polymarket-executor](https://github.com/devsoniclk/jev-polymarket-executor) — inferred / research-models — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
+
+## 2026-11-15T17:09:26+08:00
+- 收录总数 **836**；本次更新新增 **6**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐3
+- `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
+- `+` [camegone/vscode-jev-linter](https://github.com/camegone/vscode-jev-linter) — inferred / routing-guardrails — ⭐0
+- `+` [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene) — observed / other — ⭐0
