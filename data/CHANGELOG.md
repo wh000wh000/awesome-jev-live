@@ -8973,3 +8973,10 @@
 - `+` [lucaslenglet/JevPlayground](https://github.com/lucaslenglet/JevPlayground) — inferred / apps-demos — ⭐0
 - `+` [irvan-putra/jev-moderator](https://github.com/irvan-putra/jev-moderator) — inferred / routing-guardrails — ⭐0
 - `+` [kallurayaankit/jev-flight-agent](https://github.com/kallurayaankit/jev-flight-agent) — inferred / agent-tooling — ⭐0
+
+## 2026-11-15T10:51:01+08:00
+- 收录总数 **838**；本次更新新增 **4**
+- `+` [mas-bandwidth/nova-sprint](https://github.com/mas-bandwidth/nova-sprint) — inferred / agent-tooling — ⭐22
+- `+` [Ridnois/jev-trader](https://github.com/Ridnois/jev-trader) — inferred / apps-demos — ⭐1
+- `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
+- `+` [StoneHub/jev-tab-organizer](https://github.com/StoneHub/jev-tab-organizer) — inferred / other — ⭐0
