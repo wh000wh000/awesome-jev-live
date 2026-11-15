@@ -9051,3 +9051,8 @@
 - `+` [civilnetwork-dev/MagniJev-wasm](https://github.com/civilnetwork-dev/MagniJev-wasm) — inferred / apps-demos — ⭐0
 - `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
 - `+` [Will-Alger/product-title-extraction-jev](https://github.com/Will-Alger/product-title-extraction-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-16T05:49:17+08:00
+- 收录总数 **829**；本次更新新增 **2**
+- `+` [emoubarak/jev-check](https://github.com/emoubarak/jev-check) — inferred / community-sdk — ⭐1
+- `+` [KemalG-u/jev-teknik-arastirma](https://github.com/KemalG-u/jev-teknik-arastirma) — inferred / evaluation — ⭐0
