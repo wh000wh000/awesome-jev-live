@@ -9007,3 +9007,11 @@
 - `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
 - `+` [camegone/vscode-jev-linter](https://github.com/camegone/vscode-jev-linter) — inferred / routing-guardrails — ⭐0
 - `+` [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene) — observed / other — ⭐0
+
+## 2026-11-15T19:15:56+08:00
+- 收录总数 **837**；本次更新新增 **5**
+- `+` [alexzomai/slop-block](https://github.com/alexzomai/slop-block) — inferred / routing-guardrails — ⭐3
+- `+` [cheoljoo/open-jev](https://github.com/cheoljoo/open-jev) — inferred / other — ⭐0
+- `+` [availableservices/jev-router](https://github.com/availableservices/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [KemalG-u/jev-demo](https://github.com/KemalG-u/jev-demo) — inferred / apps-demos — ⭐0
