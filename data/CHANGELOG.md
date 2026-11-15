@@ -8980,3 +8980,10 @@
 - `+` [Ridnois/jev-trader](https://github.com/Ridnois/jev-trader) — inferred / apps-demos — ⭐1
 - `+` [adamsonwalter/jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — inferred / apps-demos — ⭐0
 - `+` [StoneHub/jev-tab-organizer](https://github.com/StoneHub/jev-tab-organizer) — inferred / other — ⭐0
+
+## 2026-11-15T12:57:14+08:00
+- 收录总数 **838**；本次更新新增 **4**
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [TakuyaAbe/jev-vj](https://github.com/TakuyaAbe/jev-vj) — inferred / apps-demos — ⭐0
+- `+` [Bobbywasabi31/jev-paper-test](https://github.com/Bobbywasabi31/jev-paper-test) — inferred / evaluation — ⭐0
+- `+` [arthurcolle/jev-pivot-lab](https://github.com/arthurcolle/jev-pivot-lab) — inferred / community-sdk — ⭐0

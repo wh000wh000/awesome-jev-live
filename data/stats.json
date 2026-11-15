@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T10:51:01+08:00",
+ "generated_at": "2026-11-15T12:57:14+08:00",
  "total": 838,
  "new_this_tick": 4,
  "by_category": {
@@ -7,11 +7,11 @@
   "community-sdk": 144,
   "agent-tooling": 257,
   "routing-guardrails": 62,
-  "evaluation": 87,
-  "research-models": 69,
-  "apps-demos": 50,
-  "media-discussions": 75,
-  "other": 88
+  "evaluation": 88,
+  "research-models": 67,
+  "apps-demos": 51,
+  "media-discussions": 76,
+  "other": 87
  },
  "by_evidence": {
   "official": 17,
@@ -24,9 +24,9 @@
   "community": 832
  },
  "by_language": {
-  "Python": 370,
-  "TypeScript": 126,
-  "JavaScript": 84,
+  "Python": 368,
+  "TypeScript": 127,
+  "JavaScript": 85,
   "Rust": 34,
   "HTML": 31,
   "Jupyter": 14,
@@ -53,5 +53,5 @@
  "repos": 760,
  "models": 14,
  "discussions": 15,
- "total_stars": 182723
+ "total_stars": 182757
 }
