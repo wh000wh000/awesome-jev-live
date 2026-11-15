@@ -9041,3 +9041,13 @@
 - `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐1
 - `+` [mani-bellan/jev-apps](https://github.com/mani-bellan/jev-apps) — inferred / routing-guardrails — ⭐0
 - `+` [bitskc/honest-jev](https://github.com/bitskc/honest-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-16T03:42:42+08:00
+- 收录总数 **832**；本次更新新增 **7**
+- `+` [mhiqrambg/systemone-decision-mcp](https://github.com/mhiqrambg/systemone-decision-mcp) — inferred / agent-tooling — ⭐3
+- `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐1
+- `+` [chrishuffman5/jev](https://github.com/chrishuffman5/jev) — inferred / research-models — ⭐0
+- `+` [siddhanttiwary25-eng/same-bet-jev](https://github.com/siddhanttiwary25-eng/same-bet-jev) — inferred / other — ⭐0
+- `+` [civilnetwork-dev/MagniJev-wasm](https://github.com/civilnetwork-dev/MagniJev-wasm) — inferred / apps-demos — ⭐0
+- `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
+- `+` [Will-Alger/product-title-extraction-jev](https://github.com/Will-Alger/product-title-extraction-jev) — inferred / agent-tooling — ⭐0
