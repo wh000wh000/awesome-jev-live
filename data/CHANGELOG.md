@@ -9015,3 +9015,10 @@
 - `+` [availableservices/jev-router](https://github.com/availableservices/jev-router) — inferred / agent-tooling — ⭐0
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [KemalG-u/jev-demo](https://github.com/KemalG-u/jev-demo) — inferred / apps-demos — ⭐0
+
+## 2026-11-15T21:22:10+08:00
+- 收录总数 **835**；本次更新新增 **4**
+- `+` [hotchpotch/jev-reranker](https://github.com/hotchpotch/jev-reranker) — inferred / routing-guardrails — ⭐57
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
+- `+` [SykkoAtHome/MCP_Typesafe_JEV](https://github.com/SykkoAtHome/MCP_Typesafe_JEV) — inferred / community-sdk — ⭐0
