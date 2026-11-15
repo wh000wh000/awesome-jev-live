@@ -9022,3 +9022,14 @@
 - `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
 - `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
 - `+` [SykkoAtHome/MCP_Typesafe_JEV](https://github.com/SykkoAtHome/MCP_Typesafe_JEV) — inferred / community-sdk — ⭐0
+
+## 2026-11-15T23:28:39+08:00
+- 收录总数 **833**；本次更新新增 **8**
+- `+` [illescasDaniel/jev-mem](https://github.com/illescasDaniel/jev-mem) — inferred / community-sdk — ⭐4
+- `+` [chaosxingxc-orion/nga](https://github.com/chaosxingxc-orion/nga) — unverified / evaluation — ⭐3
+- `+` [sunilmehta-si/jev-inference-router](https://github.com/sunilmehta-si/jev-inference-router) — inferred / routing-guardrails — ⭐0
+- `+` [Abjcodes/SystemOne-Model-Router](https://github.com/Abjcodes/SystemOne-Model-Router) — observed / agent-tooling — ⭐0
+- `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
+- `+` [dosorio79/jev_test](https://github.com/dosorio79/jev_test) — inferred / routing-guardrails — ⭐0
+- `+` [XiaoRui114514/jev-chat-windows-custom-jev](https://github.com/XiaoRui114514/jev-chat-windows-custom-jev) — inferred / other — ⭐0
+- `+` [yehezkielgunawan/jev-paper](https://github.com/yehezkielgunawan/jev-paper) — inferred / research-models — ⭐0
