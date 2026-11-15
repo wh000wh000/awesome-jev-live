@@ -9033,3 +9033,11 @@
 - `+` [dosorio79/jev_test](https://github.com/dosorio79/jev_test) — inferred / routing-guardrails — ⭐0
 - `+` [XiaoRui114514/jev-chat-windows-custom-jev](https://github.com/XiaoRui114514/jev-chat-windows-custom-jev) — inferred / other — ⭐0
 - `+` [yehezkielgunawan/jev-paper](https://github.com/yehezkielgunawan/jev-paper) — inferred / research-models — ⭐0
+
+## 2026-11-16T01:35:29+08:00
+- 收录总数 **826**；本次更新新增 **5**
+- `+` [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe) — unverified / other — ⭐64
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐1
+- `+` [mani-bellan/jev-apps](https://github.com/mani-bellan/jev-apps) — inferred / routing-guardrails — ⭐0
+- `+` [bitskc/honest-jev](https://github.com/bitskc/honest-jev) — inferred / agent-tooling — ⭐0
