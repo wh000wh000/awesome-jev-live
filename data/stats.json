@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:49:17+08:00",
+ "generated_at": "2026-11-16T07:55:42+08:00",
  "total": 829,
  "new_this_tick": 2,
  "by_category": {
@@ -24,12 +24,12 @@
   "community": 823
  },
  "by_language": {
-  "Python": 368,
+  "Python": 367,
   "TypeScript": 129,
   "JavaScript": 80,
   "HTML": 32,
   "Rust": 31,
-  "Jupyter": 14,
+  "Jupyter": 15,
   "Go": 13,
   "C#": 8,
   "Java": 7,
@@ -53,5 +53,5 @@
  "repos": 751,
  "models": 14,
  "discussions": 15,
- "total_stars": 182881
+ "total_stars": 182905
 }

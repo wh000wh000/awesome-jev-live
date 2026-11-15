@@ -9056,3 +9056,8 @@
 - 收录总数 **829**；本次更新新增 **2**
 - `+` [emoubarak/jev-check](https://github.com/emoubarak/jev-check) — inferred / community-sdk — ⭐1
 - `+` [KemalG-u/jev-teknik-arastirma](https://github.com/KemalG-u/jev-teknik-arastirma) — inferred / evaluation — ⭐0
+
+## 2026-11-16T07:55:42+08:00
+- 收录总数 **829**；本次更新新增 **2**
+- `+` [RevanthM/lean-jev-bridge](https://github.com/RevanthM/lean-jev-bridge) — inferred / research-models — ⭐0
+- `+` [xvlihao11/windows-mcp-jev-automation](https://github.com/xvlihao11/windows-mcp-jev-automation) — inferred / agent-tooling — ⭐0
