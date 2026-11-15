@@ -8987,3 +8987,14 @@
 - `+` [TakuyaAbe/jev-vj](https://github.com/TakuyaAbe/jev-vj) — inferred / apps-demos — ⭐0
 - `+` [Bobbywasabi31/jev-paper-test](https://github.com/Bobbywasabi31/jev-paper-test) — inferred / evaluation — ⭐0
 - `+` [arthurcolle/jev-pivot-lab](https://github.com/arthurcolle/jev-pivot-lab) — inferred / community-sdk — ⭐0
+
+## 2026-11-15T15:03:07+08:00
+- 收录总数 **839**；本次更新新增 **8**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐137
+- `+` [endomorphosis/JevOps](https://github.com/endomorphosis/JevOps) — inferred / other — ⭐8
+- `+` [ForestMars/Will-It-Jev](https://github.com/ForestMars/Will-It-Jev) — inferred / routing-guardrails — ⭐3
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [dsk1134162538-hash/jev-quant](https://github.com/dsk1134162538-hash/jev-quant) — inferred / other — ⭐1
+- `+` [devsoniclk/jev-polymarket-executor](https://github.com/devsoniclk/jev-polymarket-executor) — inferred / research-models — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [CrowBe/weave](https://github.com/CrowBe/weave) — observed / agent-tooling — ⭐0
