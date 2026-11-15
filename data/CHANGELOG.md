@@ -8964,3 +8964,12 @@
 - `+` [scalefreegan/jev-ants](https://github.com/scalefreegan/jev-ants) — inferred / other — ⭐1
 - `+` [taifoon-io/jev](https://github.com/taifoon-io/jev) — inferred / agent-tooling — ⭐0
 - `+` [MrGKanev/lets-make-jev](https://github.com/MrGKanev/lets-make-jev) — inferred / community-sdk — ⭐0
+
+## 2026-11-15T08:44:34+08:00
+- 收录总数 **842**；本次更新新增 **6**
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [AlperKartkaya/FlightBench](https://github.com/AlperKartkaya/FlightBench) — inferred / evaluation — ⭐4
+- `+` [shiiivvaam/jev-hub](https://github.com/shiiivvaam/jev-hub) — inferred / media-discussions — ⭐1
+- `+` [lucaslenglet/JevPlayground](https://github.com/lucaslenglet/JevPlayground) — inferred / apps-demos — ⭐0
+- `+` [irvan-putra/jev-moderator](https://github.com/irvan-putra/jev-moderator) — inferred / routing-guardrails — ⭐0
+- `+` [kallurayaankit/jev-flight-agent](https://github.com/kallurayaankit/jev-flight-agent) — inferred / agent-tooling — ⭐0
