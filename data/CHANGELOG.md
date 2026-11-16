@@ -9068,3 +9068,22 @@
 - `+` [jfmdev/chatbot-jev-gemini](https://github.com/jfmdev/chatbot-jev-gemini) — inferred / research-models — ⭐0
 - `+` [davidtoby/jev-itops-learning-lab](https://github.com/davidtoby/jev-itops-learning-lab) — inferred / community-sdk — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-16T14:25:49+08:00
+- 收录总数 **827**；本次更新新增 **16**
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [akash-kamat/system-one-gemma](https://github.com/akash-kamat/system-one-gemma) — observed / evaluation — ⭐7
+- `+` [robertn702/reasoning-router](https://github.com/robertn702/reasoning-router) — inferred / community-sdk — ⭐4
+- `+` [aiden-guan/courtvision](https://github.com/aiden-guan/courtvision) — unverified / agent-tooling — ⭐4
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [zachshallbetter/claude-jev](https://github.com/zachshallbetter/claude-jev) — inferred / agent-tooling — ⭐1
+- `+` [kylehovance-ai/jev-the-janitor](https://github.com/kylehovance-ai/jev-the-janitor) — inferred / community-sdk — ⭐1
+- `+` [nima1313/jev-captcha](https://github.com/nima1313/jev-captcha) — inferred / other — ⭐0
+- `+` [jackchen13755/dsh-jev-kit](https://github.com/jackchen13755/dsh-jev-kit) — inferred / agent-tooling — ⭐0
+- `+` [AKASHSOMAN/Jev-LangGraph-Decision-Agent](https://github.com/AKASHSOMAN/Jev-LangGraph-Decision-Agent) — inferred / community-sdk — ⭐0
+- `+` [soraaa013-ops/jev-eval-lab](https://github.com/soraaa013-ops/jev-eval-lab) — inferred / evaluation — ⭐0
+- `+` [huntsman95/PowerJev](https://github.com/huntsman95/PowerJev) — inferred / apps-demos — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [ZhuoXuan-Li-ucas/RobotJev](https://github.com/ZhuoXuan-Li-ucas/RobotJev) — inferred / apps-demos — ⭐0
+- `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
+- `+` [breadn03/system_one_gtav](https://github.com/breadn03/system_one_gtav) — observed / other — ⭐0
