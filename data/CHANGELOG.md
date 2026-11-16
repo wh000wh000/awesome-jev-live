@@ -9170,3 +9170,15 @@
 - `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
 - `+` [Temikus/lgtm](https://github.com/Temikus/lgtm) — unverified / other — ⭐4
 - `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
+
+## 2026-11-17T05:19:03+08:00
+- 收录总数 **825**；本次更新新增 **9**
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐19
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [vijaycinn/el-jev](https://github.com/vijaycinn/el-jev) — inferred / community-sdk — ⭐1
+- `+` [phoem/jev-router](https://github.com/phoem/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [Shijiuwei/fast-jev-compaction-sync](https://github.com/Shijiuwei/fast-jev-compaction-sync) — inferred / agent-tooling — ⭐0
+- `+` [Shijiuwei/apex-jev-chat-jarvis](https://github.com/Shijiuwei/apex-jev-chat-jarvis) — inferred / other — ⭐0
+- `+` [Shijiuwei/jev-ultrafast-edge](https://github.com/Shijiuwei/jev-ultrafast-edge) — inferred / agent-tooling — ⭐0
+- `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
+- `+` [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) — observed / apps-demos — ⭐0

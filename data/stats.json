@@ -1,34 +1,34 @@
 {
- "generated_at": "2026-11-17T03:12:33+08:00",
+ "generated_at": "2026-11-17T05:19:03+08:00",
  "total": 825,
- "new_this_tick": 7,
+ "new_this_tick": 9,
  "by_category": {
   "official-sdk": 6,
   "community-sdk": 144,
   "agent-tooling": 250,
-  "routing-guardrails": 66,
-  "evaluation": 86,
+  "routing-guardrails": 63,
+  "evaluation": 87,
   "research-models": 72,
-  "apps-demos": 44,
+  "apps-demos": 45,
   "media-discussions": 74,
-  "other": 83
+  "other": 84
  },
  "by_evidence": {
   "official": 17,
-  "observed": 219,
-  "inferred": 521,
-  "unverified": 68
+  "observed": 220,
+  "inferred": 522,
+  "unverified": 66
  },
  "by_tier": {
   "official": 6,
   "community": 819
  },
  "by_language": {
-  "Python": 369,
+  "Python": 367,
   "TypeScript": 131,
-  "JavaScript": 73,
+  "JavaScript": 72,
+  "HTML": 33,
   "Rust": 32,
-  "HTML": 30,
   "Jupyter": 14,
   "Go": 13,
   "C#": 10,
@@ -41,6 +41,7 @@
   "C++": 3,
   "Shell": 2,
   "Ruby": 2,
+  "C": 2,
   "Kotlin": 2,
   "XS": 2,
   "TeX": 2,
@@ -48,11 +49,10 @@
   "Pascal": 1,
   "Haskell": 1,
   "DataWeave": 1,
-  "C": 1,
   "Nushell": 1
  },
  "repos": 748,
  "models": 13,
  "discussions": 15,
- "total_stars": 189765
+ "total_stars": 189813
 }
