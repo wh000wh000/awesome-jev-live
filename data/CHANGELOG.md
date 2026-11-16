@@ -9137,3 +9137,26 @@
 - `+` [DreamBlooms/Jev-AutoLaya](https://github.com/DreamBlooms/Jev-AutoLaya) — observed / other — ⭐0
 - `+` [putraridho/jev-switch](https://github.com/putraridho/jev-switch) — inferred / agent-tooling — ⭐0
 - `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-17T01:05:40+08:00
+- 收录总数 **829**；本次更新新增 **20**
+- `+` [win4r/jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) — inferred / community-sdk — ⭐34
+- `+` [win4r/pi-jev-router](https://github.com/win4r/pi-jev-router) — inferred / agent-tooling — ⭐12
+- `+` [win4r/jev-security-scan](https://github.com/win4r/jev-security-scan) — inferred / agent-tooling — ⭐11
+- `+` [win4r/jev-humanize-writing](https://github.com/win4r/jev-humanize-writing) — inferred / other — ⭐5
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐3
+- `+` [eshitakundu/jev-flow](https://github.com/eshitakundu/jev-flow) — inferred / agent-tooling — ⭐1
+- `+` [nextking12/jev-job-ranker](https://github.com/nextking12/jev-job-ranker) — inferred / other — ⭐0
+- `+` [jadeforrest/jev-utilities](https://github.com/jadeforrest/jev-utilities) — inferred / other — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-4B](https://github.com/chenyuwang166-oss/metask-jev-rain-4B) — inferred / evaluation — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-31B-trained](https://github.com/chenyuwang166-oss/metask-jev-rain-31B-trained) — inferred / evaluation — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-12B-trained](https://github.com/chenyuwang166-oss/metask-jev-rain-12B-trained) — inferred / evaluation — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain-12B](https://github.com/chenyuwang166-oss/metask-jev-rain-12B) — inferred / other — ⭐0
+- `+` [chenyuwang166-oss/metask-jev-rain](https://github.com/chenyuwang166-oss/metask-jev-rain) — inferred / other — ⭐0
+- `+` [Rafaelhajjar/jev-factor-forecasting](https://github.com/Rafaelhajjar/jev-factor-forecasting) — inferred / evaluation — ⭐0
+- `+` [StoneHub/jev-tab-organizer](https://github.com/StoneHub/jev-tab-organizer) — inferred / other — ⭐0
+- `+` [mraad/where-is-jev](https://github.com/mraad/where-is-jev) — inferred / routing-guardrails — ⭐0
+- `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
