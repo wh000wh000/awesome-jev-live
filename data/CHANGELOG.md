@@ -9182,3 +9182,12 @@
 - `+` [Shijiuwei/jev-ultrafast-edge](https://github.com/Shijiuwei/jev-ultrafast-edge) — inferred / agent-tooling — ⭐0
 - `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
 - `+` [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) — observed / apps-demos — ⭐0
+
+## 2026-11-17T07:25:32+08:00
+- 收录总数 **824**；本次更新新增 **6**
+- `+` [thiago-lage/jev-claud](https://github.com/thiago-lage/jev-claud) — inferred / agent-tooling — ⭐2
+- `+` [celolopes/jev-dev-harness](https://github.com/celolopes/jev-dev-harness) — inferred / agent-tooling — ⭐1
+- `+` [aosus/mirsad](https://github.com/aosus/mirsad) — observed / routing-guardrails — ⭐1
+- `+` [nani-stack/gmail-auto-cleanup](https://github.com/nani-stack/gmail-auto-cleanup) — observed / routing-guardrails — ⭐0
+- `+` [nwang783/jev-sigma-bench](https://github.com/nwang783/jev-sigma-bench) — inferred / other — ⭐0
+- `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
