@@ -9095,3 +9095,18 @@
 - `+` [abdmaajith-dot/jev-decision-model-architecture](https://github.com/abdmaajith-dot/jev-decision-model-architecture) — inferred / research-models — ⭐0
 - `+` [chialab/system-one-italian-tests](https://github.com/chialab/system-one-italian-tests) — observed / routing-guardrails — ⭐0
 - `+` [AnkitNayak-dev/QJev-1.5B](https://github.com/AnkitNayak-dev/QJev-1.5B) — inferred / research-models — ⭐0
+
+## 2026-11-16T18:39:32+08:00
+- 收录总数 **827**；本次更新新增 **12**
+- `+` [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) — inferred / research-models — ⭐7105
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐94
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [LHCWN/arkui-sem](https://github.com/LHCWN/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [A2D-Agentic-Asset-Designer/Mule4-Wrapper-Jev-for-OpenAI](https://github.com/A2D-Agentic-Asset-Designer/Mule4-Wrapper-Jev-for-OpenAI) — inferred / community-sdk — ⭐0
+- `+` [lymagics/jev-gate](https://github.com/lymagics/jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [ahtoluuri/jev-comment-moderation](https://github.com/ahtoluuri/jev-comment-moderation) — inferred / routing-guardrails — ⭐0
+- `+` [ruthikeswar-reddy/jev-research](https://github.com/ruthikeswar-reddy/jev-research) — inferred / research-models — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [Dariush-Tasdighi/DT_Learning_Python_AI_Jev_Laya](https://github.com/Dariush-Tasdighi/DT_Learning_Python_AI_Jev_Laya) — inferred / other — ⭐0
+- `+` [JDChi/jev-rednote](https://github.com/JDChi/jev-rednote) — inferred / routing-guardrails — ⭐0
+- `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
