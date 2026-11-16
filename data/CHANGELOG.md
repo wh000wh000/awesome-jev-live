@@ -9126,3 +9126,14 @@
 - `+` [vincentlauriat/MailClassification.jev](https://github.com/vincentlauriat/MailClassification.jev) — inferred / community-sdk — ⭐0
 - `+` [ddzelal/jev-router-shield](https://github.com/ddzelal/jev-router-shield) — inferred / agent-tooling — ⭐0
 - `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-16T22:53:01+08:00
+- 收录总数 **821**；本次更新新增 **8**
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [DreamBlooms/Jev-AutoYOLO](https://github.com/DreamBlooms/Jev-AutoYOLO) — inferred / research-models — ⭐2
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [hypler-dev/LNSAT](https://github.com/hypler-dev/LNSAT) — observed / agent-tooling — ⭐1
+- `+` [O8pen/jev-atlas](https://github.com/O8pen/jev-atlas) — inferred / other — ⭐0
+- `+` [DreamBlooms/Jev-AutoLaya](https://github.com/DreamBlooms/Jev-AutoLaya) — observed / other — ⭐0
+- `+` [putraridho/jev-switch](https://github.com/putraridho/jev-switch) — inferred / agent-tooling — ⭐0
+- `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
