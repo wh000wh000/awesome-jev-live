@@ -9110,3 +9110,19 @@
 - `+` [Dariush-Tasdighi/DT_Learning_Python_AI_Jev_Laya](https://github.com/Dariush-Tasdighi/DT_Learning_Python_AI_Jev_Laya) — inferred / other — ⭐0
 - `+` [JDChi/jev-rednote](https://github.com/JDChi/jev-rednote) — inferred / routing-guardrails — ⭐0
 - `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-16T20:46:23+08:00
+- 收录总数 **831**；本次更新新增 **13**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Decision Index 0.2.1 – 70 open reproductions of TypeSafe Jev's "Decision Model"](https://news.ycombinator.com/item?id=49934879) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Monkeypox966/arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — inferred / research-models — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
+- `+` [Building a System One Model for Prompt Injection](https://news.ycombinator.com/item?id=50165645) — observed / media-discussions — ⭐2
+- `+` [nagyist/open-jev-review](https://github.com/nagyist/open-jev-review) — inferred / agent-tooling — ⭐0
+- `+` [vincentlauriat/MailClassification.jev](https://github.com/vincentlauriat/MailClassification.jev) — inferred / community-sdk — ⭐0
+- `+` [ddzelal/jev-router-shield](https://github.com/ddzelal/jev-router-shield) — inferred / agent-tooling — ⭐0
+- `+` [1arley/grill-with-jev](https://github.com/1arley/grill-with-jev) — inferred / agent-tooling — ⭐0
