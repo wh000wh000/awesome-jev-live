@@ -9160,3 +9160,13 @@
 - `+` [StoneHub/jev-tab-organizer](https://github.com/StoneHub/jev-tab-organizer) — inferred / other — ⭐0
 - `+` [mraad/where-is-jev](https://github.com/mraad/where-is-jev) — inferred / routing-guardrails — ⭐0
 - `+` [xingzhen199186/dsh-jev-ultrafast](https://github.com/xingzhen199186/dsh-jev-ultrafast) — inferred / agent-tooling — ⭐0
+
+## 2026-11-17T03:12:33+08:00
+- 收录总数 **825**；本次更新新增 **7**
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐138
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐10
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [hndrr/ComfyUI-Jev](https://github.com/hndrr/ComfyUI-Jev) — inferred / other — ⭐6
+- `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
+- `+` [Temikus/lgtm](https://github.com/Temikus/lgtm) — unverified / other — ⭐4
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
