@@ -9061,3 +9061,10 @@
 - 收录总数 **829**；本次更新新增 **2**
 - `+` [RevanthM/lean-jev-bridge](https://github.com/RevanthM/lean-jev-bridge) — inferred / research-models — ⭐0
 - `+` [xvlihao11/windows-mcp-jev-automation](https://github.com/xvlihao11/windows-mcp-jev-automation) — inferred / agent-tooling — ⭐0
+
+## 2026-11-16T10:09:14+08:00
+- 收录总数 **827**；本次更新新增 **4**
+- `+` [Show HN: Semantic/Structural diffs powered by Jev](https://news.ycombinator.com/item?id=50510982) — observed / media-discussions — ⭐2
+- `+` [jfmdev/chatbot-jev-gemini](https://github.com/jfmdev/chatbot-jev-gemini) — inferred / research-models — ⭐0
+- `+` [davidtoby/jev-itops-learning-lab](https://github.com/davidtoby/jev-itops-learning-lab) — inferred / community-sdk — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
