@@ -9087,3 +9087,11 @@
 - `+` [ZhuoXuan-Li-ucas/RobotJev](https://github.com/ZhuoXuan-Li-ucas/RobotJev) — inferred / apps-demos — ⭐0
 - `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
 - `+` [breadn03/system_one_gtav](https://github.com/breadn03/system_one_gtav) — observed / other — ⭐0
+
+## 2026-11-16T16:33:17+08:00
+- 收录总数 **823**；本次更新新增 **5**
+- `+` [xinwang-nwpu/jev-mobile](https://github.com/xinwang-nwpu/jev-mobile) — inferred / agent-tooling — ⭐10
+- `+` [boxxxie/jev_dsl](https://github.com/boxxxie/jev_dsl) — inferred / other — ⭐0
+- `+` [abdmaajith-dot/jev-decision-model-architecture](https://github.com/abdmaajith-dot/jev-decision-model-architecture) — inferred / research-models — ⭐0
+- `+` [chialab/system-one-italian-tests](https://github.com/chialab/system-one-italian-tests) — observed / routing-guardrails — ⭐0
+- `+` [AnkitNayak-dev/QJev-1.5B](https://github.com/AnkitNayak-dev/QJev-1.5B) — inferred / research-models — ⭐0
