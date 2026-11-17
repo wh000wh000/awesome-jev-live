@@ -9240,3 +9240,11 @@
 - `+` [bwanyu1/diffusion-jev-qwen3-vl](https://github.com/bwanyu1/diffusion-jev-qwen3-vl) — inferred / research-models — ⭐0
 - `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
 - `+` [jmschnei/n4c-decision-broker](https://github.com/jmschnei/n4c-decision-broker) — observed / other — ⭐0
+
+## 2026-11-17T22:18:31+08:00
+- 收录总数 **830**；本次更新新增 **5**
+- `+` [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) — inferred / agent-tooling — ⭐12
+- `+` [dongtsi/awesome-trustworthy-jev](https://github.com/dongtsi/awesome-trustworthy-jev) — inferred / research-models — ⭐7
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [QI-seven33/dsh-jev-mode](https://github.com/QI-seven33/dsh-jev-mode) — inferred / agent-tooling — ⭐1
+- `+` [ajbmachon/jev-navigator](https://github.com/ajbmachon/jev-navigator) — inferred / apps-demos — ⭐0
