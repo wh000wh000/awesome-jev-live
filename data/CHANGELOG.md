@@ -9206,3 +9206,12 @@
 - `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
 - `+` [kuzhakovAndrey/jev-decision-hub](https://github.com/kuzhakovAndrey/jev-decision-hub) — inferred / other — ⭐0
 - `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
+
+## 2026-11-17T13:52:25+08:00
+- 收录总数 **827**；本次更新新增 **6**
+- `+` [mwmw7/typesafe-jev-handson](https://github.com/mwmw7/typesafe-jev-handson) — inferred / other — ⭐0
+- `+` [lawsirlawsir-png/jev-holdem](https://github.com/lawsirlawsir-png/jev-holdem) — inferred / other — ⭐0
+- `+` [coredweller/MonsterJevActionalizer](https://github.com/coredweller/MonsterJevActionalizer) — inferred / other — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
+- `+` [GitHubxyhhhh/jev-lab-support](https://github.com/GitHubxyhhhh/jev-lab-support) — inferred / other — ⭐0
