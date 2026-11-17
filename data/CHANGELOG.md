@@ -9191,3 +9191,8 @@
 - `+` [nani-stack/gmail-auto-cleanup](https://github.com/nani-stack/gmail-auto-cleanup) — observed / routing-guardrails — ⭐0
 - `+` [nwang783/jev-sigma-bench](https://github.com/nwang783/jev-sigma-bench) — inferred / other — ⭐0
 - `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
+
+## 2026-11-17T09:31:39+08:00
+- 收录总数 **824**；本次更新新增 **2**
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐4
+- `+` [keyanwu256-eng/Jev-Korean-Sentiment-Analysis](https://github.com/keyanwu256-eng/Jev-Korean-Sentiment-Analysis) — inferred / other — ⭐0
