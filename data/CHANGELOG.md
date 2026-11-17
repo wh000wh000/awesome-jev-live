@@ -9215,3 +9215,10 @@
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [comchatx/cx-jev-tidy](https://github.com/comchatx/cx-jev-tidy) — inferred / other — ⭐0
 - `+` [GitHubxyhhhh/jev-lab-support](https://github.com/GitHubxyhhhh/jev-lab-support) — inferred / other — ⭐0
+
+## 2026-11-17T16:00:00+08:00
+- 收录总数 **829**；本次更新新增 **4**
+- `+` [ZZKeepCurious/jev-system-one-survey](https://github.com/ZZKeepCurious/jev-system-one-survey) — inferred / evaluation — ⭐1
+- `+` [gaon12/sysone_trans](https://github.com/gaon12/sysone_trans) — observed / other — ⭐1
+- `+` [klara406/jev-dns-filter](https://github.com/klara406/jev-dns-filter) — inferred / routing-guardrails — ⭐0
+- `+` [aray03/emerald-jev](https://github.com/aray03/emerald-jev) — inferred / apps-demos — ⭐0
