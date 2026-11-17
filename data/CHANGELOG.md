@@ -9196,3 +9196,13 @@
 - 收录总数 **824**；本次更新新增 **2**
 - `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐4
 - `+` [keyanwu256-eng/Jev-Korean-Sentiment-Analysis](https://github.com/keyanwu256-eng/Jev-Korean-Sentiment-Analysis) — inferred / other — ⭐0
+
+## 2026-11-17T11:40:49+08:00
+- 收录总数 **827**；本次更新新增 **7**
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐4
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐1
+- `+` [pramodklal/JEV](https://github.com/pramodklal/JEV) — inferred / evaluation — ⭐0
+- `+` [Holovkat/jev-mark](https://github.com/Holovkat/jev-mark) — inferred / evaluation — ⭐0
+- `+` [kuzhakovAndrey/jev-decision-hub](https://github.com/kuzhakovAndrey/jev-decision-hub) — inferred / other — ⭐0
+- `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
