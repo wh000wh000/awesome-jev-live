@@ -9262,3 +9262,13 @@
 - `+` [Startup TypeSafe AI's Jev Model Sparks Copycats, Talk of LLM Alternatives](https://news.ycombinator.com/item?id=49951597) — observed / media-discussions — ⭐2
 - `+` [vurihuang/magpie-plugin-openai-decisions](https://github.com/vurihuang/magpie-plugin-openai-decisions) — observed / agent-tooling — ⭐0
 - `+` [mraad/where-is-jev](https://github.com/mraad/where-is-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-18T02:31:54+08:00
+- 收录总数 **826**；本次更新新增 **7**
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐94
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [Using decision model (Jev) to sketch interfaces in real-time with pen and paper](https://news.ycombinator.com/item?id=50535223) — observed / media-discussions — ⭐3
+- `+` [vishalanton16/jev-spotlight](https://github.com/vishalanton16/jev-spotlight) — inferred / agent-tooling — ⭐0
+- `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
+- `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
+- `+` [TomatenMarc/Sycophancy-System-One-Models](https://github.com/TomatenMarc/Sycophancy-System-One-Models) — observed / other — ⭐0
