@@ -9234,3 +9234,9 @@
 - `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
 - `+` [undowhai113/jev-codeguard](https://github.com/undowhai113/jev-codeguard) — inferred / agent-tooling — ⭐0
 - `+` [SodaZheng/system-one-model](https://github.com/SodaZheng/system-one-model) — observed / other — ⭐0
+
+## 2026-11-17T20:12:15+08:00
+- 收录总数 **831**；本次更新新增 **3**
+- `+` [bwanyu1/diffusion-jev-qwen3-vl](https://github.com/bwanyu1/diffusion-jev-qwen3-vl) — inferred / research-models — ⭐0
+- `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
+- `+` [jmschnei/n4c-decision-broker](https://github.com/jmschnei/n4c-decision-broker) — observed / other — ⭐0
