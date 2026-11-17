@@ -9222,3 +9222,15 @@
 - `+` [gaon12/sysone_trans](https://github.com/gaon12/sysone_trans) — observed / other — ⭐1
 - `+` [klara406/jev-dns-filter](https://github.com/klara406/jev-dns-filter) — inferred / routing-guardrails — ⭐0
 - `+` [aray03/emerald-jev](https://github.com/aray03/emerald-jev) — inferred / apps-demos — ⭐0
+
+## 2026-11-17T18:06:02+08:00
+- 收录总数 **831**；本次更新新增 **9**
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / agent-tooling — ⭐117
+- `+` [jerryfane/omp-jev-compaction](https://github.com/jerryfane/omp-jev-compaction) — inferred / agent-tooling — ⭐15
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [kevinyin9/next-steps-jev](https://github.com/kevinyin9/next-steps-jev) — inferred / agent-tooling — ⭐0
+- `+` [fortemate/dicechess-bot-jev](https://github.com/fortemate/dicechess-bot-jev) — inferred / agent-tooling — ⭐0
+- `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
+- `+` [undowhai113/jev-codeguard](https://github.com/undowhai113/jev-codeguard) — inferred / agent-tooling — ⭐0
+- `+` [SodaZheng/system-one-model](https://github.com/SodaZheng/system-one-model) — observed / other — ⭐0
