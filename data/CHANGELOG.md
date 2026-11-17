@@ -9272,3 +9272,8 @@
 - `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
 - `+` [stellar-experimental/stellar-raven-jev](https://github.com/stellar-experimental/stellar-raven-jev) — inferred / community-sdk — ⭐0
 - `+` [TomatenMarc/Sycophancy-System-One-Models](https://github.com/TomatenMarc/Sycophancy-System-One-Models) — observed / other — ⭐0
+
+## 2026-11-18T04:38:23+08:00
+- 收录总数 **822**；本次更新新增 **2**
+- `+` [joch/jevman](https://github.com/joch/jevman) — inferred / apps-demos — ⭐8
+- `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0

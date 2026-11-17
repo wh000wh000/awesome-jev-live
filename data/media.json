@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:31:54+08:00",
+ "generated_at": "2026-11-18T04:38:23+08:00",
  "entries": {
   "gh:typesafe-ai/skills": {
    "bundled": false,
@@ -427,7 +427,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T17:26:18Z"
+   "pushed_at": "2026-11-17T18:57:43Z"
   },
   "gh:openlayer-ai/jevals": {
    "bundled": false,
@@ -694,7 +694,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-16T12:40:41Z"
+   "pushed_at": "2026-11-17T19:15:31Z"
   },
   "gh:charetterat/awesome-jev-essentials": {
    "bundled": false,
@@ -933,7 +933,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T16:58:48Z"
+   "pushed_at": "2026-11-17T19:49:22Z"
   },
   "gh:ZeroX-01/jev-atlas": {
    "bundled": false,
@@ -999,7 +999,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T15:04:54Z"
+   "pushed_at": "2026-11-17T19:34:55Z"
   },
   "gh:Muradmustafayev-03/jev-recovery-router": {
    "bundled": false,
@@ -1059,7 +1059,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T16:08:19Z"
+   "pushed_at": "2026-11-17T20:29:03Z"
   },
   "gh:clouatre-labs/decisions-judge-mcp": {
    "bundled": true,
@@ -1341,7 +1341,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T18:26:20Z"
+   "pushed_at": "2026-11-17T20:28:14Z"
   },
   "gh:cayoesn/llm-jev-engine": {
    "bundled": false,
@@ -1667,7 +1667,7 @@
     "videos": 1,
     "external": 0
    },
-   "pushed_at": "2026-11-17T03:46:51Z"
+   "pushed_at": "2026-11-17T19:37:02Z"
   },
   "gh:BrendanH18/jev_fsd": {
    "bundled": true,
@@ -8154,7 +8154,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T15:20:56Z"
+   "pushed_at": "2026-11-17T20:23:39Z"
   },
   "gh:frederico-kluser/jev-agent-skill": {
    "bundled": false,
@@ -8278,7 +8278,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-14T02:13:39Z"
+   "pushed_at": "2026-11-17T19:49:47Z"
   },
   "gh:devgomesai/jev-python": {
    "bundled": false,
@@ -11303,7 +11303,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T18:23:34Z"
+   "pushed_at": "2026-11-17T20:23:30Z"
   },
   "gh:ZJU-OmniAI/Awesome-Jev": {
    "bundled": false,
@@ -13202,7 +13202,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T06:54:35Z"
+   "pushed_at": "2026-11-17T19:21:04Z"
   },
   "gh:boxxxie/jev_dsl": {
    "bundled": false,
@@ -13284,7 +13284,7 @@
     "external": 0
    },
    "image_reencoded": "gif pass 1 (0.3 MB)",
-   "pushed_at": "2026-11-17T17:42:23Z"
+   "pushed_at": "2026-11-17T18:56:01Z"
   },
   "gh:vincentlauriat/MailClassification.jev": {
    "bundled": true,
@@ -13344,7 +13344,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-16T21:10:15Z"
+   "pushed_at": "2026-11-17T20:02:41Z"
   },
   "gh:putraridho/jev-switch": {
    "bundled": false,
@@ -13487,66 +13487,6 @@
     "external": 0
    },
    "pushed_at": "2026-11-16T17:04:18Z"
-  },
-  "gh:chenyuwang166-oss/metask-jev-rain-12B-trained": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "NOASSERTION",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-16T16:15:11Z"
-  },
-  "gh:chenyuwang166-oss/metask-jev-rain-31B-trained": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "NOASSERTION",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-16T16:15:14Z"
-  },
-  "gh:chenyuwang166-oss/metask-jev-rain-4B": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-16T16:15:19Z"
   },
   "gh:andletenkov/decisium": {
    "bundled": true,
@@ -13752,7 +13692,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T00:32:17Z"
+   "pushed_at": "2026-11-17T18:56:03Z"
   },
   "gh:vijaycinn/el-jev": {
    "bundled": true,
@@ -13984,7 +13924,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T18:14:20Z"
+   "pushed_at": "2026-11-17T18:29:48Z"
   },
   "gh:Holovkat/jev-mark": {
    "bundled": true,
@@ -14598,7 +14538,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T16:01:20Z"
+   "pushed_at": "2026-11-17T20:07:30Z"
   },
   "gh:stellar-experimental/stellar-raven-jev": {
    "bundled": false,
@@ -14658,7 +14598,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T17:28:38Z"
+   "pushed_at": "2026-11-17T18:34:43Z"
   },
   "gh:WWStoryMode/jev-vs-llm-tos-bench": {
    "bundled": false,
@@ -14691,6 +14631,46 @@
    },
    "source": "no-readme",
    "pushed_at": "2026-11-17T16:38:47Z"
+  },
+  "gh:joch/jevman": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "AGPL-3.0",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-17T20:33:51Z"
+  },
+  "gh:guiinow/Jev-LLM-callibration": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-17T18:52:53Z"
   }
  },
  "bundled_bytes": 182028700,
