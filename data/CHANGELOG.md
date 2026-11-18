@@ -9351,3 +9351,19 @@
 - `+` [Covre81/jev-router](https://github.com/Covre81/jev-router) — inferred / agent-tooling — ⭐0
 - `+` [honeyychawla/jev-ad-intel](https://github.com/honeyychawla/jev-ad-intel) — inferred / community-sdk — ⭐0
 - `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-19T01:16:46+08:00
+- 收录总数 **807**；本次更新新增 **13**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐102
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [minorun365/jev-cloud-quiz](https://github.com/minorun365/jev-cloud-quiz) — inferred / community-sdk — ⭐2
+- `+` [muyouzhi6/astrbot_plugin_jev_active_reply](https://github.com/muyouzhi6/astrbot_plugin_jev_active_reply) — inferred / agent-tooling — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐1
+- `+` [vicfei/which-jev](https://github.com/vicfei/which-jev) — inferred / routing-guardrails — ⭐0
+- `+` [maksim218888-ux/jev-ai-first-club-guide](https://github.com/maksim218888-ux/jev-ai-first-club-guide) — inferred / other — ⭐0
+- `+` [hsaenzG/jev-strands-decision-lab](https://github.com/hsaenzG/jev-strands-decision-lab) — inferred / agent-tooling — ⭐0
