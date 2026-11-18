@@ -9312,3 +9312,12 @@
 - `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [Manishekhar001/mini-clm](https://github.com/Manishekhar001/mini-clm) — observed / research-models — ⭐0
+
+## 2026-11-18T16:45:22+08:00
+- 收录总数 **820**；本次更新新增 **6**
+- `+` [guanxuyu-sv/Visual-Jev](https://github.com/guanxuyu-sv/Visual-Jev) — inferred / apps-demos — ⭐53
+- `+` [getcustomaise/customaise-mcp](https://github.com/getcustomaise/customaise-mcp) — unverified / community-sdk — ⭐13
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [AppliedMachineLearning-Lab/jev-benchmarking](https://github.com/AppliedMachineLearning-Lab/jev-benchmarking) — inferred / evaluation — ⭐7
+- `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
+- `+` [Shivam-Jha96/gsp](https://github.com/Shivam-Jha96/gsp) — observed / apps-demos — ⭐0
