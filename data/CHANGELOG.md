@@ -9303,3 +9303,12 @@
 - `+` [paulrobertdoherty/HLE-Diamond-Jev-Solver](https://github.com/paulrobertdoherty/HLE-Diamond-Jev-Solver) — inferred / evaluation — ⭐0
 - `+` [ZachG88/jev_fraud_experiment](https://github.com/ZachG88/jev_fraud_experiment) — inferred / other — ⭐0
 - `+` [roger-yu-ds/jev-tool-selection](https://github.com/roger-yu-ds/jev-tool-selection) — inferred / agent-tooling — ⭐0
+
+## 2026-11-18T14:38:55+08:00
+- 收录总数 **820**；本次更新新增 **6**
+- `+` [OmniAI-Lab-CUHKSZ/Jev_Survey](https://github.com/OmniAI-Lab-CUHKSZ/Jev_Survey) — inferred / other — ⭐21
+- `+` [gajaguar/typesafe-cli](https://github.com/gajaguar/typesafe-cli) — observed / community-sdk — ⭐0
+- `+` [pikuto1125-pixel/agy-jev-harness](https://github.com/pikuto1125-pixel/agy-jev-harness) — inferred / agent-tooling — ⭐0
+- `+` [Xm-Coding/jev-pr-classifier](https://github.com/Xm-Coding/jev-pr-classifier) — inferred / other — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [Manishekhar001/mini-clm](https://github.com/Manishekhar001/mini-clm) — observed / research-models — ⭐0
