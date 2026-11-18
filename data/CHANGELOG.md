@@ -9367,3 +9367,10 @@
 - `+` [vicfei/which-jev](https://github.com/vicfei/which-jev) — inferred / routing-guardrails — ⭐0
 - `+` [maksim218888-ux/jev-ai-first-club-guide](https://github.com/maksim218888-ux/jev-ai-first-club-guide) — inferred / other — ⭐0
 - `+` [hsaenzG/jev-strands-decision-lab](https://github.com/hsaenzG/jev-strands-decision-lab) — inferred / agent-tooling — ⭐0
+
+## 2026-11-19T03:25:07+08:00
+- 收录总数 **803**；本次更新新增 **4**
+- `+` [Sandesh-S-Dalvi/playwright-jev-testing-refactored](https://github.com/Sandesh-S-Dalvi/playwright-jev-testing-refactored) — inferred / agent-tooling — ⭐0
+- `+` [basi/typesafe-ai-php-client](https://github.com/basi/typesafe-ai-php-client) — observed / community-sdk — ⭐0
+- `+` [Alex-Cartwright/jev-workshop](https://github.com/Alex-Cartwright/jev-workshop) — inferred / apps-demos — ⭐0
+- `+` [jakucermak/pi-jev-router](https://github.com/jakucermak/pi-jev-router) — inferred / routing-guardrails — ⭐0
