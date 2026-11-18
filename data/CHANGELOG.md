@@ -9321,3 +9321,13 @@
 - `+` [AppliedMachineLearning-Lab/jev-benchmarking](https://github.com/AppliedMachineLearning-Lab/jev-benchmarking) — inferred / evaluation — ⭐7
 - `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
 - `+` [Shivam-Jha96/gsp](https://github.com/Shivam-Jha96/gsp) — observed / apps-demos — ⭐0
+
+## 2026-11-18T18:52:58+08:00
+- 收录总数 **821**；本次更新新增 **7**
+- `+` [So Was Jev Useful?](https://news.ycombinator.com/item?id=50543855) — observed / media-discussions — ⭐5
+- `+` [Using decision model (Jev) to sketch interfaces in real-time with pen and paper](https://news.ycombinator.com/item?id=50535223) — observed / media-discussions — ⭐4
+- `+` [Ege-BULUT/jev-play-games](https://github.com/Ege-BULUT/jev-play-games) — inferred / apps-demos — ⭐2
+- `+` [mikecann/magic-jev-ball](https://github.com/mikecann/magic-jev-ball) — inferred / routing-guardrails — ⭐2
+- `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
+- `+` [klavdiy-core/jev-if-player](https://github.com/klavdiy-core/jev-if-player) — inferred / apps-demos — ⭐0
+- `+` [mr-kittureddy/AI_Ticket_Routing_JEV](https://github.com/mr-kittureddy/AI_Ticket_Routing_JEV) — inferred / routing-guardrails — ⭐0
