@@ -9277,3 +9277,29 @@
 - 收录总数 **822**；本次更新新增 **2**
 - `+` [joch/jevman](https://github.com/joch/jevman) — inferred / apps-demos — ⭐8
 - `+` [guiinow/Jev-LLM-callibration](https://github.com/guiinow/Jev-LLM-callibration) — inferred / other — ⭐0
+
+## 2026-11-18T12:31:36+08:00
+- 收录总数 **826**；本次更新新增 **23**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [initial-d/ml-quant-trading](https://github.com/initial-d/ml-quant-trading) — inferred / agent-tooling — ⭐109
+- `+` [TypeSafeAI/jev-harness](https://github.com/TypeSafeAI/jev-harness) — official / official-sdk — ⭐40
+- `+` [anpicasso/hermes-jev-approvals](https://github.com/anpicasso/hermes-jev-approvals) — inferred / agent-tooling — ⭐25
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [globalmpc/jev-router-effort](https://github.com/globalmpc/jev-router-effort) — inferred / routing-guardrails — ⭐15
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐13
+- `+` [romanmeclazcke/codex-sift](https://github.com/romanmeclazcke/codex-sift) — unverified / agent-tooling — ⭐9
+- `+` [elbruno/ElBruno.AI.Decisions](https://github.com/elbruno/ElBruno.AI.Decisions) — observed / community-sdk — ⭐5
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [JawzoD3TH/JevApi](https://github.com/JawzoD3TH/JevApi) — inferred / community-sdk — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [milojarow/jev-skills](https://github.com/milojarow/jev-skills) — inferred / community-sdk — ⭐1
+- `+` [SaiMounicaGudimella/jev-vs-haiku-evaluation](https://github.com/SaiMounicaGudimella/jev-vs-haiku-evaluation) — inferred / evaluation — ⭐0
+- `+` [Twilight-Fanyi/RSI-Jev-v6-1-VL-27B-NPU-model](https://github.com/Twilight-Fanyi/RSI-Jev-v6-1-VL-27B-NPU-model) — inferred / community-sdk — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+- `+` [paulrobertdoherty/HLE-Diamond-Jev-Solver](https://github.com/paulrobertdoherty/HLE-Diamond-Jev-Solver) — inferred / evaluation — ⭐0
+- `+` [ZachG88/jev_fraud_experiment](https://github.com/ZachG88/jev_fraud_experiment) — inferred / other — ⭐0
+- `+` [roger-yu-ds/jev-tool-selection](https://github.com/roger-yu-ds/jev-tool-selection) — inferred / agent-tooling — ⭐0
