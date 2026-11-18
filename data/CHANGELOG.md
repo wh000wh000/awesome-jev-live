@@ -9385,3 +9385,13 @@
 - `+` [emoubarak/jev-check](https://github.com/emoubarak/jev-check) — inferred / community-sdk — ⭐1
 - `+` [Akkshar/jev-gate](https://github.com/Akkshar/jev-gate) — inferred / agent-tooling — ⭐0
 - `+` [Konan69/jev-job-search-oss](https://github.com/Konan69/jev-job-search-oss) — inferred / community-sdk — ⭐0
+
+## 2026-11-19T07:40:39+08:00
+- 收录总数 **803**；本次更新新增 **7**
+- `+` [guanxuyu-sv/Visual-Jev](https://github.com/guanxuyu-sv/Visual-Jev) — inferred / apps-demos — ⭐54
+- `+` [iDiagoValeta/jev-decision-gate](https://github.com/iDiagoValeta/jev-decision-gate) — inferred / agent-tooling — ⭐3
+- `+` [CompleteTech-LLC-AI-Research/jev-311-heatmap](https://github.com/CompleteTech-LLC-AI-Research/jev-311-heatmap) — inferred / community-sdk — ⭐3
+- `+` [armandodollia/ha-jev-voice-pipeline](https://github.com/armandodollia/ha-jev-voice-pipeline) — inferred / apps-demos — ⭐2
+- `+` [shihabalratul/Jev-chess](https://github.com/shihabalratul/Jev-chess) — inferred / routing-guardrails — ⭐0
+- `+` [duketopceo/jev-compact](https://github.com/duketopceo/jev-compact) — inferred / agent-tooling — ⭐0
+- `+` [duketopceo/a0-plugin-jev-compact](https://github.com/duketopceo/a0-plugin-jev-compact) — inferred / agent-tooling — ⭐0
