@@ -9331,3 +9331,13 @@
 - `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
 - `+` [klavdiy-core/jev-if-player](https://github.com/klavdiy-core/jev-if-player) — inferred / apps-demos — ⭐0
 - `+` [mr-kittureddy/AI_Ticket_Routing_JEV](https://github.com/mr-kittureddy/AI_Ticket_Routing_JEV) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-18T21:00:23+08:00
+- 收录总数 **820**；本次更新新增 **7**
+- `+` [sgstq0811/VerdictAD-Jev-AD](https://github.com/sgstq0811/VerdictAD-Jev-AD) — inferred / evaluation — ⭐16
+- `+` [mraad/duckdb-jev-spatial](https://github.com/mraad/duckdb-jev-spatial) — inferred / community-sdk — ⭐3
+- `+` [semantic-router/dsh-system-one-plugin](https://github.com/semantic-router/dsh-system-one-plugin) — unverified / agent-tooling — ⭐3
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐1
+- `+` [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) — inferred / evaluation — ⭐1
+- `+` [godatadriven/laya-vs-jev-on-open-food-facts-dataset](https://github.com/godatadriven/laya-vs-jev-on-open-food-facts-dataset) — inferred / other — ⭐1
+- `+` [dylanfesta/RSS-Sci-Jev-Reader](https://github.com/dylanfesta/RSS-Sci-Jev-Reader) — inferred / agent-tooling — ⭐0
