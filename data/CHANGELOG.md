@@ -9374,3 +9374,14 @@
 - `+` [basi/typesafe-ai-php-client](https://github.com/basi/typesafe-ai-php-client) — observed / community-sdk — ⭐0
 - `+` [Alex-Cartwright/jev-workshop](https://github.com/Alex-Cartwright/jev-workshop) — inferred / apps-demos — ⭐0
 - `+` [jakucermak/pi-jev-router](https://github.com/jakucermak/pi-jev-router) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-19T05:34:03+08:00
+- 收录总数 **806**；本次更新新增 **8**
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [Algorythm-Canada/OpenJevSwift](https://github.com/Algorythm-Canada/OpenJevSwift) — inferred / evaluation — ⭐10
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐9
+- `+` [abmohajeri/openrouter-studio](https://github.com/abmohajeri/openrouter-studio) — unverified / community-sdk — ⭐3
+- `+` [southleft/component-charades](https://github.com/southleft/component-charades) — observed / apps-demos — ⭐2
+- `+` [emoubarak/jev-check](https://github.com/emoubarak/jev-check) — inferred / community-sdk — ⭐1
+- `+` [Akkshar/jev-gate](https://github.com/Akkshar/jev-gate) — inferred / agent-tooling — ⭐0
+- `+` [Konan69/jev-job-search-oss](https://github.com/Konan69/jev-job-search-oss) — inferred / community-sdk — ⭐0
