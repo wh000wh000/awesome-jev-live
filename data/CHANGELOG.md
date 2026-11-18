@@ -9341,3 +9341,13 @@
 - `+` [capitaharlock/jev-clone](https://github.com/capitaharlock/jev-clone) — inferred / evaluation — ⭐1
 - `+` [godatadriven/laya-vs-jev-on-open-food-facts-dataset](https://github.com/godatadriven/laya-vs-jev-on-open-food-facts-dataset) — inferred / other — ⭐1
 - `+` [dylanfesta/RSS-Sci-Jev-Reader](https://github.com/dylanfesta/RSS-Sci-Jev-Reader) — inferred / agent-tooling — ⭐0
+
+## 2026-11-18T23:09:33+08:00
+- 收录总数 **813**；本次更新新增 **7**
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [lykeion-tech/lykeion](https://github.com/lykeion-tech/lykeion) — inferred / agent-tooling — ⭐3
+- `+` [ritchieking/jev](https://github.com/ritchieking/jev) — inferred / other — ⭐0
+- `+` [Sriman-Kabilan/Rag_with_Jev_AI](https://github.com/Sriman-Kabilan/Rag_with_Jev_AI) — inferred / routing-guardrails — ⭐0
+- `+` [Covre81/jev-router](https://github.com/Covre81/jev-router) — inferred / agent-tooling — ⭐0
+- `+` [honeyychawla/jev-ad-intel](https://github.com/honeyychawla/jev-ad-intel) — inferred / community-sdk — ⭐0
+- `+` [bondiano/dsh-jev-planning](https://github.com/bondiano/dsh-jev-planning) — inferred / routing-guardrails — ⭐0
