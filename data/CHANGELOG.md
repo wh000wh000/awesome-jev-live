@@ -9450,3 +9450,9 @@
 - `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐2
 - `+` [taifoon-io/jev](https://github.com/taifoon-io/jev) — inferred / agent-tooling — ⭐0
 - `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
+
+## 2026-11-19T22:32:54+08:00
+- 收录总数 **809**；本次更新新增 **3**
+- `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐4
+- `+` [smg1024/jev-router](https://github.com/smg1024/jev-router) — inferred / routing-guardrails — ⭐0
+- `+` [stephenlb/system-one-model](https://huggingface.co/stephenlb/system-one-model) — observed / research-models — ⭐0
