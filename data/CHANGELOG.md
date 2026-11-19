@@ -9470,3 +9470,16 @@
 - `+` [Saadtamari/blink-jev-agent](https://github.com/Saadtamari/blink-jev-agent) — inferred / agent-tooling — ⭐0
 - `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
 - `+` [klavdiy-core/jev-if-player](https://github.com/klavdiy-core/jev-if-player) — inferred / apps-demos — ⭐0
+
+## 2026-11-20T02:47:33+08:00
+- 收录总数 **815**；本次更新新增 **10**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [jev-sec/jev-sec.github.io](https://github.com/jev-sec/jev-sec.github.io) — inferred / evaluation — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [shloktilokani/TicketLens_Jev_vs_LLM](https://github.com/shloktilokani/TicketLens_Jev_vs_LLM) — inferred / routing-guardrails — ⭐0
+- `+` [Sriman-Kabilan/OKF_with_JEV-AI](https://github.com/Sriman-Kabilan/OKF_with_JEV-AI) — inferred / other — ⭐0
+- `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
+- `+` [Akkshar/jev-gate](https://github.com/Akkshar/jev-gate) — inferred / agent-tooling — ⭐0
