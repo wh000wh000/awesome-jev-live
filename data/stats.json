@@ -1,40 +1,40 @@
 {
- "generated_at": "2026-11-19T18:17:01+08:00",
- "total": 811,
- "new_this_tick": 7,
+ "generated_at": "2026-11-19T20:25:26+08:00",
+ "total": 810,
+ "new_this_tick": 6,
  "by_category": {
   "official-sdk": 7,
-  "community-sdk": 144,
-  "agent-tooling": 248,
+  "community-sdk": 143,
+  "agent-tooling": 250,
   "routing-guardrails": 63,
   "evaluation": 88,
   "research-models": 61,
-  "apps-demos": 48,
-  "media-discussions": 72,
-  "other": 80
+  "apps-demos": 46,
+  "media-discussions": 73,
+  "other": 79
  },
  "by_evidence": {
   "official": 18,
-  "observed": 219,
-  "inferred": 504,
-  "unverified": 70
+  "observed": 220,
+  "inferred": 503,
+  "unverified": 69
  },
  "by_tier": {
   "official": 7,
-  "community": 804
+  "community": 803
  },
  "by_language": {
-  "Python": 357,
-  "TypeScript": 144,
-  "JavaScript": 71,
-  "Rust": 32,
+  "Python": 359,
+  "TypeScript": 142,
+  "JavaScript": 72,
+  "Rust": 31,
   "HTML": 25,
   "Jupyter": 16,
   "Go": 11,
-  "C#": 10,
+  "C#": 9,
   "Swift": 5,
-  "Java": 5,
   "Elixir": 5,
+  "Java": 4,
   "PHP": 4,
   "Shell": 3,
   "PowerShell": 3,
@@ -42,16 +42,16 @@
   "C++": 3,
   "Ruby": 2,
   "C": 2,
+  "Kotlin": 2,
   "XS": 2,
   "TeX": 2,
   "Astro": 2,
   "Pascal": 1,
   "Haskell": 1,
-  "Kotlin": 1,
   "Nushell": 1
  },
- "repos": 742,
+ "repos": 741,
  "models": 7,
  "discussions": 13,
- "total_stars": 190543
+ "total_stars": 190649
 }

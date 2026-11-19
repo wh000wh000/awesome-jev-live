@@ -9441,3 +9441,12 @@
 - `+` [soraaa013-ops/jev-eval-lab](https://github.com/soraaa013-ops/jev-eval-lab) — inferred / evaluation — ⭐0
 - `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
 - `+` [RicardoZ-kisara/cyber-jev](https://github.com/RicardoZ-kisara/cyber-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-19T20:25:26+08:00
+- 收录总数 **810**；本次更新新增 **6**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐221
+- `+` [Anil-matcha/awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — observed / media-discussions — ⭐7
+- `+` [oluies/jev-vs-spacy](https://github.com/oluies/jev-vs-spacy) — inferred / routing-guardrails — ⭐3
+- `+` [7starsseeker/dsh-jev-guard](https://github.com/7starsseeker/dsh-jev-guard) — inferred / agent-tooling — ⭐2
+- `+` [taifoon-io/jev](https://github.com/taifoon-io/jev) — inferred / agent-tooling — ⭐0
+- `+` [kasperihallinen/football-ai](https://github.com/kasperihallinen/football-ai) — observed / other — ⭐0
