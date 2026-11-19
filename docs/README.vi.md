@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <img src="https://img.shields.io/badge/entries-803-0d9488" alt="entries">
+  <img src="https://img.shields.io/badge/entries-804-0d9488" alt="entries">
   <img src="https://img.shields.io/badge/languages-20-1f6feb" alt="languages">
   <img src="https://img.shields.io/badge/refresh-every%202h-16a34a" alt="refresh">
   <a href="../LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="MIT"></a>
@@ -18,8 +18,8 @@
 <p align="center"><sub><a href="../README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt-BR.md">Português (Brasil)</a> · <a href="README.ru.md">Русский</a> · <a href="README.it.md">Italiano</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.tr.md">Türkçe</a> · <b>Tiếng Việt</b> · <a href="README.th.md">ไทย</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.pl.md">Polski</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.uk.md">Українська</a></sub></p>
 
 > [!NOTE]
-> **Chỉ mục trực tiếp** · Đồng bộ lần cuối: `2026-11-19T07:41:25+08:00` (UTC+8)
-> · Mục: **803** · Mới trong lượt này: **7** · Ngôn ngữ triển khai: **25**
+> **Chỉ mục trực tiếp** · Đồng bộ lần cuối: `2026-11-19T09:48:29+08:00` (UTC+8)
+> · Mục: **804** · Mới trong lượt này: **3** · Ngôn ngữ triển khai: **25**
 
 <sub>Mọi mục bên dưới đều do pipeline trong kho lưu trữ này thu thập, lọc và kiểm tra lại. Các con số và mốc thời gian đến từ nguồn, không phải từ một ảnh chụp viết tay.</sub>
 
@@ -47,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/gargpratyush--jev-router/361cf042aa7f2e59.png" width="100%" alt="john-rocky/coreai-kit">
 <b>🤖 <a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b>
-<sub>⭐670 · JavaScript · 🔎 inferred</sub>
+<sub>⭐671 · JavaScript · 🔎 inferred</sub>
 <sub>Định tuyến đến mô hình rẻ nhất trong claude code cho tác vụ của bạn bằng jev-router</sub>
 </td>
 <td width="50%" valign="top">
@@ -94,10 +94,10 @@
 - [SDK chính thức và công cụ cho nhà phát triển](#sdk-chính-thức-và-công-cụ-cho-nhà-phát-triển) — **7**
 - [Client, SDK và adapter do cộng đồng phát triển](#client-sdk-và-adapter-do-cộng-đồng-phát-triển) — **142**
 - [Công cụ cho agent: MCP, hook, cổng chặn và agent viết mã](#công-cụ-cho-agent-mcp-hook-cổng-chặn-và-agent-viết-mã) — **250**
-- [Định tuyến, rào chắn và phê duyệt](#định-tuyến-rào-chắn-và-phê-duyệt) — **60**
+- [Định tuyến, rào chắn và phê duyệt](#định-tuyến-rào-chắn-và-phê-duyệt) — **62**
 - [Đánh giá, hiệu chỉnh và benchmark](#đánh-giá-hiệu-chỉnh-và-benchmark) — **85**
-- [Bản tái tạo mở, trọng số và nghiên cứu kiến trúc](#bản-tái-tạo-mở-trọng-số-và-nghiên-cứu-kiến-trúc) — **63**
-- [Ứng dụng, trò chơi, robot và demo tương tác](#ứng-dụng-trò-chơi-robot-và-demo-tương-tác) — **50**
+- [Bản tái tạo mở, trọng số và nghiên cứu kiến trúc](#bản-tái-tạo-mở-trọng-số-và-nghiên-cứu-kiến-trúc) — **61**
+- [Ứng dụng, trò chơi, robot và demo tương tác](#ứng-dụng-trò-chơi-robot-và-demo-tương-tác) — **51**
 - [Bài viết, thảo luận và các danh sách cùng chủ đề](#bài-viết-thảo-luận-và-các-danh-sách-cùng-chủ-đề) — **72**
 - [Dự án khác](#dự-án-khác) — **74**
 - [Dự án theo ngôn ngữ triển khai](#dự-án-theo-ngôn-ngữ-triển-khai)
@@ -187,7 +187,7 @@ Thay thế TypeSafeClient trực tiếp, được hỗ trợ bởi LLM APIs
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐315 · Python · ✅ official · 7 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-python">typesafe-ai/typesafe-sdk-python</a></b> · ⭐315 · Python · ✅ official · 8 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -216,7 +216,7 @@ Thư viện Python chính thức cho TypeSafe API
 </details>
 
 <details>
-<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-js">typesafe-ai/typesafe-sdk-js</a></b> · ⭐288 · TypeScript · ✅ official · 7 天</summary>
+<summary>🏛️ <b><a href="https://github.com/typesafe-ai/typesafe-sdk-js">typesafe-ai/typesafe-sdk-js</a></b> · ⭐288 · TypeScript · ✅ official · 8 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -407,7 +407,7 @@ Typesafe.ai System One Model Jev điều hướng một đồ thị Neo4j bằng
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/john-rocky/coreai-kit">john-rocky/coreai-kit</a></b> · ⭐126 · Swift · 👁️ observed · 2 天</summary>
+<summary>🧰 <b><a href="https://github.com/john-rocky/coreai-kit">john-rocky/coreai-kit</a></b> · ⭐126 · Swift · 👁️ observed · 3 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -729,7 +729,7 @@ Các quyết định có kiểu cho AI agents dưới dạng công cụ MCP: xá
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/Bonzokoles/36_chambers">Bonzokoles/36_chambers</a></b> · Python · 👁️ observed · 26 天</summary>
+<summary>🧰 <b><a href="https://github.com/Bonzokoles/36_chambers">Bonzokoles/36_chambers</a></b> · Python · 👁️ observed · 27 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -799,7 +799,7 @@ Tìm mã bằng cách hỏi nó làm gì. Một CLI dành cho các agent lập t
 </details>
 
 <details>
-<summary>🧰 <b><a href="https://github.com/supercorp-ai/supercov">supercorp-ai/supercov</a></b> · ⭐166 · Rust · 🔎 inferred · 5 天</summary>
+<summary>🧰 <b><a href="https://github.com/supercorp-ai/supercov">supercorp-ai/supercov</a></b> · ⭐167 · Rust · 🔎 inferred · 5 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -817,11 +817,11 @@ Tìm mã bằng cách hỏi nó làm gì. Một CLI dành cho các agent lập t
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **166**    |
-| Lần push cuối        | 2026-11-13 |
-| Lần đầu được liệt kê | 2026-10-23 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **167** (+1) |
+| Lần push cuối        | 2026-11-13   |
+| Lần đầu được liệt kê | 2026-10-23   |
 
 🏷 `agent-skills` · `claude-code` · `code-coverage` · `code-quality` · `codex` · `coding-agents` · `coverage` · `gemini-cli-extension`
 
@@ -1005,7 +1005,7 @@ Free Rust SEO and GEO toolkit powered by TypeSafe Jev: 58-rule audits, site craw
 Danh mục tăng nhanh nhất: hook, máy chủ MCP và cổng chặn đặt một quyết định có kiểu trước hành động kế tiếp của agent.
 
 <details>
-<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7997 · TypeScript · 👁️ observed · 61 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/tamaratran/fast-jev-compaction">tamaratran/fast-jev-compaction</a></b> · ⭐7998 · TypeScript · 👁️ observed · 61 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1027,14 +1027,14 @@ Plugin Code Claude thay thế bản tóm tắt rút gọn bằng Jev quyết đ�
 
 | Chỉ số               | Giá trị       |
 | -------------------- | ------------- |
-| Sao                  | **7997** (+1) |
+| Sao                  | **7998** (+1) |
 | Lần push cuối        | 2026-09-18    |
 | Lần đầu được liệt kê | 2026-11-08    |
 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐670 · JavaScript · 🔎 inferred · 60 天</summary>
+<summary>🤖 <b><a href="https://github.com/gargpratyush/jev-router">gargpratyush/jev-router</a></b> · ⭐671 · JavaScript · 🔎 inferred · 60 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1052,11 +1052,11 @@ Plugin Code Claude thay thế bản tóm tắt rút gọn bằng Jev quyết đ�
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **670**    |
-| Lần push cuối        | 2026-09-19 |
-| Lần đầu được liệt kê | 2026-11-08 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **671** (+1) |
+| Lần push cuối        | 2026-09-19   |
+| Lần đầu được liệt kê | 2026-11-08   |
 
 ---
 
@@ -1124,7 +1124,7 @@ Một mô hình quyết định nhỏ, nhanh, hay mô hình System 1, dành cho 
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/thruwire/foreman">thruwire/foreman</a></b> · ⭐828 · Python · 👁️ observed · 34 天</summary>
+<summary>🤖 <b><a href="https://github.com/thruwire/foreman">thruwire/foreman</a></b> · ⭐829 · Python · 👁️ observed · 34 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1142,11 +1142,11 @@ An agent supervisor and software factory foreman powered by decision models
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **828**    |
-| Lần push cuối        | 2026-10-15 |
-| Lần đầu được liệt kê | 2026-11-08 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **829** (+1) |
+| Lần push cuối        | 2026-10-15   |
+| Lần đầu được liệt kê | 2026-11-08   |
 
 🏷 `agent-supervision` · `codex` · `jev` · `opencode` · `pi-agent` · `pi-coding-agent` · `pi-durable`
 
@@ -1160,7 +1160,7 @@ An agent supervisor and software factory foreman powered by decision models
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/AnotiaWang/awesome-decision-models">AnotiaWang/awesome-decision-models</a></b> · ⭐721 · Python · 👁️ observed · 5 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/AnotiaWang/awesome-decision-models">AnotiaWang/awesome-decision-models</a></b> · ⭐721 · Python · 👁️ observed · 6 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1178,11 +1178,11 @@ Danh sách được tuyển chọn các mô hình ra quyết định (System One
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị      |
-| -------------------- | ------------ |
-| Sao                  | **721** (+1) |
-| Lần push cuối        | 2026-11-13   |
-| Lần đầu được liệt kê | 2026-10-02   |
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Sao                  | **721**    |
+| Lần push cuối        | 2026-11-13 |
+| Lần đầu được liệt kê | 2026-10-02 |
 
 🏷 `ai-agents` · `awesome` · `awesome-list` · `decision-models` · `jev` · `llm` · `system-one` · `typed-decisions`
 
@@ -1502,7 +1502,7 @@ Sàng lọc hồ sơ JEV TypeSafe: LLM viết các câu hỏi, JEV (mô hình ph
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24645 · Python · 🔎 inferred · 7 天</summary>
+<summary>🤖 <b><a href="https://github.com/browser-use/jev-ultrafast">browser-use/jev-ultrafast</a></b> · ⭐24653 · Python · 🔎 inferred · 7 天 · ⭐+8</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1518,11 +1518,11 @@ Tác nhân web nhanh nhất và rẻ nhất
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **24645**  |
-| Lần push cuối        | 2026-11-11 |
-| Lần đầu được liệt kê | 2026-11-08 |
+| Chỉ số               | Giá trị        |
+| -------------------- | -------------- |
+| Sao                  | **24653** (+8) |
+| Lần push cuối        | 2026-11-11     |
+| Lần đầu được liệt kê | 2026-11-08     |
 
 ---
 
@@ -1534,7 +1534,7 @@ Tác nhân web nhanh nhất và rẻ nhất
 </details>
 
 <details>
-<summary>🤖 <b><a href="https://github.com/jev-chat/jev-chat-jarvis">jev-chat/jev-chat-jarvis</a></b> · ⭐8457 · Kotlin · 🔎 inferred · 13 天 · ⭐+1</summary>
+<summary>🤖 <b><a href="https://github.com/jev-chat/jev-chat-jarvis">jev-chat/jev-chat-jarvis</a></b> · ⭐8459 · Kotlin · 🔎 inferred · 13 天 · ⭐+2</summary>
 
 ##### 📝 Tóm tắt
 
@@ -1552,7 +1552,7 @@ Trợ lý quyết định trò chuyện: trước khi bạn trả lời, Jev đ�
 
 | Chỉ số               | Giá trị       |
 | -------------------- | ------------- |
-| Sao                  | **8457** (+1) |
+| Sao                  | **8459** (+2) |
 | Lần push cuối        | 2026-11-05    |
 | Lần đầu được liệt kê | 2026-11-08    |
 
@@ -1642,8 +1642,8 @@ Trợ lý quyết định trò chuyện: trước khi bạn trả lời, Jev đ�
 - [TheoOliveira/pi-jev](https://github.com/TheoOliveira/pi-jev) - Định tuyến công cụ ngữ nghĩa và các quyết định System One có kiểu cho Pi coding…
 - [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) - OpenJev: giải pháp thay thế cục bộ, mã nguồn mở cho Jev.
 - [chuloontop4-code/jev-instance-review](https://github.com/chuloontop4-code/jev-instance-review) - Trình đánh giá Instance Roblox Studio tốt nhất năm 2026: Tiêu chí Jev được định…
-- [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) - Jev, bộ phân loại TypeSafe mang tên System One, dưới dạng công cụ bên trong…
 - [native-bond-lab/Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction) - System-One-controlled full-duplex voice interaction: turn-taking as…
+- [FrancoisChastel/jev-code](https://github.com/FrancoisChastel/jev-code) - Jev, bộ phân loại TypeSafe mang tên System One, dưới dạng công cụ bên trong…
 - [intikhab49/open-jev-typed-decision-engine](https://github.com/intikhab49/open-jev-typed-decision-engine) - Tái tạo mở của TypeSafe Jev: một công cụ quyết định có kiểu 150M…
 - [alexei-led/claude-router](https://github.com/alexei-led/claude-router) - Plugin Claude Code chọn mô hình và mức nỗ lực cho mỗi lượt.
 - [everyinfra/jev-radar](https://github.com/everyinfra/jev-radar) - 📡 The most rigorously verified tracker of the Jev (TypeSafe AI System One)…
@@ -1657,10 +1657,10 @@ Trợ lý quyết định trò chuyện: trước khi bạn trả lời, Jev đ�
 - [paramjeetn/jev-cookbook](https://github.com/paramjeetn/jev-cookbook) - Cuốn cookbook hoàn chỉnh cho Jev của TypeSafe AI — hơn 120 trường hợp sử dụng…
 - [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) - Định tuyến mô hình theo từng lượt cho tác nhân lập trình Pi: một bộ phán đoán…
 - [iamtoomas/JevLint](https://github.com/iamtoomas/JevLint) - Lint ngữ nghĩa có thể cấu hình, được hỗ trợ bởi Jev, với các phán định NOUL cấp…
-- [vicfei/awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) - Question patterns, anti-patterns &amp; calibration notes for typed decision models…
 - [ajensenwaud/hermes-jev-plugin](https://github.com/ajensenwaud/hermes-jev-plugin) - Các công cụ quyết định TypeSafe Jev (System One) cho Hermes Agent: jev_check /…
 - [backant-io/jevelry](https://github.com/backant-io/jevelry) - Use Jev everywhere to make &amp; track decisions.
 - [daftAI2026/awesome-jev](https://github.com/daftAI2026/awesome-jev) - Các dự án TypeSafe Jev / System One GitHub được tuyển chọn, các giải pháp thay…
+- [vicfei/awesome-jev-prompts](https://github.com/vicfei/awesome-jev-prompts) - Question patterns, engine selection &amp; ecosystem tracking for typed decision…
 - [win4r/pi-jev-router](https://github.com/win4r/pi-jev-router) - Task-boundary model routing for Pi Coding Agent, powered by TypeSafe Jev.
 - [ismaildasci/claude-referee](https://github.com/ismaildasci/claude-referee) - Bằng chứng quan trọng hơn lời hoa mỹ. Plugin Claude Code không chính thức kiểm…
 - [zhangxaochen/dsh-jev](https://github.com/zhangxaochen/dsh-jev) - Bộ plugin Jev (mô hình quyết định System One) cho DeepSeek Harness (dsh).
@@ -2127,7 +2127,7 @@ Triage your Gmail inbox with a System One model (Jev or Laya): typed yes/no judg
 </details>
 
 <details>
-<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐35669 · Python · 🔎 inferred · 0 天 · ⭐+3</summary>
+<summary>🛡️ <b><a href="https://github.com/NandhaKishorM/laya">NandhaKishorM/laya</a></b> · ⭐35669 · Python · 🔎 inferred · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -2143,11 +2143,11 @@ Công cụ quyết định System 1 phi tự hồi quy. Các quyết định d�
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị        |
-| -------------------- | -------------- |
-| Sao                  | **35669** (+3) |
-| Lần push cuối        | 2026-11-18     |
-| Lần đầu được liệt kê | 2026-09-23     |
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Sao                  | **35669**  |
+| Lần push cuối        | 2026-11-18 |
+| Lần đầu được liệt kê | 2026-09-23 |
 
 🏷 `calibration` · `classification` · `decision-model` · `huggingface` · `jev` · `modernbert` · `multilingual` · `nlp`
 
@@ -2365,7 +2365,7 @@ Ultra-low-latency, 6-tier prompt router in Rust to triage traffic between Jev de
 </details>
 
 <details>
-<summary><b>Thêm trong danh mục này</b> <sub>· 42</sub></summary>
+<summary><b>Thêm trong danh mục này</b> <sub>· 44</sub></summary>
 
 - [yusukebe/hono-jev-router](https://github.com/yusukebe/hono-jev-router) - Route HTTP requests by meaning. A semantic router for Hono powered by Jev.
 - [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) - Công cụ quyết định nhận thức tự tiến hóa &amp; phương án thay thế TypeSafe Jev.
@@ -2389,11 +2389,13 @@ Ultra-low-latency, 6-tier prompt router in Rust to triage traffic between Jev de
 - [gcipolla1402/jev-smart-router](https://github.com/gcipolla1402/jev-smart-router) - Intelligent routing system powered by JEV / TypeSafe.
 - [Haslab-dev/pandu-jev](https://github.com/Haslab-dev/pandu-jev) - Pandu là mô hình Jev mini, lấy cảm hứng từ Jev.
 - [hrtaym1114-github/x-jev-gate](https://github.com/hrtaym1114-github/x-jev-gate) - Cổng kiểm duyệt bản nháp X được hỗ trợ bởi TypeSafe Jev (System One): kiểm tra…
+- [iJaack/jev-calendar-rust](https://github.com/iJaack/jev-calendar-rust) - Rust backend and public booking gateway for book.jaack.me.
 - [jakucermak/pi-jev-router](https://github.com/jakucermak/pi-jev-router) - Opt-in adaptive model routing and assignment scoring for Pi.
 - [jasonli0226/jev-benchmark](https://github.com/jasonli0226/jev-benchmark) - Benchmark: Jev decision model (TypeSafe, via OpenRouter) vs local ML on SST-2…
 - [kellystuard/jev-gmail-classifier](https://github.com/kellystuard/jev-gmail-classifier) - Google Apps Script phân loại thư Gmail bằng mô hình AI chỉ quyết định của Jev…
 - [Khidir782/Beam-jev](https://github.com/Khidir782/Beam-jev) - Calibrated DevOps tool-router distilled from Beam-1.0-501B via RLCD.
 - [lijinyi949341-sudo/JevSearch-public](https://github.com/lijinyi949341-sudo/JevSearch-public) - JevSearch: progressive evidence routing for long visual document QA.
+- [LuisFX/jev-lead-qualifier](https://github.com/LuisFX/jev-lead-qualifier) - First Read: qualify every inbound lead against an editable ICP with Jev.
 - [mani-bellan/jev-apps](https://github.com/mani-bellan/jev-apps) - Pipeline failure triage and a customer support router built on TypeSafe AI.
 - [masatoppp/07_Jev-routing-evaluation](https://github.com/masatoppp/07_Jev-routing-evaluation) - Jevを用いたLLM・Web検索・RAGのルーティング実装と、GPT-4.1-miniとの判定精度・処理速度・APIコストの比較検証.
 - [mr-kittureddy/AI_Ticket_Routing_JEV](https://github.com/mr-kittureddy/AI_Ticket_Routing_JEV) - Using JEV AI built a Support ticket routing and solution generation with Gemini…
@@ -3070,7 +3072,7 @@ Một mô hình quyết định mở nhỏ: trạng thái + câu hỏi có kiể
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2602 · Python · 🔎 inferred · 33 天</summary>
+<summary>🔬 <b><a href="https://github.com/TianyuCodings/NanoJev">TianyuCodings/NanoJev</a></b> · ⭐2602 · Python · 🔎 inferred · 34 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3424,7 +3426,7 @@ Native MLX runtime for Laya typed decision models — 7–14 ms short decisions 
 </details>
 
 <details>
-<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4965 · Python · 🔎 inferred · 56 天</summary>
+<summary>🔬 <b><a href="https://github.com/TheoLeeCJ/SemIf-OpenJev">TheoLeeCJ/SemIf-OpenJev</a></b> · ⭐4966 · Python · 🔎 inferred · 56 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3440,11 +3442,11 @@ Semantic if từ các mô hình mở, chạy trên 3090 tại nhà. Độc lập
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **4965**   |
-| Lần push cuối        | 2026-09-23 |
-| Lần đầu được liệt kê | 2026-10-29 |
+| Chỉ số               | Giá trị       |
+| -------------------- | ------------- |
+| Sao                  | **4966** (+1) |
+| Lần push cuối        | 2026-09-23    |
+| Lần đầu được liệt kê | 2026-10-29    |
 
 ---
 
@@ -3588,10 +3590,8 @@ Chưng cất một tác vụ phân loại Jev lặp lại thành một mô hình
 </details>
 
 <details>
-<summary><b>Thêm trong danh mục này</b> <sub>· 45</sub></summary>
+<summary><b>Thêm trong danh mục này</b> <sub>· 43</sub></summary>
 
-- [SargeDev/Solar-Decision-JEV-27B](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B)
-- [SargeDev/Solar-Decision-JEV-27B-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-GGUF)
 - [SargeDev/Solar-Decision-JEV-27B-V3](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3)
 - [SargeDev/Solar-Decision-JEV-27B-V3-GGUF](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-GGUF)
 - [SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8](https://huggingface.co/SargeDev/Solar-Decision-JEV-27B-V3-NVFP4-FP8)
@@ -3645,7 +3645,7 @@ Chưng cất một tác vụ phân loại Jev lặp lại thành một mô hình
 Trò chơi, robot, trình duyệt và bảng điều khiển. Demo là cách khiến các tuyên bố về độ trễ và chi phí trở nên dễ hiểu.
 
 <details>
-<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1081 · Astro · 👁️ observed · 6 天</summary>
+<summary>🎮 <b><a href="https://github.com/heyjunpenn/awesome-jev">heyjunpenn/awesome-jev</a></b> · ⭐1082 · Astro · 👁️ observed · 6 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3663,18 +3663,18 @@ A verified, community-maintained catalog of 997 open-source projects built with 
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **1081**   |
-| Lần push cuối        | 2026-11-12 |
-| Lần đầu được liệt kê | 2026-10-29 |
+| Chỉ số               | Giá trị       |
+| -------------------- | ------------- |
+| Sao                  | **1082** (+1) |
+| Lần push cuối        | 2026-11-12    |
+| Lần đầu được liệt kê | 2026-10-29    |
 
 🏷 `astro` · `awesome` · `awesome-jev` · `awesome-list` · `jev` · `typesafe`
 
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/droidrun/mobile-jev">droidrun/mobile-jev</a></b> · ⭐471 · JavaScript · 👁️ observed · 62 天</summary>
+<summary>🎮 <b><a href="https://github.com/droidrun/mobile-jev">droidrun/mobile-jev</a></b> · ⭐472 · JavaScript · 👁️ observed · 62 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3692,11 +3692,11 @@ Nguồn gốc không công bố mô tả nào.
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **471**    |
-| Lần push cuối        | 2026-09-17 |
-| Lần đầu được liệt kê | 2026-11-08 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **472** (+1) |
+| Lần push cuối        | 2026-09-17   |
+| Lần đầu được liệt kê | 2026-11-08   |
 
 </details>
 
@@ -3862,7 +3862,7 @@ Các quyết định PowerShell với mô hình Jev của TypeSafe AI: https://t
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/southleft/component-charades">southleft/component-charades</a></b> · ⭐2 · TypeScript · 👁️ observed · 1 天</summary>
+<summary>🎮 <b><a href="https://github.com/southleft/component-charades">southleft/component-charades</a></b> · ⭐2 · TypeScript · 👁️ observed · 2 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3917,7 +3917,7 @@ Danh sách awesome đã được xác minh, phong phú ảnh chụp màn hình v
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
 | Sao                  | **1**      |
-| Lần push cuối        | 2026-11-18 |
+| Lần push cuối        | 2026-11-19 |
 | Lần đầu được liệt kê | 2026-09-21 |
 
 </details>
@@ -3948,7 +3948,7 @@ Danh sách awesome đã được xác minh, phong phú ảnh chụp màn hình v
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/chussenot/bryx">chussenot/bryx</a></b> · Rust · 👁️ observed · 1 天</summary>
+<summary>🎮 <b><a href="https://github.com/chussenot/bryx">chussenot/bryx</a></b> · Rust · 👁️ observed · 2 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -3980,11 +3980,11 @@ A single-player Brick game in Rust, rendered natively with wgpu. The game can pl
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/maxlbchung/system-one-harness">maxlbchung/system-one-harness</a></b> · Python · 👁️ observed · 2 天</summary>
+<summary>🎮 <b><a href="https://github.com/frederico-kluser/som-webcore">frederico-kluser/som-webcore</a></b> · Python · 👁️ observed · 0 天 · **NEW**</summary>
 
 ##### 📝 Tóm tắt
 
-A computer use harness for system one models
+Infraestrutura open-source de inferência WebGPU/Wasm32 em passada única para Condicionais Abstratas (JEV) no navegador. RFC/blueprint + memória CoALA.
 
 ##### 📌 Thông tin cơ bản
 
@@ -3999,8 +3999,17 @@ A computer use harness for system one models
 | Chỉ số               | Giá trị    |
 | -------------------- | ---------- |
 | Sao                  | **0**      |
-| Lần push cuối        | 2026-11-16 |
-| Lần đầu được liệt kê | 2026-11-17 |
+| Lần push cuối        | 2026-11-19 |
+| Lần đầu được liệt kê | 2026-11-19 |
+
+🏷 `browser-inference` · `edge-ai` · `jev` · `local-first` · `opfs` · `rust` · `som` · `system-one-models`
+
+---
+
+<table><tr><th align="center" width="50%">🖼 Hình ảnh</th><th align="center" width="50%">🎬 Video</th></tr><tr>
+<td align="center" valign="top"><img src="https://raw.githubusercontent.com/wh000wh000/awesome-jev-live/main/media/frederico-kluser--som-webcore/c8c01a4a13bb7812.png" width="100%" alt="frederico-kluser/som-webcore screenshot"></td>
+<td align="center" valign="top"><sub>không công bố media</sub></td>
+</tr></table>
 
 </details>
 
@@ -4081,7 +4090,7 @@ Xtags: a Chrome extension that labels each post in an X timeline with what it is
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐562 · TypeScript · 🔎 inferred · 11 天</summary>
+<summary>🎮 <b><a href="https://github.com/superagents-lab/jev-search">superagents-lab/jev-search</a></b> · ⭐563 · TypeScript · 🔎 inferred · 11 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -4097,11 +4106,11 @@ Tìm kiếm web bằng Jev của TypeSafe: chọn nguồn, hiểu truy vấn và
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **562**    |
-| Lần push cuối        | 2026-11-07 |
-| Lần đầu được liệt kê | 2026-10-29 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **563** (+1) |
+| Lần push cuối        | 2026-11-07   |
+| Lần đầu được liệt kê | 2026-10-29   |
 
 ---
 
@@ -4177,7 +4186,7 @@ Một thử nghiệm suy luận trực quan mang tính giáo dục, tương tự
 </details>
 
 <details>
-<summary>🎮 <b><a href="https://github.com/aowang-ai/jev-trade">aowang-ai/jev-trade</a></b> · ⭐227 · TypeScript · 🔎 inferred · 6 天</summary>
+<summary>🎮 <b><a href="https://github.com/aowang-ai/jev-trade">aowang-ai/jev-trade</a></b> · ⭐228 · TypeScript · 🔎 inferred · 6 天 · ⭐+1</summary>
 
 ##### 📝 Tóm tắt
 
@@ -4193,11 +4202,11 @@ Bot giao dịch Jev trực tiếp trên Hyperliquid
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **227**    |
-| Lần push cuối        | 2026-11-12 |
-| Lần đầu được liệt kê | 2026-10-29 |
+| Chỉ số               | Giá trị      |
+| -------------------- | ------------ |
+| Sao                  | **228** (+1) |
+| Lần push cuối        | 2026-11-12   |
+| Lần đầu được liệt kê | 2026-10-29   |
 
 🏷 `hyperliquid` · `jev` · `quantitative-finance` · `typesafe`
 
@@ -4213,8 +4222,9 @@ Bot giao dịch Jev trực tiếp trên Hyperliquid
 </details>
 
 <details>
-<summary><b>Thêm trong danh mục này</b> <sub>· 32</sub></summary>
+<summary><b>Thêm trong danh mục này</b> <sub>· 33</sub></summary>
 
+- [maxlbchung/system-one-harness](https://github.com/maxlbchung/system-one-harness) - A computer use harness for system one models.
 - [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) - Một quyết định giao dịch AI trong mỗi block Monad. Jev trên Kuru MON-USDC.
 - [moritzkremb/jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) - Điều khiển một trình duyệt thực bằng giọng nói.
 - [kevinbadi/jev-voice](https://github.com/kevinbadi/jev-voice) - Nói chuyện với Mac của bạn. whisper.cpp cục bộ + một lệnh gọi Jev (TypeSafe)…
@@ -4811,7 +4821,7 @@ Máy chủ quyết định System One mở, tương thích Jev trên DiffusionGe
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/logan-markewich/jeff">logan-markewich/jeff</a></b> · ⭐321 · Python · 👁️ observed · 59 天</summary>
+<summary>🧩 <b><a href="https://github.com/logan-markewich/jeff">logan-markewich/jeff</a></b> · ⭐321 · Python · 👁️ observed · 60 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -4904,7 +4914,7 @@ An on-demand crypto market intelligence and decision-support terminal powered by
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/brianbell-x/codehygiene">brianbell-x/codehygiene</a></b> · ⭐217 · Python · 👁️ observed · 0 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/brianbell-x/codehygiene">brianbell-x/codehygiene</a></b> · ⭐217 · Python · 👁️ observed · 0 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -4920,11 +4930,11 @@ A tiny system one model for code readability and hygiene.
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị      |
-| -------------------- | ------------ |
-| Sao                  | **217** (+1) |
-| Lần push cuối        | 2026-11-18   |
-| Lần đầu được liệt kê | 2026-11-15   |
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Sao                  | **217**    |
+| Lần push cuối        | 2026-11-19 |
+| Lần đầu được liệt kê | 2026-11-15 |
 
 </details>
 
@@ -5088,7 +5098,7 @@ One-stop automated decision modeling solution, build your own fine-tuned Laya mo
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/factbag/factbag">factbag/factbag</a></b> · ⭐1 · TypeScript · 👁️ observed · 0 天</summary>
+<summary>🧩 <b><a href="https://github.com/factbag/factbag">factbag/factbag</a></b> · ⭐1 · TypeScript · 👁️ observed · 1 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -5158,7 +5168,7 @@ Combine narrow judgments from System One models with explicit rules in a knowled
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐10049 · Python · 🔎 inferred · 3 天 · ⭐+1</summary>
+<summary>🧩 <b><a href="https://github.com/jaredpalmer/kev">jaredpalmer/kev</a></b> · ⭐10049 · Python · 🔎 inferred · 3 天</summary>
 
 ##### 📝 Tóm tắt
 
@@ -5174,11 +5184,11 @@ Họ mô hình quyết định giống Jev, được xây dựng trên Qwen3.5/3
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị        |
-| -------------------- | -------------- |
-| Sao                  | **10049** (+1) |
-| Lần push cuối        | 2026-11-15     |
-| Lần đầu được liệt kê | 2026-11-08     |
+| Chỉ số               | Giá trị    |
+| -------------------- | ---------- |
+| Sao                  | **10049**  |
+| Lần push cuối        | 2026-11-15 |
+| Lần đầu được liệt kê | 2026-11-08 |
 
 🏷 `decision-model` · `jev` · `qwen3`
 
@@ -5192,7 +5202,7 @@ Họ mô hình quyết định giống Jev, được xây dựng trên Qwen3.5/3
 </details>
 
 <details>
-<summary>🧩 <b><a href="https://github.com/AgriciDaniel/jev-seo">AgriciDaniel/jev-seo</a></b> · ⭐997 · Python · 🔎 inferred · 57 天</summary>
+<summary>🧩 <b><a href="https://github.com/AgriciDaniel/jev-seo">AgriciDaniel/jev-seo</a></b> · ⭐1000 · Python · 🔎 inferred · 58 天 · ⭐+3</summary>
 
 ##### 📝 Tóm tắt
 
@@ -5208,11 +5218,11 @@ Kiểm tra SEO trực tiếp cho bất kỳ trang web nào chỉ từ một URL 
 
 ##### 📊 Dữ liệu
 
-| Chỉ số               | Giá trị    |
-| -------------------- | ---------- |
-| Sao                  | **997**    |
-| Lần push cuối        | 2026-09-22 |
-| Lần đầu được liệt kê | 2026-11-08 |
+| Chỉ số               | Giá trị       |
+| -------------------- | ------------- |
+| Sao                  | **1000** (+3) |
+| Lần push cuối        | 2026-09-22    |
+| Lần đầu được liệt kê | 2026-11-08    |
 
 ---
 
@@ -5250,10 +5260,10 @@ Kiểm tra SEO trực tiếp cho bất kỳ trang web nào chỉ từ một URL 
 - [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments)
 - [1Panel-dev/laya-server](https://github.com/1Panel-dev/laya-server) - Một API tự lưu trữ và giao diện web cho các mô hình quyết định có cấu trúc của…
 - [Abhinavexists/lev](https://github.com/Abhinavexists/lev) - Một mô hình quyết định System One mở.
+- [zfkarl/MedJev](https://github.com/zfkarl/MedJev) - MedJev: A System One Vision-Language Decision Model for Fast and Effective…
 - [2951461586/Jev-Register-Tool](https://github.com/2951461586/Jev-Register-Tool) - Công cụ toàn quy trình TypeSafe（Jev / System One）đăng ký → email xác nhận →…
 - [I-You-Dream/jev-from-scratch](https://github.com/I-You-Dream/jev-from-scratch) - 从零开源复刻 Jev（System One）决策模型范式，基于 Qwen 基座训练，支持 Choice / Noul 原语，包含推理、微调、ECE…
 - [Jev-Engineering/cookbook](https://github.com/Jev-Engineering/cookbook) - Sáu mươi công thức notebook cho các quyết định có kiểu với Jev: các mẫu Choice…
-- [zfkarl/MedJev](https://github.com/zfkarl/MedJev) - MedJev: A System One Vision-Language Decision Model for Fast and Effective…
 - [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) - Các phán định System One (noul/choice/score) từ bất kỳ LLM nào trong một lần…
 - [OmniAI-Lab-CUHKSZ/Jev_Survey](https://github.com/OmniAI-Lab-CUHKSZ/Jev_Survey) - Jev-Like Models and Decision Systems: A Survey.
 - [nvkudva/ollajev](https://github.com/nvkudva/ollajev) - Chạy cục bộ các mô hình quyết định System One từ Hugging Face phía sau Jev /…
@@ -5293,11 +5303,11 @@ Hệ sinh thái tập trung vào Python và TypeScript, nhưng các client có k
 
 | Ngôn ngữ   | Mục | Ví dụ                                                                                                   |
 | ---------- | --- | ------------------------------------------------------------------------------------------------------- |
-| Python     | 355 | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
+| Python     | 358 | `typesafe-ai/system-one-adapter-python`, `typesafe-ai/typesafe-sdk-python`, `typesafe-ai/WorkflowEvals` |
 | TypeScript | 141 | `typesafe-ai/typesafe-sdk-js`, `TypeSafeAI/jev-harness`, `erik-hedstrom/loadout`                        |
 | JavaScript | 68  | `clouatre-labs/decisions-judge-mcp`, `chrismarchant/jev-router`, `Ying-Kai-Liao/jev-browser`            |
-| Rust       | 30  | `ollaya-dev/ollaya`, `AkashPriyadarshii/jev-curate`, `chussenot/judgment`                               |
-| HTML       | 27  | `typesafe-ai/typesafe-ai.github.io`, `AkashPriyadarshii/jev-superpowers`, `yzfly/awesome-jev-zh`        |
+| Rust       | 31  | `ollaya-dev/ollaya`, `AkashPriyadarshii/jev-curate`, `chussenot/judgment`                               |
+| HTML       | 26  | `typesafe-ai/typesafe-ai.github.io`, `AkashPriyadarshii/jev-superpowers`, `yzfly/awesome-jev-zh`        |
 | Jupyter    | 16  | `jexp/neo4jev`, `GitHub30/OpenJev`, `Query-farm/vgi-typesafe`                                           |
 | Go         | 11  | `rcarmo/go-system-one`, `devbackend/jevgo`, `JimmyWesley/rlcd-gateway`                                  |
 | C#         | 10  | `elbruno/ElBruno.AI.Decisions`, `CMaintz/jev-dotnet`, `saibimajdi/typesafeai-dotnet-sdk`                |
@@ -5329,4 +5339,4 @@ Mọi đính chính đều được hoan nghênh và là cách nhanh nhất đ�
 
 <sub>Dự án cộng đồng độc lập. Không liên kết, không được TypeSafe AI bảo trợ hay thẩm định. Hành vi sản phẩm, giá, giới hạn và bí danh model có thể thay đổi mà không báo trước; hãy kiểm chứng mọi thứ quan trọng với tài liệu chính thức. Tài nguyên vẫn thuộc quyền sở hữu của các dự án gốc và chỉ được tái tạo khi giấy phép cho phép.</sub>
 
-<sub>Tạo bởi · 2026-11-19T07:41:25+08:00</sub>
+<sub>Tạo bởi · 2026-11-19T09:48:29+08:00</sub>

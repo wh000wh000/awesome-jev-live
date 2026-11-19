@@ -9395,3 +9395,9 @@
 - `+` [shihabalratul/Jev-chess](https://github.com/shihabalratul/Jev-chess) — inferred / routing-guardrails — ⭐0
 - `+` [duketopceo/jev-compact](https://github.com/duketopceo/jev-compact) — inferred / agent-tooling — ⭐0
 - `+` [duketopceo/a0-plugin-jev-compact](https://github.com/duketopceo/a0-plugin-jev-compact) — inferred / agent-tooling — ⭐0
+
+## 2026-11-19T09:47:23+08:00
+- 收录总数 **804**；本次更新新增 **3**
+- `+` [iJaack/jev-calendar-rust](https://github.com/iJaack/jev-calendar-rust) — inferred / routing-guardrails — ⭐0
+- `+` [LuisFX/jev-lead-qualifier](https://github.com/LuisFX/jev-lead-qualifier) — inferred / routing-guardrails — ⭐0
+- `+` [frederico-kluser/som-webcore](https://github.com/frederico-kluser/som-webcore) — observed / apps-demos — ⭐0
