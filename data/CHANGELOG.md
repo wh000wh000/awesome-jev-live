@@ -9410,3 +9410,13 @@
 - `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [JamesANZ/ChatJev](https://github.com/JamesANZ/ChatJev) — inferred / other — ⭐0
+
+## 2026-11-19T14:01:49+08:00
+- 收录总数 **810**；本次更新新增 **7**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [coo-quack/jev-pii-checker](https://github.com/coo-quack/jev-pii-checker) — inferred / community-sdk — ⭐3
+- `+` [DavidObando/Cider](https://github.com/DavidObando/Cider) — unverified / community-sdk — ⭐3
+- `+` [kimanhdev1999/jev-devops-agent-template](https://github.com/kimanhdev1999/jev-devops-agent-template) — inferred / agent-tooling — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
+- `+` [beardthelion/jev-attack-path](https://github.com/beardthelion/jev-attack-path) — inferred / community-sdk — ⭐0
