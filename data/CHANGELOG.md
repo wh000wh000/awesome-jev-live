@@ -9456,3 +9456,17 @@
 - `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐4
 - `+` [smg1024/jev-router](https://github.com/smg1024/jev-router) — inferred / routing-guardrails — ⭐0
 - `+` [stephenlb/system-one-model](https://huggingface.co/stephenlb/system-one-model) — observed / research-models — ⭐0
+
+## 2026-11-20T00:40:07+08:00
+- 收录总数 **811**；本次更新新增 **11**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [jev-sec/jev-ids](https://github.com/jev-sec/jev-ids) — observed / other — ⭐34
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐1
+- `+` [kayyoo-naru/jev-ledger](https://github.com/kayyoo-naru/jev-ledger) — inferred / other — ⭐0
+- `+` [takasek/jev-form-fill](https://github.com/takasek/jev-form-fill) — inferred / other — ⭐0
+- `+` [aayushhzz/jev-lite](https://github.com/aayushhzz/jev-lite) — inferred / agent-tooling — ⭐0
+- `+` [Saadtamari/blink-jev-agent](https://github.com/Saadtamari/blink-jev-agent) — inferred / agent-tooling — ⭐0
+- `+` [WWStoryMode/jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — inferred / evaluation — ⭐0
+- `+` [klavdiy-core/jev-if-player](https://github.com/klavdiy-core/jev-if-player) — inferred / apps-demos — ⭐0
