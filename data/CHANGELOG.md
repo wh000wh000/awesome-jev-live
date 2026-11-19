@@ -9489,3 +9489,9 @@
 - `+` [Copperhorse/HRM_JEV](https://github.com/Copperhorse/HRM_JEV) — inferred / other — ⭐0
 - `+` [Itsabhinav28/jev-nav](https://github.com/Itsabhinav28/jev-nav) — inferred / agent-tooling — ⭐0
 - `+` [cookkie03/any-class](https://github.com/cookkie03/any-class) — observed / other — ⭐0
+
+## 2026-11-20T07:01:22+08:00
+- 收录总数 **802**；本次更新新增 **3**
+- `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
+- `+` [MatthewRuizDiaz/voicecom-jev](https://github.com/MatthewRuizDiaz/voicecom-jev) — inferred / apps-demos — ⭐0
+- `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
