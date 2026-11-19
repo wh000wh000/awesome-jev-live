@@ -9483,3 +9483,9 @@
 - `+` [Sriman-Kabilan/OKF_with_JEV-AI](https://github.com/Sriman-Kabilan/OKF_with_JEV-AI) — inferred / other — ⭐0
 - `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
 - `+` [Akkshar/jev-gate](https://github.com/Akkshar/jev-gate) — inferred / agent-tooling — ⭐0
+
+## 2026-11-20T04:54:17+08:00
+- 收录总数 **809**；本次更新新增 **3**
+- `+` [Copperhorse/HRM_JEV](https://github.com/Copperhorse/HRM_JEV) — inferred / other — ⭐0
+- `+` [Itsabhinav28/jev-nav](https://github.com/Itsabhinav28/jev-nav) — inferred / agent-tooling — ⭐0
+- `+` [cookkie03/any-class](https://github.com/cookkie03/any-class) — observed / other — ⭐0
