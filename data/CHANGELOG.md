@@ -9431,3 +9431,13 @@
 - `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [Chonyoomin/Email-Checker](https://github.com/Chonyoomin/Email-Checker) — observed / other — ⭐0
+
+## 2026-11-19T18:17:01+08:00
+- 收录总数 **811**；本次更新新增 **7**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [instax-dutta/sysone-bench](https://github.com/instax-dutta/sysone-bench) — inferred / evaluation — ⭐6
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐4
+- `+` [Wrenik/Jev-toolkit-Compiler](https://github.com/Wrenik/Jev-toolkit-Compiler) — inferred / community-sdk — ⭐1
+- `+` [soraaa013-ops/jev-eval-lab](https://github.com/soraaa013-ops/jev-eval-lab) — inferred / evaluation — ⭐0
+- `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
+- `+` [RicardoZ-kisara/cyber-jev](https://github.com/RicardoZ-kisara/cyber-jev) — inferred / routing-guardrails — ⭐0

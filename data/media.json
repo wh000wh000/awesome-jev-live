@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T16:09:05+08:00",
+ "generated_at": "2026-11-19T18:17:05+08:00",
  "entries": {
   "gh:typesafe-ai/skills": {
    "bundled": false,
@@ -179,7 +179,7 @@
     "poster": ""
    },
    "source": "link-list (no own media)",
-   "pushed_at": "2026-11-19T07:50:40Z"
+   "pushed_at": "2026-11-19T08:49:57Z"
   },
   "gh:yibie/awesome-jev": {
    "bundled": false,
@@ -567,7 +567,7 @@
     "poster": ""
    },
    "source": "link-list (no own media)",
-   "pushed_at": "2026-11-19T00:54:48Z"
+   "pushed_at": "2026-11-19T09:32:43Z"
   },
   "gh:Jessie-QingYu/jev-in-the-wild": {
    "bundled": false,
@@ -6266,7 +6266,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T02:29:04Z"
+   "pushed_at": "2026-11-19T08:57:08Z"
   },
   "gh:zerone-agents/jev-model-router": {
    "bundled": false,
@@ -6286,7 +6286,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-17T08:50:45Z"
+   "pushed_at": "2026-11-19T09:59:53Z"
   },
   "gh:MrKyaw/CognitiveMirror-Jev-MCP": {
    "bundled": true,
@@ -6307,26 +6307,6 @@
     "external": 0
    },
    "pushed_at": "2026-10-30T02:59:30Z"
-  },
-  "gh:exfoca/decision-model-lab-4JEV": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-10-20T18:21:26Z"
   },
   "gh:Hyper-AI-Lab/openclaw-jev": {
    "bundled": true,
@@ -8001,7 +7981,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T05:59:51Z"
+   "pushed_at": "2026-11-19T10:13:17Z"
   },
   "gh:frederico-kluser/jev-agent-skill": {
    "bundled": false,
@@ -10115,27 +10095,6 @@
    },
    "pushed_at": "2026-09-22T04:00:36Z"
   },
-  "gh:Agnuxo1/JEV-ORBITA-BuildArena-S02": {
-   "bundled": true,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "media/agnuxo1--jev-orbita-buildarena-s02/d1538c6fcfb4c922.gif",
-   "image_alt": "Agnuxo1/JEV-ORBITA-BuildArena-S02 screenshot",
-   "image_source": "https://raw.githubusercontent.com/Agnuxo1/JEV-ORBITA-BuildArena-S02/master/docs/assets/pipeline.gif",
-   "video": {
-    "state": "animated",
-    "src": "media/agnuxo1--jev-orbita-buildarena-s02/d1538c6fcfb4c922.gif",
-    "poster": "",
-    "source_url": "https://raw.githubusercontent.com/Agnuxo1/JEV-ORBITA-BuildArena-S02/master/docs/assets/pipeline.gif"
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 5,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-16T17:47:38Z"
-  },
   "gh:lalitsonawane/jev-snake": {
    "bundled": false,
    "license_ok": false,
@@ -10315,7 +10274,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T05:50:34Z"
+   "pushed_at": "2026-11-19T10:09:56Z"
   },
   "gh:mgd34msu/goodvibes": {
    "bundled": false,
@@ -10530,7 +10489,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:55:46Z"
+   "pushed_at": "2026-11-19T09:38:51Z"
   },
   "gh:backant-io/jevelry": {
    "bundled": true,
@@ -10735,7 +10694,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T05:49:24Z"
+   "pushed_at": "2026-11-19T09:58:53Z"
   },
   "gh:abhisheksharma001/jev-skill": {
    "bundled": true,
@@ -10775,7 +10734,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:53:05Z"
+   "pushed_at": "2026-11-19T10:08:31Z"
   },
   "gh:ZJU-OmniAI/Awesome-Jev": {
    "bundled": false,
@@ -11771,26 +11730,6 @@
    },
    "pushed_at": "2026-11-14T21:35:22Z"
   },
-  "gh:lucaslenglet/JevPlayground": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "MIT-0",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-15T00:20:50Z"
-  },
   "gh:arthurcolle/jev-pivot-lab": {
    "bundled": false,
    "license_ok": false,
@@ -12330,7 +12269,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:48:06Z"
+   "pushed_at": "2026-11-19T08:08:34Z"
   },
   "gh:LHCWN/arkui-sem": {
    "bundled": false,
@@ -12392,7 +12331,7 @@
     "external": 0
    },
    "image_reencoded": "gif pass 1 (0.3 MB)",
-   "pushed_at": "2026-11-19T05:27:17Z"
+   "pushed_at": "2026-11-19T09:26:09Z"
   },
   "gh:vincentlauriat/MailClassification.jev": {
    "bundled": true,
@@ -12472,7 +12411,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:58:35Z"
+   "pushed_at": "2026-11-19T08:12:11Z"
   },
   "gh:DreamBlooms/Jev-AutoLaya": {
    "bundled": true,
@@ -13051,7 +12990,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-18T14:15:28Z"
+   "pushed_at": "2026-11-19T08:09:38Z"
   },
   "gh:ismaildasci/claude-referee": {
    "bundled": true,
@@ -13538,26 +13477,6 @@
    },
    "pushed_at": "2026-11-18T09:47:06Z"
   },
-  "gh:mraad/duckdb-jev-spatial": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "Apache-2.0",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-18T12:43:19Z"
-  },
   "gh:bitranox/btx-skill-jev-judge": {
    "bundled": false,
    "license_ok": true,
@@ -13736,7 +13655,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-18T13:18:14Z"
+   "pushed_at": "2026-11-19T09:24:54Z"
   },
   "gh:Sriman-Kabilan/Rag_with_Jev_AI": {
    "bundled": false,
@@ -13816,7 +13735,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:57:55Z"
+   "pushed_at": "2026-11-19T08:15:03Z"
   },
   "gh:muyouzhi6/astrbot_plugin_jev_active_reply": {
    "bundled": false,
@@ -14102,26 +14021,6 @@
    },
    "pushed_at": "2026-11-18T22:04:50Z"
   },
-  "gh:duketopceo/a0-plugin-jev-compact": {
-   "bundled": false,
-   "license_ok": true,
-   "license": "MIT",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "none",
-    "src": "",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 1,
-    "videos": 0,
-    "external": 0
-   },
-   "pushed_at": "2026-11-18T21:58:25Z"
-  },
   "gh:duketopceo/jev-compact": {
    "bundled": false,
    "license_ok": true,
@@ -14185,26 +14084,6 @@
    },
    "pushed_at": "2026-11-18T23:31:27Z"
   },
-  "gh:armandodollia/ha-jev-voice-pipeline": {
-   "bundled": false,
-   "license_ok": false,
-   "license": "unknown",
-   "image": "",
-   "image_alt": "",
-   "image_source": "",
-   "video": {
-    "state": "external",
-    "src": "https://www.youtube.com/watch?v=bcGO7xre46o",
-    "poster": ""
-   },
-   "source": "readme",
-   "candidates": {
-    "images": 0,
-    "videos": 0,
-    "external": 1
-   },
-   "pushed_at": "2026-11-18T21:39:25Z"
-  },
   "gh:iJaack/jev-calendar-rust": {
    "bundled": false,
    "license_ok": false,
@@ -14223,7 +14102,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-18T23:35:08Z"
+   "pushed_at": "2026-11-19T09:00:23Z"
   },
   "gh:LuisFX/jev-lead-qualifier": {
    "bundled": true,
@@ -14283,7 +14162,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T02:57:27Z"
+   "pushed_at": "2026-11-19T08:27:27Z"
   },
   "gh:HikaruEgashira/jev-algorithms": {
    "bundled": true,
@@ -14357,7 +14236,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T07:56:10Z"
+   "pushed_at": "2026-11-19T08:38:55Z"
   },
   "gh:JamesANZ/ChatJev": {
    "bundled": true,
@@ -14458,7 +14337,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T04:47:03Z"
+   "pushed_at": "2026-11-19T08:41:16Z"
   },
   "gh:humandebri/IC-OpenJev": {
    "bundled": false,
@@ -14538,7 +14417,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T08:02:45Z"
+   "pushed_at": "2026-11-19T09:27:09Z"
   },
   "gh:Carol-lyh/Jeveration": {
    "bundled": true,
@@ -14558,7 +14437,7 @@
     "videos": 0,
     "external": 0
    },
-   "pushed_at": "2026-11-19T06:24:26Z"
+   "pushed_at": "2026-11-19T08:55:22Z"
   },
   "gh:Chonyoomin/Email-Checker": {
    "bundled": false,
@@ -14579,8 +14458,148 @@
     "external": 0
    },
    "pushed_at": "2026-11-19T07:26:43Z"
+  },
+  "gh:Wrenik/Jev-toolkit-Compiler": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T10:04:22Z"
+  },
+  "gh:frontierlabai/JevHub": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "external",
+    "src": "https://www.youtube.com/watch?v=Nq_lu5QT-fI",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 3,
+    "videos": 0,
+    "external": 2
+   },
+   "pushed_at": "2026-11-19T08:47:11Z"
+  },
+  "gh:atostivint/hermes-adaptive-effort": {
+   "bundled": true,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "media/atostivint--hermes-adaptive-effort/6b9bf9341af889cf.png",
+   "image_alt": "atostivint/hermes-adaptive-effort screenshot",
+   "image_source": "https://raw.githubusercontent.com/atostivint/hermes-adaptive-effort/master/docs/images/desktop-settings.png",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 4,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T08:34:16Z"
+  },
+  "gh:RicardoZ-kisara/cyber-jev": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "unknown",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T09:17:41Z"
+  },
+  "gh:instax-dutta/sysone-bench": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T10:05:14Z"
+  },
+  "gh:soraaa013-ops/jev-eval-lab": {
+   "bundled": false,
+   "license_ok": false,
+   "license": "NOASSERTION",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T09:02:32Z"
+  },
+  "gh:a3harva/jev-autofill": {
+   "bundled": false,
+   "license_ok": true,
+   "license": "MIT",
+   "image": "",
+   "image_alt": "",
+   "image_source": "",
+   "video": {
+    "state": "none",
+    "src": "",
+    "poster": ""
+   },
+   "source": "readme",
+   "candidates": {
+    "images": 0,
+    "videos": 0,
+    "external": 0
+   },
+   "pushed_at": "2026-11-19T09:29:16Z"
   }
  },
- "bundled_bytes": 179381699,
+ "bundled_bytes": 179278224,
  "bundled_files": 250
 }
