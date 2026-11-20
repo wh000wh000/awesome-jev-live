@@ -9591,3 +9591,15 @@
 - `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
 - `+` [slindelow/jev_optimizer](https://github.com/slindelow/jev_optimizer) — inferred / agent-tooling — ⭐0
 - `+` [NeuroImgLab/EEG-Jev](https://github.com/NeuroImgLab/EEG-Jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-21T04:16:04+08:00
+- 收录总数 **804**；本次更新新增 **9**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [teo-nex/jev-codex-harness](https://github.com/teo-nex/jev-codex-harness) — inferred / agent-tooling — ⭐22
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [charles161/jev](https://github.com/charles161/jev) — inferred / research-models — ⭐0
+- `+` [yonghongwu/JevNavAgent](https://github.com/yonghongwu/JevNavAgent) — inferred / agent-tooling — ⭐0
