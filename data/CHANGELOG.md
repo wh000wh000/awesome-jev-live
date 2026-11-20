@@ -9544,3 +9544,11 @@
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [Nhat-Nguyet/guardrail-chatbot-jev](https://github.com/Nhat-Nguyet/guardrail-chatbot-jev) — inferred / routing-guardrails — ⭐1
 - …另有 8 条新增
+
+## 2026-11-20T17:38:41+08:00
+- 收录总数 **808**；本次更新新增 **5**
+- `+` [Oscar-dzy/Awesome-jev-papers](https://github.com/Oscar-dzy/Awesome-jev-papers) — inferred / evaluation — ⭐21
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐9
+- `+` [4fuu/magpie-jev-utc](https://github.com/4fuu/magpie-jev-utc) — inferred / agent-tooling — ⭐0
+- `+` [mojlnmijh/JEV-AI-](https://github.com/mojlnmijh/JEV-AI-) — inferred / other — ⭐0
+- `+` [honeyychawla/jev-ad-intel](https://github.com/honeyychawla/jev-ad-intel) — inferred / community-sdk — ⭐0
