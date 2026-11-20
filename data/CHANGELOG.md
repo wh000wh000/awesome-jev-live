@@ -9570,3 +9570,16 @@
 - `+` [lucabae/jev-youtube](https://github.com/lucabae/jev-youtube) — inferred / routing-guardrails — ⭐0
 - `+` [jjy0230/SmartKey-Jev](https://github.com/jjy0230/SmartKey-Jev) — inferred / other — ⭐0
 - `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
+
+## 2026-11-21T00:02:15+08:00
+- 收录总数 **812**；本次更新新增 **10**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [LHCWN/arkui-sem](https://github.com/LHCWN/arkui-sem) — observed / agent-tooling — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐1
+- `+` [romain-cll/reflex-rag](https://github.com/romain-cll/reflex-rag) — observed / community-sdk — ⭐0
+- `+` [KoushikBose/Jev_Support_Triage](https://github.com/KoushikBose/Jev_Support_Triage) — inferred / routing-guardrails — ⭐0
