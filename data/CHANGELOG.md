@@ -9583,3 +9583,11 @@
 - `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐1
 - `+` [romain-cll/reflex-rag](https://github.com/romain-cll/reflex-rag) — observed / community-sdk — ⭐0
 - `+` [KoushikBose/Jev_Support_Triage](https://github.com/KoushikBose/Jev_Support_Triage) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-21T02:08:47+08:00
+- 收录总数 **800**；本次更新新增 **5**
+- `+` [mizchi/jev-test-filter](https://github.com/mizchi/jev-test-filter) — inferred / routing-guardrails — ⭐38
+- `+` [backmeupplz/jev_antispam_bot](https://github.com/backmeupplz/jev_antispam_bot) — inferred / routing-guardrails — ⭐22
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [slindelow/jev_optimizer](https://github.com/slindelow/jev_optimizer) — inferred / agent-tooling — ⭐0
+- `+` [NeuroImgLab/EEG-Jev](https://github.com/NeuroImgLab/EEG-Jev) — inferred / routing-guardrails — ⭐0
