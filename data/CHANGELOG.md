@@ -9603,3 +9603,11 @@
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [charles161/jev](https://github.com/charles161/jev) — inferred / research-models — ⭐0
 - `+` [yonghongwu/JevNavAgent](https://github.com/yonghongwu/JevNavAgent) — inferred / agent-tooling — ⭐0
+
+## 2026-11-21T06:23:28+08:00
+- 收录总数 **800**；本次更新新增 **5**
+- `+` [da-vinci-noob/pi-jev-model-router](https://github.com/da-vinci-noob/pi-jev-model-router) — inferred / routing-guardrails — ⭐15
+- `+` [frostaura/labs.demo.jev](https://github.com/frostaura/labs.demo.jev) — inferred / apps-demos — ⭐0
+- `+` [ys-qu/jev-ad-website](https://github.com/ys-qu/jev-ad-website) — inferred / other — ⭐0
+- `+` [siso-os/jev-agent-skills](https://github.com/siso-os/jev-agent-skills) — inferred / agent-tooling — ⭐0
+- `+` [MKDYasserH/system-one-model](https://github.com/MKDYasserH/system-one-model) — observed / other — ⭐0
