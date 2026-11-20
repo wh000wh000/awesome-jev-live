@@ -9495,3 +9495,9 @@
 - `+` [elanthus/news-briefing](https://github.com/elanthus/news-briefing) — inferred / community-sdk — ⭐4
 - `+` [MatthewRuizDiaz/voicecom-jev](https://github.com/MatthewRuizDiaz/voicecom-jev) — inferred / apps-demos — ⭐0
 - `+` [jeppevammenkristensen/jev-runner](https://github.com/jeppevammenkristensen/jev-runner) — inferred / community-sdk — ⭐0
+
+## 2026-11-20T09:07:35+08:00
+- 收录总数 **801**；本次更新新增 **3**
+- `+` [SampleBias/Jev_Onco_Statistical_Hierarchy](https://github.com/SampleBias/Jev_Onco_Statistical_Hierarchy) — inferred / community-sdk — ⭐4
+- `+` [Anahadd/jev-minecraft](https://github.com/Anahadd/jev-minecraft) — inferred / apps-demos — ⭐0
+- `+` [jbowensii/jev-mcp-unraid](https://github.com/jbowensii/jev-mcp-unraid) — inferred / agent-tooling — ⭐0
