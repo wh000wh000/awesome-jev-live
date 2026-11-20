@@ -9560,3 +9560,13 @@
 - `+` [alejandroparis17/router-jev](https://github.com/alejandroparis17/router-jev) — inferred / agent-tooling — ⭐0
 - `+` [mdimamhosen/jev](https://github.com/mdimamhosen/jev) — inferred / community-sdk — ⭐0
 - `+` [Shivam557/System-One-Model](https://github.com/Shivam557/System-One-Model) — observed / other — ⭐0
+
+## 2026-11-20T21:55:00+08:00
+- 收录总数 **807**；本次更新新增 **7**
+- `+` [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe) — unverified / other — ⭐66
+- `+` [guanghuang/coding-router-jev](https://github.com/guanghuang/coding-router-jev) — inferred / agent-tooling — ⭐2
+- `+` [QI-seven33/dsh-jev-mode](https://github.com/QI-seven33/dsh-jev-mode) — inferred / agent-tooling — ⭐1
+- `+` [byte5ai/omadia-jev-plugin](https://github.com/byte5ai/omadia-jev-plugin) — inferred / agent-tooling — ⭐0
+- `+` [lucabae/jev-youtube](https://github.com/lucabae/jev-youtube) — inferred / routing-guardrails — ⭐0
+- `+` [jjy0230/SmartKey-Jev](https://github.com/jjy0230/SmartKey-Jev) — inferred / other — ⭐0
+- `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
