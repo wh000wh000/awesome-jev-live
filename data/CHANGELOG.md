@@ -9507,3 +9507,11 @@
 - `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐49
 - `+` [hyspacex/jev-router](https://github.com/hyspacex/jev-router) — inferred / routing-guardrails — ⭐13
 - `+` [ros-claw/jev-nav](https://github.com/ros-claw/jev-nav) — inferred / other — ⭐0
+
+## 2026-11-20T13:22:07+08:00
+- 收录总数 **785**；本次更新新增 **5**
+- `+` [mattn/go-jev](https://github.com/mattn/go-jev) — inferred / community-sdk — ⭐46
+- `+` [ninehills/x-ai-detect](https://github.com/ninehills/x-ai-detect) — unverified / research-models — ⭐6
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [light-cheng/Light-Decision-MCP](https://github.com/light-cheng/Light-Decision-MCP) — observed / agent-tooling — ⭐0
+- `+` [dfdsgggg12/JEV-AI-](https://github.com/dfdsgggg12/JEV-AI-) — inferred / other — ⭐0
