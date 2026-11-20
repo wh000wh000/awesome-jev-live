@@ -9515,3 +9515,32 @@
 - `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
 - `+` [light-cheng/Light-Decision-MCP](https://github.com/light-cheng/Light-Decision-MCP) — observed / agent-tooling — ⭐0
 - `+` [dfdsgggg12/JEV-AI-](https://github.com/dfdsgggg12/JEV-AI-) — inferred / other — ⭐0
+
+## 2026-11-20T15:28:23+08:00
+- 收录总数 **812**；本次更新新增 **33**
+- `+` [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) — observed / other — ⭐3212
+- `+` [Mapika/decider](https://github.com/Mapika/decider) — observed / evaluation — ⭐1036
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [MCG-NJU/VideoJev](https://github.com/MCG-NJU/VideoJev) — observed / apps-demos — ⭐316
+- `+` [LiQiiiii/Jeva](https://github.com/LiQiiiii/Jeva) — observed / other — ⭐234
+- `+` [HarnessRouter/SystemOneHarness](https://github.com/HarnessRouter/SystemOneHarness) — observed / routing-guardrails — ⭐211
+- `+` [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) — observed / research-models — ⭐175
+- `+` [zfkarl/MedJev](https://github.com/zfkarl/MedJev) — inferred / other — ⭐89
+- `+` [iapp-technology/openthai-systemone](https://github.com/iapp-technology/openthai-systemone) — unverified / other — ⭐72
+- `+` [alanhuangyoo/OpenJev](https://github.com/alanhuangyoo/OpenJev) — inferred / agent-tooling — ⭐72
+- `+` [bilune/jev-design](https://github.com/bilune/jev-design) — inferred / apps-demos — ⭐64
+- `+` [Abhinavexists/lev](https://github.com/Abhinavexists/lev) — inferred / other — ⭐59
+- `+` [bodepudimuneendra-netizen/ConsciousDB](https://github.com/bodepudimuneendra-netizen/ConsciousDB) — observed / community-sdk — ⭐56
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [hotchpotch/bekko-system-one](https://github.com/hotchpotch/bekko-system-one) — unverified / evaluation — ⭐43
+- `+` [InterfazeAI/lev](https://github.com/InterfazeAI/lev) — unverified / other — ⭐30
+- `+` [OpenLAIR/lev](https://github.com/OpenLAIR/lev) — inferred / research-models — ⭐27
+- `+` [globalmpc/jev-router-effort](https://github.com/globalmpc/jev-router-effort) — inferred / routing-guardrails — ⭐15
+- `+` [nomadoor/ComfyUI-TypedDecision](https://github.com/nomadoor/ComfyUI-TypedDecision) — unverified / evaluation — ⭐11
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Nhat-Nguyet/guardrail-chatbot-jev](https://github.com/Nhat-Nguyet/guardrail-chatbot-jev) — inferred / routing-guardrails — ⭐1
+- …另有 8 条新增
