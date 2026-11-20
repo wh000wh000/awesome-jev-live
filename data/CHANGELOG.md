@@ -9501,3 +9501,9 @@
 - `+` [SampleBias/Jev_Onco_Statistical_Hierarchy](https://github.com/SampleBias/Jev_Onco_Statistical_Hierarchy) — inferred / community-sdk — ⭐4
 - `+` [Anahadd/jev-minecraft](https://github.com/Anahadd/jev-minecraft) — inferred / apps-demos — ⭐0
 - `+` [jbowensii/jev-mcp-unraid](https://github.com/jbowensii/jev-mcp-unraid) — inferred / agent-tooling — ⭐0
+
+## 2026-11-20T11:14:37+08:00
+- 收录总数 **801**；本次更新新增 **3**
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐49
+- `+` [hyspacex/jev-router](https://github.com/hyspacex/jev-router) — inferred / routing-guardrails — ⭐13
+- `+` [ros-claw/jev-nav](https://github.com/ros-claw/jev-nav) — inferred / other — ⭐0

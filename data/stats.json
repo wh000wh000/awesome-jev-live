@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-20T09:07:35+08:00",
+ "generated_at": "2026-11-20T11:14:37+08:00",
  "total": 801,
  "new_this_tick": 3,
  "by_category": {
   "official-sdk": 7,
-  "community-sdk": 135,
-  "agent-tooling": 249,
-  "routing-guardrails": 62,
+  "community-sdk": 134,
+  "agent-tooling": 250,
+  "routing-guardrails": 63,
   "evaluation": 86,
   "research-models": 61,
   "apps-demos": 46,
   "media-discussions": 72,
-  "other": 83
+  "other": 82
  },
  "by_evidence": {
   "official": 18,
@@ -24,9 +24,9 @@
   "community": 794
  },
  "by_language": {
-  "Python": 358,
-  "TypeScript": 137,
-  "JavaScript": 73,
+  "Python": 360,
+  "TypeScript": 136,
+  "JavaScript": 72,
   "Rust": 30,
   "HTML": 27,
   "Jupyter": 16,
@@ -54,5 +54,5 @@
  "repos": 732,
  "models": 7,
  "discussions": 13,
- "total_stars": 190435
+ "total_stars": 190534
 }
