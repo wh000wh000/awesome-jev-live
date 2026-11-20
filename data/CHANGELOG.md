@@ -9552,3 +9552,11 @@
 - `+` [4fuu/magpie-jev-utc](https://github.com/4fuu/magpie-jev-utc) — inferred / agent-tooling — ⭐0
 - `+` [mojlnmijh/JEV-AI-](https://github.com/mojlnmijh/JEV-AI-) — inferred / other — ⭐0
 - `+` [honeyychawla/jev-ad-intel](https://github.com/honeyychawla/jev-ad-intel) — inferred / community-sdk — ⭐0
+
+## 2026-11-20T19:47:48+08:00
+- 收录总数 **806**；本次更新新增 **5**
+- `+` [backant-io/jevelry](https://github.com/backant-io/jevelry) — inferred / agent-tooling — ⭐13
+- `+` [snjrusmn/jev-humanizer](https://github.com/snjrusmn/jev-humanizer) — inferred / agent-tooling — ⭐3
+- `+` [alejandroparis17/router-jev](https://github.com/alejandroparis17/router-jev) — inferred / agent-tooling — ⭐0
+- `+` [mdimamhosen/jev](https://github.com/mdimamhosen/jev) — inferred / community-sdk — ⭐0
+- `+` [Shivam557/System-One-Model](https://github.com/Shivam557/System-One-Model) — observed / other — ⭐0
