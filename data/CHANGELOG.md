@@ -9730,3 +9730,9 @@
 - `+` [cayoesn/llm-jev-engine](https://github.com/cayoesn/llm-jev-engine) — inferred / evaluation — ⭐0
 - `+` [SarathChandraBellam/jev-vs-llm-ticket-router](https://github.com/SarathChandraBellam/jev-vs-llm-ticket-router) — inferred / routing-guardrails — ⭐0
 - `+` [frederico-kluser/som-webcore](https://github.com/frederico-kluser/som-webcore) — observed / apps-demos — ⭐0
+
+## 2026-11-22T04:08:42+08:00
+- 收录总数 **792**；本次更新新增 **3**
+- `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐138
+- `+` [gogoymh/git-ontology-agent](https://github.com/gogoymh/git-ontology-agent) — unverified / agent-tooling — ⭐3
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
