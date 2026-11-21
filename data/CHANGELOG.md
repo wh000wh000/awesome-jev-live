@@ -9736,3 +9736,9 @@
 - `+` [mizchi/jev-lint](https://github.com/mizchi/jev-lint) — inferred / research-models — ⭐138
 - `+` [gogoymh/git-ontology-agent](https://github.com/gogoymh/git-ontology-agent) — unverified / agent-tooling — ⭐3
 - `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+
+## 2026-11-22T06:14:49+08:00
+- 收录总数 **793**；本次更新新增 **3**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [Kjev0/JevVPN](https://github.com/Kjev0/JevVPN) — inferred / apps-demos — ⭐0
