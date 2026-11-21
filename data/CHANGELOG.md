@@ -9646,3 +9646,32 @@
 - `+` [TuoZhang0902/JEVLab](https://github.com/TuoZhang0902/JEVLab) — inferred / other — ⭐1
 - `+` [yoshi47/jev-youtube-guard](https://github.com/yoshi47/jev-youtube-guard) — inferred / other — ⭐0
 - `+` [josephpconley/jev-demo](https://github.com/josephpconley/jev-demo) — inferred / community-sdk — ⭐0
+
+## 2026-11-21T15:23:38+08:00
+- 收录总数 **801**；本次更新新增 **53**
+- `+` [NanmiCoder/jev-arena](https://github.com/NanmiCoder/jev-arena) — inferred / apps-demos — ⭐125
+- `+` [intikhab49/open-jev-typed-decision-engine](https://github.com/intikhab49/open-jev-typed-decision-engine) — inferred / agent-tooling — ⭐51
+- `+` [zhangcy122/OpenJev](https://github.com/zhangcy122/OpenJev) — inferred / routing-guardrails — ⭐45
+- `+` [hawkymisc/typed-decision-bert](https://github.com/hawkymisc/typed-decision-bert) — unverified / other — ⭐35
+- `+` [yijunyu/jev-rs](https://github.com/yijunyu/jev-rs) — inferred / other — ⭐25
+- `+` [arjun988/Kev](https://github.com/arjun988/Kev) — inferred / community-sdk — ⭐22
+- `+` [iamtoomas/JevLint](https://github.com/iamtoomas/JevLint) — inferred / agent-tooling — ⭐15
+- `+` [us/jev-local](https://github.com/us/jev-local) — inferred / evaluation — ⭐13
+- `+` [Mawfyy/jevflow](https://github.com/Mawfyy/jevflow) — unverified / agent-tooling — ⭐13
+- `+` [nomadoor/ComfyUI-TypedDecision](https://github.com/nomadoor/ComfyUI-TypedDecision) — unverified / evaluation — ⭐11
+- `+` [mithril-lang/typed-decisions](https://github.com/mithril-lang/typed-decisions) — unverified / evaluation — ⭐10
+- `+` [sumleo/prompt2jev](https://github.com/sumleo/prompt2jev) — inferred / community-sdk — ⭐9
+- `+` [Mangaba-ai/brier](https://github.com/Mangaba-ai/brier) — unverified / evaluation — ⭐8
+- `+` [PerryLink/laya-mcp](https://github.com/PerryLink/laya-mcp) — inferred / agent-tooling — ⭐7
+- `+` [y0usaf/jev-lm](https://github.com/y0usaf/jev-lm) — inferred / evaluation — ⭐7
+- `+` [brida-ai/reflexbench](https://github.com/brida-ai/reflexbench) — observed / evaluation — ⭐7
+- `+` [tomek7667/cbjev](https://github.com/tomek7667/cbjev) — inferred / routing-guardrails — ⭐6
+- `+` [lgy1027/jevshield](https://github.com/lgy1027/jevshield) — inferred / agent-tooling — ⭐6
+- `+` [soderlind/ai-provider-for-jev](https://github.com/soderlind/ai-provider-for-jev) — observed / other — ⭐5
+- `+` [xingwudao/OpenJev](https://github.com/xingwudao/OpenJev) — observed / community-sdk — ⭐5
+- `+` [XingQiPan/rwkv-jev](https://github.com/XingQiPan/rwkv-jev) — inferred / other — ⭐5
+- `+` [bitnovus/jev-spam-eval](https://github.com/bitnovus/jev-spam-eval) — inferred / routing-guardrails — ⭐4
+- `+` [PAI-CUHK/SLEEPJEV](https://github.com/PAI-CUHK/SLEEPJEV) — inferred / community-sdk — ⭐4
+- `+` [aitofy-dev/jev-awesome-skills](https://github.com/aitofy-dev/jev-awesome-skills) — inferred / agent-tooling — ⭐4
+- `+` [iamtalha-arshad/ex_typesafe_ai](https://github.com/iamtalha-arshad/ex_typesafe_ai) — unverified / community-sdk — ⭐4
+- …另有 28 条新增
