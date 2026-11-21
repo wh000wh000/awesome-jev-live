@@ -9621,3 +9621,13 @@
 - `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
 - `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+
+## 2026-11-21T10:38:25+08:00
+- 收录总数 **799**；本次更新新增 **7**
+- `+` [abhishekswe/agent-fastpath](https://github.com/abhishekswe/agent-fastpath) — observed / agent-tooling — ⭐7
+- `+` [vahidkaargar/jade-decision-governance](https://github.com/vahidkaargar/jade-decision-governance) — inferred / agent-tooling — ⭐3
+- `+` [Ridlo543/systemone-judge](https://github.com/Ridlo543/systemone-judge) — unverified / community-sdk — ⭐3
+- `+` [david-j-lustig/jev-fantasy-football-manager](https://github.com/david-j-lustig/jev-fantasy-football-manager) — inferred / other — ⭐1
+- `+` [HikaruEgashira/jev-algorithms](https://github.com/HikaruEgashira/jev-algorithms) — inferred / evaluation — ⭐0
+- `+` [m8appz-dotcom/jev-contact-center-qa](https://github.com/m8appz-dotcom/jev-contact-center-qa) — inferred / other — ⭐0
+- `+` [Paveerongar/clef-spam-detection](https://github.com/Paveerongar/clef-spam-detection) — observed / other — ⭐0
