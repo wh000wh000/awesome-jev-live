@@ -9719,3 +9719,14 @@
 - `+` [Vultwo/dsh-jev-auto-approve](https://github.com/Vultwo/dsh-jev-auto-approve) — inferred / agent-tooling — ⭐0
 - `+` [andyrossa/ai-search-copilot](https://github.com/andyrossa/ai-search-copilot) — observed / community-sdk — ⭐0
 - `+` [Royarind/NewJev](https://github.com/Royarind/NewJev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-22T02:01:50+08:00
+- 收录总数 **793**；本次更新新增 **8**
+- `+` [mas-bandwidth/nova-sprint](https://github.com/mas-bandwidth/nova-sprint) — inferred / agent-tooling — ⭐22
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — observed / community-sdk — ⭐5
+- `+` [akiiwa-games/AgentCompass-Router](https://github.com/akiiwa-games/AgentCompass-Router) — inferred / community-sdk — ⭐5
+- `+` [schalkneethling/jev-lint](https://github.com/schalkneethling/jev-lint) — inferred / other — ⭐1
+- `+` [Lasimeri/XKS_Jev-like_Model_Base](https://github.com/Lasimeri/XKS_Jev-like_Model_Base) — inferred / other — ⭐0
+- `+` [cayoesn/llm-jev-engine](https://github.com/cayoesn/llm-jev-engine) — inferred / evaluation — ⭐0
+- `+` [SarathChandraBellam/jev-vs-llm-ticket-router](https://github.com/SarathChandraBellam/jev-vs-llm-ticket-router) — inferred / routing-guardrails — ⭐0
+- `+` [frederico-kluser/som-webcore](https://github.com/frederico-kluser/som-webcore) — observed / apps-demos — ⭐0
