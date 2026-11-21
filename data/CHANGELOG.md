@@ -9695,3 +9695,13 @@
 - `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [kevinyin9/next-steps-jev](https://github.com/kevinyin9/next-steps-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-21T21:47:44+08:00
+- 收录总数 **803**；本次更新新增 **7**
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐109
+- `+` [teo-nex/jev-codex-harness](https://github.com/teo-nex/jev-codex-harness) — inferred / agent-tooling — ⭐22
+- `+` [albri/nxk](https://github.com/albri/nxk) — inferred / agent-tooling — ⭐4
+- `+` [kierandotai/jev-scout](https://github.com/kierandotai/jev-scout) — inferred / agent-tooling — ⭐3
+- `+` [ritchieking/jev](https://github.com/ritchieking/jev) — inferred / other — ⭐0
+- `+` [StarDust0083-GP03/jev-router-for-pi](https://github.com/StarDust0083-GP03/jev-router-for-pi) — inferred / agent-tooling — ⭐0
+- `+` [michalflowers245-alt/shanju-planet-content-workbench-jev-dev](https://github.com/michalflowers245-alt/shanju-planet-content-workbench-jev-dev) — inferred / other — ⭐0
