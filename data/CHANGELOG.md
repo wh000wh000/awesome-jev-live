@@ -9675,3 +9675,11 @@
 - `+` [aitofy-dev/jev-awesome-skills](https://github.com/aitofy-dev/jev-awesome-skills) — inferred / agent-tooling — ⭐4
 - `+` [iamtalha-arshad/ex_typesafe_ai](https://github.com/iamtalha-arshad/ex_typesafe_ai) — unverified / community-sdk — ⭐4
 - …另有 28 条新增
+
+## 2026-11-21T17:32:55+08:00
+- 收录总数 **803**；本次更新新增 **5**
+- `+` [pambrose/jev4k](https://github.com/pambrose/jev4k) — inferred / community-sdk — ⭐12
+- `+` [mikecann/magic-jev-ball](https://github.com/mikecann/magic-jev-ball) — inferred / routing-guardrails — ⭐2
+- `+` [jonra/atlas-jev](https://github.com/jonra/atlas-jev) — observed / agent-tooling — ⭐0
+- `+` [fdsfserrrr/JEV-AI-](https://github.com/fdsfserrrr/JEV-AI-) — inferred / other — ⭐0
+- `+` [amapara27/jev-pilot](https://github.com/amapara27/jev-pilot) — inferred / other — ⭐0
