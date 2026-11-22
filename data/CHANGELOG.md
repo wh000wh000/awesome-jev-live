@@ -9796,3 +9796,14 @@
 - `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
 - `+` [rwjdk/jev-dotnet](https://github.com/rwjdk/jev-dotnet) — inferred / other — ⭐2
 - `+` [samstealth/system-one-model-tweaks](https://github.com/samstealth/system-one-model-tweaks) — observed / other — ⭐0
+
+## 2026-11-22T23:07:49+08:00
+- 收录总数 **796**；本次更新新增 **8**
+- `+` [muxso/Shepherd](https://github.com/muxso/Shepherd) — inferred / agent-tooling — ⭐15
+- `+` [Kevthetech143/super-jev](https://github.com/Kevthetech143/super-jev) — inferred / other — ⭐14
+- `+` [Nyarlathoteppppp/pi-jev-context](https://github.com/Nyarlathoteppppp/pi-jev-context) — inferred / agent-tooling — ⭐12
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [JuneYaooo/medical-jev-train](https://github.com/JuneYaooo/medical-jev-train) — inferred / evaluation — ⭐3
+- `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
+- `+` [suenot/jev-bots-bench](https://github.com/suenot/jev-bots-bench) — inferred / evaluation — ⭐0
+- `+` [vamshibobby/jev-tau2-harness](https://github.com/vamshibobby/jev-tau2-harness) — inferred / agent-tooling — ⭐0
