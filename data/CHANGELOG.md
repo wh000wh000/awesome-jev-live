@@ -9753,3 +9753,9 @@
 - 收录总数 **791**；本次更新新增 **2**
 - `+` [nibzard/decision-model-benchmark](https://github.com/nibzard/decision-model-benchmark) — unverified / evaluation — ⭐13
 - `+` [dys-org/pi-jev-gate](https://github.com/dys-org/pi-jev-gate) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-22T12:34:05+08:00
+- 收录总数 **791**；本次更新新增 **3**
+- `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
+- `+` [raunaqgupta/somewhat-magical-jev-ball](https://github.com/raunaqgupta/somewhat-magical-jev-ball) — inferred / other — ⭐0
+- `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
