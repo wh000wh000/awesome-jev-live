@@ -9831,3 +9831,9 @@
 - `+` [brida-ai/sdk](https://github.com/brida-ai/sdk) — inferred / community-sdk — ⭐4
 - `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
 - `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐1
+
+## 2026-11-23T05:26:16+08:00
+- 收录总数 **793**；本次更新新增 **3**
+- `+` [brida-ai/reflex](https://github.com/brida-ai/reflex) — observed / agent-tooling — ⭐4
+- `+` [chaitanya-y/typesafe-jev-workflows](https://github.com/chaitanya-y/typesafe-jev-workflows) — inferred / agent-tooling — ⭐0
+- `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
