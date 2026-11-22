@@ -9807,3 +9807,17 @@
 - `+` [SanHsien/jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — inferred / apps-demos — ⭐1
 - `+` [suenot/jev-bots-bench](https://github.com/suenot/jev-bots-bench) — inferred / evaluation — ⭐0
 - `+` [vamshibobby/jev-tau2-harness](https://github.com/vamshibobby/jev-tau2-harness) — inferred / agent-tooling — ⭐0
+
+## 2026-11-23T01:13:47+08:00
+- 收录总数 **803**；本次更新新增 **11**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [Nyarlathoteppppp/pi-heed](https://github.com/Nyarlathoteppppp/pi-heed) — inferred / agent-tooling — ⭐13
+- `+` [avalonreset/legends-jev](https://github.com/avalonreset/legends-jev) — inferred / community-sdk — ⭐5
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐1
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐1
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [Der-Klumpen/whk-jev-analysis](https://github.com/Der-Klumpen/whk-jev-analysis) — observed / other — ⭐0
+- `+` [SebastianDrako/SOMe-Agents](https://github.com/SebastianDrako/SOMe-Agents) — observed / agent-tooling — ⭐0
