@@ -9759,3 +9759,25 @@
 - `+` [onlyoasis/awesome-jev-cases](https://github.com/onlyoasis/awesome-jev-cases) — inferred / media-discussions — ⭐4
 - `+` [raunaqgupta/somewhat-magical-jev-ball](https://github.com/raunaqgupta/somewhat-magical-jev-ball) — inferred / other — ⭐0
 - `+` [moruku36/jev-learning-quest](https://github.com/moruku36/jev-learning-quest) — inferred / agent-tooling — ⭐0
+
+## 2026-11-22T16:47:32+08:00
+- 收录总数 **803**；本次更新新增 **19**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [DataZooDE/anofox-decide](https://github.com/DataZooDE/anofox-decide) — unverified / agent-tooling — ⭐4
+- `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Antony-12s/hermes-jev-quota-routing](https://github.com/Antony-12s/hermes-jev-quota-routing) — inferred / agent-tooling — ⭐0
+- `+` [rambmehta/jev-migration-analyzer](https://github.com/rambmehta/jev-migration-analyzer) — inferred / agent-tooling — ⭐0
+- `+` [bloosiee/jev-rag-toolbox](https://github.com/bloosiee/jev-rag-toolbox) — inferred / evaluation — ⭐0
+- `+` [coredweller/MonsterJevActionalizer](https://github.com/coredweller/MonsterJevActionalizer) — inferred / other — ⭐0
+- `+` [Twilight-Fanyi/RSI-Jev-v6-1-VL-27B-NPU-model](https://github.com/Twilight-Fanyi/RSI-Jev-v6-1-VL-27B-NPU-model) — inferred / community-sdk — ⭐0
+- `+` [jangsik1986-bot/jev-sim](https://github.com/jangsik1986-bot/jev-sim) — inferred / routing-guardrails — ⭐0
+- `+` [415Aurora/jev-navi](https://github.com/415Aurora/jev-navi) — inferred / research-models — ⭐0
+- `+` [joe-sida/jev-job-search-windows](https://github.com/joe-sida/jev-job-search-windows) — inferred / agent-tooling — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
