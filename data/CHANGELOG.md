@@ -9742,3 +9742,9 @@
 - `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
 - `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
 - `+` [Kjev0/JevVPN](https://github.com/Kjev0/JevVPN) — inferred / apps-demos — ⭐0
+
+## 2026-11-22T08:21:28+08:00
+- 收录总数 **792**；本次更新新增 **3**
+- `+` [evan-py-chen/jev-survey](https://github.com/evan-py-chen/jev-survey) — observed / research-models — ⭐1
+- `+` [xiaocongyu66/llama.cpp-jev-adapter](https://github.com/xiaocongyu66/llama.cpp-jev-adapter) — inferred / community-sdk — ⭐0
+- `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
