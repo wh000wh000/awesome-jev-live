@@ -9788,3 +9788,11 @@
 - `+` [hs094/Jev-Plays-Chess](https://github.com/hs094/Jev-Plays-Chess) — observed / apps-demos — ⭐0
 - `+` [jjhhhkkj/IT--JEV-AI-](https://github.com/jjhhhkkj/IT--JEV-AI-) — inferred / other — ⭐0
 - `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
+
+## 2026-11-22T21:01:32+08:00
+- 收录总数 **794**；本次更新新增 **5**
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐230
+- `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [rwjdk/jev-dotnet](https://github.com/rwjdk/jev-dotnet) — inferred / other — ⭐2
+- `+` [samstealth/system-one-model-tweaks](https://github.com/samstealth/system-one-model-tweaks) — observed / other — ⭐0
