@@ -9821,3 +9821,13 @@
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [Der-Klumpen/whk-jev-analysis](https://github.com/Der-Klumpen/whk-jev-analysis) — observed / other — ⭐0
 - `+` [SebastianDrako/SOMe-Agents](https://github.com/SebastianDrako/SOMe-Agents) — observed / agent-tooling — ⭐0
+
+## 2026-11-23T03:20:15+08:00
+- 收录总数 **801**；本次更新新增 **7**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [the-sof/home-assistant-typesafe-conversation-agent](https://github.com/the-sof/home-assistant-typesafe-conversation-agent) — inferred / agent-tooling — ⭐10
+- `+` [assistant-ui/jevia](https://github.com/assistant-ui/jevia) — inferred / agent-tooling — ⭐10
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [brida-ai/sdk](https://github.com/brida-ai/sdk) — inferred / community-sdk — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [pablozr/JevGuard](https://github.com/pablozr/JevGuard) — inferred / agent-tooling — ⭐1
