@@ -9781,3 +9781,10 @@
 - `+` [415Aurora/jev-navi](https://github.com/415Aurora/jev-navi) — inferred / research-models — ⭐0
 - `+` [joe-sida/jev-job-search-windows](https://github.com/joe-sida/jev-job-search-windows) — inferred / agent-tooling — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+
+## 2026-11-22T18:54:50+08:00
+- 收录总数 **796**；本次更新新增 **4**
+- `+` [JiaWeiXie/jev-enhanced-plugin](https://github.com/JiaWeiXie/jev-enhanced-plugin) — observed / agent-tooling — ⭐1
+- `+` [hs094/Jev-Plays-Chess](https://github.com/hs094/Jev-Plays-Chess) — observed / apps-demos — ⭐0
+- `+` [jjhhhkkj/IT--JEV-AI-](https://github.com/jjhhhkkj/IT--JEV-AI-) — inferred / other — ⭐0
+- `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
