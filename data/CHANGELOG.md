@@ -9837,3 +9837,7 @@
 - `+` [brida-ai/reflex](https://github.com/brida-ai/reflex) — observed / agent-tooling — ⭐4
 - `+` [chaitanya-y/typesafe-jev-workflows](https://github.com/chaitanya-y/typesafe-jev-workflows) — inferred / agent-tooling — ⭐0
 - `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
+
+## 2026-11-23T07:32:11+08:00
+- 收录总数 **790**；本次更新新增 **1**
+- `+` [marchexe/jev-evaluation-lab](https://github.com/marchexe/jev-evaluation-lab) — inferred / evaluation — ⭐1
