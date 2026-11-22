@@ -9748,3 +9748,8 @@
 - `+` [evan-py-chen/jev-survey](https://github.com/evan-py-chen/jev-survey) — observed / research-models — ⭐1
 - `+` [xiaocongyu66/llama.cpp-jev-adapter](https://github.com/xiaocongyu66/llama.cpp-jev-adapter) — inferred / community-sdk — ⭐0
 - `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
+
+## 2026-11-22T10:27:54+08:00
+- 收录总数 **791**；本次更新新增 **2**
+- `+` [nibzard/decision-model-benchmark](https://github.com/nibzard/decision-model-benchmark) — unverified / evaluation — ⭐13
+- `+` [dys-org/pi-jev-gate](https://github.com/dys-org/pi-jev-gate) — inferred / routing-guardrails — ⭐0
