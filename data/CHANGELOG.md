@@ -9915,3 +9915,11 @@
 - `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
 - `+` [Der-Klumpen/whk-jev-analysis](https://github.com/Der-Klumpen/whk-jev-analysis) — observed / other — ⭐0
 - `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-24T00:39:49+08:00
+- 收录总数 **788**；本次更新新增 **5**
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / routing-guardrails — ⭐8
+- `+` [superjammy/JevExperiment](https://github.com/superjammy/JevExperiment) — inferred / agent-tooling — ⭐0
+- `+` [jackzhang0925/35b-jev](https://github.com/jackzhang0925/35b-jev) — inferred / community-sdk — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
