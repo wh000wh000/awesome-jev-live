@@ -9940,3 +9940,19 @@
 - `+` [LinkedInLearning/Build-with-Decision-Models-in-30-Minutes-Jev-Kev-and-the-OpenAI-Decisions-API-29277003](https://github.com/LinkedInLearning/Build-with-Decision-Models-in-30-Minutes-Jev-Kev-and-the-OpenAI-Decisions-API-29277003) — inferred / other — ⭐0
 - `+` [hteariH/stopspam-jev-bot](https://github.com/hteariH/stopspam-jev-bot) — inferred / evaluation — ⭐0
 - `+` [rbalch/ouija](https://github.com/rbalch/ouija) — observed / community-sdk — ⭐0
+
+## 2026-11-24T04:55:07+08:00
+- 收录总数 **797**；本次更新新增 **13**
+- `+` [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) — inferred / community-sdk — ⭐51
+- `+` [mas-bandwidth/nova-sprint](https://github.com/mas-bandwidth/nova-sprint) — inferred / agent-tooling — ⭐22
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐9
+- `+` [Tatuck/jev-boe-demo](https://github.com/Tatuck/jev-boe-demo) — inferred / apps-demos — ⭐2
+- `+` [StillOSdev/jev-verify](https://github.com/StillOSdev/jev-verify) — inferred / other — ⭐1
+- `+` [danieljohnmorris/omp-jev-router](https://github.com/danieljohnmorris/omp-jev-router) — inferred / agent-tooling — ⭐0
+- `+` [rttq/jev_board](https://github.com/rttq/jev_board) — inferred / other — ⭐0
+- `+` [danvega/jev-comment-moderation](https://github.com/danvega/jev-comment-moderation) — inferred / routing-guardrails — ⭐0
+- `+` [BargLabs/jev-judge-calibration](https://github.com/BargLabs/jev-judge-calibration) — observed / agent-tooling — ⭐0
+- `+` [AutoPasha/jev-inbox-triage](https://github.com/AutoPasha/jev-inbox-triage) — inferred / routing-guardrails — ⭐0
+- `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
+- `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
+- `+` [frederico-kluser/som-webcore](https://github.com/frederico-kluser/som-webcore) — observed / apps-demos — ⭐0
