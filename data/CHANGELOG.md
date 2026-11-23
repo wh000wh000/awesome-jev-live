@@ -9899,3 +9899,19 @@
 - `+` [AkashPriyadarshii/jev-stars](https://github.com/AkashPriyadarshii/jev-stars) — inferred / community-sdk — ⭐1
 - `+` [knowlet/agentworld-web-simulator](https://github.com/knowlet/agentworld-web-simulator) — observed / agent-tooling — ⭐0
 - `+` [omnaiduu/jev](https://github.com/omnaiduu/jev) — inferred / evaluation — ⭐0
+
+## 2026-11-23T22:30:55+08:00
+- 收录总数 **789**；本次更新新增 **13**
+- `+` [teo-nex/jev-codex-harness](https://github.com/teo-nex/jev-codex-harness) — inferred / agent-tooling — ⭐22
+- `+` [masseater/cc-jev-teacher](https://github.com/masseater/cc-jev-teacher) — inferred / agent-tooling — ⭐1
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐1
+- `+` [PerseoAgencyAutomations/n8n-nodes-jev-gate](https://github.com/PerseoAgencyAutomations/n8n-nodes-jev-gate) — inferred / routing-guardrails — ⭐0
+- `+` [zavaii/jev-code-review](https://github.com/zavaii/jev-code-review) — inferred / community-sdk — ⭐0
+- `+` [sususu98/pi-jev-navigator](https://github.com/sususu98/pi-jev-navigator) — inferred / community-sdk — ⭐0
+- `+` [neurogabo/jev-arena](https://github.com/neurogabo/jev-arena) — inferred / apps-demos — ⭐0
+- `+` [yasumorishima/jev-baseball](https://github.com/yasumorishima/jev-baseball) — inferred / evaluation — ⭐0
+- `+` [Sandesh-S-Dalvi/playwright-jev-testing](https://github.com/Sandesh-S-Dalvi/playwright-jev-testing) — inferred / other — ⭐0
+- `+` [danielmaciejpytel/jev-lanepilot](https://github.com/danielmaciejpytel/jev-lanepilot) — inferred / agent-tooling — ⭐0
+- `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
+- `+` [Der-Klumpen/whk-jev-analysis](https://github.com/Der-Klumpen/whk-jev-analysis) — observed / other — ⭐0
+- `+` [arterialist/jev-robot](https://github.com/arterialist/jev-robot) — inferred / routing-guardrails — ⭐0
