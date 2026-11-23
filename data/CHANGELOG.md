@@ -9867,3 +9867,14 @@
 - `+` [m8appz-dotcom/jev-contact-center-qa](https://github.com/m8appz-dotcom/jev-contact-center-qa) — inferred / community-sdk — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-23T16:08:11+08:00
+- 收录总数 **795**；本次更新新增 **8**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [usail-hkust/JevLight](https://github.com/usail-hkust/JevLight) — inferred / other — ⭐11
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [AI45Lab/JevDuo](https://github.com/AI45Lab/JevDuo) — inferred / routing-guardrails — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
