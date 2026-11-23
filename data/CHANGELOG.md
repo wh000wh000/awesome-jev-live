@@ -9923,3 +9923,20 @@
 - `+` [jackzhang0925/35b-jev](https://github.com/jackzhang0925/35b-jev) — inferred / community-sdk — ⭐0
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [gedremsisep-lgtm/jev-empreendimentos](https://github.com/gedremsisep-lgtm/jev-empreendimentos) — inferred / other — ⭐0
+
+## 2026-11-24T02:47:28+08:00
+- 收录总数 **795**；本次更新新增 **14**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [SimpleJev/JevAny](https://github.com/SimpleJev/JevAny) — inferred / evaluation — ⭐142
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [TraxSharp/Trax](https://github.com/TraxSharp/Trax) — inferred / community-sdk — ⭐8
+- `+` [Temikus/lgtm](https://github.com/Temikus/lgtm) — unverified / other — ⭐6
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [xlennart/dsh-auto-review-jev](https://github.com/xlennart/dsh-auto-review-jev) — inferred / agent-tooling — ⭐1
+- `+` [LinkedInLearning/Build-with-Decision-Models-in-30-Minutes-Jev-Kev-and-the-OpenAI-Decisions-API-29277003](https://github.com/LinkedInLearning/Build-with-Decision-Models-in-30-Minutes-Jev-Kev-and-the-OpenAI-Decisions-API-29277003) — inferred / other — ⭐0
+- `+` [hteariH/stopspam-jev-bot](https://github.com/hteariH/stopspam-jev-bot) — inferred / evaluation — ⭐0
+- `+` [rbalch/ouija](https://github.com/rbalch/ouija) — observed / community-sdk — ⭐0
