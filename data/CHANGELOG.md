@@ -9889,3 +9889,13 @@
 - `+` [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) — observed / agent-tooling — ⭐0
 - `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
 - `+` [amarpai/flight-logs-non-generative-decision-using-jev](https://github.com/amarpai/flight-logs-non-generative-decision-using-jev) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-23T20:22:57+08:00
+- 收录总数 **789**；本次更新新增 **7**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [manjunathshiva/opendecider](https://github.com/manjunathshiva/opendecider) — inferred / evaluation — ⭐42
+- `+` [nima1313/jev-captcha](https://github.com/nima1313/jev-captcha) — inferred / other — ⭐1
+- `+` [AkashPriyadarshii/jev-stars](https://github.com/AkashPriyadarshii/jev-stars) — inferred / community-sdk — ⭐1
+- `+` [knowlet/agentworld-web-simulator](https://github.com/knowlet/agentworld-web-simulator) — observed / agent-tooling — ⭐0
+- `+` [omnaiduu/jev](https://github.com/omnaiduu/jev) — inferred / evaluation — ⭐0
