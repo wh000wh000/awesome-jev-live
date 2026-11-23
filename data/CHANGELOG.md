@@ -9956,3 +9956,10 @@
 - `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
 - `+` [felixglush/jev-dynamic-ui](https://github.com/felixglush/jev-dynamic-ui) — inferred / apps-demos — ⭐0
 - `+` [frederico-kluser/som-webcore](https://github.com/frederico-kluser/som-webcore) — observed / apps-demos — ⭐0
+
+## 2026-11-24T07:02:26+08:00
+- 收录总数 **797**；本次更新新增 **4**
+- `+` [Civalski/claujev](https://github.com/Civalski/claujev) — inferred / agent-tooling — ⭐8
+- `+` [EventumAI/jev-builds](https://github.com/EventumAI/jev-builds) — observed / evaluation — ⭐0
+- `+` [lbke/langchain-jev-tool-calling](https://github.com/lbke/langchain-jev-tool-calling) — inferred / agent-tooling — ⭐0
+- `+` [soh-arch/percentile-ranked-triage](https://github.com/soh-arch/percentile-ranked-triage) — observed / routing-guardrails — ⭐0
