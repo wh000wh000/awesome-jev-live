@@ -9878,3 +9878,14 @@
 - `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [fanweiya/gomoku-jev](https://github.com/fanweiya/gomoku-jev) — inferred / other — ⭐0
+
+## 2026-11-23T18:15:40+08:00
+- 收录总数 **789**；本次更新新增 **8**
+- `+` [marcreichel/laya-php](https://github.com/marcreichel/laya-php) — inferred / community-sdk — ⭐115
+- `+` [kataras/jev](https://github.com/kataras/jev) — inferred / community-sdk — ⭐8
+- `+` [Dino-Kupinic/blackrose](https://github.com/Dino-Kupinic/blackrose) — inferred / routing-guardrails — ⭐6
+- `+` [agent-ix/sapho](https://github.com/agent-ix/sapho) — observed / community-sdk — ⭐2
+- `+` [danekkalivoda/jev-skill](https://github.com/danekkalivoda/jev-skill) — inferred / agent-tooling — ⭐0
+- `+` [nosial/FederationJevGuard](https://github.com/nosial/FederationJevGuard) — observed / agent-tooling — ⭐0
+- `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
+- `+` [amarpai/flight-logs-non-generative-decision-using-jev](https://github.com/amarpai/flight-logs-non-generative-decision-using-jev) — inferred / routing-guardrails — ⭐0
