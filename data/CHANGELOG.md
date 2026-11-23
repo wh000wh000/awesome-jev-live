@@ -9858,3 +9858,12 @@
 - `+` [quietlight/nu_plugin_jev](https://github.com/quietlight/nu_plugin_jev) — inferred / agent-tooling — ⭐0
 - `+` [suraj-phanindra/jev-position-audit](https://github.com/suraj-phanindra/jev-position-audit) — observed / other — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-23T13:59:46+08:00
+- 收录总数 **793**；本次更新新增 **6**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [m-esm/fast-jev-compaction](https://github.com/m-esm/fast-jev-compaction) — inferred / agent-tooling — ⭐1
+- `+` [m8appz-dotcom/jev-contact-center-qa](https://github.com/m8appz-dotcom/jev-contact-center-qa) — inferred / community-sdk — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [stormchen-cpu/JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — inferred / routing-guardrails — ⭐0
