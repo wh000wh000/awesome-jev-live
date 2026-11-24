@@ -9977,3 +9977,12 @@
 - `+` [aaaldo/opencode-jev](https://github.com/aaaldo/opencode-jev) — inferred / evaluation — ⭐0
 - `+` [terrense/Jev-Distillation-SFT-Qwen](https://github.com/terrense/Jev-Distillation-SFT-Qwen) — observed / research-models — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-24T11:16:51+08:00
+- 收录总数 **802**；本次更新新增 **6**
+- `+` [robertn702/reasoning-router](https://github.com/robertn702/reasoning-router) — inferred / community-sdk — ⭐4
+- `+` [jacquescogal/viva-recall](https://github.com/jacquescogal/viva-recall) — inferred / evaluation — ⭐3
+- `+` [turenlabs/lisa](https://github.com/turenlabs/lisa) — observed / other — ⭐1
+- `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
+- `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
+- `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
