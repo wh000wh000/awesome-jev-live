@@ -10053,3 +10053,11 @@
 - `+` [KemalG-u/jev-demo](https://github.com/KemalG-u/jev-demo) — inferred / routing-guardrails — ⭐0
 - `+` [vamshibobby/jev-tau2-harness](https://github.com/vamshibobby/jev-tau2-harness) — inferred / agent-tooling — ⭐0
 - `+` [hteariH/stopspam-jev-bot](https://github.com/hteariH/stopspam-jev-bot) — inferred / evaluation — ⭐0
+
+## 2026-11-25T00:21:43+08:00
+- 收录总数 **794**；本次更新新增 **5**
+- `+` [AutreMachine/bosco](https://github.com/AutreMachine/bosco) — unverified / community-sdk — ⭐5
+- `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐1
+- `+` [bakubay/jev-dfs-document-search](https://github.com/bakubay/jev-dfs-document-search) — inferred / evaluation — ⭐0
+- `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
+- `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐0
