@@ -10004,3 +10004,32 @@
 - `+` [fdsfserrrr/mk--JEV-AI-](https://github.com/fdsfserrrr/mk--JEV-AI-) — inferred / other — ⭐0
 - `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+
+## 2026-11-24T17:42:53+08:00
+- 收录总数 **800**；本次更新新增 **107**
+- `+` [Avinash-jetwani/jevmem](https://github.com/Avinash-jetwani/jevmem) — observed / agent-tooling — ⭐156
+- `+` [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — unverified / community-sdk — ⭐117
+- `+` [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) — inferred / agent-tooling — ⭐110
+- `+` [spring-ai-community/spring-ai-typesafe](https://github.com/spring-ai-community/spring-ai-typesafe) — unverified / other — ⭐67
+- `+` [PyModel/jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — inferred / agent-tooling — ⭐49
+- `+` [shaharia-lab/jev-cli](https://github.com/shaharia-lab/jev-cli) — inferred / community-sdk — ⭐47
+- `+` [hunkim/solar-mini4-jev](https://github.com/hunkim/solar-mini4-jev) — inferred / research-models — ⭐44
+- `+` [ZJU-REAL/CUA-JEV](https://github.com/ZJU-REAL/CUA-JEV) — inferred / agent-tooling — ⭐28
+- `+` [CheshiAI/Cheshi](https://github.com/CheshiAI/Cheshi) — inferred / community-sdk — ⭐19
+- `+` [win4r/jev-security-scan](https://github.com/win4r/jev-security-scan) — inferred / agent-tooling — ⭐11
+- `+` [replynodes/jev-web-analyzer](https://github.com/replynodes/jev-web-analyzer) — inferred / community-sdk — ⭐9
+- `+` [inso1337/revl](https://github.com/inso1337/revl) — inferred / agent-tooling — ⭐9
+- `+` [ljwwwiop/JEV-mini](https://github.com/ljwwwiop/JEV-mini) — inferred / research-models — ⭐7
+- `+` [caijinchun/nanojev-arena](https://github.com/caijinchun/nanojev-arena) — observed / agent-tooling — ⭐7
+- `+` [akiiwa-games/AgentCompass-Router](https://github.com/akiiwa-games/AgentCompass-Router) — inferred / community-sdk — ⭐6
+- `+` [smixs/jevchik](https://github.com/smixs/jevchik) — unverified / research-models — ⭐5
+- `+` [deep-diver/mini-jev](https://github.com/deep-diver/mini-jev) — inferred / research-models — ⭐5
+- `+` [kolawong/fast-compaction-dsh](https://github.com/kolawong/fast-compaction-dsh) — observed / agent-tooling — ⭐4
+- `+` [lirantal/discoprint](https://github.com/lirantal/discoprint) — unverified / community-sdk — ⭐4
+- `+` [illescasDaniel/jev-mem](https://github.com/illescasDaniel/jev-mem) — inferred / community-sdk — ⭐4
+- `+` [yuting-ai/minicpm5-2b-jev](https://github.com/yuting-ai/minicpm5-2b-jev) — inferred / research-models — ⭐3
+- `+` [hardkoded/typesafe-sdk-dotnet](https://github.com/hardkoded/typesafe-sdk-dotnet) — unverified / community-sdk — ⭐3
+- `+` [snjrusmn/jev-humanizer](https://github.com/snjrusmn/jev-humanizer) — inferred / agent-tooling — ⭐3
+- `+` [kierandotai/jev-scout](https://github.com/kierandotai/jev-scout) — inferred / agent-tooling — ⭐3
+- `+` [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) — inferred / community-sdk — ⭐2
+- …另有 82 条新增
