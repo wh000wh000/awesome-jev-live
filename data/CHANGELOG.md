@@ -10071,3 +10071,16 @@
 - `+` [productowner-ro/games](https://github.com/productowner-ro/games) — observed / apps-demos — ⭐1
 - `+` [Howardyh/gemini-codex-jev](https://github.com/Howardyh/gemini-codex-jev) — inferred / community-sdk — ⭐0
 - `+` [pedrovgo/jev-flashcards-api](https://github.com/pedrovgo/jev-flashcards-api) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-25T04:37:11+08:00
+- 收录总数 **793**；本次更新新增 **10**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [anisselbd/jev-phishing-bench](https://github.com/anisselbd/jev-phishing-bench) — inferred / agent-tooling — ⭐11
+- `+` [atostivint/hermes-adaptive-effort](https://github.com/atostivint/hermes-adaptive-effort) — unverified / agent-tooling — ⭐4
+- `+` [psygreg/agent-reflex](https://github.com/psygreg/agent-reflex) — inferred / agent-tooling — ⭐3
+- `+` [bobuk/pi-jewter](https://github.com/bobuk/pi-jewter) — inferred / agent-tooling — ⭐3
+- `+` [atoyangeor/jev-rubric-judge](https://github.com/atoyangeor/jev-rubric-judge) — inferred / other — ⭐0
+- `+` [electricganesha/webgpu-jev-boids](https://github.com/electricganesha/webgpu-jev-boids) — inferred / other — ⭐0
+- `+` [Unjuno/jev-dataset-studio](https://github.com/Unjuno/jev-dataset-studio) — inferred / other — ⭐0
+- `+` [hqvdvn-cmd/astra-jev-benchmark](https://github.com/hqvdvn-cmd/astra-jev-benchmark) — inferred / evaluation — ⭐0
