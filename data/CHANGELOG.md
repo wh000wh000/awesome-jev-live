@@ -9993,3 +9993,14 @@
 - `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐3
 - `+` [gusiqbal/claude-model-jev](https://github.com/gusiqbal/claude-model-jev) — inferred / agent-tooling — ⭐0
 - `+` [fghdhtfdu/JEV-AI-](https://github.com/fghdhtfdu/JEV-AI-) — inferred / other — ⭐0
+
+## 2026-11-24T15:32:09+08:00
+- 收录总数 **703**；本次更新新增 **8**
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [AnkitNayak-dev/QJev-1.5B](https://github.com/AnkitNayak-dev/QJev-1.5B) — inferred / research-models — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [DarkisuSu/Jev-Claude-Router](https://github.com/DarkisuSu/Jev-Claude-Router) — inferred / agent-tooling — ⭐1
+- `+` [m407/jev-grep](https://github.com/m407/jev-grep) — inferred / apps-demos — ⭐0
+- `+` [fdsfserrrr/mk--JEV-AI-](https://github.com/fdsfserrrr/mk--JEV-AI-) — inferred / other — ⭐0
+- `+` [a3harva/jev-autofill](https://github.com/a3harva/jev-autofill) — inferred / other — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
