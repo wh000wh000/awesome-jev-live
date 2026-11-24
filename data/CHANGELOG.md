@@ -9986,3 +9986,10 @@
 - `+` [netcode001/jev](https://github.com/netcode001/jev) — inferred / apps-demos — ⭐0
 - `+` [hierichhsu/your-cto-jev](https://github.com/hierichhsu/your-cto-jev) — inferred / community-sdk — ⭐0
 - `+` [humandebri/IC-OpenJev](https://github.com/humandebri/IC-OpenJev) — inferred / evaluation — ⭐0
+
+## 2026-11-24T13:24:41+08:00
+- 收录总数 **799**；本次更新新增 **4**
+- `+` [VBS2004/jevcut](https://github.com/VBS2004/jevcut) — unverified / community-sdk — ⭐10
+- `+` [wizicer/jev_info_site](https://github.com/wizicer/jev_info_site) — inferred / apps-demos — ⭐3
+- `+` [gusiqbal/claude-model-jev](https://github.com/gusiqbal/claude-model-jev) — inferred / agent-tooling — ⭐0
+- `+` [fghdhtfdu/JEV-AI-](https://github.com/fghdhtfdu/JEV-AI-) — inferred / other — ⭐0
