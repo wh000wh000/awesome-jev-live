@@ -10033,3 +10033,12 @@
 - `+` [kierandotai/jev-scout](https://github.com/kierandotai/jev-scout) — inferred / agent-tooling — ⭐3
 - `+` [NerdishShah/playwright-cli-jev-bakeoff](https://github.com/NerdishShah/playwright-cli-jev-bakeoff) — inferred / community-sdk — ⭐2
 - …另有 82 条新增
+
+## 2026-11-24T20:04:34+08:00
+- 收录总数 **797**；本次更新新增 **6**
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐4
+- `+` [Grok Bot Taught My Jev Agent to Play Smash Bros](https://news.ycombinator.com/item?id=50621336) — observed / media-discussions — ⭐2
+- `+` [Afloat16/jev-mcp](https://github.com/Afloat16/jev-mcp) — inferred / community-sdk — ⭐1
+- `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
+- `+` [zyqzyq18521/mk--JEV-AI-](https://github.com/zyqzyq18521/mk--JEV-AI-) — inferred / other — ⭐0
