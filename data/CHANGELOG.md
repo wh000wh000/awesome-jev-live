@@ -10084,3 +10084,8 @@
 - `+` [electricganesha/webgpu-jev-boids](https://github.com/electricganesha/webgpu-jev-boids) — inferred / other — ⭐0
 - `+` [Unjuno/jev-dataset-studio](https://github.com/Unjuno/jev-dataset-studio) — inferred / other — ⭐0
 - `+` [hqvdvn-cmd/astra-jev-benchmark](https://github.com/hqvdvn-cmd/astra-jev-benchmark) — inferred / evaluation — ⭐0
+
+## 2026-11-25T06:44:56+08:00
+- 收录总数 **788**；本次更新新增 **2**
+- `+` [Tucelos/JEV-IDS-Adversarial-2](https://github.com/Tucelos/JEV-IDS-Adversarial-2) — inferred / agent-tooling — ⭐0
+- `+` [bruno-olivaes/jev-ai-qa-observability-suite](https://github.com/bruno-olivaes/jev-ai-qa-observability-suite) — inferred / community-sdk — ⭐0
