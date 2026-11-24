@@ -10042,3 +10042,14 @@
 - `+` [Afloat16/jev-mcp](https://github.com/Afloat16/jev-mcp) — inferred / community-sdk — ⭐1
 - `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
 - `+` [zyqzyq18521/mk--JEV-AI-](https://github.com/zyqzyq18521/mk--JEV-AI-) — inferred / other — ⭐0
+
+## 2026-11-24T22:14:04+08:00
+- 收录总数 **797**；本次更新新增 **8**
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐109
+- `+` [madxmike/gallant](https://github.com/madxmike/gallant) — observed / other — ⭐26
+- `+` [X32Studio/Argus](https://github.com/X32Studio/Argus) — inferred / community-sdk — ⭐3
+- `+` [rszilagyi101/llm-vs-jev](https://github.com/rszilagyi101/llm-vs-jev) — inferred / apps-demos — ⭐0
+- `+` [KemalG-u/jev-teknik-arastirma](https://github.com/KemalG-u/jev-teknik-arastirma) — inferred / evaluation — ⭐0
+- `+` [KemalG-u/jev-demo](https://github.com/KemalG-u/jev-demo) — inferred / routing-guardrails — ⭐0
+- `+` [vamshibobby/jev-tau2-harness](https://github.com/vamshibobby/jev-tau2-harness) — inferred / agent-tooling — ⭐0
+- `+` [hteariH/stopspam-jev-bot](https://github.com/hteariH/stopspam-jev-bot) — inferred / evaluation — ⭐0
