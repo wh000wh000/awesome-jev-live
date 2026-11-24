@@ -10061,3 +10061,13 @@
 - `+` [bakubay/jev-dfs-document-search](https://github.com/bakubay/jev-dfs-document-search) — inferred / evaluation — ⭐0
 - `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
 - `+` [BramVR/jev-cli](https://github.com/BramVR/jev-cli) — inferred / community-sdk — ⭐0
+
+## 2026-11-25T02:29:51+08:00
+- 收录总数 **792**；本次更新新增 **7**
+- `+` [muxso/Shepherd](https://github.com/muxso/Shepherd) — inferred / agent-tooling — ⭐15
+- `+` [abhishekswe/agent-fastpath](https://github.com/abhishekswe/agent-fastpath) — observed / agent-tooling — ⭐8
+- `+` [soderlind/jev-comment-triage](https://github.com/soderlind/jev-comment-triage) — inferred / agent-tooling — ⭐3
+- `+` [DavidObando/Cider](https://github.com/DavidObando/Cider) — unverified / community-sdk — ⭐3
+- `+` [productowner-ro/games](https://github.com/productowner-ro/games) — observed / apps-demos — ⭐1
+- `+` [Howardyh/gemini-codex-jev](https://github.com/Howardyh/gemini-codex-jev) — inferred / community-sdk — ⭐0
+- `+` [pedrovgo/jev-flashcards-api](https://github.com/pedrovgo/jev-flashcards-api) — inferred / routing-guardrails — ⭐0
