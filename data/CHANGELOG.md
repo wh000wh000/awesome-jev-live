@@ -10139,3 +10139,9 @@
 - 收录总数 **787**；本次更新新增 **2**
 - `+` [bhhoang/soma](https://github.com/bhhoang/soma) — observed / other — ⭐0
 - `+` [TomatenMarc/Sycophancy-System-One-Models](https://github.com/TomatenMarc/Sycophancy-System-One-Models) — observed / other — ⭐0
+
+## 2026-11-25T21:37:10+08:00
+- 收录总数 **789**；本次更新新增 **3**
+- `+` [g33ky00/jev-decisions-app](https://github.com/g33ky00/jev-decisions-app) — inferred / apps-demos — ⭐0
+- `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
+- `+` [jmschnei/n4c-decision-broker](https://github.com/jmschnei/n4c-decision-broker) — observed / other — ⭐0
