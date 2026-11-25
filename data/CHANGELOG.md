@@ -10119,3 +10119,18 @@
 - `+` [FMXExpress/JevBan](https://github.com/FMXExpress/JevBan) — inferred / other — ⭐2
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [dexmac221/system-switch](https://github.com/dexmac221/system-switch) — observed / research-models — ⭐0
+
+## 2026-11-25T17:22:08+08:00
+- 收录总数 **796**；本次更新新增 **12**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [gogoymh/git-ontology-agent](https://github.com/gogoymh/git-ontology-agent) — unverified / agent-tooling — ⭐32
+- `+` [tumf/jev-cli](https://github.com/tumf/jev-cli) — inferred / community-sdk — ⭐23
+- `+` [rcarmo/go-system-one](https://github.com/rcarmo/go-system-one) — inferred / community-sdk — ⭐10
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Ki-Seki/jev-heuristic-adapter](https://github.com/Ki-Seki/jev-heuristic-adapter) — inferred / community-sdk — ⭐1
+- `+` [ga-ven/jev-chat-windows-patch-v0.1.12](https://github.com/ga-ven/jev-chat-windows-patch-v0.1.12) — inferred / other — ⭐0
