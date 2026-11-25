@@ -10134,3 +10134,8 @@
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [Ki-Seki/jev-heuristic-adapter](https://github.com/Ki-Seki/jev-heuristic-adapter) — inferred / community-sdk — ⭐1
 - `+` [ga-ven/jev-chat-windows-patch-v0.1.12](https://github.com/ga-ven/jev-chat-windows-patch-v0.1.12) — inferred / other — ⭐0
+
+## 2026-11-25T19:30:54+08:00
+- 收录总数 **787**；本次更新新增 **2**
+- `+` [bhhoang/soma](https://github.com/bhhoang/soma) — observed / other — ⭐0
+- `+` [TomatenMarc/Sycophancy-System-One-Models](https://github.com/TomatenMarc/Sycophancy-System-One-Models) — observed / other — ⭐0
