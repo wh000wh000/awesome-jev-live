@@ -10164,3 +10164,20 @@
 - 收录总数 **779**；本次更新新增 **2**
 - `+` [Strands Decider v2: open, calibrated system one models](https://news.ycombinator.com/item?id=50643915) — observed / media-discussions — ⭐2
 - `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T03:57:07+08:00
+- 收录总数 **792**；本次更新新增 **14**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [tshmieldev/sharp](https://github.com/tshmieldev/sharp) — inferred / routing-guardrails — ⭐33
+- `+` [wojciechwiesner/jit-context](https://github.com/wojciechwiesner/jit-context) — inferred / community-sdk — ⭐9
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [tearoom1/uniform-spam-words](https://github.com/tearoom1/uniform-spam-words) — unverified / agent-tooling — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [samadpls/onepass](https://github.com/samadpls/onepass) — inferred / evaluation — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [ekazakos/jev-atlas](https://github.com/ekazakos/jev-atlas) — inferred / research-models — ⭐1
+- `+` [soderlind/jev-mail-triage](https://github.com/soderlind/jev-mail-triage) — inferred / routing-guardrails — ⭐0
