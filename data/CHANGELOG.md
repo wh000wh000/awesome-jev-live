@@ -10104,3 +10104,11 @@
 - `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
 - `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
 - `+` [dengzhe-hou/EEGJev](https://github.com/dengzhe-hou/EEGJev) — inferred / evaluation — ⭐0
+
+## 2026-11-25T13:06:59+08:00
+- 收录总数 **789**；本次更新新增 **5**
+- `+` [bloosiee/jev-rag-toolbox](https://github.com/bloosiee/jev-rag-toolbox) — inferred / routing-guardrails — ⭐4
+- `+` [pnguyennhatha-ux/trend-radar-jev-treg](https://github.com/pnguyennhatha-ux/trend-radar-jev-treg) — inferred / agent-tooling — ⭐1
+- `+` [sjungwon03/jev-tetris-arena](https://github.com/sjungwon03/jev-tetris-arena) — inferred / apps-demos — ⭐0
+- `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
+- `+` [haibin16/xjyh-jev-1.3](https://huggingface.co/haibin16/xjyh-jev-1.3) — observed / research-models — ⭐0
