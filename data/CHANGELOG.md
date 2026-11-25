@@ -10112,3 +10112,10 @@
 - `+` [sjungwon03/jev-tetris-arena](https://github.com/sjungwon03/jev-tetris-arena) — inferred / apps-demos — ⭐0
 - `+` [KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing](https://github.com/KhoiNguyenDinh523/AIGW-JEV-Guardrail-Testing) — inferred / routing-guardrails — ⭐0
 - `+` [haibin16/xjyh-jev-1.3](https://huggingface.co/haibin16/xjyh-jev-1.3) — observed / research-models — ⭐0
+
+## 2026-11-25T15:14:13+08:00
+- 收录总数 **788**；本次更新新增 **4**
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [FMXExpress/JevBan](https://github.com/FMXExpress/JevBan) — inferred / other — ⭐2
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [dexmac221/system-switch](https://github.com/dexmac221/system-switch) — observed / research-models — ⭐0
