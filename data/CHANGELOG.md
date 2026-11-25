@@ -10097,3 +10097,10 @@
 - `+` [suraj-phanindra/jev-position-audit](https://github.com/suraj-phanindra/jev-position-audit) — observed / other — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
 - `+` [kvnloo/hermes-jev-skills-backup](https://github.com/kvnloo/hermes-jev-skills-backup) — inferred / agent-tooling — ⭐0
+
+## 2026-11-25T10:57:49+08:00
+- 收录总数 **788**；本次更新新增 **4**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [dengzhe-hou/EEGJev](https://github.com/dengzhe-hou/EEGJev) — inferred / evaluation — ⭐0
