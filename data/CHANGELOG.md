@@ -10159,3 +10159,8 @@
 - `+` [pedrovgo/jev-flashcards-api](https://github.com/pedrovgo/jev-flashcards-api) — inferred / routing-guardrails — ⭐0
 - `+` [MohammedFayeez123/jev-browser-agent](https://github.com/MohammedFayeez123/jev-browser-agent) — inferred / agent-tooling — ⭐0
 - `+` [MohammedFayeez123/jev-agent](https://github.com/MohammedFayeez123/jev-agent) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T01:50:51+08:00
+- 收录总数 **779**；本次更新新增 **2**
+- `+` [Strands Decider v2: open, calibrated system one models](https://news.ycombinator.com/item?id=50643915) — observed / media-discussions — ⭐2
+- `+` [skylence-org/claudecode-jev-marketplace](https://github.com/skylence-org/claudecode-jev-marketplace) — inferred / agent-tooling — ⭐0
