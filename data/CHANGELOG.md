@@ -10089,3 +10089,11 @@
 - 收录总数 **788**；本次更新新增 **2**
 - `+` [Tucelos/JEV-IDS-Adversarial-2](https://github.com/Tucelos/JEV-IDS-Adversarial-2) — inferred / agent-tooling — ⭐0
 - `+` [bruno-olivaes/jev-ai-qa-observability-suite](https://github.com/bruno-olivaes/jev-ai-qa-observability-suite) — inferred / community-sdk — ⭐0
+
+## 2026-11-25T08:51:05+08:00
+- 收录总数 **789**；本次更新新增 **5**
+- `+` [green-dalii/pi-shift-router](https://github.com/green-dalii/pi-shift-router) — inferred / agent-tooling — ⭐16
+- `+` [Santiago-j-s/jev-proxy](https://github.com/Santiago-j-s/jev-proxy) — inferred / apps-demos — ⭐0
+- `+` [suraj-phanindra/jev-position-audit](https://github.com/suraj-phanindra/jev-position-audit) — observed / other — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+- `+` [kvnloo/hermes-jev-skills-backup](https://github.com/kvnloo/hermes-jev-skills-backup) — inferred / agent-tooling — ⭐0
