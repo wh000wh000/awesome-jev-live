@@ -10181,3 +10181,9 @@
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [ekazakos/jev-atlas](https://github.com/ekazakos/jev-atlas) — inferred / research-models — ⭐1
 - `+` [soderlind/jev-mail-triage](https://github.com/soderlind/jev-mail-triage) — inferred / routing-guardrails — ⭐0
+
+## 2026-11-26T06:03:30+08:00
+- 收录总数 **786**；本次更新新增 **3**
+- `+` [juanlentino/tribar-connector-for-typesafe-jev](https://github.com/juanlentino/tribar-connector-for-typesafe-jev) — inferred / agent-tooling — ⭐4
+- `+` [BramVR/jev-batch](https://github.com/BramVR/jev-batch) — inferred / community-sdk — ⭐0
+- `+` [hqvdvn-cmd/astra-jev-benchmark](https://github.com/hqvdvn-cmd/astra-jev-benchmark) — inferred / evaluation — ⭐0
