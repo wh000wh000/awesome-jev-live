@@ -10145,3 +10145,17 @@
 - `+` [g33ky00/jev-decisions-app](https://github.com/g33ky00/jev-decisions-app) — inferred / apps-demos — ⭐0
 - `+` [ArsalanKaleem/sindhi-JEV](https://github.com/ArsalanKaleem/sindhi-JEV) — inferred / evaluation — ⭐0
 - `+` [jmschnei/n4c-decision-broker](https://github.com/jmschnei/n4c-decision-broker) — observed / other — ⭐0
+
+## 2026-11-25T23:43:44+08:00
+- 收录总数 **788**；本次更新新增 **11**
+- `+` [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) — inferred / community-sdk — ⭐323
+- `+` [HITsz-TMG/JevEmbed](https://github.com/HITsz-TMG/JevEmbed) — inferred / other — ⭐80
+- `+` [Joe-rq/ReJev](https://github.com/Joe-rq/ReJev) — inferred / research-models — ⭐22
+- `+` [2skr1996-cloud/kira-ai-plugin-multi-decision](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) — unverified / agent-tooling — ⭐3
+- `+` [StillOSdev/jev-verify](https://github.com/StillOSdev/jev-verify) — inferred / other — ⭐1
+- `+` [int-wc/src-guard-jev](https://github.com/int-wc/src-guard-jev) — inferred / other — ⭐1
+- `+` [gkrtjd99/Jev_Orchestration](https://github.com/gkrtjd99/Jev_Orchestration) — inferred / agent-tooling — ⭐0
+- `+` [01Joseph-Hwang10/pi-jev-router-pro](https://github.com/01Joseph-Hwang10/pi-jev-router-pro) — inferred / agent-tooling — ⭐0
+- `+` [pedrovgo/jev-flashcards-api](https://github.com/pedrovgo/jev-flashcards-api) — inferred / routing-guardrails — ⭐0
+- `+` [MohammedFayeez123/jev-browser-agent](https://github.com/MohammedFayeez123/jev-browser-agent) — inferred / agent-tooling — ⭐0
+- `+` [MohammedFayeez123/jev-agent](https://github.com/MohammedFayeez123/jev-agent) — inferred / agent-tooling — ⭐0
