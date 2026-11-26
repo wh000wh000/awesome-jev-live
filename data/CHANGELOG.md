@@ -10255,3 +10255,11 @@
 - `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐4
 - `+` [Treg People API powered by TypeSafeAI](https://news.ycombinator.com/item?id=50653011) — observed / media-discussions — ⭐3
 - `+` [gusiqbal/claude-model-jev](https://github.com/gusiqbal/claude-model-jev) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T20:52:54+08:00
+- 收录总数 **794**；本次更新新增 **5**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Jev is probably Qwen3.5-35B-A3B](https://news.ycombinator.com/item?id=50648823) — observed / media-discussions — ⭐318
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [ashishdhillon/jev-guard](https://github.com/ashishdhillon/jev-guard) — inferred / agent-tooling — ⭐0
+- `+` [RayMorTwinkle/QwenJev-Open](https://github.com/RayMorTwinkle/QwenJev-Open) — inferred / agent-tooling — ⭐0
