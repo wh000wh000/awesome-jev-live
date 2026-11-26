@@ -10198,3 +10198,15 @@
 - `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
 - `+` [ahati/pi-decision-model](https://github.com/ahati/pi-decision-model) — observed / research-models — ⭐0
 - `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T10:16:04+08:00
+- 收录总数 **791**；本次更新新增 **9**
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [ckorhonen/jev-lint](https://github.com/ckorhonen/jev-lint) — inferred / agent-tooling — ⭐19
+- `+` [kuhung/ask-jev](https://github.com/kuhung/ask-jev) — observed / other — ⭐14
+- `+` [allenporter/home-assistant-laya](https://github.com/allenporter/home-assistant-laya) — inferred / agent-tooling — ⭐10
+- `+` [kuhung/understanding-jev](https://github.com/kuhung/understanding-jev) — inferred / evaluation — ⭐6
+- `+` [actuallyrizzn/decision-systems-bakeoff](https://github.com/actuallyrizzn/decision-systems-bakeoff) — unverified / research-models — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [slashdaemon/jev-expert](https://github.com/slashdaemon/jev-expert) — inferred / agent-tooling — ⭐0
