@@ -10218,3 +10218,23 @@
 - `+` [kuldeepsinh19/jev-decision-gateway](https://github.com/kuldeepsinh19/jev-decision-gateway) — inferred / agent-tooling — ⭐0
 - `+` [Bscanto/Jev-EdgeSim-System-One-Models-for-Edge-Resource-Allocation](https://github.com/Bscanto/Jev-EdgeSim-System-One-Models-for-Edge-Resource-Allocation) — observed / other — ⭐0
 - `+` [Zoellent/xjyh-jev-1.3](https://huggingface.co/Zoellent/xjyh-jev-1.3) — observed / research-models — ⭐0
+
+## 2026-11-26T14:31:45+08:00
+- 收录总数 **795**；本次更新新增 **17**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [MiaoWuNYA/rikkahub-sillytavern-android](https://github.com/MiaoWuNYA/rikkahub-sillytavern-android) — unverified / community-sdk — ⭐243
+- `+` [guanxuyu-sv/Visual-Jev](https://github.com/guanxuyu-sv/Visual-Jev) — inferred / apps-demos — ⭐60
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [boyuh/Awesome-Jev](https://github.com/boyuh/Awesome-Jev) — inferred / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [Caph-dev/pi-jev-router](https://github.com/Caph-dev/pi-jev-router) — inferred / agent-tooling — ⭐1
+- `+` [inematds/jev-open](https://github.com/inematds/jev-open) — inferred / other — ⭐1
+- `+` [inematds/jev](https://github.com/inematds/jev) — inferred / other — ⭐1
+- `+` [kentKH245/jev-mode](https://github.com/kentKH245/jev-mode) — observed / agent-tooling — ⭐0
+- `+` [cheoljoo/open-jev](https://github.com/cheoljoo/open-jev) — inferred / other — ⭐0
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [inematds/jev-curso](https://github.com/inematds/jev-curso) — inferred / other — ⭐0
