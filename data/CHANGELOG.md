@@ -10187,3 +10187,14 @@
 - `+` [juanlentino/tribar-connector-for-typesafe-jev](https://github.com/juanlentino/tribar-connector-for-typesafe-jev) — inferred / agent-tooling — ⭐4
 - `+` [BramVR/jev-batch](https://github.com/BramVR/jev-batch) — inferred / community-sdk — ⭐0
 - `+` [hqvdvn-cmd/astra-jev-benchmark](https://github.com/hqvdvn-cmd/astra-jev-benchmark) — inferred / evaluation — ⭐0
+
+## 2026-11-26T08:09:27+08:00
+- 收录总数 **789**；本次更新新增 **8**
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Jev is (probably) Qwen3.5-35B-A3B](https://news.ycombinator.com/item?id=50648823) — observed / media-discussions — ⭐129
+- `+` [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) — inferred / community-sdk — ⭐52
+- `+` [justinhe16/trade-jev](https://github.com/justinhe16/trade-jev) — inferred / apps-demos — ⭐14
+- `+` [AlperKartkaya/FlightBench](https://github.com/AlperKartkaya/FlightBench) — inferred / evaluation — ⭐4
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [ahati/pi-decision-model](https://github.com/ahati/pi-decision-model) — observed / research-models — ⭐0
+- `+` [kangshifu1/jev-skills-market](https://github.com/kangshifu1/jev-skills-market) — inferred / agent-tooling — ⭐0
