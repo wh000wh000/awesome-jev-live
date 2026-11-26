@@ -10247,3 +10247,11 @@
 - `+` [win4r/jev-humanize-writing](https://github.com/win4r/jev-humanize-writing) — inferred / other — ⭐6
 - `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
 - `+` [Itsabhinav28/jev-nav](https://github.com/Itsabhinav28/jev-nav) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T18:46:46+08:00
+- 收录总数 **791**；本次更新新增 **5**
+- `+` [alexei-led/claude-router](https://github.com/alexei-led/claude-router) — inferred / agent-tooling — ⭐52
+- `+` [frontierlabai/JevHub](https://github.com/frontierlabai/JevHub) — inferred / agent-tooling — ⭐9
+- `+` [flaviomartil/herdr-jev](https://github.com/flaviomartil/herdr-jev) — inferred / agent-tooling — ⭐4
+- `+` [Treg People API powered by TypeSafeAI](https://news.ycombinator.com/item?id=50653011) — observed / media-discussions — ⭐3
+- `+` [gusiqbal/claude-model-jev](https://github.com/gusiqbal/claude-model-jev) — inferred / agent-tooling — ⭐0
