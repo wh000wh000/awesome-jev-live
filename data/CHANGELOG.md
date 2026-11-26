@@ -10268,3 +10268,11 @@
 - 收录总数 **783**；本次更新新增 **2**
 - `+` [globalmpc/jev-router-effort](https://github.com/globalmpc/jev-router-effort) — inferred / routing-guardrails — ⭐16
 - `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐2
+
+## 2026-11-27T01:06:12+08:00
+- 收录总数 **779**；本次更新新增 **5**
+- `+` [hybridgroup/jeyzma](https://github.com/hybridgroup/jeyzma) — observed / apps-demos — ⭐16
+- `+` [umstek/zero-shot-ie-bench](https://github.com/umstek/zero-shot-ie-bench) — inferred / evaluation — ⭐8
+- `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐1
+- `+` [NeuroImgLab/EEG-Jev](https://github.com/NeuroImgLab/EEG-Jev) — inferred / routing-guardrails — ⭐0
+- `+` [abannachbrown/jev-depression-evaluation](https://github.com/abannachbrown/jev-depression-evaluation) — inferred / evaluation — ⭐0
