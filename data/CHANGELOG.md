@@ -10263,3 +10263,8 @@
 - `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
 - `+` [ashishdhillon/jev-guard](https://github.com/ashishdhillon/jev-guard) — inferred / agent-tooling — ⭐0
 - `+` [RayMorTwinkle/QwenJev-Open](https://github.com/RayMorTwinkle/QwenJev-Open) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T22:59:21+08:00
+- 收录总数 **783**；本次更新新增 **2**
+- `+` [globalmpc/jev-router-effort](https://github.com/globalmpc/jev-router-effort) — inferred / routing-guardrails — ⭐16
+- `+` [social-jev/social-jev](https://github.com/social-jev/social-jev) — inferred / other — ⭐2
