@@ -10238,3 +10238,12 @@
 - `+` [cheoljoo/open-jev](https://github.com/cheoljoo/open-jev) — inferred / other — ⭐0
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [inematds/jev-curso](https://github.com/inematds/jev-curso) — inferred / other — ⭐0
+
+## 2026-11-26T16:39:58+08:00
+- 收录总数 **788**；本次更新新增 **6**
+- `+` [win4r/jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) — inferred / community-sdk — ⭐34
+- `+` [win4r/pi-jev-router](https://github.com/win4r/pi-jev-router) — inferred / agent-tooling — ⭐13
+- `+` [kaustav1996/reflex](https://github.com/kaustav1996/reflex) — unverified / agent-tooling — ⭐8
+- `+` [win4r/jev-humanize-writing](https://github.com/win4r/jev-humanize-writing) — inferred / other — ⭐6
+- `+` [izam-mohammed/decisionsmith](https://github.com/izam-mohammed/decisionsmith) — observed / agent-tooling — ⭐0
+- `+` [Itsabhinav28/jev-nav](https://github.com/Itsabhinav28/jev-nav) — inferred / agent-tooling — ⭐0
