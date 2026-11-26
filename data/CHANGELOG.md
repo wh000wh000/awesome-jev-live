@@ -10210,3 +10210,11 @@
 - `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
 - `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
 - `+` [slashdaemon/jev-expert](https://github.com/slashdaemon/jev-expert) — inferred / agent-tooling — ⭐0
+
+## 2026-11-26T12:23:04+08:00
+- 收录总数 **784**；本次更新新增 **5**
+- `+` [hj0302/jev-model-router](https://github.com/hj0302/jev-model-router) — inferred / agent-tooling — ⭐0
+- `+` [TheHazeEffect/jev-world-map](https://github.com/TheHazeEffect/jev-world-map) — observed / other — ⭐0
+- `+` [kuldeepsinh19/jev-decision-gateway](https://github.com/kuldeepsinh19/jev-decision-gateway) — inferred / agent-tooling — ⭐0
+- `+` [Bscanto/Jev-EdgeSim-System-One-Models-for-Edge-Resource-Allocation](https://github.com/Bscanto/Jev-EdgeSim-System-One-Models-for-Edge-Resource-Allocation) — observed / other — ⭐0
+- `+` [Zoellent/xjyh-jev-1.3](https://huggingface.co/Zoellent/xjyh-jev-1.3) — observed / research-models — ⭐0
