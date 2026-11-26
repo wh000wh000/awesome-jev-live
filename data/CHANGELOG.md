@@ -10276,3 +10276,8 @@
 - `+` [erik-hedstrom/loadout](https://github.com/erik-hedstrom/loadout) — observed / community-sdk — ⭐1
 - `+` [NeuroImgLab/EEG-Jev](https://github.com/NeuroImgLab/EEG-Jev) — inferred / routing-guardrails — ⭐0
 - `+` [abannachbrown/jev-depression-evaluation](https://github.com/abannachbrown/jev-depression-evaluation) — inferred / evaluation — ⭐0
+
+## 2026-11-27T03:12:08+08:00
+- 收录总数 **778**；本次更新新增 **2**
+- `+` [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) — unverified / apps-demos — ⭐10
+- `+` [Howardyh/gemini-codex-jev](https://github.com/Howardyh/gemini-codex-jev) — inferred / community-sdk — ⭐1
