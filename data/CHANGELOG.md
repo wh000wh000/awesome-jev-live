@@ -10317,3 +10317,9 @@
 - `+` [StellarieX/Heliotrope](https://github.com/StellarieX/Heliotrope) — unverified / other — ⭐5
 - `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
 - `+` [eduardo-xyz/jev-browser-mcp](https://github.com/eduardo-xyz/jev-browser-mcp) — inferred / agent-tooling — ⭐0
+
+## 2026-11-28T15:38:54+08:00
+- 收录总数 **790**；本次更新新增 **3**
+- `+` [blakestone-x/jev-mcp](https://github.com/blakestone-x/jev-mcp) — observed / agent-tooling — ⭐25
+- `+` [WiredMind2/jev](https://github.com/WiredMind2/jev) — inferred / evaluation — ⭐0
+- `+` [sport-viz/jev-guard](https://github.com/sport-viz/jev-guard) — inferred / agent-tooling — ⭐0
