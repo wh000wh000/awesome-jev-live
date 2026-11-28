@@ -10310,3 +10310,10 @@
 - `+` [JiaWeiXie/decision-enhanced-plugin](https://github.com/JiaWeiXie/decision-enhanced-plugin) — observed / agent-tooling — ⭐1
 - `+` [kitepon/jev-bookmarks](https://github.com/kitepon/jev-bookmarks) — inferred / community-sdk — ⭐1
 - …另有 29 条新增
+
+## 2026-11-28T13:33:32+08:00
+- 收录总数 **795**；本次更新新增 **4**
+- `+` [sutro-sh/jev-align](https://github.com/sutro-sh/jev-align) — inferred / community-sdk — ⭐323
+- `+` [StellarieX/Heliotrope](https://github.com/StellarieX/Heliotrope) — unverified / other — ⭐5
+- `+` [demirfahrieren-png/jev-canli-sonuclar](https://github.com/demirfahrieren-png/jev-canli-sonuclar) — inferred / other — ⭐0
+- `+` [eduardo-xyz/jev-browser-mcp](https://github.com/eduardo-xyz/jev-browser-mcp) — inferred / agent-tooling — ⭐0
