@@ -10347,3 +10347,10 @@
 - `+` [rwjdk/jev-dotnet](https://github.com/rwjdk/jev-dotnet) — inferred / other — ⭐2
 - `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐1
 - `+` [Vibha-Ramprakash/jev-marketing-playbook](https://github.com/Vibha-Ramprakash/jev-marketing-playbook) — inferred / other — ⭐0
+
+## 2026-11-28T21:56:09+08:00
+- 收录总数 **788**；本次更新新增 **4**
+- `+` [mmornati/system-one-router](https://github.com/mmornati/system-one-router) — unverified / community-sdk — ⭐5
+- `+` [AronAxe/GraphPaper](https://github.com/AronAxe/GraphPaper) — inferred / community-sdk — ⭐3
+- `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
+- `+` [STAIxBWLB/agent-decide](https://github.com/STAIxBWLB/agent-decide) — observed / agent-tooling — ⭐0
