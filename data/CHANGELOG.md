@@ -10354,3 +10354,15 @@
 - `+` [AronAxe/GraphPaper](https://github.com/AronAxe/GraphPaper) — inferred / community-sdk — ⭐3
 - `+` [duyet/aidr](https://github.com/duyet/aidr) — inferred / routing-guardrails — ⭐3
 - `+` [STAIxBWLB/agent-decide](https://github.com/STAIxBWLB/agent-decide) — observed / agent-tooling — ⭐0
+
+## 2026-11-29T00:02:07+08:00
+- 收录总数 **793**；本次更新新增 **9**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [junkaleb-hash/jev-omp](https://github.com/junkaleb-hash/jev-omp) — inferred / agent-tooling — ⭐0
