@@ -10339,3 +10339,11 @@
 - `+` [royharden/jev-decision-game](https://github.com/royharden/jev-decision-game) — inferred / agent-tooling — ⭐0
 - `+` [turgutino/jev](https://github.com/turgutino/jev) — inferred / evaluation — ⭐0
 - `+` [royharden/recruiter-jev-reranker](https://github.com/royharden/recruiter-jev-reranker) — inferred / evaluation — ⭐0
+
+## 2026-11-28T19:50:32+08:00
+- 收录总数 **793**；本次更新新增 **5**
+- `+` [zhihz/openjev](https://github.com/zhihz/openjev) — unverified / research-models — ⭐37
+- `+` [Sivasuthan9/fovea](https://github.com/Sivasuthan9/fovea) — inferred / other — ⭐20
+- `+` [rwjdk/jev-dotnet](https://github.com/rwjdk/jev-dotnet) — inferred / other — ⭐2
+- `+` [khs0927/jev-browser-control-plane](https://github.com/khs0927/jev-browser-control-plane) — inferred / research-models — ⭐1
+- `+` [Vibha-Ramprakash/jev-marketing-playbook](https://github.com/Vibha-Ramprakash/jev-marketing-playbook) — inferred / other — ⭐0
