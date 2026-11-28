@@ -10281,3 +10281,32 @@
 - 收录总数 **778**；本次更新新增 **2**
 - `+` [developmentseed/stac-zap](https://github.com/developmentseed/stac-zap) — unverified / apps-demos — ⭐10
 - `+` [Howardyh/gemini-codex-jev](https://github.com/Howardyh/gemini-codex-jev) — inferred / community-sdk — ⭐1
+
+## 2026-11-28T11:21:15+08:00
+- 收录总数 **800**；本次更新新增 **54**
+- `+` [Typesafe AI raises $870M at $7.5B](https://news.ycombinator.com/item?id=50023450) — observed / media-discussions — ⭐446
+- `+` [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://news.ycombinator.com/item?id=50095353) — observed / media-discussions — ⭐335
+- `+` [onlyreadai/onlyread](https://github.com/onlyreadai/onlyread) — inferred / agent-tooling — ⭐105
+- `+` [shiftynick/jev-axi](https://github.com/shiftynick/jev-axi) — inferred / community-sdk — ⭐49
+- `+` [Document Review with Unsiloed and TypeSafe Jev](https://news.ycombinator.com/item?id=50068443) — observed / media-discussions — ⭐48
+- `+` [teo-nex/jev-codex-harness](https://github.com/teo-nex/jev-codex-harness) — inferred / agent-tooling — ⭐25
+- `+` [mas-bandwidth/nova-sprint](https://github.com/mas-bandwidth/nova-sprint) — inferred / agent-tooling — ⭐23
+- `+` [gudcks/jev-java](https://github.com/gudcks/jev-java) — inferred / community-sdk — ⭐6
+- `+` [TypeSafe started the decision-model category;OpenAI and AWS did it in 3 weeks](https://news.ycombinator.com/item?id=50003920) — observed / media-discussions — ⭐5
+- `+` [andletenkov/decisium](https://github.com/andletenkov/decisium) — inferred / apps-demos — ⭐4
+- `+` [cobusgreyling/decision-model-cookbook](https://github.com/cobusgreyling/decision-model-cookbook) — inferred / routing-guardrails — ⭐4
+- `+` [KantaHayashiAI/jev-does-not-play-dice](https://github.com/KantaHayashiAI/jev-does-not-play-dice) — inferred / evaluation — ⭐4
+- `+` [FrancoisChastel/skill-scanner](https://github.com/FrancoisChastel/skill-scanner) — inferred / community-sdk — ⭐4
+- `+` [Show HN: jev-bisect – Find answers with Jev via bisection search](https://news.ycombinator.com/item?id=50010094) — observed / media-discussions — ⭐4
+- `+` [soderlind/jev-comment-triage](https://github.com/soderlind/jev-comment-triage) — inferred / agent-tooling — ⭐3
+- `+` [neuronection/desktop-assistant](https://github.com/neuronection/desktop-assistant) — inferred / community-sdk — ⭐3
+- `+` [Jeyzma is TypeSafeAI minus $850M plus Go/TinyGo/llama.cpp in the browser](https://news.ycombinator.com/item?id=50031093) — observed / media-discussions — ⭐3
+- `+` [fabric-runtime/jev-fabric](https://github.com/fabric-runtime/jev-fabric) — inferred / community-sdk — ⭐2
+- `+` [int-wc/src-guard-jev](https://github.com/int-wc/src-guard-jev) — inferred / other — ⭐2
+- `+` [imrishit98/jev.aitools.fyi](https://github.com/imrishit98/jev.aitools.fyi) — inferred / media-discussions — ⭐2
+- `+` [JEV: Type Safe AI](https://news.ycombinator.com/item?id=50106296) — observed / media-discussions — ⭐2
+- `+` [Show HN: We Beat TypeSafe Jev and Released Open-Source Decision Model](https://news.ycombinator.com/item?id=50027132) — observed / media-discussions — ⭐2
+- `+` [bitranox/btx-skill-jev-judge](https://github.com/bitranox/btx-skill-jev-judge) — inferred / community-sdk — ⭐1
+- `+` [JiaWeiXie/decision-enhanced-plugin](https://github.com/JiaWeiXie/decision-enhanced-plugin) — observed / agent-tooling — ⭐1
+- `+` [kitepon/jev-bookmarks](https://github.com/kitepon/jev-bookmarks) — inferred / community-sdk — ⭐1
+- …另有 29 条新增
